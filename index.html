@@ -1,0 +1,510 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>لوحة المتابعة</title>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#f5f3ef;--bg2:#edeae4;--w:#fff;--ink:#1a1814;--ink2:#4a4640;--ink3:#9a948e;--line:rgba(26,24,20,0.09);--tech:#2d5be3;--books:#c97b22;--doc:#1e8c5a;--fb:#1877f2;--rd:12px;--rds:7px;--sh:0 2px 20px rgba(26,24,20,0.07),0 1px 4px rgba(26,24,20,0.05);--shh:0 8px 40px rgba(26,24,20,0.13)}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--bg);color:var(--ink);font-family:"IBM Plex Sans Arabic",sans-serif;padding-bottom:80px}
+header{background:var(--w);border-bottom:1px solid var(--line);padding:0 44px;display:flex;align-items:center;height:68px;gap:18px;position:sticky;top:0;z-index:200;box-shadow:0 4px 24px rgba(26,24,20,0.04)}
+.pulse{width:10px;height:10px;background:var(--tech);border-radius:50%;animation:pulse 2.5s ease-in-out infinite;flex-shrink:0}
+@keyframes pulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.4;transform:scale(.65)}}
+header h1{font-size:1.18rem;font-weight:700}
+.sep{width:1px;height:26px;background:var(--line)}
+.sub{font-size:.74rem;color:var(--ink3)}
+.hbtns{margin-right:auto;display:flex;align-items:center;gap:8px}
+.rbtn{background:transparent;border:1px solid var(--line);color:var(--ink2);padding:6px 14px;border-radius:var(--rds);cursor:pointer;font-size:.77rem;font-family:inherit;display:flex;align-items:center;gap:6px;transition:all .2s}
+.rbtn:hover{border-color:var(--tech);color:var(--tech);background:rgba(45,91,227,.05)}
+.add-btn{background:var(--tech);color:#fff;border:none;padding:6px 14px;border-radius:var(--rds);cursor:pointer;font-size:.77rem;font-family:inherit;display:flex;align-items:center;gap:6px;transition:opacity .2s}
+.add-btn:hover{opacity:.85}
+@keyframes spin{to{transform:rotate(360deg)}}
+.spinning{animation:spin .8s linear infinite;display:inline-block}
+.dl-bar{text-align:center;padding:10px;background:rgba(45,91,227,.06);border-bottom:1px solid rgba(45,91,227,.12)}
+.dl-btn{display:inline-flex;align-items:center;gap:7px;padding:7px 18px;background:var(--tech);color:#fff;border:none;border-radius:var(--rds);cursor:pointer;font-size:.8rem;font-family:inherit;font-weight:600;transition:opacity .2s}
+.dl-btn:hover{opacity:.85}
+main{max-width:1400px;margin:0 auto;padding:28px 22px 0}
+.two-col{display:grid;grid-template-columns:1fr 1fr;gap:22px;align-items:start}
+.col{display:flex;flex-direction:column;gap:22px}
+.section{background:var(--w);border-radius:var(--rd);box-shadow:var(--sh);border:1px solid var(--line);overflow:hidden;transition:box-shadow .3s}
+.section:hover{box-shadow:var(--shh)}
+.sh{padding:16px 20px 14px;border-bottom:1px solid var(--line);display:flex;align-items:center;gap:10px}
+.badge{display:inline-flex;align-items:center;gap:6px;padding:4px 11px;border-radius:30px;font-size:.7rem;font-weight:600;white-space:nowrap}
+.bt{background:rgba(45,91,227,.08);color:var(--tech);border:1px solid rgba(45,91,227,.15)}
+.bb{background:rgba(201,123,34,.08);color:var(--books);border:1px solid rgba(201,123,34,.15)}
+.bd{background:rgba(30,140,90,.08);color:var(--doc);border:1px solid rgba(30,140,90,.15)}
+.bc{background:rgba(139,92,246,.08);color:#7c3aed;border:1px solid rgba(139,92,246,.15)}
+.stitle{font-size:.97rem;font-weight:700}
+.scount{font-size:.68rem;color:var(--ink3);margin-top:1px}
+.rtag{font-size:.63rem;padding:2px 7px;border-radius:4px;background:rgba(45,91,227,.07);color:var(--tech);font-weight:600;border:1px solid rgba(45,91,227,.12);letter-spacing:.5px;white-space:nowrap}
+.sec-add{background:transparent;border:1px dashed var(--line);color:var(--ink3);padding:3px 10px;border-radius:var(--rds);cursor:pointer;font-size:.68rem;font-family:inherit;display:flex;align-items:center;gap:4px;transition:all .2s;margin-right:auto}
+.sec-add:hover{border-color:var(--tech);color:var(--tech)}
+.ch-row{display:grid;grid-template-columns:200px 1fr;border-bottom:1px solid var(--line);transition:background .18s;animation:fadeUp .35s ease both}
+.ch-row:last-child{border-bottom:none}
+.ch-row:hover{background:#faf9f7}
+@keyframes fadeUp{from{opacity:0;transform:translateY(7px)}to{opacity:1;transform:translateY(0)}}
+.ch-info{padding:14px 14px 14px 18px;border-left:1px solid var(--line);display:flex;flex-direction:column;justify-content:center;gap:8px}
+.ch-top{display:flex;align-items:center;gap:9px}
+.av{width:34px;height:34px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:15px;flex-shrink:0;overflow:hidden;background:var(--bg2)}
+.av img{width:100%;height:100%;object-fit:cover;border-radius:50%}
+.ch-name{font-size:.84rem;font-weight:600}
+.ch-handle{font-size:.67rem;color:var(--ink3)}
+.ch-actions{display:flex;align-items:center;gap:6px}
+.ch-lnk{display:inline-flex;align-items:center;gap:4px;font-size:.68rem;color:var(--ink3);text-decoration:none;padding:3px 8px;border:1px solid var(--line);border-radius:5px;transition:all .18s}
+.ch-lnk:hover{color:var(--tech);border-color:rgba(45,91,227,.3);background:rgba(45,91,227,.04)}
+.ch-refresh{display:inline-flex;align-items:center;font-size:.75rem;color:var(--ink3);background:transparent;border:1px solid var(--line);border-radius:5px;padding:3px 8px;cursor:pointer;font-family:inherit;transition:all .18s}
+.ch-refresh:hover{color:var(--tech);border-color:rgba(45,91,227,.3);background:rgba(45,91,227,.04)}
+.ch-del{display:inline-flex;align-items:center;font-size:.68rem;color:var(--ink3);background:transparent;border:1px solid var(--line);border-radius:5px;padding:3px 7px;cursor:pointer;font-family:inherit;transition:all .18s}
+.ch-del:hover{color:#e53e3e;border-color:rgba(229,62,62,.3);background:rgba(229,62,62,.04)}
+.ch-vids{padding:10px 13px;display:flex;flex-direction:column;gap:5px;justify-content:center}
+.vr{display:flex;gap:9px;align-items:center;text-decoration:none;color:var(--ink);padding:6px 7px;border-radius:var(--rds);transition:background .18s}
+.vr:hover{background:var(--bg2)}
+.vth{width:72px;height:41px;border-radius:5px;object-fit:cover;flex-shrink:0;background:var(--bg2)}
+.vph{width:72px;height:41px;border-radius:5px;background:var(--bg2);flex-shrink:0;display:flex;align-items:center;justify-content:center;color:var(--ink3);font-size:16px}
+.vtx{font-size:.73rem;font-weight:500;line-height:1.4;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.vdt{font-size:.63rem;color:var(--ink3);margin-top:2px}
+.vids-empty{font-size:.72rem;color:var(--ink3);padding:14px 8px;text-align:center}
+.state{padding:16px;text-align:center;color:var(--ink3);font-size:.78rem;display:flex;align-items:center;justify-content:center;gap:10px}
+.stsp{width:16px;height:16px;border:2px solid var(--bg2);border-top-color:var(--tech);border-radius:50%;animation:spin .8s linear infinite}
+.full-row{margin-top:22px}
+.social-grid{display:grid;grid-template-columns:1fr 1fr;gap:16px;padding:16px}
+.scard{background:var(--bg);border-radius:var(--rd);border:1px solid var(--line);overflow:hidden;transition:box-shadow .3s,transform .25s}
+.scard:hover{box-shadow:var(--shh);transform:translateY(-2px)}
+.scard-head{padding:13px 16px;border-bottom:1px solid var(--line);display:flex;align-items:center;gap:8px;font-weight:600;font-size:.84rem}
+.sdot{width:7px;height:7px;border-radius:50%;flex-shrink:0}
+.dx{background:#000}.dfb{background:var(--fb)}
+.sbody{padding:22px 18px;display:flex;flex-direction:column;align-items:center;gap:11px;text-align:center}
+.sav{width:58px;height:58px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:24px;font-weight:900;color:#fff}
+.sx{background:#000}.sfb{background:var(--fb)}
+.sname{font-size:.9rem;font-weight:700}
+.shandle{font-size:.69rem;color:var(--ink3)}
+.sdesc{font-size:.75rem;color:var(--ink2);line-height:1.65;max-width:240px}
+.sbtn{display:inline-flex;align-items:center;gap:7px;padding:8px 18px;border-radius:var(--rds);font-size:.79rem;font-weight:600;text-decoration:none;color:#fff;font-family:inherit;transition:opacity .2s,transform .2s;box-shadow:0 2px 8px rgba(0,0,0,0.13)}
+.sbtn:hover{opacity:.87;transform:translateY(-1px)}
+.sbx{background:#111}.sbfb{background:var(--fb)}
+.snote{font-size:.66rem;color:var(--ink3);padding:8px 13px;border-top:1px solid var(--line);text-align:center;background:var(--bg)}
+.overlay{position:fixed;inset:0;background:rgba(26,24,20,0.5);z-index:1000;display:none;align-items:center;justify-content:center;padding:20px;backdrop-filter:blur(3px)}
+.overlay.open{display:flex}
+.modal{background:var(--w);border-radius:var(--rd);box-shadow:0 20px 60px rgba(26,24,20,0.2);width:100%;max-width:500px;overflow:hidden;animation:modalIn .25s ease}
+@keyframes modalIn{from{opacity:0;transform:translateY(-16px)}to{opacity:1;transform:translateY(0)}}
+.modal-head{padding:18px 22px;border-bottom:1px solid var(--line);display:flex;align-items:center;justify-content:space-between}
+.modal-head h2{font-size:1rem;font-weight:700}
+.modal-close{background:transparent;border:none;cursor:pointer;font-size:1.2rem;color:var(--ink3);padding:2px 6px;border-radius:5px;transition:background .15s}
+.modal-close:hover{background:var(--bg2)}
+.modal-body{padding:22px}
+.field{display:flex;flex-direction:column;gap:6px;margin-bottom:16px}
+.field label{font-size:.78rem;font-weight:600;color:var(--ink2)}
+.field input,.field select{padding:9px 13px;border:1px solid var(--line);border-radius:var(--rds);font-family:inherit;font-size:.83rem;background:var(--bg);color:var(--ink);outline:none;transition:border-color .18s}
+.field input:focus,.field select:focus{border-color:var(--tech)}
+.field .hint{font-size:.68rem;color:var(--ink3);line-height:1.5}
+.modal-foot{padding:16px 22px;border-top:1px solid var(--line);display:flex;gap:10px;justify-content:flex-end}
+.btn-cancel{padding:8px 18px;background:transparent;border:1px solid var(--line);border-radius:var(--rds);cursor:pointer;font-size:.82rem;font-family:inherit;color:var(--ink2);transition:background .15s}
+.btn-cancel:hover{background:var(--bg2)}
+.btn-save{padding:8px 18px;background:var(--tech);border:none;border-radius:var(--rds);cursor:pointer;font-size:.82rem;font-family:inherit;color:#fff;font-weight:600;transition:opacity .2s}
+.btn-save:hover{opacity:.85}
+@media(max-width:1000px){.two-col{grid-template-columns:1fr}}
+@media(max-width:700px){.ch-row{grid-template-columns:1fr}.ch-info{border-left:none;border-bottom:1px solid var(--line)}.social-grid{grid-template-columns:1fr}}
+@media(max-width:600px){header{padding:0 13px;height:54px}main{padding:13px 10px 0}.sh{padding:12px 14px}}
+</style>
+</head>
+<body>
+<div class="dl-bar">
+  <button class="dl-btn" onclick="downloadPage()">⬇ تنزيل الصفحة (حفظ التعديلات)</button>
+</div>
+<header>
+  <div class="pulse"></div>
+  <h1>لوحة المتابعة</h1>
+  <div class="sep"></div>
+  <span class="sub">تحديث عبر RSS</span>
+  <div class="hbtns">
+    <button class="rbtn" onclick="loadAll()"><span id="ri">↻</span> تحديث الكل</button>
+    <button class="add-btn" onclick="openAddSection()">＋ قسم جديد</button>
+  </div>
+</header>
+
+<main>
+  <div class="two-col">
+    <div class="col" id="colA"></div>
+    <div class="col" id="colB"></div>
+  </div>
+  <div class="full-row">
+    <div class="section">
+      <div class="sh">
+        <span class="badge" style="background:rgba(0,0,0,.07);color:#333;border:1px solid rgba(0,0,0,.1)">🌐 تواصل</span>
+        <div><div class="stitle">وسائل التواصل الاجتماعي</div><div class="scount">روابط مباشرة</div></div>
+      </div>
+      <div class="social-grid">
+        <div class="scard">
+          <div class="scard-head"><div class="sdot dx"></div> تويتر / X <span style="font-size:.67rem;color:var(--ink3);margin-right:auto;font-weight:400">@ArtificialAnlys</span></div>
+          <div class="sbody">
+            <div class="sav sx" style="font-size:26px;letter-spacing:-1px">𝕏</div>
+            <div><div class="sname">Artificial Analysis</div><div class="shandle">@ArtificialAnlys</div></div>
+            <div class="sdesc">تحليلات مستقلة ومقارنات معمّقة لنماذج الذكاء الاصطناعي.</div>
+            <a href="https://x.com/ArtificialAnlys" target="_blank" class="sbtn sbx">𝕏 &nbsp;فتح الحساب على X</a>
+          </div>
+          <div class="snote">⚠️ منصة X لا تتيح التضمين مجاناً — الزر يفتح الحساب مباشرة</div>
+        </div>
+        <div class="scard">
+          <div class="scard-head"><div class="sdot dfb"></div> فيسبوك <span style="font-size:.67rem;color:var(--ink3);margin-right:auto;font-weight:400">bramjcomputer</span></div>
+          <div class="sbody">
+            <div class="sav sfb" style="font-size:28px;font-weight:800">f</div>
+            <div><div class="sname">برمج كمبيوتر</div><div class="shandle">bramjcomputer</div></div>
+            <div class="sdesc">شروحات برمجية ودروس تقنية بالعربية — للمبتدئين والمحترفين.</div>
+            <a href="https://www.facebook.com/bramjcomputer?locale=ar_AR" target="_blank" class="sbtn sbfb">f &nbsp;فتح الصفحة على فيسبوك</a>
+          </div>
+          <div class="snote">⚠️ فيسبوك يمنع التضمين الخارجي — الزر يفتح الصفحة مباشرة</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
+
+<!-- مودال إضافة قناة -->
+<div class="overlay" id="addModal">
+  <div class="modal">
+    <div class="modal-head">
+      <h2>➕ إضافة قناة يوتيوب</h2>
+      <button class="modal-close" onclick="closeModal()">✕</button>
+    </div>
+    <div class="modal-body">
+      <div class="field">
+        <label>القسم</label>
+        <select id="f-section"></select>
+      </div>
+      <div class="field">
+        <label>اسم القناة</label>
+        <input type="text" id="f-name" placeholder="مثال: بايثون عربي">
+      </div>
+      <div class="field">
+        <label>Handle (بدون @)</label>
+        <input type="text" id="f-handle" placeholder="مثال: PythonArab">
+        <span class="hint">الجزء بعد @ في رابط القناة</span>
+      </div>
+      <div class="field">
+        <label>Channel ID</label>
+        <input type="text" id="f-id" placeholder="UCxxxxxxxxxxxxxxxxxxxxxx">
+        <span class="hint">ابحث عنه في مصدر الصفحة بكلمة channelId</span>
+      </div>
+      <div class="field">
+        <label>إيموجي (اختياري)</label>
+        <input type="text" id="f-emoji" placeholder="🐍" maxlength="4">
+      </div>
+    </div>
+    <div class="modal-foot">
+      <button class="btn-cancel" onclick="closeModal()">إلغاء</button>
+      <button class="btn-save" onclick="saveChannel()">✓ حفظ</button>
+    </div>
+  </div>
+</div>
+
+<!-- مودال إضافة قسم -->
+<div class="overlay" id="addSecModal">
+  <div class="modal">
+    <div class="modal-head">
+      <h2>📂 قسم جديد</h2>
+      <button class="modal-close" onclick="closeSecModal()">✕</button>
+    </div>
+    <div class="modal-body">
+      <div class="field">
+        <label>اسم القسم</label>
+        <input type="text" id="fs-name" placeholder="مثال: عالم الرياضة">
+      </div>
+      <div class="field">
+        <label>إيموجي</label>
+        <input type="text" id="fs-emoji" placeholder="⚽" maxlength="4">
+      </div>
+      <div class="field">
+        <label>اللون</label>
+        <select id="fs-color">
+          <option value="bt">أزرق</option>
+          <option value="bb">برتقالي</option>
+          <option value="bd">أخضر</option>
+          <option value="bc">بنفسجي</option>
+        </select>
+      </div>
+    </div>
+    <div class="modal-foot">
+      <button class="btn-cancel" onclick="closeSecModal()">إلغاء</button>
+      <button class="btn-save" onclick="saveSection()">✓ إنشاء</button>
+    </div>
+  </div>
+</div>
+
+<script>
+var SECTIONS = [
+  {key:"tech",title:"عالم التقنية",emoji:"💻",badge:"bt",label:"تقنية",channels:[
+    {h:"dr_hebaahmed",                id:"UCMvdDpKRU_-ZmSz9F1lKOVA",n:"د. هبة أحمد",              e:"💻"},
+    {h:"every_day_a_new_website",     id:"UC2jjW7c63dqOPkfMm3P-u3w",n:"موقع كل يوم",              e:"🌐"},
+    {h:"infotech4you_Marwasoliman",   id:"UCKD8vOz3maRPyLAbMXhr-Pw",n:"مروة سليمان",              e:"📱"},
+    {h:"AbdellatifSaidA",             id:"UCSRy-3lglM2QKJ_xF2zuPlQ",n:"عبداللطيف سعيد",           e:"☁️"},
+    {h:"AMRSALEM800",                 id:"UC81Ks7DR9JFgZc14nmZ07EA", n:"عمرو سالم",                e:"⚡"},
+    {h:"PythonArab",                  id:"UC9ocsRoOwj9tkAQNfUt8ZJg", n:"بايثون عربي",              e:"🐍"},
+    {h:"elzerowebschool",             id:"UCSNkfKl4cU-55Nm-ovsvOHQ", n:"Elzero Web School",        e:"🎓"},
+    {h:"ArabicArtificialIntelligence",id:"UCGrVvqu8PlVv0wPqA5kgY8A", n:"الذكاء الاصطناعي العربي", e:"🤖"},
+    {h:"MohamedAnsary",               id:"UCSXcmF4Gxl6Hc-m6cHYD_Vg", n:"محمد أنصاري",              e:"💡"}
+  ]},
+  {key:"books",title:"عالم الكتب",emoji:"📚",badge:"bb",label:"كتب",channels:[
+    {h:"KhairJaleesBook",id:"UC16aC4Jti6tYAi0LuXmu-9w",n:"خير جليس",    e:"📖"},
+    {h:"Jeelyaqraa",     id:"UCu1NJiJlhrhmF5ZgT-0yWdA",n:"جيل يقرأ",    e:"📚"},
+    {h:"a5drcom",        id:"UCtUor2SqesPS3b_SMFtLT_w", n:"أخضر",         e:"🌿"},
+    {h:"Sha5bata",       id:"UCUjRjJ1-h3oUx40gf2tuh3w", n:"شخبطة",        e:"✏️"},
+    {h:"AliMuhammadAli", id:"UChbuH4HULlesX_rzlozkT6Q", n:"علي محمد علي",e:"📝"},
+    {h:"Dupamicaffeine", id:"UCJlu6BjPWHZhzuCc0zVME0Q", n:"دوباميكافيين", e:"☕"}
+  ]},
+  {key:"doc",title:"الوثائقية",emoji:"🎥",badge:"bd",label:"وثائقي",channels:[
+    {h:"aljazeeradocumentary",id:"UC0LSnqrwqtMwl2YwfUpO66g",n:"الجزيرة الوثائقية",  e:"🎥"},
+    {h:"AsharqDoc",           id:"UCArK7aSQ68vRCiJY2m7spkA",n:"الشرق الوثائقية",    e:"🎞️"},
+    {h:"natgeoabudhabime",    id:"UCLiTe0aOHShx7hXGyqZ9UIw",n:"ناشيونال جيوغرافيك", e:"🌎"},
+    {h:"dwdocarabia",         id:"UCET6sWl4Xcu-U8Ka9PJPrwA",n:"DW عربية وثائقي",    e:"🗺️"}
+  ]}
+];
+
+// ── قراءة البيانات من feeds.json (يُحدَّث كل ساعة عبر GitHub Actions) ──
+var FEEDS_CACHE = null;
+
+async function loadFeedsJson() {
+  if (FEEDS_CACHE) return FEEDS_CACHE;
+  try {
+    var res = await fetch('data/feeds.json?t=' + Date.now());
+    FEEDS_CACHE = await res.json();
+    // عرض وقت آخر تحديث في الهيدر
+    if (FEEDS_CACHE.updated) {
+      var d = new Date(FEEDS_CACHE.updated);
+      var sub = document.querySelector('.sub');
+      if (sub) sub.textContent = 'آخر تحديث: ' + d.toLocaleString('ar-EG');
+    }
+    return FEEDS_CACHE;
+  } catch(e) { return null; }
+}
+
+async function getFeed(ch) {
+  var data = await loadFeedsJson();
+  if (!data || !data.channels) return null;
+  var ch_data = data.channels[ch.id];
+  if (!ch_data || !ch_data.items || !ch_data.items.length) return null;
+  return { feedTitle: ch_data.feedTitle, items: ch_data.items };
+}
+
+function ago(s) {
+  var df = Math.floor((Date.now() - new Date(s)) / 86400000);
+  if (df === 0) return 'اليوم';
+  if (df === 1) return 'أمس';
+  if (df < 7)   return 'منذ ' + df + ' أيام';
+  if (df < 30)  return 'منذ ' + Math.floor(df/7) + ' أسابيع';
+  if (df < 365) return 'منذ ' + Math.floor(df/30) + ' أشهر';
+  return 'منذ سنة+';
+}
+
+function buildVids(f) {
+  if (f && f.items && f.items.length) {
+    return f.items.map(function(it) {
+      var vid = (it.link.match(/v=([^&]+)/) || [])[1];
+      var th  = vid ? 'https://img.youtube.com/vi/' + vid + '/mqdefault.jpg' : '';
+      return '<a href="' + it.link + '" target="_blank" class="vr">'
+        + (th ? '<img class="vth" src="' + th + '" alt="" loading="lazy">' : '<div class="vph">▶</div>')
+        + '<div><div class="vtx">' + it.title + '</div><div class="vdt">' + ago(it.pubDate) + '</div></div></a>';
+    }).join('');
+  }
+  return '<p class="vids-empty">اضغط ↻ لتحميل الفيديوهات</p>';
+}
+
+// ── بناء الصفوف والأقسام ──
+function buildRow(ch, i, k) {
+  var rowId   = 'row-'  + k + '-' + ch.h;
+  var avId    = 'av-'   + k + '-' + ch.h;
+  var nmId    = 'nm-'   + k + '-' + ch.h;
+  var vidsId  = 'vids-' + k + '-' + ch.h;
+  var rfId    = 'rfbtn-'+ k + '-' + ch.h;
+  var url     = 'https://www.youtube.com/@' + ch.h;
+
+  var row = document.createElement('div');
+  row.className = 'ch-row';
+  row.id = rowId;
+  row.style.animationDelay = (i * 40) + 'ms';
+  row.innerHTML =
+    '<div class="ch-info">'
+    + '<div class="ch-top">'
+    + '<div class="av" id="' + avId + '">' + (ch.e || '📺') + '</div>'
+    + '<div><div class="ch-name" id="' + nmId + '">' + ch.n + '</div>'
+    + '<div class="ch-handle">@' + ch.h + '</div></div></div>'
+    + '<div class="ch-actions">'
+    + '<a href="' + url + '" target="_blank" class="ch-lnk">↗ زيارة القناة</a>'
+    + '<button class="ch-refresh" id="' + rfId + '">↻</button>'
+    + '<button class="ch-del">✕</button>'
+    + '</div></div>'
+    + '<div class="ch-vids" id="' + vidsId + '"><p class="vids-empty">اضغط ↻ لتحميل الفيديوهات</p></div>';
+
+  // ربط الأحداث بدون onclick strings
+  row.querySelector('.ch-refresh').addEventListener('click', function() { refreshChannel(k, ch.h); });
+  row.querySelector('.ch-del').addEventListener('click', function() { deleteChannel(k, ch.h); });
+  return row;
+}
+
+function buildCard(sec) {
+  var card = document.createElement('div');
+  card.className = 'section';
+  card.id = 'sec-' + sec.key;
+
+  var header = document.createElement('div');
+  header.className = 'sh';
+  header.innerHTML =
+    '<span class="badge ' + sec.badge + '">' + sec.emoji + ' ' + sec.label + '</span>'
+    + '<div><div class="stitle">' + sec.title + '</div>'
+    + '<div class="scount" id="cnt-' + sec.key + '">' + sec.channels.length + ' قنوات</div></div>'
+    + '<span class="rtag">RSS</span>';
+
+  var addBtn = document.createElement('button');
+  addBtn.className = 'sec-add';
+  addBtn.textContent = '＋ قناة';
+  addBtn.addEventListener('click', function() { openAddChannel(sec.key); });
+  header.appendChild(addBtn);
+  card.appendChild(header);
+
+  var list = document.createElement('div');
+  list.id = 'list-' + sec.key;
+  sec.channels.forEach(function(ch, i) { list.appendChild(buildRow(ch, i, sec.key)); });
+  card.appendChild(list);
+  return card;
+}
+
+function renderLayout() {
+  var colA = document.getElementById('colA');
+  var colB = document.getElementById('colB');
+  colA.innerHTML = '';
+  colB.innerHTML = '';
+  SECTIONS.forEach(function(sec, i) {
+    (i % 2 === 0 ? colA : colB).appendChild(buildCard(sec));
+  });
+}
+
+// ── تحديث قناة واحدة ──
+async function refreshChannel(k, h) {
+  var sec = SECTIONS.find(function(s) { return s.key === k; });
+  if (!sec) return;
+  var ch = sec.channels.find(function(c) { return c.h === h; });
+  if (!ch) return;
+
+  var btn    = document.getElementById('rfbtn-' + k + '-' + h);
+  var vidsEl = document.getElementById('vids-'  + k + '-' + h);
+  if (btn) btn.classList.add('spinning');
+  if (vidsEl) vidsEl.innerHTML = '<div class="state"><div class="stsp"></div> جارٍ القراءة…</div>';
+
+  var f = await getFeed(ch);
+
+  if (btn) btn.classList.remove('spinning');
+  if (f) {
+    var nmEl = document.getElementById('nm-' + k + '-' + h);
+    if (nmEl && f.feedTitle) nmEl.textContent = f.feedTitle;
+  }
+  if (vidsEl) vidsEl.innerHTML = buildVids(f);
+}
+
+// ── تحديث الكل تدريجياً ──
+async function loadAll() {
+  FEEDS_CACHE = null; // إعادة قراءة feeds.json
+  var ri = document.getElementById('ri');
+  ri.classList.add('spinning');
+  renderLayout();
+  for (var si = 0; si < SECTIONS.length; si++) {
+    var sec = SECTIONS[si];
+    for (var ci = 0; ci < sec.channels.length; ci++) {
+      refreshChannel(sec.key, sec.channels[ci].h);
+      await new Promise(function(r) { setTimeout(r, 300); });
+    }
+  }
+  ri.classList.remove('spinning');
+}
+
+// ── حذف قناة ──
+function deleteChannel(k, h) {
+  if (!confirm('هل تريد حذف هذه القناة؟')) return;
+  var sec = SECTIONS.find(function(s) { return s.key === k; });
+  if (!sec) return;
+  sec.channels = sec.channels.filter(function(c) { return c.h !== h; });
+  var row = document.getElementById('row-' + k + '-' + h);
+  if (row) { row.style.cssText = 'overflow:hidden;opacity:0;max-height:0;transition:all .3s'; }
+  setTimeout(function() {
+    if (row) row.remove();
+    var cnt = document.getElementById('cnt-' + k);
+    if (cnt) cnt.textContent = sec.channels.length + ' قنوات';
+  }, 320);
+}
+
+// ── مودال إضافة قناة ──
+function openAddChannel(k) {
+  var sel = document.getElementById('f-section');
+  sel.innerHTML = '';
+  SECTIONS.forEach(function(s) {
+    var o = document.createElement('option');
+    o.value = s.key;
+    o.textContent = s.emoji + ' ' + s.title;
+    if (s.key === k) o.selected = true;
+    sel.appendChild(o);
+  });
+  ['f-name','f-handle','f-id','f-emoji'].forEach(function(id) { document.getElementById(id).value = ''; });
+  document.getElementById('addModal').classList.add('open');
+}
+function closeModal() { document.getElementById('addModal').classList.remove('open'); }
+function saveChannel() {
+  var k      = document.getElementById('f-section').value;
+  var name   = document.getElementById('f-name').value.trim();
+  var handle = document.getElementById('f-handle').value.trim().replace(/^@/, '');
+  var id     = document.getElementById('f-id').value.trim();
+  var emoji  = document.getElementById('f-emoji').value.trim() || '📺';
+  if (!name || !handle) { alert('يرجى إدخال الاسم والـ Handle'); return; }
+  var sec = SECTIONS.find(function(s) { return s.key === k; });
+  if (!sec) return;
+  if (sec.channels.find(function(c) { return c.h === handle; })) { alert('هذه القناة موجودة بالفعل'); return; }
+  var ch = { h: handle, id: id, n: name, e: emoji };
+  sec.channels.push(ch);
+  closeModal();
+  var list = document.getElementById('list-' + k);
+  if (list) list.appendChild(buildRow(ch, sec.channels.length - 1, k));
+  var cnt = document.getElementById('cnt-' + k);
+  if (cnt) cnt.textContent = sec.channels.length + ' قنوات';
+}
+
+// ── مودال إضافة قسم ──
+function openAddSection() {
+  ['fs-name','fs-emoji'].forEach(function(id) { document.getElementById(id).value = ''; });
+  document.getElementById('addSecModal').classList.add('open');
+}
+function closeSecModal() { document.getElementById('addSecModal').classList.remove('open'); }
+function saveSection() {
+  var name  = document.getElementById('fs-name').value.trim();
+  var emoji = document.getElementById('fs-emoji').value.trim() || '📁';
+  var badge = document.getElementById('fs-color').value;
+  if (!name) { alert('يرجى إدخال اسم القسم'); return; }
+  var key = 'sec_' + Date.now();
+  SECTIONS.push({ key: key, title: name, emoji: emoji, badge: badge, label: name, channels: [] });
+  closeSecModal();
+  var colA = document.getElementById('colA');
+  var colB = document.getElementById('colB');
+  var idx  = SECTIONS.length - 1;
+  (idx % 2 === 0 ? colA : colB).appendChild(buildCard(SECTIONS[idx]));
+  setTimeout(function() {
+    var ns = document.getElementById('sec-' + key);
+    if (ns) ns.scrollIntoView({ behavior: 'smooth', block: 'center' });
+  }, 100);
+}
+
+// ── تنزيل ──
+function downloadPage() {
+  var html = document.documentElement.outerHTML;
+  html = html.replace(/var SECTIONS = \[[\s\S]*?\];/, 'var SECTIONS = ' + JSON.stringify(SECTIONS) + ';');
+  var blob = new Blob([html], { type: 'text/html;charset=utf-8' });
+  var a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = 'dashboard.html';
+  a.click();
+}
+
+document.getElementById('addModal').addEventListener('click', function(e) { if (e.target === this) closeModal(); });
+document.getElementById('addSecModal').addEventListener('click', function(e) { if (e.target === this) closeSecModal(); });
+
+renderLayout();
+</script>
+</body>
+</html>
