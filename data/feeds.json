@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-04T16:28:46.789749+00:00",
+  "updated": "2026-03-04T17:29:25.034312+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -397,6 +397,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "أحمد الطيب العلج.. موليير المغرب وصوت المسرح الشعبي",
+          "link": "https://www.youtube.com/watch?v=xKSbUS8e7nc",
+          "videoId": "xKSbUS8e7nc",
+          "pubDate": "2026-03-04T17:15:05+00:00"
+        },
+        {
           "title": "مسيرة الشيخ عبد الحميد احساين مع تعليم القرآن الكريم في المغرب",
           "link": "https://www.youtube.com/watch?v=-d_uehpE3NA",
           "videoId": "-d_uehpE3NA",
@@ -407,12 +413,6 @@
           "link": "https://www.youtube.com/watch?v=G9Of4FTKk8w",
           "videoId": "G9Of4FTKk8w",
           "pubDate": "2026-03-03T09:08:26+00:00"
-        },
-        {
-          "title": "ياسر عرفات 1982: \"يريدون مواصلة الإبادة الجماعية والمجازر\"",
-          "link": "https://www.youtube.com/watch?v=T4b_Xcla5AI",
-          "videoId": "T4b_Xcla5AI",
-          "pubDate": "2026-03-02T20:10:10+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "وثائقي | إفريقيا - بؤرة صراع الولايات المتحدة والاتحاد السوفييتي | وثائقية دي دبليو",
+          "link": "https://www.youtube.com/watch?v=mFyIoFP8Oec",
+          "videoId": "mFyIoFP8Oec",
+          "pubDate": "2026-03-04T17:01:14+00:00"
+        },
+        {
           "title": "#وثائقي مقبرة للمهاجرين بتمويل أوروبي",
           "link": "https://www.youtube.com/watch?v=42-ZKL3vHl0",
           "videoId": "42-ZKL3vHl0",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=Na9mrGnn8ZI",
           "videoId": "Na9mrGnn8ZI",
           "pubDate": "2026-03-03T17:00:37+00:00"
-        },
-        {
-          "title": "وثائقي | مصير الثيران: من عجول غير مرغوب فيها إلى مُنقذي جبال الألب | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=LNqLgpxbvE0",
-          "videoId": "LNqLgpxbvE0",
-          "pubDate": "2026-03-02T17:00:35+00:00"
         }
       ],
       "ok": true
