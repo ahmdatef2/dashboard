@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-05T15:38:13.767862+00:00",
+  "updated": "2026-03-05T17:50:52.357793+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -111,6 +111,12 @@
       "feedTitle": "AMR SALEM _ عمرو سالم",
       "items": [
         {
+          "title": "أهمية Agent Skills في Antigravity | السر الحقيقي لبناء تطبيقات قوية بالذكاء الاصطناعي",
+          "link": "https://www.youtube.com/watch?v=c3RWBcQw3D8",
+          "videoId": "c3RWBcQw3D8",
+          "pubDate": "2026-03-05T17:01:02+00:00"
+        },
+        {
           "title": "جوجل تطلق اسرع نموذج في العالم  . gemini 3.1 flash lite",
           "link": "https://www.youtube.com/watch?v=ng06FIDtMDk",
           "videoId": "ng06FIDtMDk",
@@ -121,12 +127,6 @@
           "link": "https://www.youtube.com/watch?v=DvcvjwfETAs",
           "videoId": "DvcvjwfETAs",
           "pubDate": "2026-03-03T14:05:55+00:00"
-        },
-        {
-          "title": "تحديثات Google Opal لعمل تطبيقات احترافية . كل حاجة بقت سهلة",
-          "link": "https://www.youtube.com/watch?v=h7iumc8y_KI",
-          "videoId": "h7iumc8y_KI",
-          "pubDate": "2026-02-28T10:35:05+00:00"
         }
       ],
       "ok": true
@@ -397,6 +397,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "التوربينات الإسرائيلية تهدد زراعة التفاح والكرز في الجولان المحتل",
+          "link": "https://www.youtube.com/watch?v=oVpxItM-pXI",
+          "videoId": "oVpxItM-pXI",
+          "pubDate": "2026-03-05T16:00:01+00:00"
+        },
+        {
           "title": "أحمد الطيب العلج.. موليير المغرب وصوت المسرح الشعبي",
           "link": "https://www.youtube.com/watch?v=xKSbUS8e7nc",
           "videoId": "xKSbUS8e7nc",
@@ -407,12 +413,6 @@
           "link": "https://www.youtube.com/watch?v=-d_uehpE3NA",
           "videoId": "-d_uehpE3NA",
           "pubDate": "2026-03-03T18:30:01+00:00"
-        },
-        {
-          "title": "وداع جماهيري للمقاومة الفلسطينية خلال خروجها من لبنان عام 1982",
-          "link": "https://www.youtube.com/watch?v=G9Of4FTKk8w",
-          "videoId": "G9Of4FTKk8w",
-          "pubDate": "2026-03-03T09:08:26+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "وثائقي | سطوة العصابات في هايتي ـ تحالف المجرمين | وثائقية دي دبليو",
+          "link": "https://www.youtube.com/watch?v=U1_QCyjbhac",
+          "videoId": "U1_QCyjbhac",
+          "pubDate": "2026-03-05T17:00:53+00:00"
+        },
+        {
           "title": "وثائقي | إفريقيا - بؤرة صراع الولايات المتحدة والاتحاد السوفييتي | وثائقية دي دبليو",
           "link": "https://www.youtube.com/watch?v=mFyIoFP8Oec",
           "videoId": "mFyIoFP8Oec",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=42-ZKL3vHl0",
           "videoId": "42-ZKL3vHl0",
           "pubDate": "2026-03-04T11:09:27+00:00"
-        },
-        {
-          "title": "ريبورتاج | الحياة بعد تشخيص الغلوكوما | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=Na9mrGnn8ZI",
-          "videoId": "Na9mrGnn8ZI",
-          "pubDate": "2026-03-03T17:00:37+00:00"
         }
       ],
       "ok": true
