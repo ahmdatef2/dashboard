@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-05T19:04:22.960833+00:00",
+  "updated": "2026-03-05T20:25:52.807780+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -241,6 +241,12 @@
       "feedTitle": "خير جليس",
       "items": [
         {
+          "title": "الخوف معلومة وليس خطرًا - من كتاب الثقة التامة بالنفس",
+          "link": "https://www.youtube.com/watch?v=IvO8cfJGoNw",
+          "videoId": "IvO8cfJGoNw",
+          "pubDate": "2026-03-05T20:00:16+00:00"
+        },
+        {
           "title": "الإيمان يسبق الدليل - من كتاب الثقة التامة بالنفس",
           "link": "https://www.youtube.com/watch?v=U9eLGGBGDOc",
           "videoId": "U9eLGGBGDOc",
@@ -251,12 +257,6 @@
           "link": "https://www.youtube.com/watch?v=34BRqVqWKbw",
           "videoId": "34BRqVqWKbw",
           "pubDate": "2026-03-03T06:00:02+00:00"
-        },
-        {
-          "title": "الطيبة تصبح أقوى مع الحدود  - من كتاب لا تكن لطيفا أكثر من اللازم",
-          "link": "https://www.youtube.com/watch?v=bItpSkkBWek",
-          "videoId": "bItpSkkBWek",
-          "pubDate": "2026-03-02T09:20:35+00:00"
         }
       ],
       "ok": true
