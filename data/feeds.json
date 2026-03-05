@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-05T13:53:05.723429+00:00",
+  "updated": "2026-03-05T14:35:59.522058+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -85,6 +85,12 @@
       "feedTitle": "عبداللطيف سعيد Abdellatif Said",
       "items": [
         {
+          "title": "هل ظهر منافس حقيقي لـ Nano Banana Pro؟ تجربة نموذج Soul 2.0 الجديد والنتيجة صدمة!",
+          "link": "https://www.youtube.com/watch?v=oFMXfKK8Gtc",
+          "videoId": "oFMXfKK8Gtc",
+          "pubDate": "2026-03-05T14:15:11+00:00"
+        },
+        {
           "title": "كارثة ChatGPT.. إزاي البنتاجون بيستخدم بياناتك وليه ترامب طرد Claude؟",
           "link": "https://www.youtube.com/watch?v=7JbiRGsJn44",
           "videoId": "7JbiRGsJn44",
@@ -95,12 +101,6 @@
           "link": "https://www.youtube.com/watch?v=YNh0pixnq-8",
           "videoId": "YNh0pixnq-8",
           "pubDate": "2026-02-27T14:15:06+00:00"
-        },
-        {
-          "title": "مدرسك الخصوصي المجاني بالذكاء الاصطناعي! | الدليل الشامل لشرح أداة NotebookLM من جوجل",
-          "link": "https://www.youtube.com/watch?v=_Wq7DHWISPQ",
-          "videoId": "_Wq7DHWISPQ",
-          "pubDate": "2026-02-26T14:15:11+00:00"
         }
       ],
       "ok": true
@@ -423,6 +423,12 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "هل كان النهب مسموحًا قديمًا؟",
+          "link": "https://www.youtube.com/watch?v=q80wPFypFuA",
+          "videoId": "q80wPFypFuA",
+          "pubDate": "2026-03-05T14:01:18+00:00"
+        },
+        {
           "title": "المنافسة والبيئة داخل ريال مدريد",
           "link": "https://www.youtube.com/watch?v=LdUoTdIFn_g",
           "videoId": "LdUoTdIFn_g",
@@ -433,12 +439,6 @@
           "link": "https://www.youtube.com/watch?v=W50A_AKHupI",
           "videoId": "W50A_AKHupI",
           "pubDate": "2026-03-04T19:00:35+00:00"
-        },
-        {
-          "title": "أين تُحفظ 100 قطعة من المجوهرات الملكية؟",
-          "link": "https://www.youtube.com/watch?v=bbc6Zswlms0",
-          "videoId": "bbc6Zswlms0",
-          "pubDate": "2026-03-04T15:01:07+00:00"
         }
       ],
       "ok": true
