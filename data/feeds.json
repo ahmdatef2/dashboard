@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-05T11:24:24.327336+00:00",
+  "updated": "2026-03-05T12:31:21.858867+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -316,28 +316,9 @@
     "UCUjRjJ1-h3oUx40gf2tuh3w": {
       "handle": "Sha5bata",
       "name": "شخبطة",
-      "feedTitle": "شخبطة Sha5bata",
-      "items": [
-        {
-          "title": "30 رسالة عشان تحب الصلاة.. الرسالة 5",
-          "link": "https://www.youtube.com/watch?v=XhtqZm56Pss",
-          "videoId": "XhtqZm56Pss",
-          "pubDate": "2026-02-27T13:21:19+00:00"
-        },
-        {
-          "title": "كيف تُنظم وقتك مثل السلف الصالح .. ستتغير حياتك للأبد !",
-          "link": "https://www.youtube.com/watch?v=46h0sA5idsY",
-          "videoId": "46h0sA5idsY",
-          "pubDate": "2026-02-23T14:00:12+00:00"
-        },
-        {
-          "title": "تحدي 30 رسالة في 30 يوم عشان تحب الصلاة.. الرسالة ٤",
-          "link": "https://www.youtube.com/watch?v=3UYSdl0qbNU",
-          "videoId": "3UYSdl0qbNU",
-          "pubDate": "2026-02-20T11:00:07+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "شخبطة",
+      "items": [],
+      "ok": false
     },
     "UChbuH4HULlesX_rzlozkT6Q": {
       "handle": "AliMuhammadAli",
