@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-05T21:22:31.858142+00:00",
+  "updated": "2026-03-05T22:18:06.070068+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -137,6 +137,12 @@
       "feedTitle": "Python Arabic Community",
       "items": [
         {
+          "title": "مبادرة رمضان الأثر - مجتمع إتقان (جوائز لا تقدر بثمن تنتظركم🎁)",
+          "link": "https://www.youtube.com/watch?v=TKET-IN0dLo",
+          "videoId": "TKET-IN0dLo",
+          "pubDate": "2026-03-05T21:44:12+00:00"
+        },
+        {
           "title": "بناء تطبيق لتحويل الصور إلى نصوص (OCR) في أقل من 15 دقيقة مع Mistral OCR ! يدعم العربي",
           "link": "https://www.youtube.com/watch?v=xaCM3rwr_84",
           "videoId": "xaCM3rwr_84",
@@ -147,12 +153,6 @@
           "link": "https://www.youtube.com/watch?v=ZK-9O8SUPBs",
           "videoId": "ZK-9O8SUPBs",
           "pubDate": "2026-02-24T18:01:57+00:00"
-        },
-        {
-          "title": "الذكاء الاصطناعي 🚀 | 82 | جوجل تسحق الجميع.. واعتراف كارثي من أنثروبيك! 🚨",
-          "link": "https://www.youtube.com/watch?v=c_vZw06bkhQ",
-          "videoId": "c_vZw06bkhQ",
-          "pubDate": "2026-02-22T17:37:48+00:00"
         }
       ],
       "ok": true
@@ -397,6 +397,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "مسجد الصفاح بناه مهندس إيطالي وأسلم بين أهالي الأغواط",
+          "link": "https://www.youtube.com/watch?v=M3mNJmpnBBw",
+          "videoId": "M3mNJmpnBBw",
+          "pubDate": "2026-03-05T21:30:01+00:00"
+        },
+        {
           "title": "التوربينات الإسرائيلية تهدد زراعة التفاح والكرز في الجولان المحتل",
           "link": "https://www.youtube.com/watch?v=oVpxItM-pXI",
           "videoId": "oVpxItM-pXI",
@@ -407,12 +413,6 @@
           "link": "https://www.youtube.com/watch?v=xKSbUS8e7nc",
           "videoId": "xKSbUS8e7nc",
           "pubDate": "2026-03-04T17:15:05+00:00"
-        },
-        {
-          "title": "مسيرة الشيخ عبد الحميد احساين مع تعليم القرآن الكريم في المغرب",
-          "link": "https://www.youtube.com/watch?v=-d_uehpE3NA",
-          "videoId": "-d_uehpE3NA",
-          "pubDate": "2026-03-03T18:30:01+00:00"
         }
       ],
       "ok": true
