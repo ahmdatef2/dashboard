@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-05T17:50:52.357793+00:00",
+  "updated": "2026-03-05T19:04:22.960833+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -59,6 +59,12 @@
       "feedTitle": "Infotech4you - مروي سليمان",
       "items": [
         {
+          "title": "Gemini 3.1 Flash Lite : موديل جوجل الجديد الأسرع والأرخص لمعالجة البيانات",
+          "link": "https://www.youtube.com/watch?v=Bwxswc8dip8",
+          "videoId": "Bwxswc8dip8",
+          "pubDate": "2026-03-05T18:12:58+00:00"
+        },
+        {
           "title": "حول ملفاتك إلى تطبيق ويب بضغطة زر! | سحر Google NotebookLM",
           "link": "https://www.youtube.com/watch?v=WOmg46b7Ti0",
           "videoId": "WOmg46b7Ti0",
@@ -69,12 +75,6 @@
           "link": "https://www.youtube.com/watch?v=m2Z2msqSgKI",
           "videoId": "m2Z2msqSgKI",
           "pubDate": "2026-03-01T16:51:55+00:00"
-        },
-        {
-          "title": "Nano Banana 2 المراجعة الكاملة لنموذج الصور المجاني من جوجل !",
-          "link": "https://www.youtube.com/watch?v=P1_o6WgZ8xA",
-          "videoId": "P1_o6WgZ8xA",
-          "pubDate": "2026-02-27T15:00:55+00:00"
         }
       ],
       "ok": true
@@ -423,6 +423,12 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "اليابان بين المحيطين الهندي والهادئ | اقتصادات المحيطين - الشرق الوثائقية",
+          "link": "https://www.youtube.com/watch?v=I4Gere9xG9g",
+          "videoId": "I4Gere9xG9g",
+          "pubDate": "2026-03-05T19:00:14+00:00"
+        },
+        {
           "title": "هل كان النهب مسموحًا قديمًا؟",
           "link": "https://www.youtube.com/watch?v=q80wPFypFuA",
           "videoId": "q80wPFypFuA",
@@ -433,12 +439,6 @@
           "link": "https://www.youtube.com/watch?v=LdUoTdIFn_g",
           "videoId": "LdUoTdIFn_g",
           "pubDate": "2026-03-05T00:25:22+00:00"
-        },
-        {
-          "title": "اليابان بين المحيطين الهندي والهادئ | معركة النفوذ - الشرق الوثائقية",
-          "link": "https://www.youtube.com/watch?v=W50A_AKHupI",
-          "videoId": "W50A_AKHupI",
-          "pubDate": "2026-03-04T19:00:35+00:00"
         }
       ],
       "ok": true
