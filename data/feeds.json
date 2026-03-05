@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-05T14:35:59.522058+00:00",
+  "updated": "2026-03-05T15:38:13.767862+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -293,6 +293,12 @@
       "feedTitle": "أخضر",
       "items": [
         {
+          "title": "سأخبرك قليلا عن قلبك في رمضان",
+          "link": "https://www.youtube.com/watch?v=VQMXXtp9gKU",
+          "videoId": "VQMXXtp9gKU",
+          "pubDate": "2026-03-05T14:30:26+00:00"
+        },
+        {
           "title": "علشان القولون ميتعصبش عليك😤💢",
           "link": "https://www.youtube.com/watch?v=UWuO5ykStxY",
           "videoId": "UWuO5ykStxY",
@@ -303,12 +309,6 @@
           "link": "https://www.youtube.com/watch?v=7RcxwI-E2Jo",
           "videoId": "7RcxwI-E2Jo",
           "pubDate": "2026-02-27T16:00:08+00:00"
-        },
-        {
-          "title": "تاريخ الموت وحلم مطاردة الخلود 💀♾️ | على الماشي #أخضر",
-          "link": "https://www.youtube.com/watch?v=XwPup757zcs",
-          "videoId": "XwPup757zcs",
-          "pubDate": "2026-02-24T16:00:45+00:00"
         }
       ],
       "ok": true
