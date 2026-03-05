@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-05T10:27:11.800280+00:00",
+  "updated": "2026-03-05T11:24:24.327336+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -189,6 +189,12 @@
       "feedTitle": "ذكاء اصطناعي عربي",
       "items": [
         {
+          "title": "What is Supervised Learning? | شرح التعلم الخاضع للإشراف",
+          "link": "https://www.youtube.com/watch?v=SF7hUg6qdkE",
+          "videoId": "SF7hUg6qdkE",
+          "pubDate": "2026-03-05T10:58:30+00:00"
+        },
+        {
           "title": "What is Deep Learning? | شرح التعلم العميق",
           "link": "https://www.youtube.com/watch?v=fvOGBn6qZoY",
           "videoId": "fvOGBn6qZoY",
@@ -199,12 +205,6 @@
           "link": "https://www.youtube.com/watch?v=RBbn4oT5LlM",
           "videoId": "RBbn4oT5LlM",
           "pubDate": "2026-03-03T11:00:41+00:00"
-        },
-        {
-          "title": "What is Guardrails? | شرح ضوابط الأمان",
-          "link": "https://www.youtube.com/watch?v=vT0IhoSVnwE",
-          "videoId": "vT0IhoSVnwE",
-          "pubDate": "2026-03-02T11:01:33+00:00"
         }
       ],
       "ok": true
