@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-06T10:22:08.213640+00:00",
+  "updated": "2026-03-06T11:18:49.762949+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "#وثائقي عُدت من حافة الموت",
+          "link": "https://www.youtube.com/watch?v=Rl0d3yHjE1E",
+          "videoId": "Rl0d3yHjE1E",
+          "pubDate": "2026-03-06T10:19:40+00:00"
+        },
+        {
           "title": "وثائقي | سطوة العصابات في هايتي ـ تحالف المجرمين | وثائقية دي دبليو",
           "link": "https://www.youtube.com/watch?v=U1_QCyjbhac",
           "videoId": "U1_QCyjbhac",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=mFyIoFP8Oec",
           "videoId": "mFyIoFP8Oec",
           "pubDate": "2026-03-04T17:01:14+00:00"
-        },
-        {
-          "title": "#وثائقي مقبرة للمهاجرين بتمويل أوروبي",
-          "link": "https://www.youtube.com/watch?v=42-ZKL3vHl0",
-          "videoId": "42-ZKL3vHl0",
-          "pubDate": "2026-03-04T11:09:27+00:00"
         }
       ],
       "ok": true
