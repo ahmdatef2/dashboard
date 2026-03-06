@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-06T18:30:02.182386+00:00",
+  "updated": "2026-03-06T19:25:49.600273+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -423,6 +423,12 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "الطب العربي.. الكنوز المجهولة | الشرق الوثائقية",
+          "link": "https://www.youtube.com/watch?v=tFppOcbFRE4",
+          "videoId": "tFppOcbFRE4",
+          "pubDate": "2026-03-06T19:00:52+00:00"
+        },
+        {
           "title": "ما اللغة التي يتحدث بها اليهود الحسيديون؟",
           "link": "https://www.youtube.com/watch?v=1VkNfMRtGpA",
           "videoId": "1VkNfMRtGpA",
@@ -433,12 +439,6 @@
           "link": "https://www.youtube.com/watch?v=I4Gere9xG9g",
           "videoId": "I4Gere9xG9g",
           "pubDate": "2026-03-05T19:00:14+00:00"
-        },
-        {
-          "title": "هل كان النهب مسموحًا قديمًا؟",
-          "link": "https://www.youtube.com/watch?v=q80wPFypFuA",
-          "videoId": "q80wPFypFuA",
-          "pubDate": "2026-03-05T14:01:18+00:00"
         }
       ],
       "ok": true
