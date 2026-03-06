@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-06T17:25:06.372066+00:00",
+  "updated": "2026-03-06T18:30:02.182386+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -397,6 +397,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "في حب الخيول البرية الحلقة العاشرة | سباق أخير في المروج – ملك التلال",
+          "link": "https://www.youtube.com/watch?v=n4qr9XmfE30",
+          "videoId": "n4qr9XmfE30",
+          "pubDate": "2026-03-06T18:15:05+00:00"
+        },
+        {
           "title": "مسجد الصفاح بناه مهندس إيطالي وأسلم بين أهالي الأغواط",
           "link": "https://www.youtube.com/watch?v=M3mNJmpnBBw",
           "videoId": "M3mNJmpnBBw",
@@ -407,12 +413,6 @@
           "link": "https://www.youtube.com/watch?v=oVpxItM-pXI",
           "videoId": "oVpxItM-pXI",
           "pubDate": "2026-03-05T16:00:01+00:00"
-        },
-        {
-          "title": "أحمد الطيب العلج.. موليير المغرب وصوت المسرح الشعبي",
-          "link": "https://www.youtube.com/watch?v=xKSbUS8e7nc",
-          "videoId": "xKSbUS8e7nc",
-          "pubDate": "2026-03-04T17:15:05+00:00"
         }
       ],
       "ok": true
