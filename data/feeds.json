@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-06T05:07:00.246468+00:00",
+  "updated": "2026-03-06T06:31:55.575932+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -241,6 +241,12 @@
       "feedTitle": "خير جليس",
       "items": [
         {
+          "title": "التجنّب يقلّص الثقة مع الوقت - من كتاب الثقة التامة بالنفس",
+          "link": "https://www.youtube.com/watch?v=4N_xj-_fQUQ",
+          "videoId": "4N_xj-_fQUQ",
+          "pubDate": "2026-03-06T06:00:02+00:00"
+        },
+        {
           "title": "الخوف معلومة وليس خطرًا - من كتاب الثقة التامة بالنفس",
           "link": "https://www.youtube.com/watch?v=IvO8cfJGoNw",
           "videoId": "IvO8cfJGoNw",
@@ -251,12 +257,6 @@
           "link": "https://www.youtube.com/watch?v=U9eLGGBGDOc",
           "videoId": "U9eLGGBGDOc",
           "pubDate": "2026-03-04T06:00:32+00:00"
-        },
-        {
-          "title": "الحوار الداخلي يشكّل السلوك الخارجي - من كتاب الثقة التامة بالنفس",
-          "link": "https://www.youtube.com/watch?v=34BRqVqWKbw",
-          "videoId": "34BRqVqWKbw",
-          "pubDate": "2026-03-03T06:00:02+00:00"
         }
       ],
       "ok": true
