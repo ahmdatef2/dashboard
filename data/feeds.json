@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-06T13:44:22.728633+00:00",
+  "updated": "2026-03-06T14:27:17.236457+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -189,6 +189,12 @@
       "feedTitle": "ذكاء اصطناعي عربي",
       "items": [
         {
+          "title": "What is Unsupervised Learning? | شرح التعلم غير الخاضع للإشراف",
+          "link": "https://www.youtube.com/watch?v=6SJkuSUPZ_M",
+          "videoId": "6SJkuSUPZ_M",
+          "pubDate": "2026-03-06T14:12:03+00:00"
+        },
+        {
           "title": "What is Supervised Learning? | شرح التعلم الخاضع للإشراف",
           "link": "https://www.youtube.com/watch?v=SF7hUg6qdkE",
           "videoId": "SF7hUg6qdkE",
@@ -199,12 +205,6 @@
           "link": "https://www.youtube.com/watch?v=fvOGBn6qZoY",
           "videoId": "fvOGBn6qZoY",
           "pubDate": "2026-03-04T11:01:07+00:00"
-        },
-        {
-          "title": "What is Neural Network? | شرح الشبكة العصبية",
-          "link": "https://www.youtube.com/watch?v=RBbn4oT5LlM",
-          "videoId": "RBbn4oT5LlM",
-          "pubDate": "2026-03-03T11:00:41+00:00"
         }
       ],
       "ok": true
@@ -423,6 +423,12 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "ما اللغة التي يتحدث بها اليهود الحسيديون؟",
+          "link": "https://www.youtube.com/watch?v=1VkNfMRtGpA",
+          "videoId": "1VkNfMRtGpA",
+          "pubDate": "2026-03-06T14:00:07+00:00"
+        },
+        {
           "title": "اليابان بين المحيطين الهندي والهادئ | اقتصادات المحيطين - الشرق الوثائقية",
           "link": "https://www.youtube.com/watch?v=I4Gere9xG9g",
           "videoId": "I4Gere9xG9g",
@@ -433,12 +439,6 @@
           "link": "https://www.youtube.com/watch?v=q80wPFypFuA",
           "videoId": "q80wPFypFuA",
           "pubDate": "2026-03-05T14:01:18+00:00"
-        },
-        {
-          "title": "المنافسة والبيئة داخل ريال مدريد",
-          "link": "https://www.youtube.com/watch?v=LdUoTdIFn_g",
-          "videoId": "LdUoTdIFn_g",
-          "pubDate": "2026-03-05T00:25:22+00:00"
         }
       ],
       "ok": true
