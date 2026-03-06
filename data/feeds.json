@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-06T14:27:17.236457+00:00",
+  "updated": "2026-03-06T15:25:21.239588+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -215,6 +215,12 @@
       "feedTitle": "Mohamed Ansary",
       "items": [
         {
+          "title": "أقوى تحديث من جوجل.. كيف تصمم إنفوجرافيك ذكي باستخدام NotebookLM",
+          "link": "https://www.youtube.com/watch?v=LpD2FxYUjsA",
+          "videoId": "LpD2FxYUjsA",
+          "pubDate": "2026-03-06T15:24:02+00:00"
+        },
+        {
           "title": "\"Trinka: أقوى أداة AI لتصحيح الكتابة الأكاديمية",
           "link": "https://www.youtube.com/watch?v=_KPeFRw_cJQ",
           "videoId": "_KPeFRw_cJQ",
@@ -225,12 +231,6 @@
           "link": "https://www.youtube.com/watch?v=gYLqlafUzY8",
           "videoId": "gYLqlafUzY8",
           "pubDate": "2026-03-05T13:09:59+00:00"
-        },
-        {
-          "title": "كيفية نقل الذاكرة من تشات جي بيتي إلى كلود.              Claude Ai بثوبه الجديد",
-          "link": "https://www.youtube.com/watch?v=pRWWvOvcG2M",
-          "videoId": "pRWWvOvcG2M",
-          "pubDate": "2026-03-04T19:23:34+00:00"
         }
       ],
       "ok": true
@@ -293,6 +293,12 @@
       "feedTitle": "أخضر",
       "items": [
         {
+          "title": "كيف تصنع قلوبنا حياتنا؟!",
+          "link": "https://www.youtube.com/watch?v=xdd1MQU6HaA",
+          "videoId": "xdd1MQU6HaA",
+          "pubDate": "2026-03-06T14:31:00+00:00"
+        },
+        {
           "title": "سأخبرك قليلا عن قلبك في رمضان",
           "link": "https://www.youtube.com/watch?v=VQMXXtp9gKU",
           "videoId": "VQMXXtp9gKU",
@@ -303,12 +309,6 @@
           "link": "https://www.youtube.com/watch?v=UWuO5ykStxY",
           "videoId": "UWuO5ykStxY",
           "pubDate": "2026-03-01T12:27:48+00:00"
-        },
-        {
-          "title": "رمضان فرصة للتغيير 🌙 كتاب: في ظلال رمضان 📖 #أخضر",
-          "link": "https://www.youtube.com/watch?v=7RcxwI-E2Jo",
-          "videoId": "7RcxwI-E2Jo",
-          "pubDate": "2026-02-27T16:00:08+00:00"
         }
       ],
       "ok": true
