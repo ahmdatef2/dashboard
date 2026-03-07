@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-07T18:15:50.768414+00:00",
+  "updated": "2026-03-07T19:12:27.285008+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -33,6 +33,12 @@
       "feedTitle": "كل يوم موقع جديد",
       "items": [
         {
+          "title": "اصنع قصتك الخاصة: دليل تصميم كتب قصصية مخصصة عبر ذكاء Gemini",
+          "link": "https://www.youtube.com/watch?v=jNWT4qymChE",
+          "videoId": "jNWT4qymChE",
+          "pubDate": "2026-03-07T18:33:52+00:00"
+        },
+        {
           "title": "استنسخ صوتك بالإنجليزية ! 🔥تعرف على  نموذج Z AI المجاني ...",
           "link": "https://www.youtube.com/watch?v=FEzOa4fmv6Y",
           "videoId": "FEzOa4fmv6Y",
@@ -43,12 +49,6 @@
           "link": "https://www.youtube.com/watch?v=gQV-xgb8x4k",
           "videoId": "gQV-xgb8x4k",
           "pubDate": "2026-03-05T22:56:08+00:00"
-        },
-        {
-          "title": "وفّر فلوسك!  حالات يكفيك فيها الذكاء الاصطناعي المجاني و حالات تتطلب الاشتراك",
-          "link": "https://www.youtube.com/watch?v=KS8skxez_GE",
-          "videoId": "KS8skxez_GE",
-          "pubDate": "2026-03-04T23:45:59+00:00"
         }
       ],
       "ok": true
@@ -423,6 +423,12 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "بين العقل والجسد | مخاطر الوحدة - الشرق الوثائقية",
+          "link": "https://www.youtube.com/watch?v=11_cYu1TUEw",
+          "videoId": "11_cYu1TUEw",
+          "pubDate": "2026-03-07T19:00:02+00:00"
+        },
+        {
           "title": "الطب العربي.. الكنوز المجهولة | الشرق الوثائقية",
           "link": "https://www.youtube.com/watch?v=tFppOcbFRE4",
           "videoId": "tFppOcbFRE4",
@@ -433,12 +439,6 @@
           "link": "https://www.youtube.com/watch?v=1VkNfMRtGpA",
           "videoId": "1VkNfMRtGpA",
           "pubDate": "2026-03-06T14:00:07+00:00"
-        },
-        {
-          "title": "اليابان بين المحيطين الهندي والهادئ | اقتصادات المحيطين - الشرق الوثائقية",
-          "link": "https://www.youtube.com/watch?v=I4Gere9xG9g",
-          "videoId": "I4Gere9xG9g",
-          "pubDate": "2026-03-05T19:00:14+00:00"
         }
       ],
       "ok": true
