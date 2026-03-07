@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-07T12:19:58.162619+00:00",
+  "updated": "2026-03-07T13:30:59.110175+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -215,6 +215,12 @@
       "feedTitle": "Mohamed Ansary",
       "items": [
         {
+          "title": "كيفية عمل عروض تقديمية من خلال Kimi ويدعم اللغة للعربية",
+          "link": "https://www.youtube.com/watch?v=-wK_vfsDCYI",
+          "videoId": "-wK_vfsDCYI",
+          "pubDate": "2026-03-07T13:07:10+00:00"
+        },
+        {
           "title": "أقوى تحديث من جوجل.. كيف تصمم إنفوجرافيك ذكي باستخدام NotebookLM",
           "link": "https://www.youtube.com/watch?v=LpD2FxYUjsA",
           "videoId": "LpD2FxYUjsA",
@@ -225,12 +231,6 @@
           "link": "https://www.youtube.com/watch?v=_KPeFRw_cJQ",
           "videoId": "_KPeFRw_cJQ",
           "pubDate": "2026-03-06T12:29:13+00:00"
-        },
-        {
-          "title": "وداعاً لتصميم العروض التقليدية.. وأذكّركم بالمنصة الذكية Lovable!",
-          "link": "https://www.youtube.com/watch?v=gYLqlafUzY8",
-          "videoId": "gYLqlafUzY8",
-          "pubDate": "2026-03-05T13:09:59+00:00"
         }
       ],
       "ok": true
