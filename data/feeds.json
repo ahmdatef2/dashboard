@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-07T21:10:07.420662+00:00",
+  "updated": "2026-03-07T22:10:33.434065+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -59,6 +59,12 @@
       "feedTitle": "Infotech4you - مروي سليمان",
       "items": [
         {
+          "title": "أخيراً! كورسات Anthropic الرسمية مجاناً.. احترف Claude AI واحصل على شهادة 🎓",
+          "link": "https://www.youtube.com/watch?v=xtWQl8UPGXo",
+          "videoId": "xtWQl8UPGXo",
+          "pubDate": "2026-03-07T21:48:31+00:00"
+        },
+        {
           "title": "جوجل وتحديثات ضخمة  داخل NotebookLM: توليد أفلام سينيمائية ومفاجاة داخل المخططات البيانية!",
           "link": "https://www.youtube.com/watch?v=DC8JITgcgn4",
           "videoId": "DC8JITgcgn4",
@@ -69,12 +75,6 @@
           "link": "https://www.youtube.com/watch?v=Bwxswc8dip8",
           "videoId": "Bwxswc8dip8",
           "pubDate": "2026-03-05T18:12:58+00:00"
-        },
-        {
-          "title": "حول ملفاتك إلى تطبيق ويب بضغطة زر! | سحر Google NotebookLM",
-          "link": "https://www.youtube.com/watch?v=WOmg46b7Ti0",
-          "videoId": "WOmg46b7Ti0",
-          "pubDate": "2026-03-03T14:29:04+00:00"
         }
       ],
       "ok": true
