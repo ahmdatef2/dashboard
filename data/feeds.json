@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-07T16:13:28.363588+00:00",
+  "updated": "2026-03-07T17:11:16.470495+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "وثائقي | المزارعون الشباب في إيطاليا - مزارع عضوي بدلاً من عاطل عن العمل | وثائقية دي دبليو",
+          "link": "https://www.youtube.com/watch?v=fRhn-XvUs-4",
+          "videoId": "fRhn-XvUs-4",
+          "pubDate": "2026-03-07T17:01:01+00:00"
+        },
+        {
           "title": "#وثائقي أخطر قمة في جبال الألب",
           "link": "https://www.youtube.com/watch?v=gt4YApyAIfM",
           "videoId": "gt4YApyAIfM",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=Rl0d3yHjE1E",
           "videoId": "Rl0d3yHjE1E",
           "pubDate": "2026-03-06T10:19:40+00:00"
-        },
-        {
-          "title": "وثائقي | سطوة العصابات في هايتي ـ تحالف المجرمين | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=U1_QCyjbhac",
-          "videoId": "U1_QCyjbhac",
-          "pubDate": "2026-03-05T17:00:53+00:00"
         }
       ],
       "ok": true
