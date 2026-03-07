@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-07T10:11:27.953221+00:00",
+  "updated": "2026-03-07T11:10:01.062292+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "#وثائقي أخطر قمة في جبال الألب",
+          "link": "https://www.youtube.com/watch?v=gt4YApyAIfM",
+          "videoId": "gt4YApyAIfM",
+          "pubDate": "2026-03-07T10:15:04+00:00"
+        },
+        {
           "title": "#وثائقي عُدت من حافة الموت",
           "link": "https://www.youtube.com/watch?v=Rl0d3yHjE1E",
           "videoId": "Rl0d3yHjE1E",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=U1_QCyjbhac",
           "videoId": "U1_QCyjbhac",
           "pubDate": "2026-03-05T17:00:53+00:00"
-        },
-        {
-          "title": "وثائقي | إفريقيا - بؤرة صراع الولايات المتحدة والاتحاد السوفييتي | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=mFyIoFP8Oec",
-          "videoId": "mFyIoFP8Oec",
-          "pubDate": "2026-03-04T17:01:14+00:00"
         }
       ],
       "ok": true
