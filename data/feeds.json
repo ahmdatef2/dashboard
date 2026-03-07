@@ -1,12 +1,31 @@
 {
-  "updated": "2026-03-07T07:20:08.888229+00:00",
+  "updated": "2026-03-07T08:15:33.457650+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
       "name": "د. هبة أحمد",
-      "feedTitle": "د. هبة أحمد",
-      "items": [],
-      "ok": false
+      "feedTitle": "Heba Ahmed - هبة احمد",
+      "items": [
+        {
+          "title": "المواجهة بتسخن 🔥 GPT-5.4 الجديد في اختبار ضد Gemini",
+          "link": "https://www.youtube.com/watch?v=LIwkZovua9k",
+          "videoId": "LIwkZovua9k",
+          "pubDate": "2026-03-06T21:04:00+00:00"
+        },
+        {
+          "title": "وحش التصميم الجديد Nano Banana 2 🍌🔥 | وداعاً للفوتوشوب (أوامر سحرية للتصميم والمذاكرة!)",
+          "link": "https://www.youtube.com/watch?v=EAGBzSOsbvM",
+          "videoId": "EAGBzSOsbvM",
+          "pubDate": "2026-02-27T19:35:08+00:00"
+        },
+        {
+          "title": "Gemini Canvas طلع أقوى مما تتخيل! 6 استخدامات عملية",
+          "link": "https://www.youtube.com/watch?v=8-P4IKg9mdg",
+          "videoId": "8-P4IKg9mdg",
+          "pubDate": "2026-02-25T20:19:57+00:00"
+        }
+      ],
+      "ok": true
     },
     "UC2jjW7c63dqOPkfMm3P-u3w": {
       "handle": "every_day_a_new_website",
@@ -115,9 +134,28 @@
     "UC9ocsRoOwj9tkAQNfUt8ZJg": {
       "handle": "PythonArab",
       "name": "بايثون عربي",
-      "feedTitle": "بايثون عربي",
-      "items": [],
-      "ok": false
+      "feedTitle": "Python Arabic Community",
+      "items": [
+        {
+          "title": "مبادرة رمضان الأثر - مجتمع إتقان (جوائز لا تقدر بثمن تنتظركم🎁)",
+          "link": "https://www.youtube.com/watch?v=TKET-IN0dLo",
+          "videoId": "TKET-IN0dLo",
+          "pubDate": "2026-03-05T21:44:12+00:00"
+        },
+        {
+          "title": "بناء تطبيق لتحويل الصور إلى نصوص (OCR) في أقل من 15 دقيقة مع Mistral OCR ! يدعم العربي",
+          "link": "https://www.youtube.com/watch?v=xaCM3rwr_84",
+          "videoId": "xaCM3rwr_84",
+          "pubDate": "2026-03-02T17:50:01+00:00"
+        },
+        {
+          "title": "من الفكرة إلى App Store: كيف تصنع تطبيق Native حقيقي بالذكاء الاصطناعي (بدون كود) 📱",
+          "link": "https://www.youtube.com/watch?v=ZK-9O8SUPBs",
+          "videoId": "ZK-9O8SUPBs",
+          "pubDate": "2026-02-24T18:01:57+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCSNkfKl4cU-55Nm-ovsvOHQ": {
       "handle": "elzerowebschool",
@@ -174,9 +212,28 @@
     "UCSXcmF4Gxl6Hc-m6cHYD_Vg": {
       "handle": "MohamedAnsary",
       "name": "محمد أنصاري",
-      "feedTitle": "محمد أنصاري",
-      "items": [],
-      "ok": false
+      "feedTitle": "Mohamed Ansary",
+      "items": [
+        {
+          "title": "أقوى تحديث من جوجل.. كيف تصمم إنفوجرافيك ذكي باستخدام NotebookLM",
+          "link": "https://www.youtube.com/watch?v=LpD2FxYUjsA",
+          "videoId": "LpD2FxYUjsA",
+          "pubDate": "2026-03-06T15:24:02+00:00"
+        },
+        {
+          "title": "\"Trinka: أقوى أداة AI لتصحيح الكتابة الأكاديمية",
+          "link": "https://www.youtube.com/watch?v=_KPeFRw_cJQ",
+          "videoId": "_KPeFRw_cJQ",
+          "pubDate": "2026-03-06T12:29:13+00:00"
+        },
+        {
+          "title": "وداعاً لتصميم العروض التقليدية.. وأذكّركم بالمنصة الذكية Lovable!",
+          "link": "https://www.youtube.com/watch?v=gYLqlafUzY8",
+          "videoId": "gYLqlafUzY8",
+          "pubDate": "2026-03-05T13:09:59+00:00"
+        }
+      ],
+      "ok": true
     },
     "UC16aC4Jti6tYAi0LuXmu-9w": {
       "handle": "KhairJaleesBook",
@@ -234,15 +291,53 @@
       "handle": "a5drcom",
       "name": "أخضر",
       "feedTitle": "أخضر",
-      "items": [],
-      "ok": false
+      "items": [
+        {
+          "title": "النوم والأحلام والجاثوم 😴👹 كتاب: سيكولوجية الأحلام🛌 #أخضر",
+          "link": "https://www.youtube.com/watch?v=sBxquJV6J6Y",
+          "videoId": "sBxquJV6J6Y",
+          "pubDate": "2026-03-06T16:01:31+00:00"
+        },
+        {
+          "title": "كيف تصنع قلوبنا حياتنا؟!",
+          "link": "https://www.youtube.com/watch?v=xdd1MQU6HaA",
+          "videoId": "xdd1MQU6HaA",
+          "pubDate": "2026-03-06T14:31:00+00:00"
+        },
+        {
+          "title": "سأخبرك قليلا عن قلبك في رمضان",
+          "link": "https://www.youtube.com/watch?v=VQMXXtp9gKU",
+          "videoId": "VQMXXtp9gKU",
+          "pubDate": "2026-03-05T14:30:26+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCUjRjJ1-h3oUx40gf2tuh3w": {
       "handle": "Sha5bata",
       "name": "شخبطة",
-      "feedTitle": "شخبطة",
-      "items": [],
-      "ok": false
+      "feedTitle": "شخبطة Sha5bata",
+      "items": [
+        {
+          "title": "30 رسالة عشان تحب الصلاة.. الرسالة 5",
+          "link": "https://www.youtube.com/watch?v=XhtqZm56Pss",
+          "videoId": "XhtqZm56Pss",
+          "pubDate": "2026-02-27T13:21:19+00:00"
+        },
+        {
+          "title": "كيف تُنظم وقتك مثل السلف الصالح .. ستتغير حياتك للأبد !",
+          "link": "https://www.youtube.com/watch?v=46h0sA5idsY",
+          "videoId": "46h0sA5idsY",
+          "pubDate": "2026-02-23T14:00:12+00:00"
+        },
+        {
+          "title": "تحدي 30 رسالة في 30 يوم عشان تحب الصلاة.. الرسالة ٤",
+          "link": "https://www.youtube.com/watch?v=3UYSdl0qbNU",
+          "videoId": "3UYSdl0qbNU",
+          "pubDate": "2026-02-20T11:00:07+00:00"
+        }
+      ],
+      "ok": true
     },
     "UChbuH4HULlesX_rzlozkT6Q": {
       "handle": "AliMuhammadAli",
@@ -273,9 +368,28 @@
     "UCJlu6BjPWHZhzuCc0zVME0Q": {
       "handle": "Dupamicaffeine",
       "name": "دوباميكافيين",
-      "feedTitle": "دوباميكافيين",
-      "items": [],
-      "ok": false
+      "feedTitle": "دوباميكافين Dupamicaffeine",
+      "items": [
+        {
+          "title": "كيف تحقق أهدافك - شرح كامل لكتاب الاثنى عشر أسبوع - دوباميكافين",
+          "link": "https://www.youtube.com/watch?v=4Ai5WEOHzgs",
+          "videoId": "4Ai5WEOHzgs",
+          "pubDate": "2026-03-04T19:00:02+00:00"
+        },
+        {
+          "title": "خطط أسبوعيًا - كل أسبوع يعادل شهر - كتاب سنة الإثنى عشر أسبوع - الجزء الثاني - دوباميكافين",
+          "link": "https://www.youtube.com/watch?v=TKT9HEHvHXY",
+          "videoId": "TKT9HEHvHXY",
+          "pubDate": "2026-02-28T19:17:08+00:00"
+        },
+        {
+          "title": "كيف تحقق أهدافك خلال 12 أسبوع - كتاب سنة الإثنى عشر أسبوع - الجزء الأول - دوباميكافين",
+          "link": "https://www.youtube.com/watch?v=clC_QLbBxT0",
+          "videoId": "clC_QLbBxT0",
+          "pubDate": "2026-02-01T13:00:07+00:00"
+        }
+      ],
+      "ok": true
     },
     "UC0LSnqrwqtMwl2YwfUpO66g": {
       "handle": "aljazeeradocumentary",
@@ -332,9 +446,28 @@
     "UCLiTe0aOHShx7hXGyqZ9UIw": {
       "handle": "natgeoabudhabime",
       "name": "ناشيونال جيوغرافيك",
-      "feedTitle": "ناشيونال جيوغرافيك",
-      "items": [],
-      "ok": false
+      "feedTitle": "Nat Geo Abu Dhabi",
+      "items": [
+        {
+          "title": "الحلقة الأولى | هياكل عملاقة: كاسحة الجليد | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=W4SxLBeI-as",
+          "videoId": "W4SxLBeI-as",
+          "pubDate": "2026-02-26T17:09:26+00:00"
+        },
+        {
+          "title": "الخزفي | مسار الصحوة | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=5V2a8ib5ktA",
+          "videoId": "5V2a8ib5ktA",
+          "pubDate": "2026-02-23T19:15:18+00:00"
+        },
+        {
+          "title": "من باريس إلى بيتسبرغ | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=f8B8HyN7Znw",
+          "videoId": "f8B8HyN7Znw",
+          "pubDate": "2026-02-21T16:24:46+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCET6sWl4Xcu-U8Ka9PJPrwA": {
       "handle": "dwdocarabia",
