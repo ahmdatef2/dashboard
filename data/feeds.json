@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-06T23:16:37.000155+00:00",
+  "updated": "2026-03-07T00:55:46.519157+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -33,6 +33,12 @@
       "feedTitle": "كل يوم موقع جديد",
       "items": [
         {
+          "title": "استنسخ صوتك بالإنجليزية ! 🔥تعرف على  نموذج Z AI المجاني ...",
+          "link": "https://www.youtube.com/watch?v=FEzOa4fmv6Y",
+          "videoId": "FEzOa4fmv6Y",
+          "pubDate": "2026-03-06T23:20:24+00:00"
+        },
+        {
           "title": "مفاجأة جوجل وتحديث مجاني مهم على NotebookLM .... اكتشفه الآن!",
           "link": "https://www.youtube.com/watch?v=gQV-xgb8x4k",
           "videoId": "gQV-xgb8x4k",
@@ -43,12 +49,6 @@
           "link": "https://www.youtube.com/watch?v=KS8skxez_GE",
           "videoId": "KS8skxez_GE",
           "pubDate": "2026-03-04T23:45:59+00:00"
-        },
-        {
-          "title": "تصميم عرض تقديمي احترافي رسمي في دقائق باستخدام Claude Sonnet مجاناً!",
-          "link": "https://www.youtube.com/watch?v=b3eO6E55esM",
-          "videoId": "b3eO6E55esM",
-          "pubDate": "2026-03-04T00:05:11+00:00"
         }
       ],
       "ok": true
