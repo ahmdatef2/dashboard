@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-07T14:12:46.950735+00:00",
+  "updated": "2026-03-07T15:11:15.872163+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -85,6 +85,12 @@
       "feedTitle": "عبداللطيف سعيد Abdellatif Said",
       "items": [
         {
+          "title": "وداعاً ChatGPT.. أفضل بدائل الذكاء الاصطناعي اللي هتنجزلك شغلك وتنقذ بياناتك (دليل شامل)!",
+          "link": "https://www.youtube.com/watch?v=jNbcD4GH7ag",
+          "videoId": "jNbcD4GH7ag",
+          "pubDate": "2026-03-07T14:15:04+00:00"
+        },
+        {
           "title": "هل ظهر منافس حقيقي لـ Nano Banana Pro؟ تجربة نموذج Soul 2.0 الجديد والنتيجة صدمة!",
           "link": "https://www.youtube.com/watch?v=oFMXfKK8Gtc",
           "videoId": "oFMXfKK8Gtc",
@@ -95,12 +101,6 @@
           "link": "https://www.youtube.com/watch?v=7JbiRGsJn44",
           "videoId": "7JbiRGsJn44",
           "pubDate": "2026-03-03T14:15:02+00:00"
-        },
-        {
-          "title": "أخيراً تحديث Nano Banana 2 المرعب! صمم صور سينمائية بالعربي وببلاش 🤯",
-          "link": "https://www.youtube.com/watch?v=YNh0pixnq-8",
-          "videoId": "YNh0pixnq-8",
-          "pubDate": "2026-02-27T14:15:06+00:00"
         }
       ],
       "ok": true
