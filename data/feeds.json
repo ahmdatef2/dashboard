@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-08T16:13:31.880473+00:00",
+  "updated": "2026-03-08T17:13:09.799746+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "وثائقي | هل الهند في طريقها لأن تصبح قوة اقتصادية؟ | وثائقية دي دبليو",
+          "link": "https://www.youtube.com/watch?v=R4cg7bVFHKI",
+          "videoId": "R4cg7bVFHKI",
+          "pubDate": "2026-03-08T17:00:42+00:00"
+        },
+        {
           "title": "وثائقي | المزارعون الشباب في إيطاليا - مزارع عضوي بدلاً من عاطل عن العمل | وثائقية دي دبليو",
           "link": "https://www.youtube.com/watch?v=fRhn-XvUs-4",
           "videoId": "fRhn-XvUs-4",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=gt4YApyAIfM",
           "videoId": "gt4YApyAIfM",
           "pubDate": "2026-03-07T10:15:04+00:00"
-        },
-        {
-          "title": "#وثائقي عُدت من حافة الموت",
-          "link": "https://www.youtube.com/watch?v=Rl0d3yHjE1E",
-          "videoId": "Rl0d3yHjE1E",
-          "pubDate": "2026-03-06T10:19:40+00:00"
         }
       ],
       "ok": true
