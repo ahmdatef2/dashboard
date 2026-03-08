@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-08T10:12:57.371001+00:00",
+  "updated": "2026-03-08T11:10:56.839323+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -189,6 +189,12 @@
       "feedTitle": "ذكاء اصطناعي عربي",
       "items": [
         {
+          "title": "What is Attention? | شرح آلية الانتباه",
+          "link": "https://www.youtube.com/watch?v=fAyOT3VNacI",
+          "videoId": "fAyOT3VNacI",
+          "pubDate": "2026-03-08T11:01:09+00:00"
+        },
+        {
           "title": "What is Reinforcement Learning? | شرح التعلم المعزز",
           "link": "https://www.youtube.com/watch?v=i2nlqA6XK9k",
           "videoId": "i2nlqA6XK9k",
@@ -199,12 +205,6 @@
           "link": "https://www.youtube.com/watch?v=6SJkuSUPZ_M",
           "videoId": "6SJkuSUPZ_M",
           "pubDate": "2026-03-06T14:12:03+00:00"
-        },
-        {
-          "title": "What is Supervised Learning? | شرح التعلم الخاضع للإشراف",
-          "link": "https://www.youtube.com/watch?v=SF7hUg6qdkE",
-          "videoId": "SF7hUg6qdkE",
-          "pubDate": "2026-03-05T10:58:30+00:00"
         }
       ],
       "ok": true
@@ -397,6 +397,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "المخرج أوليفر ستون.. كيف دفع ثمن \"قول لا\" لواشنطن؟",
+          "link": "https://www.youtube.com/watch?v=HSW4CsEItBk",
+          "videoId": "HSW4CsEItBk",
+          "pubDate": "2026-03-08T10:03:46+00:00"
+        },
+        {
           "title": "في حب الخيول البرية الحلقة الأخيرة | سباق أخير في المروج",
           "link": "https://www.youtube.com/watch?v=n4qr9XmfE30",
           "videoId": "n4qr9XmfE30",
@@ -407,12 +413,6 @@
           "link": "https://www.youtube.com/watch?v=M3mNJmpnBBw",
           "videoId": "M3mNJmpnBBw",
           "pubDate": "2026-03-05T21:30:01+00:00"
-        },
-        {
-          "title": "التوربينات الإسرائيلية تهدد زراعة التفاح والكرز في الجولان المحتل",
-          "link": "https://www.youtube.com/watch?v=oVpxItM-pXI",
-          "videoId": "oVpxItM-pXI",
-          "pubDate": "2026-03-05T16:00:01+00:00"
         }
       ],
       "ok": true
