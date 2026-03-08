@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-08T12:21:21.903421+00:00",
+  "updated": "2026-03-08T13:32:21.980302+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -397,6 +397,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "قبل 3500 عام… هل أدرك أبناء الحضارة المينوية أنهم يعيشون بجوار فوهة بركان نشط؟",
+          "link": "https://www.youtube.com/watch?v=1PiPKwALJ6Y",
+          "videoId": "1PiPKwALJ6Y",
+          "pubDate": "2026-03-08T13:00:01+00:00"
+        },
+        {
           "title": "أسير محرر: \"لم يكن لنا سوى الرسائل المهربة لنتواصل مع ذوينا\"",
           "link": "https://www.youtube.com/watch?v=iBqPdTuPjxI",
           "videoId": "iBqPdTuPjxI",
@@ -407,12 +413,6 @@
           "link": "https://www.youtube.com/watch?v=LN7OOs-4SXE",
           "videoId": "LN7OOs-4SXE",
           "pubDate": "2026-03-08T11:40:06+00:00"
-        },
-        {
-          "title": "\"محمد مارمادوك بكثال\" أول بريطاني يترجم القرآن الكريم عام 1913",
-          "link": "https://www.youtube.com/watch?v=klRPg5_y9Ng",
-          "videoId": "klRPg5_y9Ng",
-          "pubDate": "2026-03-08T11:00:01+00:00"
         }
       ],
       "ok": true
