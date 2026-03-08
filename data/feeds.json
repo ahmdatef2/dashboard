@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-08T07:22:43.837579+00:00",
+  "updated": "2026-03-08T08:16:11.570788+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -30,30 +30,106 @@
     "UC2jjW7c63dqOPkfMm3P-u3w": {
       "handle": "every_day_a_new_website",
       "name": "موقع كل يوم",
-      "feedTitle": "موقع كل يوم",
-      "items": [],
-      "ok": false
+      "feedTitle": "كل يوم موقع جديد",
+      "items": [
+        {
+          "title": "اصنع قصتك الخاصة: دليل تصميم كتب قصصية مخصصة عبر ذكاء Gemini",
+          "link": "https://www.youtube.com/watch?v=jNWT4qymChE",
+          "videoId": "jNWT4qymChE",
+          "pubDate": "2026-03-07T18:33:52+00:00"
+        },
+        {
+          "title": "استنسخ صوتك بالإنجليزية ! 🔥تعرف على  نموذج Z AI المجاني ...",
+          "link": "https://www.youtube.com/watch?v=FEzOa4fmv6Y",
+          "videoId": "FEzOa4fmv6Y",
+          "pubDate": "2026-03-06T23:20:24+00:00"
+        },
+        {
+          "title": "مفاجأة جوجل وتحديث مجاني مهم على NotebookLM .... اكتشفه الآن!",
+          "link": "https://www.youtube.com/watch?v=gQV-xgb8x4k",
+          "videoId": "gQV-xgb8x4k",
+          "pubDate": "2026-03-05T22:56:08+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCKD8vOz3maRPyLAbMXhr-Pw": {
       "handle": "infotech4you_Marwasoliman",
       "name": "مروة سليمان",
-      "feedTitle": "مروة سليمان",
-      "items": [],
-      "ok": false
+      "feedTitle": "Infotech4you - مروي سليمان",
+      "items": [
+        {
+          "title": "أخيراً! كورسات Anthropic الرسمية مجاناً.. احترف Claude AI واحصل على شهادة 🎓",
+          "link": "https://www.youtube.com/watch?v=xtWQl8UPGXo",
+          "videoId": "xtWQl8UPGXo",
+          "pubDate": "2026-03-07T21:48:31+00:00"
+        },
+        {
+          "title": "جوجل وتحديثات ضخمة  داخل NotebookLM: توليد أفلام سينيمائية ومفاجاة داخل المخططات البيانية!",
+          "link": "https://www.youtube.com/watch?v=DC8JITgcgn4",
+          "videoId": "DC8JITgcgn4",
+          "pubDate": "2026-03-06T20:44:58+00:00"
+        },
+        {
+          "title": "Google Gemini 3.1 Flash Lite is here 🤯!",
+          "link": "https://www.youtube.com/watch?v=Bwxswc8dip8",
+          "videoId": "Bwxswc8dip8",
+          "pubDate": "2026-03-05T18:12:58+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCSRy-3lglM2QKJ_xF2zuPlQ": {
       "handle": "AbdellatifSaidA",
       "name": "عبداللطيف سعيد",
-      "feedTitle": "عبداللطيف سعيد",
-      "items": [],
-      "ok": false
+      "feedTitle": "عبداللطيف سعيد Abdellatif Said",
+      "items": [
+        {
+          "title": "وداعاً ChatGPT.. أفضل بدائل الذكاء الاصطناعي اللي هتنجزلك شغلك وتنقذ بياناتك (دليل شامل)!",
+          "link": "https://www.youtube.com/watch?v=jNbcD4GH7ag",
+          "videoId": "jNbcD4GH7ag",
+          "pubDate": "2026-03-07T14:15:04+00:00"
+        },
+        {
+          "title": "هل ظهر منافس حقيقي لـ Nano Banana Pro؟ تجربة نموذج Soul 2.0 الجديد والنتيجة صدمة!",
+          "link": "https://www.youtube.com/watch?v=oFMXfKK8Gtc",
+          "videoId": "oFMXfKK8Gtc",
+          "pubDate": "2026-03-05T14:15:11+00:00"
+        },
+        {
+          "title": "كارثة ChatGPT.. إزاي البنتاجون بيستخدم بياناتك وليه ترامب طرد Claude؟",
+          "link": "https://www.youtube.com/watch?v=7JbiRGsJn44",
+          "videoId": "7JbiRGsJn44",
+          "pubDate": "2026-03-03T14:15:02+00:00"
+        }
+      ],
+      "ok": true
     },
     "UC81Ks7DR9JFgZc14nmZ07EA": {
       "handle": "AMRSALEM800",
       "name": "عمرو سالم",
-      "feedTitle": "عمرو سالم",
-      "items": [],
-      "ok": false
+      "feedTitle": "AMR SALEM _ عمرو سالم",
+      "items": [
+        {
+          "title": "أهمية Agent Skills في Antigravity | السر الحقيقي لبناء تطبيقات قوية بالذكاء الاصطناعي",
+          "link": "https://www.youtube.com/watch?v=c3RWBcQw3D8",
+          "videoId": "c3RWBcQw3D8",
+          "pubDate": "2026-03-05T17:01:02+00:00"
+        },
+        {
+          "title": "جوجل تطلق اسرع نموذج في العالم  . gemini 3.1 flash lite",
+          "link": "https://www.youtube.com/watch?v=ng06FIDtMDk",
+          "videoId": "ng06FIDtMDk",
+          "pubDate": "2026-03-04T20:33:48+00:00"
+        },
+        {
+          "title": "onspace . اداة سحرية لعمل التطبيقات باحترافية مع قاعدة بيانات  وادوات AI",
+          "link": "https://www.youtube.com/watch?v=DvcvjwfETAs",
+          "videoId": "DvcvjwfETAs",
+          "pubDate": "2026-03-03T14:05:55+00:00"
+        }
+      ],
+      "ok": true
     },
     "UC9ocsRoOwj9tkAQNfUt8ZJg": {
       "handle": "PythonArab",
@@ -85,29 +161,105 @@
       "handle": "elzerowebschool",
       "name": "Elzero Web School",
       "feedTitle": "Elzero Web School",
-      "items": [],
-      "ok": false
+      "items": [
+        {
+          "title": "مبادرة هتطورك في البرمجة وتاخد ثواب وفرصة لرحلة عمرة",
+          "link": "https://www.youtube.com/watch?v=1n4AJdviibs",
+          "videoId": "1n4AJdviibs",
+          "pubDate": "2026-03-03T19:47:57+00:00"
+        },
+        {
+          "title": "توظيف البشر لصالح الذكاء الاصطناعي",
+          "link": "https://www.youtube.com/watch?v=4XBhqzlYJGY",
+          "videoId": "4XBhqzlYJGY",
+          "pubDate": "2026-02-16T10:47:19+00:00"
+        },
+        {
+          "title": "هل الذكاء الاصطناعي هيخلي السوق اصعب ؟",
+          "link": "https://www.youtube.com/watch?v=c-MANp0eKq4",
+          "videoId": "c-MANp0eKq4",
+          "pubDate": "2026-02-15T17:20:33+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCGrVvqu8PlVv0wPqA5kgY8A": {
       "handle": "ArabicArtificialIntelligence",
       "name": "الذكاء الاصطناعي العربي",
-      "feedTitle": "الذكاء الاصطناعي العربي",
-      "items": [],
-      "ok": false
+      "feedTitle": "ذكاء اصطناعي عربي",
+      "items": [
+        {
+          "title": "What is Reinforcement Learning? | شرح التعلم المعزز",
+          "link": "https://www.youtube.com/watch?v=i2nlqA6XK9k",
+          "videoId": "i2nlqA6XK9k",
+          "pubDate": "2026-03-07T13:46:46+00:00"
+        },
+        {
+          "title": "What is Unsupervised Learning? | شرح التعلم غير الخاضع للإشراف",
+          "link": "https://www.youtube.com/watch?v=6SJkuSUPZ_M",
+          "videoId": "6SJkuSUPZ_M",
+          "pubDate": "2026-03-06T14:12:03+00:00"
+        },
+        {
+          "title": "What is Supervised Learning? | شرح التعلم الخاضع للإشراف",
+          "link": "https://www.youtube.com/watch?v=SF7hUg6qdkE",
+          "videoId": "SF7hUg6qdkE",
+          "pubDate": "2026-03-05T10:58:30+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCSXcmF4Gxl6Hc-m6cHYD_Vg": {
       "handle": "MohamedAnsary",
       "name": "محمد أنصاري",
-      "feedTitle": "محمد أنصاري",
-      "items": [],
-      "ok": false
+      "feedTitle": "Mohamed Ansary",
+      "items": [
+        {
+          "title": "كيفية عمل عروض تقديمية من خلال Kimi ويدعم اللغة للعربية",
+          "link": "https://www.youtube.com/watch?v=-wK_vfsDCYI",
+          "videoId": "-wK_vfsDCYI",
+          "pubDate": "2026-03-07T13:07:10+00:00"
+        },
+        {
+          "title": "أقوى تحديث من جوجل.. كيف تصمم إنفوجرافيك ذكي باستخدام NotebookLM",
+          "link": "https://www.youtube.com/watch?v=LpD2FxYUjsA",
+          "videoId": "LpD2FxYUjsA",
+          "pubDate": "2026-03-06T15:24:02+00:00"
+        },
+        {
+          "title": "\"Trinka: أقوى أداة AI لتصحيح الكتابة الأكاديمية",
+          "link": "https://www.youtube.com/watch?v=_KPeFRw_cJQ",
+          "videoId": "_KPeFRw_cJQ",
+          "pubDate": "2026-03-06T12:29:13+00:00"
+        }
+      ],
+      "ok": true
     },
     "UC16aC4Jti6tYAi0LuXmu-9w": {
       "handle": "KhairJaleesBook",
       "name": "خير جليس",
       "feedTitle": "خير جليس",
-      "items": [],
-      "ok": false
+      "items": [
+        {
+          "title": "التحقق الذاتي يبني ثقة مستقرة  - من كتاب الثقة التامة بالنفس",
+          "link": "https://www.youtube.com/watch?v=-CqP146myMI",
+          "videoId": "-CqP146myMI",
+          "pubDate": "2026-03-08T06:00:00+00:00"
+        },
+        {
+          "title": "الحاجة إلى الموافقة تخلق القلق - من كتاب الثقة التامة بالنفس",
+          "link": "https://www.youtube.com/watch?v=qdP6q-JOPCo",
+          "videoId": "qdP6q-JOPCo",
+          "pubDate": "2026-03-08T05:41:39+00:00"
+        },
+        {
+          "title": "التجنّب يقلّص الثقة مع الوقت - من كتاب الثقة التامة بالنفس",
+          "link": "https://www.youtube.com/watch?v=4N_xj-_fQUQ",
+          "videoId": "4N_xj-_fQUQ",
+          "pubDate": "2026-03-06T06:00:02+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCu1NJiJlhrhmF5ZgT-0yWdA": {
       "handle": "Jeelyaqraa",
@@ -139,22 +291,79 @@
       "handle": "a5drcom",
       "name": "أخضر",
       "feedTitle": "أخضر",
-      "items": [],
-      "ok": false
+      "items": [
+        {
+          "title": "السيجارة الأخيرة: الطريقة السهلة للإقلاع عن التدخين😵‍💫",
+          "link": "https://www.youtube.com/watch?v=o2MNAhVw6V4",
+          "videoId": "o2MNAhVw6V4",
+          "pubDate": "2026-03-07T20:02:49+00:00"
+        },
+        {
+          "title": "النوم والأحلام والجاثوم 😴👹 كتاب: سيكولوجية الأحلام🛌 #أخضر",
+          "link": "https://www.youtube.com/watch?v=sBxquJV6J6Y",
+          "videoId": "sBxquJV6J6Y",
+          "pubDate": "2026-03-06T16:01:31+00:00"
+        },
+        {
+          "title": "كيف تصنع قلوبنا حياتنا؟!",
+          "link": "https://www.youtube.com/watch?v=xdd1MQU6HaA",
+          "videoId": "xdd1MQU6HaA",
+          "pubDate": "2026-03-06T14:31:00+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCUjRjJ1-h3oUx40gf2tuh3w": {
       "handle": "Sha5bata",
       "name": "شخبطة",
-      "feedTitle": "شخبطة",
-      "items": [],
-      "ok": false
+      "feedTitle": "شخبطة Sha5bata",
+      "items": [
+        {
+          "title": "30 رسالة عشان تحب الصلاة.. الرسالة 5",
+          "link": "https://www.youtube.com/watch?v=XhtqZm56Pss",
+          "videoId": "XhtqZm56Pss",
+          "pubDate": "2026-02-27T13:21:19+00:00"
+        },
+        {
+          "title": "كيف تُنظم وقتك مثل السلف الصالح .. ستتغير حياتك للأبد !",
+          "link": "https://www.youtube.com/watch?v=46h0sA5idsY",
+          "videoId": "46h0sA5idsY",
+          "pubDate": "2026-02-23T14:00:12+00:00"
+        },
+        {
+          "title": "تحدي 30 رسالة في 30 يوم عشان تحب الصلاة.. الرسالة ٤",
+          "link": "https://www.youtube.com/watch?v=3UYSdl0qbNU",
+          "videoId": "3UYSdl0qbNU",
+          "pubDate": "2026-02-20T11:00:07+00:00"
+        }
+      ],
+      "ok": true
     },
     "UChbuH4HULlesX_rzlozkT6Q": {
       "handle": "AliMuhammadAli",
       "name": "علي محمد علي",
-      "feedTitle": "علي محمد علي",
-      "items": [],
-      "ok": false
+      "feedTitle": "Ali Muhammad Ali",
+      "items": [
+        {
+          "title": "ما زلنا هنا..",
+          "link": "https://www.youtube.com/watch?v=gJjoYniRSZc",
+          "videoId": "gJjoYniRSZc",
+          "pubDate": "2026-02-28T13:31:00+00:00"
+        },
+        {
+          "title": "نهاية عصر القراءة!",
+          "link": "https://www.youtube.com/watch?v=JRnEJiLeJZ8",
+          "videoId": "JRnEJiLeJZ8",
+          "pubDate": "2025-09-25T12:08:55+00:00"
+        },
+        {
+          "title": "العب كاليستنكس",
+          "link": "https://www.youtube.com/watch?v=1FfEXdbhjGs",
+          "videoId": "1FfEXdbhjGs",
+          "pubDate": "2025-07-14T15:54:20+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCJlu6BjPWHZhzuCc0zVME0Q": {
       "handle": "Dupamicaffeine",
@@ -185,9 +394,28 @@
     "UC0LSnqrwqtMwl2YwfUpO66g": {
       "handle": "aljazeeradocumentary",
       "name": "الجزيرة الوثائقية",
-      "feedTitle": "الجزيرة الوثائقية",
-      "items": [],
-      "ok": false
+      "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
+      "items": [
+        {
+          "title": "في حب الخيول البرية الحلقة الأخيرة | سباق أخير في المروج",
+          "link": "https://www.youtube.com/watch?v=n4qr9XmfE30",
+          "videoId": "n4qr9XmfE30",
+          "pubDate": "2026-03-06T18:15:05+00:00"
+        },
+        {
+          "title": "مسجد الصفاح بناه مهندس إيطالي وأسلم بين أهالي الأغواط",
+          "link": "https://www.youtube.com/watch?v=M3mNJmpnBBw",
+          "videoId": "M3mNJmpnBBw",
+          "pubDate": "2026-03-05T21:30:01+00:00"
+        },
+        {
+          "title": "التوربينات الإسرائيلية تهدد زراعة التفاح والكرز في الجولان المحتل",
+          "link": "https://www.youtube.com/watch?v=oVpxItM-pXI",
+          "videoId": "oVpxItM-pXI",
+          "pubDate": "2026-03-05T16:00:01+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCArK7aSQ68vRCiJY2m7spkA": {
       "handle": "AsharqDoc",
@@ -218,16 +446,54 @@
     "UCLiTe0aOHShx7hXGyqZ9UIw": {
       "handle": "natgeoabudhabime",
       "name": "ناشيونال جيوغرافيك",
-      "feedTitle": "ناشيونال جيوغرافيك",
-      "items": [],
-      "ok": false
+      "feedTitle": "Nat Geo Abu Dhabi",
+      "items": [
+        {
+          "title": "الحلقة الأولى | هياكل عملاقة: كاسحة الجليد | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=W4SxLBeI-as",
+          "videoId": "W4SxLBeI-as",
+          "pubDate": "2026-02-26T17:09:26+00:00"
+        },
+        {
+          "title": "الخزفي | مسار الصحوة | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=5V2a8ib5ktA",
+          "videoId": "5V2a8ib5ktA",
+          "pubDate": "2026-02-23T19:15:18+00:00"
+        },
+        {
+          "title": "من باريس إلى بيتسبرغ | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=f8B8HyN7Znw",
+          "videoId": "f8B8HyN7Znw",
+          "pubDate": "2026-02-21T16:24:46+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCET6sWl4Xcu-U8Ka9PJPrwA": {
       "handle": "dwdocarabia",
       "name": "DW عربية وثائقي",
-      "feedTitle": "DW عربية وثائقي",
-      "items": [],
-      "ok": false
+      "feedTitle": "DW Documentary وثائقية دي دبليو",
+      "items": [
+        {
+          "title": "وثائقي | المزارعون الشباب في إيطاليا - مزارع عضوي بدلاً من عاطل عن العمل | وثائقية دي دبليو",
+          "link": "https://www.youtube.com/watch?v=fRhn-XvUs-4",
+          "videoId": "fRhn-XvUs-4",
+          "pubDate": "2026-03-07T17:01:01+00:00"
+        },
+        {
+          "title": "#وثائقي أخطر قمة في جبال الألب",
+          "link": "https://www.youtube.com/watch?v=gt4YApyAIfM",
+          "videoId": "gt4YApyAIfM",
+          "pubDate": "2026-03-07T10:15:04+00:00"
+        },
+        {
+          "title": "#وثائقي عُدت من حافة الموت",
+          "link": "https://www.youtube.com/watch?v=Rl0d3yHjE1E",
+          "videoId": "Rl0d3yHjE1E",
+          "pubDate": "2026-03-06T10:19:40+00:00"
+        }
+      ],
+      "ok": true
     }
   }
 }
