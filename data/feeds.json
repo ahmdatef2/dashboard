@@ -1,11 +1,17 @@
 {
-  "updated": "2026-03-08T19:14:22.462224+00:00",
+  "updated": "2026-03-08T20:12:06.055665+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
       "name": "د. هبة أحمد",
       "feedTitle": "Heba Ahmed - هبة احمد",
       "items": [
+        {
+          "title": "صراع الأخلاق والأسلحة: القصة الكاملة لأزمة \"أنثروبيك\" والبنتاجون.",
+          "link": "https://www.youtube.com/watch?v=x-xXSuL3k70",
+          "videoId": "x-xXSuL3k70",
+          "pubDate": "2026-03-08T19:00:40+00:00"
+        },
         {
           "title": "المواجهة بتسخن 🔥 GPT-5.4 الجديد في اختبار ضد Gemini",
           "link": "https://www.youtube.com/watch?v=LIwkZovua9k",
@@ -17,12 +23,6 @@
           "link": "https://www.youtube.com/watch?v=EAGBzSOsbvM",
           "videoId": "EAGBzSOsbvM",
           "pubDate": "2026-02-27T19:35:08+00:00"
-        },
-        {
-          "title": "Gemini Canvas طلع أقوى مما تتخيل! 6 استخدامات عملية",
-          "link": "https://www.youtube.com/watch?v=8-P4IKg9mdg",
-          "videoId": "8-P4IKg9mdg",
-          "pubDate": "2026-02-25T20:19:57+00:00"
         }
       ],
       "ok": true
