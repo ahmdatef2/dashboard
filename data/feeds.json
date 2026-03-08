@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-08T15:11:55.841968+00:00",
+  "updated": "2026-03-08T16:13:31.880473+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -397,22 +397,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "كيف يهدد زحف الرمال مخطوطات شنقيط؟",
+          "link": "https://www.youtube.com/watch?v=Rnojvycq-hY",
+          "videoId": "Rnojvycq-hY",
+          "pubDate": "2026-03-08T16:00:00+00:00"
+        },
+        {
+          "title": "خطط له العربي بن المهدي عام 1957.. كيف واجهت فرنسا إضراب الأيام الثمانية في الجزائر ؟",
+          "link": "https://www.youtube.com/watch?v=51a8Ubw4Frc",
+          "videoId": "51a8Ubw4Frc",
+          "pubDate": "2026-03-08T15:30:00+00:00"
+        },
+        {
           "title": "مقام الأربعين في سوريا المسجد الذي صلى فيه الأنبياء وشهد أول جريمة في التاريخ",
           "link": "https://www.youtube.com/watch?v=-OFCZ6UivB4",
           "videoId": "-OFCZ6UivB4",
           "pubDate": "2026-03-08T14:30:01+00:00"
-        },
-        {
-          "title": "قبل 3500 عام… هل أدرك أبناء الحضارة المينوية أنهم يعيشون بجوار فوهة بركان نشط؟",
-          "link": "https://www.youtube.com/watch?v=1PiPKwALJ6Y",
-          "videoId": "1PiPKwALJ6Y",
-          "pubDate": "2026-03-08T13:00:01+00:00"
-        },
-        {
-          "title": "أسير محرر: \"لم يكن لنا سوى الرسائل المهربة لنتواصل مع ذوينا\"",
-          "link": "https://www.youtube.com/watch?v=iBqPdTuPjxI",
-          "videoId": "iBqPdTuPjxI",
-          "pubDate": "2026-03-08T12:00:01+00:00"
         }
       ],
       "ok": true
