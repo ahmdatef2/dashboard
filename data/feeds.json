@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-08T17:13:09.799746+00:00",
+  "updated": "2026-03-08T18:16:39.242710+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -397,6 +397,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "الإذاعة الجزائرية منبر برنامج صوت فلسطين في السبعينيات",
+          "link": "https://www.youtube.com/watch?v=_tmaS59iFFM",
+          "videoId": "_tmaS59iFFM",
+          "pubDate": "2026-03-08T18:00:01+00:00"
+        },
+        {
           "title": "كيف يهدد زحف الرمال مخطوطات شنقيط؟",
           "link": "https://www.youtube.com/watch?v=Rnojvycq-hY",
           "videoId": "Rnojvycq-hY",
@@ -407,12 +413,6 @@
           "link": "https://www.youtube.com/watch?v=51a8Ubw4Frc",
           "videoId": "51a8Ubw4Frc",
           "pubDate": "2026-03-08T15:30:00+00:00"
-        },
-        {
-          "title": "مقام الأربعين في سوريا المسجد الذي صلى فيه الأنبياء وشهد أول جريمة في التاريخ",
-          "link": "https://www.youtube.com/watch?v=-OFCZ6UivB4",
-          "videoId": "-OFCZ6UivB4",
-          "pubDate": "2026-03-08T14:30:01+00:00"
         }
       ],
       "ok": true
