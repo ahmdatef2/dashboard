@@ -1,12 +1,31 @@
 {
-  "updated": "2026-03-08T06:27:40.387678+00:00",
+  "updated": "2026-03-08T07:22:43.837579+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
       "name": "د. هبة أحمد",
-      "feedTitle": "د. هبة أحمد",
-      "items": [],
-      "ok": false
+      "feedTitle": "Heba Ahmed - هبة احمد",
+      "items": [
+        {
+          "title": "المواجهة بتسخن 🔥 GPT-5.4 الجديد في اختبار ضد Gemini",
+          "link": "https://www.youtube.com/watch?v=LIwkZovua9k",
+          "videoId": "LIwkZovua9k",
+          "pubDate": "2026-03-06T21:04:00+00:00"
+        },
+        {
+          "title": "وحش التصميم الجديد Nano Banana 2 🍌🔥 | وداعاً للفوتوشوب (أوامر سحرية للتصميم والمذاكرة!)",
+          "link": "https://www.youtube.com/watch?v=EAGBzSOsbvM",
+          "videoId": "EAGBzSOsbvM",
+          "pubDate": "2026-02-27T19:35:08+00:00"
+        },
+        {
+          "title": "Gemini Canvas طلع أقوى مما تتخيل! 6 استخدامات عملية",
+          "link": "https://www.youtube.com/watch?v=8-P4IKg9mdg",
+          "videoId": "8-P4IKg9mdg",
+          "pubDate": "2026-02-25T20:19:57+00:00"
+        }
+      ],
+      "ok": true
     },
     "UC2jjW7c63dqOPkfMm3P-u3w": {
       "handle": "every_day_a_new_website",
@@ -39,9 +58,28 @@
     "UC9ocsRoOwj9tkAQNfUt8ZJg": {
       "handle": "PythonArab",
       "name": "بايثون عربي",
-      "feedTitle": "بايثون عربي",
-      "items": [],
-      "ok": false
+      "feedTitle": "Python Arabic Community",
+      "items": [
+        {
+          "title": "مبادرة رمضان الأثر - مجتمع إتقان (جوائز لا تقدر بثمن تنتظركم🎁)",
+          "link": "https://www.youtube.com/watch?v=TKET-IN0dLo",
+          "videoId": "TKET-IN0dLo",
+          "pubDate": "2026-03-05T21:44:12+00:00"
+        },
+        {
+          "title": "بناء تطبيق لتحويل الصور إلى نصوص (OCR) في أقل من 15 دقيقة مع Mistral OCR ! يدعم العربي",
+          "link": "https://www.youtube.com/watch?v=xaCM3rwr_84",
+          "videoId": "xaCM3rwr_84",
+          "pubDate": "2026-03-02T17:50:01+00:00"
+        },
+        {
+          "title": "من الفكرة إلى App Store: كيف تصنع تطبيق Native حقيقي بالذكاء الاصطناعي (بدون كود) 📱",
+          "link": "https://www.youtube.com/watch?v=ZK-9O8SUPBs",
+          "videoId": "ZK-9O8SUPBs",
+          "pubDate": "2026-02-24T18:01:57+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCSNkfKl4cU-55Nm-ovsvOHQ": {
       "handle": "elzerowebschool",
@@ -74,35 +112,35 @@
     "UCu1NJiJlhrhmF5ZgT-0yWdA": {
       "handle": "Jeelyaqraa",
       "name": "جيل يقرأ",
-      "feedTitle": "جيل يقرأ",
-      "items": [],
-      "ok": false
+      "feedTitle": "ReadTube - جيل يقرأ",
+      "items": [
+        {
+          "title": "الذين ضحكوا حتى البكاء -ملخص لكتاب د. مصطفى محمود",
+          "link": "https://www.youtube.com/watch?v=bSbrMABmf4E",
+          "videoId": "bSbrMABmf4E",
+          "pubDate": "2026-03-03T20:46:03+00:00"
+        },
+        {
+          "title": "المسيري يتنبأ بالمستقبل",
+          "link": "https://www.youtube.com/watch?v=N2hD24PnJQ4",
+          "videoId": "N2hD24PnJQ4",
+          "pubDate": "2026-03-01T20:56:54+00:00"
+        },
+        {
+          "title": "المسيري يفضح الفكر الابستيني - كتاب :الفلسفة المادية وتفكيك الإنسان",
+          "link": "https://www.youtube.com/watch?v=A9FEkTJhvfU",
+          "videoId": "A9FEkTJhvfU",
+          "pubDate": "2026-02-22T19:01:53+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCtUor2SqesPS3b_SMFtLT_w": {
       "handle": "a5drcom",
       "name": "أخضر",
       "feedTitle": "أخضر",
-      "items": [
-        {
-          "title": "السيجارة الأخيرة: الطريقة السهلة للإقلاع عن التدخين😵‍💫",
-          "link": "https://www.youtube.com/watch?v=o2MNAhVw6V4",
-          "videoId": "o2MNAhVw6V4",
-          "pubDate": "2026-03-07T20:02:49+00:00"
-        },
-        {
-          "title": "النوم والأحلام والجاثوم 😴👹 كتاب: سيكولوجية الأحلام🛌 #أخضر",
-          "link": "https://www.youtube.com/watch?v=sBxquJV6J6Y",
-          "videoId": "sBxquJV6J6Y",
-          "pubDate": "2026-03-06T16:01:31+00:00"
-        },
-        {
-          "title": "كيف تصنع قلوبنا حياتنا؟!",
-          "link": "https://www.youtube.com/watch?v=xdd1MQU6HaA",
-          "videoId": "xdd1MQU6HaA",
-          "pubDate": "2026-03-06T14:31:00+00:00"
-        }
-      ],
-      "ok": true
+      "items": [],
+      "ok": false
     },
     "UCUjRjJ1-h3oUx40gf2tuh3w": {
       "handle": "Sha5bata",
@@ -121,9 +159,28 @@
     "UCJlu6BjPWHZhzuCc0zVME0Q": {
       "handle": "Dupamicaffeine",
       "name": "دوباميكافيين",
-      "feedTitle": "دوباميكافيين",
-      "items": [],
-      "ok": false
+      "feedTitle": "دوباميكافين Dupamicaffeine",
+      "items": [
+        {
+          "title": "كيف تحقق أهدافك - شرح كامل لكتاب الاثنى عشر أسبوع - دوباميكافين",
+          "link": "https://www.youtube.com/watch?v=4Ai5WEOHzgs",
+          "videoId": "4Ai5WEOHzgs",
+          "pubDate": "2026-03-04T19:00:02+00:00"
+        },
+        {
+          "title": "خطط أسبوعيًا - كل أسبوع يعادل شهر - كتاب سنة الإثنى عشر أسبوع - الجزء الثاني - دوباميكافين",
+          "link": "https://www.youtube.com/watch?v=TKT9HEHvHXY",
+          "videoId": "TKT9HEHvHXY",
+          "pubDate": "2026-02-28T19:17:08+00:00"
+        },
+        {
+          "title": "كيف تحقق أهدافك خلال 12 أسبوع - كتاب سنة الإثنى عشر أسبوع - الجزء الأول - دوباميكافين",
+          "link": "https://www.youtube.com/watch?v=clC_QLbBxT0",
+          "videoId": "clC_QLbBxT0",
+          "pubDate": "2026-02-01T13:00:07+00:00"
+        }
+      ],
+      "ok": true
     },
     "UC0LSnqrwqtMwl2YwfUpO66g": {
       "handle": "aljazeeradocumentary",
@@ -135,9 +192,28 @@
     "UCArK7aSQ68vRCiJY2m7spkA": {
       "handle": "AsharqDoc",
       "name": "الشرق الوثائقية",
-      "feedTitle": "الشرق الوثائقية",
-      "items": [],
-      "ok": false
+      "feedTitle": "Asharq Documentary الشرق الوثائقية",
+      "items": [
+        {
+          "title": "بين العقل والجسد | مخاطر الوحدة - الشرق الوثائقية",
+          "link": "https://www.youtube.com/watch?v=11_cYu1TUEw",
+          "videoId": "11_cYu1TUEw",
+          "pubDate": "2026-03-07T19:00:02+00:00"
+        },
+        {
+          "title": "الطب العربي.. الكنوز المجهولة | الشرق الوثائقية",
+          "link": "https://www.youtube.com/watch?v=tFppOcbFRE4",
+          "videoId": "tFppOcbFRE4",
+          "pubDate": "2026-03-06T19:00:52+00:00"
+        },
+        {
+          "title": "ما اللغة التي يتحدث بها اليهود الحسيديون؟",
+          "link": "https://www.youtube.com/watch?v=1VkNfMRtGpA",
+          "videoId": "1VkNfMRtGpA",
+          "pubDate": "2026-03-06T14:00:07+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCLiTe0aOHShx7hXGyqZ9UIw": {
       "handle": "natgeoabudhabime",
