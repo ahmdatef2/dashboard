@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-09T21:20:56.845553+00:00",
+  "updated": "2026-03-09T22:15:56.365990+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -189,6 +189,12 @@
       "feedTitle": "ذكاء اصطناعي عربي",
       "items": [
         {
+          "title": "صراع كلب و أسد Lion and pit bull clash in dust #ai",
+          "link": "https://www.youtube.com/watch?v=Chpwa4wb734",
+          "videoId": "Chpwa4wb734",
+          "pubDate": "2026-03-09T22:06:04+00:00"
+        },
+        {
           "title": "What is Transformers? | شرح المحوّلات",
           "link": "https://www.youtube.com/watch?v=whuZ-9Ulxac",
           "videoId": "whuZ-9Ulxac",
@@ -199,12 +205,6 @@
           "link": "https://www.youtube.com/watch?v=fAyOT3VNacI",
           "videoId": "fAyOT3VNacI",
           "pubDate": "2026-03-08T11:01:09+00:00"
-        },
-        {
-          "title": "What is Reinforcement Learning? | شرح التعلم المعزز",
-          "link": "https://www.youtube.com/watch?v=i2nlqA6XK9k",
-          "videoId": "i2nlqA6XK9k",
-          "pubDate": "2026-03-07T13:46:46+00:00"
         }
       ],
       "ok": true
@@ -397,6 +397,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "أسير محرر يمدح صمود زوجته طوال 20 عاما من اعتقاله",
+          "link": "https://www.youtube.com/watch?v=tlpBQ8e1Wio",
+          "videoId": "tlpBQ8e1Wio",
+          "pubDate": "2026-03-09T21:37:22+00:00"
+        },
+        {
           "title": "بقرار وقعه بوش الأب عام 1991 الهدف كان \"صدام\" لا أسلحة الدمار الشامل",
           "link": "https://www.youtube.com/watch?v=lFby3_M5Eh0",
           "videoId": "lFby3_M5Eh0",
@@ -407,12 +413,6 @@
           "link": "https://www.youtube.com/watch?v=S0WRyZmxVRs",
           "videoId": "S0WRyZmxVRs",
           "pubDate": "2026-03-09T19:00:01+00:00"
-        },
-        {
-          "title": "كيف كسب عمر المختار ثقة الليبيين؟",
-          "link": "https://www.youtube.com/watch?v=gfiJp4Qw10Y",
-          "videoId": "gfiJp4Qw10Y",
-          "pubDate": "2026-03-09T14:30:01+00:00"
         }
       ],
       "ok": true
