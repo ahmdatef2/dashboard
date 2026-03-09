@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-09T13:57:06.505152+00:00",
+  "updated": "2026-03-09T14:43:43.505032+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -85,6 +85,12 @@
       "feedTitle": "عبداللطيف سعيد Abdellatif Said",
       "items": [
         {
+          "title": "الريمونتادا الكبرى: تحديث ChatGPT 5.4 اللي هيتحكم في كمبيوترك مكانك!",
+          "link": "https://www.youtube.com/watch?v=PEsJ0a1fPtI",
+          "videoId": "PEsJ0a1fPtI",
+          "pubDate": "2026-03-09T14:15:04+00:00"
+        },
+        {
           "title": "وداعاً ChatGPT.. أفضل بدائل الذكاء الاصطناعي اللي هتنجزلك شغلك وتنقذ بياناتك (دليل شامل)!",
           "link": "https://www.youtube.com/watch?v=jNbcD4GH7ag",
           "videoId": "jNbcD4GH7ag",
@@ -95,12 +101,6 @@
           "link": "https://www.youtube.com/watch?v=oFMXfKK8Gtc",
           "videoId": "oFMXfKK8Gtc",
           "pubDate": "2026-03-05T14:15:11+00:00"
-        },
-        {
-          "title": "كارثة ChatGPT.. إزاي البنتاجون بيستخدم بياناتك وليه ترامب طرد Claude؟",
-          "link": "https://www.youtube.com/watch?v=7JbiRGsJn44",
-          "videoId": "7JbiRGsJn44",
-          "pubDate": "2026-03-03T14:15:02+00:00"
         }
       ],
       "ok": true
@@ -397,6 +397,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "كيف كسب عمر المختار ثقة الليبيين؟",
+          "link": "https://www.youtube.com/watch?v=gfiJp4Qw10Y",
+          "videoId": "gfiJp4Qw10Y",
+          "pubDate": "2026-03-09T14:30:01+00:00"
+        },
+        {
           "title": "فارس غلوب ضابط بريطاني دخل الإسلام ودافع عن فلسطين",
           "link": "https://www.youtube.com/watch?v=BeBZfDf_Ikw",
           "videoId": "BeBZfDf_Ikw",
@@ -407,12 +413,6 @@
           "link": "https://www.youtube.com/watch?v=_tmaS59iFFM",
           "videoId": "_tmaS59iFFM",
           "pubDate": "2026-03-08T18:00:01+00:00"
-        },
-        {
-          "title": "كيف يهدد زحف الرمال مخطوطات شنقيط؟",
-          "link": "https://www.youtube.com/watch?v=Rnojvycq-hY",
-          "videoId": "Rnojvycq-hY",
-          "pubDate": "2026-03-08T16:00:00+00:00"
         }
       ],
       "ok": true
