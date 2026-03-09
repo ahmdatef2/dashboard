@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-09T19:31:30.002297+00:00",
+  "updated": "2026-03-09T20:19:04.153760+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -397,6 +397,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "بقرار وقعه بوش الأب عام 1991 الهدف كان \"صدام\" لا أسلحة الدمار الشامل",
+          "link": "https://www.youtube.com/watch?v=lFby3_M5Eh0",
+          "videoId": "lFby3_M5Eh0",
+          "pubDate": "2026-03-09T20:00:01+00:00"
+        },
+        {
           "title": "بين مقديشو وأم درمان.. ذكريات الزمن الجميل",
           "link": "https://www.youtube.com/watch?v=S0WRyZmxVRs",
           "videoId": "S0WRyZmxVRs",
@@ -407,12 +413,6 @@
           "link": "https://www.youtube.com/watch?v=gfiJp4Qw10Y",
           "videoId": "gfiJp4Qw10Y",
           "pubDate": "2026-03-09T14:30:01+00:00"
-        },
-        {
-          "title": "فارس غلوب ضابط بريطاني دخل الإسلام ودافع عن فلسطين",
-          "link": "https://www.youtube.com/watch?v=BeBZfDf_Ikw",
-          "videoId": "BeBZfDf_Ikw",
-          "pubDate": "2026-03-09T09:30:01+00:00"
         }
       ],
       "ok": true
