@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-09T10:33:06.883772+00:00",
+  "updated": "2026-03-09T11:26:12.687037+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -189,6 +189,12 @@
       "feedTitle": "ذكاء اصطناعي عربي",
       "items": [
         {
+          "title": "What is Transformers? | شرح المحوّلات",
+          "link": "https://www.youtube.com/watch?v=whuZ-9Ulxac",
+          "videoId": "whuZ-9Ulxac",
+          "pubDate": "2026-03-09T11:01:29+00:00"
+        },
+        {
           "title": "What is Attention? | شرح آلية الانتباه",
           "link": "https://www.youtube.com/watch?v=fAyOT3VNacI",
           "videoId": "fAyOT3VNacI",
@@ -199,12 +205,6 @@
           "link": "https://www.youtube.com/watch?v=i2nlqA6XK9k",
           "videoId": "i2nlqA6XK9k",
           "pubDate": "2026-03-07T13:46:46+00:00"
-        },
-        {
-          "title": "What is Unsupervised Learning? | شرح التعلم غير الخاضع للإشراف",
-          "link": "https://www.youtube.com/watch?v=6SJkuSUPZ_M",
-          "videoId": "6SJkuSUPZ_M",
-          "pubDate": "2026-03-06T14:12:03+00:00"
         }
       ],
       "ok": true
