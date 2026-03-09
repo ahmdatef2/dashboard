@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-09T16:43:43.719493+00:00",
+  "updated": "2026-03-09T17:38:08.045574+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -59,6 +59,12 @@
       "feedTitle": "Infotech4you - مروي سليمان",
       "items": [
         {
+          "title": "السيطرة المطلقة على تعديل الصور مع القوة المزدوجة Gemini + Nano Banana 2",
+          "link": "https://www.youtube.com/watch?v=gF1CSQCkkEU",
+          "videoId": "gF1CSQCkkEU",
+          "pubDate": "2026-03-09T16:53:52+00:00"
+        },
+        {
           "title": "أخيراً! كورسات Anthropic الرسمية مجاناً.. احترف Claude AI واحصل على شهادة 🎓",
           "link": "https://www.youtube.com/watch?v=xtWQl8UPGXo",
           "videoId": "xtWQl8UPGXo",
@@ -69,12 +75,6 @@
           "link": "https://www.youtube.com/watch?v=DC8JITgcgn4",
           "videoId": "DC8JITgcgn4",
           "pubDate": "2026-03-06T20:44:58+00:00"
-        },
-        {
-          "title": "Google Gemini 3.1 Flash Lite is here 🤯!",
-          "link": "https://www.youtube.com/watch?v=Bwxswc8dip8",
-          "videoId": "Bwxswc8dip8",
-          "pubDate": "2026-03-05T18:12:58+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "ريبورتاج | المعارضة البيلاروسية في المنفى | وثائقية دي دبليو",
+          "link": "https://www.youtube.com/watch?v=47ona57fB0Y",
+          "videoId": "47ona57fB0Y",
+          "pubDate": "2026-03-09T17:00:09+00:00"
+        },
+        {
           "title": "وثائقي | هل الهند في طريقها لأن تصبح قوة اقتصادية؟ | وثائقية دي دبليو",
           "link": "https://www.youtube.com/watch?v=R4cg7bVFHKI",
           "videoId": "R4cg7bVFHKI",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=fRhn-XvUs-4",
           "videoId": "fRhn-XvUs-4",
           "pubDate": "2026-03-07T17:01:01+00:00"
-        },
-        {
-          "title": "#وثائقي أخطر قمة في جبال الألب",
-          "link": "https://www.youtube.com/watch?v=gt4YApyAIfM",
-          "videoId": "gt4YApyAIfM",
-          "pubDate": "2026-03-07T10:15:04+00:00"
         }
       ],
       "ok": true
