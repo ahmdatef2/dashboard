@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-09T05:14:26.781061+00:00",
+  "updated": "2026-03-09T06:44:55.449488+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -88,28 +88,9 @@
     "UCUjRjJ1-h3oUx40gf2tuh3w": {
       "handle": "Sha5bata",
       "name": "شخبطة",
-      "feedTitle": "شخبطة Sha5bata",
-      "items": [
-        {
-          "title": "30 رسالة عشان تحب الصلاة.. الرسالة 5",
-          "link": "https://www.youtube.com/watch?v=XhtqZm56Pss",
-          "videoId": "XhtqZm56Pss",
-          "pubDate": "2026-02-27T13:21:19+00:00"
-        },
-        {
-          "title": "كيف تُنظم وقتك مثل السلف الصالح .. ستتغير حياتك للأبد !",
-          "link": "https://www.youtube.com/watch?v=46h0sA5idsY",
-          "videoId": "46h0sA5idsY",
-          "pubDate": "2026-02-23T14:00:12+00:00"
-        },
-        {
-          "title": "تحدي 30 رسالة في 30 يوم عشان تحب الصلاة.. الرسالة ٤",
-          "link": "https://www.youtube.com/watch?v=3UYSdl0qbNU",
-          "videoId": "3UYSdl0qbNU",
-          "pubDate": "2026-02-20T11:00:07+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "شخبطة",
+      "items": [],
+      "ok": false
     },
     "UChbuH4HULlesX_rzlozkT6Q": {
       "handle": "AliMuhammadAli",
@@ -128,61 +109,42 @@
     "UC0LSnqrwqtMwl2YwfUpO66g": {
       "handle": "aljazeeradocumentary",
       "name": "الجزيرة الوثائقية",
-      "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
-      "items": [
-        {
-          "title": "الإذاعة الجزائرية منبر برنامج صوت فلسطين في السبعينيات",
-          "link": "https://www.youtube.com/watch?v=_tmaS59iFFM",
-          "videoId": "_tmaS59iFFM",
-          "pubDate": "2026-03-08T18:00:01+00:00"
-        },
-        {
-          "title": "كيف يهدد زحف الرمال مخطوطات شنقيط؟",
-          "link": "https://www.youtube.com/watch?v=Rnojvycq-hY",
-          "videoId": "Rnojvycq-hY",
-          "pubDate": "2026-03-08T16:00:00+00:00"
-        },
-        {
-          "title": "خطط له العربي بن المهدي عام 1957.. كيف واجهت فرنسا إضراب الأيام الثمانية في الجزائر ؟",
-          "link": "https://www.youtube.com/watch?v=51a8Ubw4Frc",
-          "videoId": "51a8Ubw4Frc",
-          "pubDate": "2026-03-08T15:30:00+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "الجزيرة الوثائقية",
+      "items": [],
+      "ok": false
     },
     "UCArK7aSQ68vRCiJY2m7spkA": {
       "handle": "AsharqDoc",
       "name": "الشرق الوثائقية",
-      "feedTitle": "Asharq Documentary الشرق الوثائقية",
-      "items": [
-        {
-          "title": "بين العقل والجسد | أهمية الحركة - الشرق الوثائقية",
-          "link": "https://www.youtube.com/watch?v=m5ZtSibsz9o",
-          "videoId": "m5ZtSibsz9o",
-          "pubDate": "2026-03-08T19:00:47+00:00"
-        },
-        {
-          "title": "بين العقل والجسد | مخاطر الوحدة - الشرق الوثائقية",
-          "link": "https://www.youtube.com/watch?v=11_cYu1TUEw",
-          "videoId": "11_cYu1TUEw",
-          "pubDate": "2026-03-07T19:00:02+00:00"
-        },
-        {
-          "title": "الطب العربي.. الكنوز المجهولة | الشرق الوثائقية",
-          "link": "https://www.youtube.com/watch?v=tFppOcbFRE4",
-          "videoId": "tFppOcbFRE4",
-          "pubDate": "2026-03-06T19:00:52+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "الشرق الوثائقية",
+      "items": [],
+      "ok": false
     },
     "UCLiTe0aOHShx7hXGyqZ9UIw": {
       "handle": "natgeoabudhabime",
       "name": "ناشيونال جيوغرافيك",
-      "feedTitle": "ناشيونال جيوغرافيك",
-      "items": [],
-      "ok": false
+      "feedTitle": "Nat Geo Abu Dhabi",
+      "items": [
+        {
+          "title": "الحلقة الأولى | هياكل عملاقة: كاسحة الجليد | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=W4SxLBeI-as",
+          "videoId": "W4SxLBeI-as",
+          "pubDate": "2026-02-26T17:09:26+00:00"
+        },
+        {
+          "title": "الخزفي | مسار الصحوة | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=5V2a8ib5ktA",
+          "videoId": "5V2a8ib5ktA",
+          "pubDate": "2026-02-23T19:15:18+00:00"
+        },
+        {
+          "title": "من باريس إلى بيتسبرغ | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=f8B8HyN7Znw",
+          "videoId": "f8B8HyN7Znw",
+          "pubDate": "2026-02-21T16:24:46+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCET6sWl4Xcu-U8Ka9PJPrwA": {
       "handle": "dwdocarabia",
