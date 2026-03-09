@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-09T09:35:28.868138+00:00",
+  "updated": "2026-03-09T10:33:06.883772+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -215,6 +215,12 @@
       "feedTitle": "Mohamed Ansary",
       "items": [
         {
+          "title": "\"MateCat: ترجمة علمية لملفات pdf  مجاناً دون فقدان التنسيق!",
+          "link": "https://www.youtube.com/watch?v=5Li4pftS7mY",
+          "videoId": "5Li4pftS7mY",
+          "pubDate": "2026-03-09T10:10:06+00:00"
+        },
+        {
           "title": "كيفية عمل عروض تقديمية من خلال Kimi ويدعم اللغة للعربية",
           "link": "https://www.youtube.com/watch?v=-wK_vfsDCYI",
           "videoId": "-wK_vfsDCYI",
@@ -225,12 +231,6 @@
           "link": "https://www.youtube.com/watch?v=LpD2FxYUjsA",
           "videoId": "LpD2FxYUjsA",
           "pubDate": "2026-03-06T15:24:02+00:00"
-        },
-        {
-          "title": "\"Trinka: أقوى أداة AI لتصحيح الكتابة الأكاديمية",
-          "link": "https://www.youtube.com/watch?v=_KPeFRw_cJQ",
-          "videoId": "_KPeFRw_cJQ",
-          "pubDate": "2026-03-06T12:29:13+00:00"
         }
       ],
       "ok": true
@@ -397,6 +397,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "فارس غلوب ضابط بريطاني دخل الإسلام ودافع عن فلسطين",
+          "link": "https://www.youtube.com/watch?v=BeBZfDf_Ikw",
+          "videoId": "BeBZfDf_Ikw",
+          "pubDate": "2026-03-09T09:30:01+00:00"
+        },
+        {
           "title": "الإذاعة الجزائرية منبر برنامج صوت فلسطين في السبعينيات",
           "link": "https://www.youtube.com/watch?v=_tmaS59iFFM",
           "videoId": "_tmaS59iFFM",
@@ -407,12 +413,6 @@
           "link": "https://www.youtube.com/watch?v=Rnojvycq-hY",
           "videoId": "Rnojvycq-hY",
           "pubDate": "2026-03-08T16:00:00+00:00"
-        },
-        {
-          "title": "خطط له العربي بن المهدي عام 1957.. كيف واجهت فرنسا إضراب الأيام الثمانية في الجزائر ؟",
-          "link": "https://www.youtube.com/watch?v=51a8Ubw4Frc",
-          "videoId": "51a8Ubw4Frc",
-          "pubDate": "2026-03-08T15:30:00+00:00"
         }
       ],
       "ok": true
