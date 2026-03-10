@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-10T16:43:12.056013+00:00",
+  "updated": "2026-03-10T17:36:45.516366+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -423,6 +423,12 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "لماذا نشعر بالنعاس بعد الإفطار فورا؟",
+          "link": "https://www.youtube.com/watch?v=8klQ-UVbCJg",
+          "videoId": "8klQ-UVbCJg",
+          "pubDate": "2026-03-10T17:00:49+00:00"
+        },
+        {
           "title": "الأب المفقود: أسرار البحارة الصينيين المختفين في أرشيف الدولة .. المنفيون | الشرق الوثائقية",
           "link": "https://www.youtube.com/watch?v=NaUj86r-Sls",
           "videoId": "NaUj86r-Sls",
@@ -433,12 +439,6 @@
           "link": "https://www.youtube.com/watch?v=m5ZtSibsz9o",
           "videoId": "m5ZtSibsz9o",
           "pubDate": "2026-03-08T19:00:47+00:00"
-        },
-        {
-          "title": "بين العقل والجسد | مخاطر الوحدة - الشرق الوثائقية",
-          "link": "https://www.youtube.com/watch?v=11_cYu1TUEw",
-          "videoId": "11_cYu1TUEw",
-          "pubDate": "2026-03-07T19:00:02+00:00"
         }
       ],
       "ok": true
