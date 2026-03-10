@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-10T18:32:33.184634+00:00",
+  "updated": "2026-03-10T19:30:01.592595+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -423,6 +423,12 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "بين النفي والذاكرة: حكايات ضحايا سياسة الترحيل العرقي في أستراليا .. المنفيون | الشرق الوثائقية",
+          "link": "https://www.youtube.com/watch?v=j5tGnEA0gSY",
+          "videoId": "j5tGnEA0gSY",
+          "pubDate": "2026-03-10T19:00:57+00:00"
+        },
+        {
           "title": "لماذا نشعر بالنعاس بعد الإفطار فورا؟",
           "link": "https://www.youtube.com/watch?v=8klQ-UVbCJg",
           "videoId": "8klQ-UVbCJg",
@@ -433,12 +439,6 @@
           "link": "https://www.youtube.com/watch?v=NaUj86r-Sls",
           "videoId": "NaUj86r-Sls",
           "pubDate": "2026-03-09T19:00:31+00:00"
-        },
-        {
-          "title": "بين العقل والجسد | أهمية الحركة - الشرق الوثائقية",
-          "link": "https://www.youtube.com/watch?v=m5ZtSibsz9o",
-          "videoId": "m5ZtSibsz9o",
-          "pubDate": "2026-03-08T19:00:47+00:00"
         }
       ],
       "ok": true
