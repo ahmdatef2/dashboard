@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-10T15:46:59.290609+00:00",
+  "updated": "2026-03-10T16:43:12.056013+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -189,6 +189,12 @@
       "feedTitle": "ذكاء اصطناعي عربي",
       "items": [
         {
+          "title": "What is Foundation Model? | شرح النموذج التأسيسي",
+          "link": "https://www.youtube.com/watch?v=ROUocE7p6ZY",
+          "videoId": "ROUocE7p6ZY",
+          "pubDate": "2026-03-10T16:37:14+00:00"
+        },
+        {
           "title": "صراع كلب و أسد Lion and pit bull clash in dust #ai",
           "link": "https://www.youtube.com/watch?v=Chpwa4wb734",
           "videoId": "Chpwa4wb734",
@@ -199,12 +205,6 @@
           "link": "https://www.youtube.com/watch?v=whuZ-9Ulxac",
           "videoId": "whuZ-9Ulxac",
           "pubDate": "2026-03-09T11:01:29+00:00"
-        },
-        {
-          "title": "What is Attention? | شرح آلية الانتباه",
-          "link": "https://www.youtube.com/watch?v=fAyOT3VNacI",
-          "videoId": "fAyOT3VNacI",
-          "pubDate": "2026-03-08T11:01:09+00:00"
         }
       ],
       "ok": true
