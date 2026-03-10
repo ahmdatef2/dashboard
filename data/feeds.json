@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-10T00:55:04.989999+00:00",
+  "updated": "2026-03-10T03:18:45.999127+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -56,28 +56,9 @@
     "UCKD8vOz3maRPyLAbMXhr-Pw": {
       "handle": "infotech4you_Marwasoliman",
       "name": "مروة سليمان",
-      "feedTitle": "Infotech4you - مروي سليمان",
-      "items": [
-        {
-          "title": "السيطرة المطلقة على تعديل الصور مع القوة المزدوجة Gemini + Nano Banana 2",
-          "link": "https://www.youtube.com/watch?v=gF1CSQCkkEU",
-          "videoId": "gF1CSQCkkEU",
-          "pubDate": "2026-03-09T16:53:52+00:00"
-        },
-        {
-          "title": "أخيراً! كورسات Anthropic الرسمية مجاناً.. احترف Claude AI واحصل على شهادة 🎓",
-          "link": "https://www.youtube.com/watch?v=xtWQl8UPGXo",
-          "videoId": "xtWQl8UPGXo",
-          "pubDate": "2026-03-07T21:48:31+00:00"
-        },
-        {
-          "title": "جوجل وتحديثات ضخمة  داخل NotebookLM: توليد أفلام سينيمائية ومفاجاة داخل المخططات البيانية!",
-          "link": "https://www.youtube.com/watch?v=DC8JITgcgn4",
-          "videoId": "DC8JITgcgn4",
-          "pubDate": "2026-03-06T20:44:58+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "مروة سليمان",
+      "items": [],
+      "ok": false
     },
     "UCSRy-3lglM2QKJ_xF2zuPlQ": {
       "handle": "AbdellatifSaidA",
@@ -134,54 +115,16 @@
     "UC9ocsRoOwj9tkAQNfUt8ZJg": {
       "handle": "PythonArab",
       "name": "بايثون عربي",
-      "feedTitle": "Python Arabic Community",
-      "items": [
-        {
-          "title": "مبادرة رمضان الأثر - مجتمع إتقان (جوائز لا تقدر بثمن تنتظركم🎁)",
-          "link": "https://www.youtube.com/watch?v=TKET-IN0dLo",
-          "videoId": "TKET-IN0dLo",
-          "pubDate": "2026-03-05T21:44:12+00:00"
-        },
-        {
-          "title": "بناء تطبيق لتحويل الصور إلى نصوص (OCR) في أقل من 15 دقيقة مع Mistral OCR ! يدعم العربي",
-          "link": "https://www.youtube.com/watch?v=xaCM3rwr_84",
-          "videoId": "xaCM3rwr_84",
-          "pubDate": "2026-03-02T17:50:01+00:00"
-        },
-        {
-          "title": "من الفكرة إلى App Store: كيف تصنع تطبيق Native حقيقي بالذكاء الاصطناعي (بدون كود) 📱",
-          "link": "https://www.youtube.com/watch?v=ZK-9O8SUPBs",
-          "videoId": "ZK-9O8SUPBs",
-          "pubDate": "2026-02-24T18:01:57+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "بايثون عربي",
+      "items": [],
+      "ok": false
     },
     "UCSNkfKl4cU-55Nm-ovsvOHQ": {
       "handle": "elzerowebschool",
       "name": "Elzero Web School",
       "feedTitle": "Elzero Web School",
-      "items": [
-        {
-          "title": "مبادرة هتطورك في البرمجة وتاخد ثواب وفرصة لرحلة عمرة",
-          "link": "https://www.youtube.com/watch?v=1n4AJdviibs",
-          "videoId": "1n4AJdviibs",
-          "pubDate": "2026-03-03T19:47:57+00:00"
-        },
-        {
-          "title": "توظيف البشر لصالح الذكاء الاصطناعي",
-          "link": "https://www.youtube.com/watch?v=4XBhqzlYJGY",
-          "videoId": "4XBhqzlYJGY",
-          "pubDate": "2026-02-16T10:47:19+00:00"
-        },
-        {
-          "title": "هل الذكاء الاصطناعي هيخلي السوق اصعب ؟",
-          "link": "https://www.youtube.com/watch?v=c-MANp0eKq4",
-          "videoId": "c-MANp0eKq4",
-          "pubDate": "2026-02-15T17:20:33+00:00"
-        }
-      ],
-      "ok": true
+      "items": [],
+      "ok": false
     },
     "UCGrVvqu8PlVv0wPqA5kgY8A": {
       "handle": "ArabicArtificialIntelligence",
@@ -472,28 +415,9 @@
     "UCET6sWl4Xcu-U8Ka9PJPrwA": {
       "handle": "dwdocarabia",
       "name": "DW عربية وثائقي",
-      "feedTitle": "DW Documentary وثائقية دي دبليو",
-      "items": [
-        {
-          "title": "ريبورتاج | المعارضة البيلاروسية في المنفى | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=47ona57fB0Y",
-          "videoId": "47ona57fB0Y",
-          "pubDate": "2026-03-09T17:00:09+00:00"
-        },
-        {
-          "title": "وثائقي | هل الهند في طريقها لأن تصبح قوة اقتصادية؟ | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=R4cg7bVFHKI",
-          "videoId": "R4cg7bVFHKI",
-          "pubDate": "2026-03-08T17:00:42+00:00"
-        },
-        {
-          "title": "وثائقي | المزارعون الشباب في إيطاليا - مزارع عضوي بدلاً من عاطل عن العمل | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=fRhn-XvUs-4",
-          "videoId": "fRhn-XvUs-4",
-          "pubDate": "2026-03-07T17:01:01+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "DW عربية وثائقي",
+      "items": [],
+      "ok": false
     }
   }
 }
