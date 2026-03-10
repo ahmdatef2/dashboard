@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-10T17:36:45.516366+00:00",
+  "updated": "2026-03-10T18:32:33.184634+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -33,6 +33,12 @@
       "feedTitle": "كل يوم موقع جديد",
       "items": [
         {
+          "title": "أشياء مذهلة يمكنك فعلها بـ Gemini يجب أن تعرفها الآن!",
+          "link": "https://www.youtube.com/watch?v=tsHdOcTpmLk",
+          "videoId": "tsHdOcTpmLk",
+          "pubDate": "2026-03-10T18:05:30+00:00"
+        },
+        {
           "title": "وداعاً للبحث! اكتشفت \"الكنز\" الذي يضم جميع أدوات الـ AI مجاناً حتى الفيديو 🤯",
           "link": "https://www.youtube.com/watch?v=_lWxvfjSlYE",
           "videoId": "_lWxvfjSlYE",
@@ -43,12 +49,6 @@
           "link": "https://www.youtube.com/watch?v=jNWT4qymChE",
           "videoId": "jNWT4qymChE",
           "pubDate": "2026-03-07T18:33:52+00:00"
-        },
-        {
-          "title": "استنسخ صوتك بالإنجليزية ! 🔥تعرف على  نموذج Z AI المجاني ...",
-          "link": "https://www.youtube.com/watch?v=FEzOa4fmv6Y",
-          "videoId": "FEzOa4fmv6Y",
-          "pubDate": "2026-03-06T23:20:24+00:00"
         }
       ],
       "ok": true
@@ -397,6 +397,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "خلافات العائلات الفلسطينية في قلب الأرشيف الصهيوني الاستخباراتي قبل 1948",
+          "link": "https://www.youtube.com/watch?v=h8utZyovSJ8",
+          "videoId": "h8utZyovSJ8",
+          "pubDate": "2026-03-10T18:00:01+00:00"
+        },
+        {
           "title": "\"كان جوايا سكاكين\" أسير محرر حرم من رؤية ابنته الوحيدة",
           "link": "https://www.youtube.com/watch?v=UnYWBIBEYd4",
           "videoId": "UnYWBIBEYd4",
@@ -407,12 +413,6 @@
           "link": "https://www.youtube.com/watch?v=gf5XDOXhcRg",
           "videoId": "gf5XDOXhcRg",
           "pubDate": "2026-03-10T09:30:00+00:00"
-        },
-        {
-          "title": "أسير محرر يمدح صمود زوجته طوال 20 عاما من اعتقاله",
-          "link": "https://www.youtube.com/watch?v=tlpBQ8e1Wio",
-          "videoId": "tlpBQ8e1Wio",
-          "pubDate": "2026-03-09T21:37:22+00:00"
         }
       ],
       "ok": true
@@ -475,22 +475,22 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
-          "title": "ريبورتاج | المعارضة البيلاروسية في المنفى | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=47ona57fB0Y",
-          "videoId": "47ona57fB0Y",
-          "pubDate": "2026-03-09T17:00:09+00:00"
+          "title": "وثائقي | شبكة حزب الله – من يقف وراء اغتيال رفيق الحريري؟ (3/2) | وثائقية دي دبليو",
+          "link": "https://www.youtube.com/watch?v=-AQW10di2rU",
+          "videoId": "-AQW10di2rU",
+          "pubDate": "2026-03-10T17:36:53+00:00"
         },
         {
-          "title": "وثائقي | هل الهند في طريقها لأن تصبح قوة اقتصادية؟ | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=R4cg7bVFHKI",
-          "videoId": "R4cg7bVFHKI",
-          "pubDate": "2026-03-08T17:00:42+00:00"
+          "title": "وثائقي | شبكة حزب الله - غسيل أموال في أوروبا (3/3) | وثائقية دي دبليو",
+          "link": "https://www.youtube.com/watch?v=-20YJdU0Kbo",
+          "videoId": "-20YJdU0Kbo",
+          "pubDate": "2026-03-10T17:36:21+00:00"
         },
         {
-          "title": "وثائقي | المزارعون الشباب في إيطاليا - مزارع عضوي بدلاً من عاطل عن العمل | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=fRhn-XvUs-4",
-          "videoId": "fRhn-XvUs-4",
-          "pubDate": "2026-03-07T17:01:01+00:00"
+          "title": "وثائقي | شبكة حزب الله - تجارة مخدرات وإرهاب (3/1) | وثائقية دي دبليو",
+          "link": "https://www.youtube.com/watch?v=mmEOvdkVDv0",
+          "videoId": "mmEOvdkVDv0",
+          "pubDate": "2026-03-10T17:35:28+00:00"
         }
       ],
       "ok": true
