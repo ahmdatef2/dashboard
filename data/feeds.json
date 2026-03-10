@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-10T20:20:06.825035+00:00",
+  "updated": "2026-03-10T21:19:34.458266+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -111,6 +111,12 @@
       "feedTitle": "AMR SALEM _ عمرو سالم",
       "items": [
         {
+          "title": "انشئ راديو احترافي خاص بك علي antigravity بالمجان",
+          "link": "https://www.youtube.com/watch?v=atTewFWJyTc",
+          "videoId": "atTewFWJyTc",
+          "pubDate": "2026-03-10T21:10:14+00:00"
+        },
+        {
           "title": "شركة Anthropic نزلت كورس مجاني لتعلم Claude وبناء AI Agents",
           "link": "https://www.youtube.com/watch?v=cOq2d3nOA6o",
           "videoId": "cOq2d3nOA6o",
@@ -121,12 +127,6 @@
           "link": "https://www.youtube.com/watch?v=c3RWBcQw3D8",
           "videoId": "c3RWBcQw3D8",
           "pubDate": "2026-03-05T17:01:02+00:00"
-        },
-        {
-          "title": "جوجل تطلق اسرع نموذج في العالم  . gemini 3.1 flash lite",
-          "link": "https://www.youtube.com/watch?v=ng06FIDtMDk",
-          "videoId": "ng06FIDtMDk",
-          "pubDate": "2026-03-04T20:33:48+00:00"
         }
       ],
       "ok": true
@@ -136,6 +136,12 @@
       "name": "بايثون عربي",
       "feedTitle": "Python Arabic Community",
       "items": [
+        {
+          "title": "الذكاء الاصطناعي 🚀 | 83 | صفقة البنتاغون السرية وحرب سام ألتمان.. مفاتيح الاستخبارات بيدك",
+          "link": "https://www.youtube.com/watch?v=aBM1Y6M3YRE",
+          "videoId": "aBM1Y6M3YRE",
+          "pubDate": "2026-03-10T21:18:47+00:00"
+        },
         {
           "title": "مبادرة رمضان الأثر - مجتمع إتقان (جوائز لا تقدر بثمن تنتظركم🎁)",
           "link": "https://www.youtube.com/watch?v=TKET-IN0dLo",
@@ -147,12 +153,6 @@
           "link": "https://www.youtube.com/watch?v=xaCM3rwr_84",
           "videoId": "xaCM3rwr_84",
           "pubDate": "2026-03-02T17:50:01+00:00"
-        },
-        {
-          "title": "من الفكرة إلى App Store: كيف تصنع تطبيق Native حقيقي بالذكاء الاصطناعي (بدون كود) 📱",
-          "link": "https://www.youtube.com/watch?v=ZK-9O8SUPBs",
-          "videoId": "ZK-9O8SUPBs",
-          "pubDate": "2026-02-24T18:01:57+00:00"
         }
       ],
       "ok": true
