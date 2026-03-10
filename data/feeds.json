@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-10T19:30:01.592595+00:00",
+  "updated": "2026-03-10T20:20:06.825035+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -397,6 +397,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "مصطفى غربي قارئ مغربي كفيف شدّ القلوب وأبهر الأسماع",
+          "link": "https://www.youtube.com/watch?v=aDuHJszCLy4",
+          "videoId": "aDuHJszCLy4",
+          "pubDate": "2026-03-10T20:00:01+00:00"
+        },
+        {
           "title": "خلافات العائلات الفلسطينية في قلب الأرشيف الصهيوني الاستخباراتي قبل 1948",
           "link": "https://www.youtube.com/watch?v=h8utZyovSJ8",
           "videoId": "h8utZyovSJ8",
@@ -407,12 +413,6 @@
           "link": "https://www.youtube.com/watch?v=UnYWBIBEYd4",
           "videoId": "UnYWBIBEYd4",
           "pubDate": "2026-03-10T11:00:00+00:00"
-        },
-        {
-          "title": "جون فريدريكسن.. كيف أصبح بفضل إيران مالك أكبر أسطول عالمي لشحن النفط؟",
-          "link": "https://www.youtube.com/watch?v=gf5XDOXhcRg",
-          "videoId": "gf5XDOXhcRg",
-          "pubDate": "2026-03-10T09:30:00+00:00"
         }
       ],
       "ok": true
