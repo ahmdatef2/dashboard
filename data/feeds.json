@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-11T17:39:23.054075+00:00",
+  "updated": "2026-03-11T18:36:58.973773+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -397,6 +397,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "كيف يصوم أتباع الديانة الصابئة المندائية؟",
+          "link": "https://www.youtube.com/watch?v=WycndO5fWSY",
+          "videoId": "WycndO5fWSY",
+          "pubDate": "2026-03-11T18:00:01+00:00"
+        },
+        {
           "title": "أخطر طوائف تعدد الزوجات في تاريخ الولايات المتحدة",
           "link": "https://www.youtube.com/watch?v=bQzrjf9dylo",
           "videoId": "bQzrjf9dylo",
@@ -407,12 +413,6 @@
           "link": "https://www.youtube.com/watch?v=sshNRCSoCqQ",
           "videoId": "sshNRCSoCqQ",
           "pubDate": "2026-03-11T16:00:01+00:00"
-        },
-        {
-          "title": "عبد الرحمن بن موسى مقرئ المغرب الأول ومؤنس الملك محمد الخامس",
-          "link": "https://www.youtube.com/watch?v=Bszc8N_CqcI",
-          "videoId": "Bszc8N_CqcI",
-          "pubDate": "2026-03-11T12:30:01+00:00"
         }
       ],
       "ok": true
