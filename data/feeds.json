@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-11T20:20:57.991895+00:00",
+  "updated": "2026-03-11T21:20:00.816213+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -397,6 +397,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "ّالجزائر.. جريمة كيماوية\".. تشاهدون الفيلم غدا الخميس 9 مساء بتوقيت مكة المكرمة\"",
+          "link": "https://www.youtube.com/watch?v=GXtjg37mgkk",
+          "videoId": "GXtjg37mgkk",
+          "pubDate": "2026-03-11T20:48:00+00:00"
+        },
+        {
           "title": "كيف يصوم أتباع الديانة الصابئة المندائية؟",
           "link": "https://www.youtube.com/watch?v=WycndO5fWSY",
           "videoId": "WycndO5fWSY",
@@ -407,12 +413,6 @@
           "link": "https://www.youtube.com/watch?v=bQzrjf9dylo",
           "videoId": "bQzrjf9dylo",
           "pubDate": "2026-03-11T17:00:00+00:00"
-        },
-        {
-          "title": "رمضان في المغرب كما رأته طالبة أمريكية",
-          "link": "https://www.youtube.com/watch?v=sshNRCSoCqQ",
-          "videoId": "sshNRCSoCqQ",
-          "pubDate": "2026-03-11T16:00:01+00:00"
         }
       ],
       "ok": true
