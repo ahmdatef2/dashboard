@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-11T15:35:37.906949+00:00",
+  "updated": "2026-03-11T16:36:55.178397+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -397,6 +397,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "رمضان في المغرب كما رأته طالبة أمريكية",
+          "link": "https://www.youtube.com/watch?v=sshNRCSoCqQ",
+          "videoId": "sshNRCSoCqQ",
+          "pubDate": "2026-03-11T16:00:01+00:00"
+        },
+        {
           "title": "عبد الرحمن بن موسى مقرئ المغرب الأول ومؤنس الملك محمد الخامس",
           "link": "https://www.youtube.com/watch?v=Bszc8N_CqcI",
           "videoId": "Bszc8N_CqcI",
@@ -407,12 +413,6 @@
           "link": "https://www.youtube.com/watch?v=aDuHJszCLy4",
           "videoId": "aDuHJszCLy4",
           "pubDate": "2026-03-10T20:00:01+00:00"
-        },
-        {
-          "title": "خلافات العائلات الفلسطينية في قلب الأرشيف الصهيوني الاستخباراتي قبل 1948",
-          "link": "https://www.youtube.com/watch?v=h8utZyovSJ8",
-          "videoId": "h8utZyovSJ8",
-          "pubDate": "2026-03-10T18:00:01+00:00"
         }
       ],
       "ok": true
