@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-11T12:30:31.837104+00:00",
+  "updated": "2026-03-11T13:56:33.917334+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -397,6 +397,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "عبد الرحمن بن موسى مقرئ المغرب الأول ومؤنس الملك محمد الخامس",
+          "link": "https://www.youtube.com/watch?v=Bszc8N_CqcI",
+          "videoId": "Bszc8N_CqcI",
+          "pubDate": "2026-03-11T12:30:01+00:00"
+        },
+        {
           "title": "مصطفى غربي قارئ مغربي كفيف شدّ القلوب وأبهر الأسماع",
           "link": "https://www.youtube.com/watch?v=aDuHJszCLy4",
           "videoId": "aDuHJszCLy4",
@@ -407,12 +413,6 @@
           "link": "https://www.youtube.com/watch?v=h8utZyovSJ8",
           "videoId": "h8utZyovSJ8",
           "pubDate": "2026-03-10T18:00:01+00:00"
-        },
-        {
-          "title": "\"كان جوايا سكاكين\" أسير محرر حرم من رؤية ابنته الوحيدة",
-          "link": "https://www.youtube.com/watch?v=UnYWBIBEYd4",
-          "videoId": "UnYWBIBEYd4",
-          "pubDate": "2026-03-10T11:00:00+00:00"
         }
       ],
       "ok": true
