@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-11T16:36:55.178397+00:00",
+  "updated": "2026-03-11T17:39:23.054075+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -397,6 +397,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "أخطر طوائف تعدد الزوجات في تاريخ الولايات المتحدة",
+          "link": "https://www.youtube.com/watch?v=bQzrjf9dylo",
+          "videoId": "bQzrjf9dylo",
+          "pubDate": "2026-03-11T17:00:00+00:00"
+        },
+        {
           "title": "رمضان في المغرب كما رأته طالبة أمريكية",
           "link": "https://www.youtube.com/watch?v=sshNRCSoCqQ",
           "videoId": "sshNRCSoCqQ",
@@ -407,12 +413,6 @@
           "link": "https://www.youtube.com/watch?v=Bszc8N_CqcI",
           "videoId": "Bszc8N_CqcI",
           "pubDate": "2026-03-11T12:30:01+00:00"
-        },
-        {
-          "title": "مصطفى غربي قارئ مغربي كفيف شدّ القلوب وأبهر الأسماع",
-          "link": "https://www.youtube.com/watch?v=aDuHJszCLy4",
-          "videoId": "aDuHJszCLy4",
-          "pubDate": "2026-03-10T20:00:01+00:00"
         }
       ],
       "ok": true
