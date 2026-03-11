@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-11T22:16:18.226770+00:00",
+  "updated": "2026-03-11T23:14:05.049337+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -59,6 +59,12 @@
       "feedTitle": "Infotech4you - مروي سليمان",
       "items": [
         {
+          "title": "كورس Claude Skills الشامل: تعلم مهارات كلود في 12 دقيقة فقط!",
+          "link": "https://www.youtube.com/watch?v=e_bS2UtpjaY",
+          "videoId": "e_bS2UtpjaY",
+          "pubDate": "2026-03-11T22:55:33+00:00"
+        },
+        {
           "title": "تحديث NotebookLM الجديد! اعرف كيف تختار أفضل نمط إنفوجرافيك لبياناتك؟",
           "link": "https://www.youtube.com/watch?v=hYIJbVB3DkY",
           "videoId": "hYIJbVB3DkY",
@@ -69,12 +75,6 @@
           "link": "https://www.youtube.com/watch?v=gF1CSQCkkEU",
           "videoId": "gF1CSQCkkEU",
           "pubDate": "2026-03-09T16:53:52+00:00"
-        },
-        {
-          "title": "أخيراً! كورسات Anthropic الرسمية مجاناً.. احترف Claude AI واحصل على شهادة 🎓",
-          "link": "https://www.youtube.com/watch?v=xtWQl8UPGXo",
-          "videoId": "xtWQl8UPGXo",
-          "pubDate": "2026-03-07T21:48:31+00:00"
         }
       ],
       "ok": true
