@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-11T18:36:58.973773+00:00",
+  "updated": "2026-03-11T19:33:53.413273+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -423,6 +423,12 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "متلازمة هافانا - ضحايا غير مرئيين - الحلقة 1 | الشرق الوثائقية",
+          "link": "https://www.youtube.com/watch?v=4QZCAvHkgnw",
+          "videoId": "4QZCAvHkgnw",
+          "pubDate": "2026-03-11T19:00:04+00:00"
+        },
+        {
           "title": "بين النفي والذاكرة: حكايات ضحايا سياسة الترحيل العرقي في أستراليا .. المنفيون | الشرق الوثائقية",
           "link": "https://www.youtube.com/watch?v=j5tGnEA0gSY",
           "videoId": "j5tGnEA0gSY",
@@ -433,12 +439,6 @@
           "link": "https://www.youtube.com/watch?v=8klQ-UVbCJg",
           "videoId": "8klQ-UVbCJg",
           "pubDate": "2026-03-10T17:00:49+00:00"
-        },
-        {
-          "title": "الأب المفقود: أسرار البحارة الصينيين المختفين في أرشيف الدولة .. المنفيون | الشرق الوثائقية",
-          "link": "https://www.youtube.com/watch?v=NaUj86r-Sls",
-          "videoId": "NaUj86r-Sls",
-          "pubDate": "2026-03-09T19:00:31+00:00"
         }
       ],
       "ok": true
