@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-10T23:15:58.587527+00:00",
+  "updated": "2026-03-11T00:55:46.076764+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -59,6 +59,12 @@
       "feedTitle": "Infotech4you - مروي سليمان",
       "items": [
         {
+          "title": "تحديث NotebookLM الجديد! اعرف كيف تختار أفضل نمط إنفوجرافيك لبياناتك؟",
+          "link": "https://www.youtube.com/watch?v=hYIJbVB3DkY",
+          "videoId": "hYIJbVB3DkY",
+          "pubDate": "2026-03-11T00:21:28+00:00"
+        },
+        {
           "title": "السيطرة المطلقة على تعديل الصور مع القوة المزدوجة Gemini + Nano Banana 2",
           "link": "https://www.youtube.com/watch?v=gF1CSQCkkEU",
           "videoId": "gF1CSQCkkEU",
@@ -69,12 +75,6 @@
           "link": "https://www.youtube.com/watch?v=xtWQl8UPGXo",
           "videoId": "xtWQl8UPGXo",
           "pubDate": "2026-03-07T21:48:31+00:00"
-        },
-        {
-          "title": "جوجل وتحديثات ضخمة  داخل NotebookLM: توليد أفلام سينيمائية ومفاجاة داخل المخططات البيانية!",
-          "link": "https://www.youtube.com/watch?v=DC8JITgcgn4",
-          "videoId": "DC8JITgcgn4",
-          "pubDate": "2026-03-06T20:44:58+00:00"
         }
       ],
       "ok": true
