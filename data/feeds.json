@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-12T17:39:37.358597+00:00",
+  "updated": "2026-03-12T18:35:49.028488+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -423,6 +423,12 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "رمضان فرصة لإعادة ضبط نمط حياتنا الصحية..",
+          "link": "https://www.youtube.com/watch?v=B_C-0w3XQ4c",
+          "videoId": "B_C-0w3XQ4c",
+          "pubDate": "2026-03-12T17:49:09+00:00"
+        },
+        {
           "title": "متلازمة هافانا - ضحايا غير مرئيين - الحلقة 1 | الشرق الوثائقية",
           "link": "https://www.youtube.com/watch?v=4QZCAvHkgnw",
           "videoId": "4QZCAvHkgnw",
@@ -433,12 +439,6 @@
           "link": "https://www.youtube.com/watch?v=j5tGnEA0gSY",
           "videoId": "j5tGnEA0gSY",
           "pubDate": "2026-03-10T19:00:57+00:00"
-        },
-        {
-          "title": "لماذا نشعر بالنعاس بعد الإفطار فورا؟",
-          "link": "https://www.youtube.com/watch?v=8klQ-UVbCJg",
-          "videoId": "8klQ-UVbCJg",
-          "pubDate": "2026-03-10T17:00:49+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "وثائقي | بعد وفاة خامنئي: احتجاج وأمل وقمع في إيران | وثائقية دي دبليو",
+          "link": "https://www.youtube.com/watch?v=IUQYQ3MNOqs",
+          "videoId": "IUQYQ3MNOqs",
+          "pubDate": "2026-03-12T18:00:17+00:00"
+        },
+        {
           "title": "#وثائقي من المتسبب في أزمة الأفيون في أمريكا؟",
           "link": "https://www.youtube.com/watch?v=0MWpPSHs958",
           "videoId": "0MWpPSHs958",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=-AQW10di2rU",
           "videoId": "-AQW10di2rU",
           "pubDate": "2026-03-10T17:36:53+00:00"
-        },
-        {
-          "title": "وثائقي | شبكة حزب الله - غسيل أموال في أوروبا (3/3) | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=-20YJdU0Kbo",
-          "videoId": "-20YJdU0Kbo",
-          "pubDate": "2026-03-10T17:36:21+00:00"
         }
       ],
       "ok": true
