@@ -1,31 +1,12 @@
 {
-  "updated": "2026-03-12T05:09:43.723823+00:00",
+  "updated": "2026-03-12T06:37:41.555659+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
       "name": "د. هبة أحمد",
-      "feedTitle": "Heba Ahmed - هبة احمد",
-      "items": [
-        {
-          "title": "خناقة الذكاء الاصطناعي مع البنتاجون… القصة اللي محدش حكاها",
-          "link": "https://www.youtube.com/watch?v=x-xXSuL3k70",
-          "videoId": "x-xXSuL3k70",
-          "pubDate": "2026-03-08T19:00:40+00:00"
-        },
-        {
-          "title": "المواجهة بتسخن 🔥 GPT-5.4 الجديد في اختبار ضد Gemini",
-          "link": "https://www.youtube.com/watch?v=LIwkZovua9k",
-          "videoId": "LIwkZovua9k",
-          "pubDate": "2026-03-06T21:04:00+00:00"
-        },
-        {
-          "title": "وحش التصميم الجديد Nano Banana 2 🍌🔥 | وداعاً للفوتوشوب (أوامر سحرية للتصميم والمذاكرة!)",
-          "link": "https://www.youtube.com/watch?v=EAGBzSOsbvM",
-          "videoId": "EAGBzSOsbvM",
-          "pubDate": "2026-02-27T19:35:08+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "د. هبة أحمد",
+      "items": [],
+      "ok": false
     },
     "UC2jjW7c63dqOPkfMm3P-u3w": {
       "handle": "every_day_a_new_website",
@@ -44,28 +25,9 @@
     "UCSRy-3lglM2QKJ_xF2zuPlQ": {
       "handle": "AbdellatifSaidA",
       "name": "عبداللطيف سعيد",
-      "feedTitle": "عبداللطيف سعيد Abdellatif Said",
-      "items": [
-        {
-          "title": "الريمونتادا الكبرى: تحديث ChatGPT 5.4 اللي هيتحكم في كمبيوترك مكانك!",
-          "link": "https://www.youtube.com/watch?v=PEsJ0a1fPtI",
-          "videoId": "PEsJ0a1fPtI",
-          "pubDate": "2026-03-09T14:15:04+00:00"
-        },
-        {
-          "title": "وداعاً ChatGPT.. أفضل بدائل الذكاء الاصطناعي اللي هتنجزلك شغلك وتنقذ بياناتك (دليل شامل)!",
-          "link": "https://www.youtube.com/watch?v=jNbcD4GH7ag",
-          "videoId": "jNbcD4GH7ag",
-          "pubDate": "2026-03-07T14:15:04+00:00"
-        },
-        {
-          "title": "هل ظهر منافس حقيقي لـ Nano Banana Pro؟ تجربة نموذج Soul 2.0 الجديد والنتيجة صدمة!",
-          "link": "https://www.youtube.com/watch?v=oFMXfKK8Gtc",
-          "videoId": "oFMXfKK8Gtc",
-          "pubDate": "2026-03-05T14:15:11+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "عبداللطيف سعيد",
+      "items": [],
+      "ok": false
     },
     "UC81Ks7DR9JFgZc14nmZ07EA": {
       "handle": "AMRSALEM800",
@@ -85,8 +47,27 @@
       "handle": "elzerowebschool",
       "name": "Elzero Web School",
       "feedTitle": "Elzero Web School",
-      "items": [],
-      "ok": false
+      "items": [
+        {
+          "title": "مبادرة هتطورك في البرمجة وتاخد ثواب وفرصة لرحلة عمرة",
+          "link": "https://www.youtube.com/watch?v=1n4AJdviibs",
+          "videoId": "1n4AJdviibs",
+          "pubDate": "2026-03-03T19:47:57+00:00"
+        },
+        {
+          "title": "توظيف البشر لصالح الذكاء الاصطناعي",
+          "link": "https://www.youtube.com/watch?v=4XBhqzlYJGY",
+          "videoId": "4XBhqzlYJGY",
+          "pubDate": "2026-02-16T10:47:19+00:00"
+        },
+        {
+          "title": "هل الذكاء الاصطناعي هيخلي السوق اصعب ؟",
+          "link": "https://www.youtube.com/watch?v=c-MANp0eKq4",
+          "videoId": "c-MANp0eKq4",
+          "pubDate": "2026-02-15T17:20:33+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCGrVvqu8PlVv0wPqA5kgY8A": {
       "handle": "ArabicArtificialIntelligence",
@@ -117,28 +98,9 @@
     "UCSXcmF4Gxl6Hc-m6cHYD_Vg": {
       "handle": "MohamedAnsary",
       "name": "محمد أنصاري",
-      "feedTitle": "Mohamed Ansary",
-      "items": [
-        {
-          "title": "من الفشل إلى النجاح.. القصة كلها في \"العقلية\"",
-          "link": "https://www.youtube.com/watch?v=CRQg_Xd9tLs",
-          "videoId": "CRQg_Xd9tLs",
-          "pubDate": "2026-03-11T15:21:20+00:00"
-        },
-        {
-          "title": "كيفية عمل تطبيق صوتي من خلال Google Ai Studio مجانًا..",
-          "link": "https://www.youtube.com/watch?v=ywHTnAHDDbE",
-          "videoId": "ywHTnAHDDbE",
-          "pubDate": "2026-03-11T07:19:19+00:00"
-        },
-        {
-          "title": "\"Seedance 1.5 Pro مجانًا في CapCut! نصوص تتحول لفيديوهات واقعية مذهلة 🔥",
-          "link": "https://www.youtube.com/watch?v=6DymqmD1Z9M",
-          "videoId": "6DymqmD1Z9M",
-          "pubDate": "2026-03-10T10:18:59+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "محمد أنصاري",
+      "items": [],
+      "ok": false
     },
     "UC16aC4Jti6tYAi0LuXmu-9w": {
       "handle": "KhairJaleesBook",
@@ -164,28 +126,9 @@
     "UCUjRjJ1-h3oUx40gf2tuh3w": {
       "handle": "Sha5bata",
       "name": "شخبطة",
-      "feedTitle": "شخبطة Sha5bata",
-      "items": [
-        {
-          "title": "30 رسالة عشان تحب الصلاة.. الرسالة 5",
-          "link": "https://www.youtube.com/watch?v=XhtqZm56Pss",
-          "videoId": "XhtqZm56Pss",
-          "pubDate": "2026-02-27T13:21:19+00:00"
-        },
-        {
-          "title": "كيف تُنظم وقتك مثل السلف الصالح .. ستتغير حياتك للأبد !",
-          "link": "https://www.youtube.com/watch?v=46h0sA5idsY",
-          "videoId": "46h0sA5idsY",
-          "pubDate": "2026-02-23T14:00:12+00:00"
-        },
-        {
-          "title": "تحدي 30 رسالة في 30 يوم عشان تحب الصلاة.. الرسالة ٤",
-          "link": "https://www.youtube.com/watch?v=3UYSdl0qbNU",
-          "videoId": "3UYSdl0qbNU",
-          "pubDate": "2026-02-20T11:00:07+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "شخبطة",
+      "items": [],
+      "ok": false
     },
     "UChbuH4HULlesX_rzlozkT6Q": {
       "handle": "AliMuhammadAli",
@@ -204,28 +147,9 @@
     "UC0LSnqrwqtMwl2YwfUpO66g": {
       "handle": "aljazeeradocumentary",
       "name": "الجزيرة الوثائقية",
-      "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
-      "items": [
-        {
-          "title": "ّالجزائر.. جريمة كيماوية\".. تشاهدون الفيلم غدا الخميس 9 مساء بتوقيت مكة المكرمة\"",
-          "link": "https://www.youtube.com/watch?v=GXtjg37mgkk",
-          "videoId": "GXtjg37mgkk",
-          "pubDate": "2026-03-11T20:48:00+00:00"
-        },
-        {
-          "title": "كيف يصوم أتباع الديانة الصابئة المندائية؟",
-          "link": "https://www.youtube.com/watch?v=WycndO5fWSY",
-          "videoId": "WycndO5fWSY",
-          "pubDate": "2026-03-11T18:00:01+00:00"
-        },
-        {
-          "title": "أخطر طوائف تعدد الزوجات في تاريخ الولايات المتحدة",
-          "link": "https://www.youtube.com/watch?v=bQzrjf9dylo",
-          "videoId": "bQzrjf9dylo",
-          "pubDate": "2026-03-11T17:00:00+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "الجزيرة الوثائقية",
+      "items": [],
+      "ok": false
     },
     "UCArK7aSQ68vRCiJY2m7spkA": {
       "handle": "AsharqDoc",
@@ -237,54 +161,16 @@
     "UCLiTe0aOHShx7hXGyqZ9UIw": {
       "handle": "natgeoabudhabime",
       "name": "ناشيونال جيوغرافيك",
-      "feedTitle": "Nat Geo Abu Dhabi",
-      "items": [
-        {
-          "title": "الحلقة الأولى | هياكل عملاقة: كاسحة الجليد | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=W4SxLBeI-as",
-          "videoId": "W4SxLBeI-as",
-          "pubDate": "2026-02-26T17:09:26+00:00"
-        },
-        {
-          "title": "الخزفي | مسار الصحوة | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=5V2a8ib5ktA",
-          "videoId": "5V2a8ib5ktA",
-          "pubDate": "2026-02-23T19:15:18+00:00"
-        },
-        {
-          "title": "من باريس إلى بيتسبرغ | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=f8B8HyN7Znw",
-          "videoId": "f8B8HyN7Znw",
-          "pubDate": "2026-02-21T16:24:46+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "ناشيونال جيوغرافيك",
+      "items": [],
+      "ok": false
     },
     "UCET6sWl4Xcu-U8Ka9PJPrwA": {
       "handle": "dwdocarabia",
       "name": "DW عربية وثائقي",
-      "feedTitle": "DW Documentary وثائقية دي دبليو",
-      "items": [
-        {
-          "title": "وثائقي | شبكة حزب الله – من يقف وراء اغتيال رفيق الحريري؟ (3/2) | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=-AQW10di2rU",
-          "videoId": "-AQW10di2rU",
-          "pubDate": "2026-03-10T17:36:53+00:00"
-        },
-        {
-          "title": "وثائقي | شبكة حزب الله - غسيل أموال في أوروبا (3/3) | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=-20YJdU0Kbo",
-          "videoId": "-20YJdU0Kbo",
-          "pubDate": "2026-03-10T17:36:21+00:00"
-        },
-        {
-          "title": "وثائقي | شبكة حزب الله - تجارة مخدرات وإرهاب (3/1) | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=mmEOvdkVDv0",
-          "videoId": "mmEOvdkVDv0",
-          "pubDate": "2026-03-10T17:35:28+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "DW عربية وثائقي",
+      "items": [],
+      "ok": false
     }
   }
 }
