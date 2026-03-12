@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-12T19:33:48.792773+00:00",
+  "updated": "2026-03-12T20:20:47.645026+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -33,6 +33,12 @@
       "feedTitle": "كل يوم موقع جديد",
       "items": [
         {
+          "title": "حول صور منتجك الي جلسة تصوير احترافية مع أداة جوجل المجانية Pomelli  Photoshoot",
+          "link": "https://www.youtube.com/watch?v=oEArDGaqig8",
+          "videoId": "oEArDGaqig8",
+          "pubDate": "2026-03-12T20:12:43+00:00"
+        },
+        {
           "title": "أشياء مذهلة يمكنك فعلها بـ Gemini يجب أن تعرفها الآن!",
           "link": "https://www.youtube.com/watch?v=tsHdOcTpmLk",
           "videoId": "tsHdOcTpmLk",
@@ -43,12 +49,6 @@
           "link": "https://www.youtube.com/watch?v=_lWxvfjSlYE",
           "videoId": "_lWxvfjSlYE",
           "pubDate": "2026-03-08T18:39:11+00:00"
-        },
-        {
-          "title": "اصنع قصتك الخاصة: دليل تصميم كتب قصصية مخصصة عبر ذكاء Gemini",
-          "link": "https://www.youtube.com/watch?v=jNWT4qymChE",
-          "videoId": "jNWT4qymChE",
-          "pubDate": "2026-03-07T18:33:52+00:00"
         }
       ],
       "ok": true
