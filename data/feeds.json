@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-12T08:28:14.426623+00:00",
+  "updated": "2026-03-12T09:31:11.933839+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -397,6 +397,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "توجد أساسا في الأسماك.. لماذا تحتاج أجسامنا للدهون الصحية؟",
+          "link": "https://www.youtube.com/watch?v=llWSDWjbXGQ",
+          "videoId": "llWSDWjbXGQ",
+          "pubDate": "2026-03-12T09:30:01+00:00"
+        },
+        {
           "title": "ّالجزائر.. جريمة كيماوية\".. تشاهدون الفيلم غدا الخميس 9 مساء بتوقيت مكة المكرمة\"",
           "link": "https://www.youtube.com/watch?v=GXtjg37mgkk",
           "videoId": "GXtjg37mgkk",
@@ -407,12 +413,6 @@
           "link": "https://www.youtube.com/watch?v=WycndO5fWSY",
           "videoId": "WycndO5fWSY",
           "pubDate": "2026-03-11T18:00:01+00:00"
-        },
-        {
-          "title": "أخطر طوائف تعدد الزوجات في تاريخ الولايات المتحدة",
-          "link": "https://www.youtube.com/watch?v=bQzrjf9dylo",
-          "videoId": "bQzrjf9dylo",
-          "pubDate": "2026-03-11T17:00:00+00:00"
         }
       ],
       "ok": true
