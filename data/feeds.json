@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-12T10:26:50.028630+00:00",
+  "updated": "2026-03-12T11:23:47.051370+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -189,6 +189,12 @@
       "feedTitle": "ذكاء اصطناعي عربي",
       "items": [
         {
+          "title": "What is Retrieval-Augmented Generation? | شرح التوليد المعزز بالاسترجاع",
+          "link": "https://www.youtube.com/watch?v=LNZUW6jdsbE",
+          "videoId": "LNZUW6jdsbE",
+          "pubDate": "2026-03-12T11:00:39+00:00"
+        },
+        {
           "title": "What is Fine-tuning? | شرح الضبط الدقيق",
           "link": "https://www.youtube.com/watch?v=-Y7YzWwPgkk",
           "videoId": "-Y7YzWwPgkk",
@@ -199,12 +205,6 @@
           "link": "https://www.youtube.com/watch?v=ROUocE7p6ZY",
           "videoId": "ROUocE7p6ZY",
           "pubDate": "2026-03-10T16:37:14+00:00"
-        },
-        {
-          "title": "What are Transformers? | شرح المحوّلات",
-          "link": "https://www.youtube.com/watch?v=whuZ-9Ulxac",
-          "videoId": "whuZ-9Ulxac",
-          "pubDate": "2026-03-09T11:01:29+00:00"
         }
       ],
       "ok": true
@@ -214,6 +214,12 @@
       "name": "محمد أنصاري",
       "feedTitle": "Mohamed Ansary",
       "items": [
+        {
+          "title": " تصميم إنفوجرافيك ذكي واحترافي باستخدام 10أنماط بصرية جديدة بشكل مجاني من خلال  Notebook LM ",
+          "link": "https://www.youtube.com/watch?v=smCkxyQdDCg",
+          "videoId": "smCkxyQdDCg",
+          "pubDate": "2026-03-12T10:26:16+00:00"
+        },
         {
           "title": "من الفشل إلى النجاح.. القصة كلها في \"العقلية\"",
           "link": "https://www.youtube.com/watch?v=CRQg_Xd9tLs",
@@ -225,12 +231,6 @@
           "link": "https://www.youtube.com/watch?v=ywHTnAHDDbE",
           "videoId": "ywHTnAHDDbE",
           "pubDate": "2026-03-11T07:19:19+00:00"
-        },
-        {
-          "title": "\"Seedance 1.5 Pro مجانًا في CapCut! نصوص تتحول لفيديوهات واقعية مذهلة 🔥",
-          "link": "https://www.youtube.com/watch?v=6DymqmD1Z9M",
-          "videoId": "6DymqmD1Z9M",
-          "pubDate": "2026-03-10T10:18:59+00:00"
         }
       ],
       "ok": true
@@ -397,6 +397,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "فيلم \"الإيمان وما بعده.. رمضان البلقان\" - الجزيرة الوثائقية",
+          "link": "https://www.youtube.com/watch?v=tzAYRKmVroQ",
+          "videoId": "tzAYRKmVroQ",
+          "pubDate": "2026-03-12T11:00:01+00:00"
+        },
+        {
           "title": "توجد أساسا في الأسماك.. لماذا تحتاج أجسامنا للدهون الصحية؟",
           "link": "https://www.youtube.com/watch?v=llWSDWjbXGQ",
           "videoId": "llWSDWjbXGQ",
@@ -407,12 +413,6 @@
           "link": "https://www.youtube.com/watch?v=GXtjg37mgkk",
           "videoId": "GXtjg37mgkk",
           "pubDate": "2026-03-11T20:48:00+00:00"
-        },
-        {
-          "title": "كيف يصوم أتباع الديانة الصابئة المندائية؟",
-          "link": "https://www.youtube.com/watch?v=WycndO5fWSY",
-          "videoId": "WycndO5fWSY",
-          "pubDate": "2026-03-11T18:00:01+00:00"
         }
       ],
       "ok": true
