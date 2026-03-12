@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-12T20:20:47.645026+00:00",
+  "updated": "2026-03-12T21:21:15.720679+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -111,6 +111,12 @@
       "feedTitle": "AMR SALEM _ عمرو سالم",
       "items": [
         {
+          "title": "اصنع تطبيقات Full-Stack كاملة مجانًا 100٪ (تسجيل دخول + قواعد بيانات + نشر) | ANTIGRAVITY + INSFORGE",
+          "link": "https://www.youtube.com/watch?v=3FMbd9jzf-o",
+          "videoId": "3FMbd9jzf-o",
+          "pubDate": "2026-03-12T20:50:37+00:00"
+        },
+        {
           "title": "انشئ راديو احترافي خاص بك علي antigravity بالمجان",
           "link": "https://www.youtube.com/watch?v=atTewFWJyTc",
           "videoId": "atTewFWJyTc",
@@ -121,12 +127,6 @@
           "link": "https://www.youtube.com/watch?v=cOq2d3nOA6o",
           "videoId": "cOq2d3nOA6o",
           "pubDate": "2026-03-08T19:11:52+00:00"
-        },
-        {
-          "title": "أهمية Agent Skills في Antigravity | السر الحقيقي لبناء تطبيقات قوية بالذكاء الاصطناعي",
-          "link": "https://www.youtube.com/watch?v=c3RWBcQw3D8",
-          "videoId": "c3RWBcQw3D8",
-          "pubDate": "2026-03-05T17:01:02+00:00"
         }
       ],
       "ok": true
