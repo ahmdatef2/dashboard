@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-12T09:31:11.933839+00:00",
+  "updated": "2026-03-12T10:26:50.028630+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "#وثائقي من المتسبب في أزمة الأفيون في أمريكا؟",
+          "link": "https://www.youtube.com/watch?v=0MWpPSHs958",
+          "videoId": "0MWpPSHs958",
+          "pubDate": "2026-03-12T10:11:48+00:00"
+        },
+        {
           "title": "وثائقي | شبكة حزب الله – من يقف وراء اغتيال رفيق الحريري؟ (3/2) | وثائقية دي دبليو",
           "link": "https://www.youtube.com/watch?v=-AQW10di2rU",
           "videoId": "-AQW10di2rU",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=-20YJdU0Kbo",
           "videoId": "-20YJdU0Kbo",
           "pubDate": "2026-03-10T17:36:21+00:00"
-        },
-        {
-          "title": "وثائقي | شبكة حزب الله - تجارة مخدرات وإرهاب (3/1) | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=mmEOvdkVDv0",
-          "videoId": "mmEOvdkVDv0",
-          "pubDate": "2026-03-10T17:35:28+00:00"
         }
       ],
       "ok": true
