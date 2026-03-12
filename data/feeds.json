@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-12T18:35:49.028488+00:00",
+  "updated": "2026-03-12T19:33:48.792773+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -397,22 +397,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "الجزائر.. جريمة كيماوية | حين استخدمت فرنسا السلاح المحظور ضد المقاومين",
+          "link": "https://www.youtube.com/watch?v=JkctGEIjB3A",
+          "videoId": "JkctGEIjB3A",
+          "pubDate": "2026-03-12T19:30:03+00:00"
+        },
+        {
+          "title": "\"لن يكون في مصلحة فلسطين\".. موقف لورد بريطاني من \"وعد بلفور\"",
+          "link": "https://www.youtube.com/watch?v=7ad6SUjFX3U",
+          "videoId": "7ad6SUjFX3U",
+          "pubDate": "2026-03-12T19:00:02+00:00"
+        },
+        {
           "title": "قارئ القرآن الذي أبدع في التلاوة على الطريقة الإسطنبولية",
           "link": "https://www.youtube.com/watch?v=ciu1wrFpft4",
           "videoId": "ciu1wrFpft4",
           "pubDate": "2026-03-12T17:00:01+00:00"
-        },
-        {
-          "title": "صوم \"الباعوثة\".. طقس مسيحي يستند إلى قصة النبي يونس",
-          "link": "https://www.youtube.com/watch?v=ng8w6RKBHJ8",
-          "videoId": "ng8w6RKBHJ8",
-          "pubDate": "2026-03-12T16:00:01+00:00"
-        },
-        {
-          "title": "فيلم \"الإيمان وما بعده.. رمضان البلقان\" - الجزيرة الوثائقية",
-          "link": "https://www.youtube.com/watch?v=tzAYRKmVroQ",
-          "videoId": "tzAYRKmVroQ",
-          "pubDate": "2026-03-12T11:00:01+00:00"
         }
       ],
       "ok": true
@@ -422,6 +422,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "متلازمة هافانا - باندورا.. المشروع السري - الحلقة 2 | الشرق الوثائقية",
+          "link": "https://www.youtube.com/watch?v=p85N2gDOXBk",
+          "videoId": "p85N2gDOXBk",
+          "pubDate": "2026-03-12T19:01:00+00:00"
+        },
         {
           "title": "رمضان فرصة لإعادة ضبط نمط حياتنا الصحية..",
           "link": "https://www.youtube.com/watch?v=B_C-0w3XQ4c",
@@ -433,12 +439,6 @@
           "link": "https://www.youtube.com/watch?v=4QZCAvHkgnw",
           "videoId": "4QZCAvHkgnw",
           "pubDate": "2026-03-11T19:00:04+00:00"
-        },
-        {
-          "title": "بين النفي والذاكرة: حكايات ضحايا سياسة الترحيل العرقي في أستراليا .. المنفيون | الشرق الوثائقية",
-          "link": "https://www.youtube.com/watch?v=j5tGnEA0gSY",
-          "videoId": "j5tGnEA0gSY",
-          "pubDate": "2026-03-10T19:00:57+00:00"
         }
       ],
       "ok": true
@@ -448,6 +448,12 @@
       "name": "ناشيونال جيوغرافيك",
       "feedTitle": "Nat Geo Abu Dhabi",
       "items": [
+        {
+          "title": "المدينة الغارقة في مصر | استنزاف المحيط | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=PTjz82aP4kM",
+          "videoId": "PTjz82aP4kM",
+          "pubDate": "2026-03-12T19:25:15+00:00"
+        },
         {
           "title": "الحلقة الأولى | هياكل عملاقة: كاسحة الجليد | ناشونال جيوغرافيك أبوظبي",
           "link": "https://www.youtube.com/watch?v=W4SxLBeI-as",
@@ -459,12 +465,6 @@
           "link": "https://www.youtube.com/watch?v=5V2a8ib5ktA",
           "videoId": "5V2a8ib5ktA",
           "pubDate": "2026-02-23T19:15:18+00:00"
-        },
-        {
-          "title": "من باريس إلى بيتسبرغ | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=f8B8HyN7Znw",
-          "videoId": "f8B8HyN7Znw",
-          "pubDate": "2026-02-21T16:24:46+00:00"
         }
       ],
       "ok": true
