@@ -1,47 +1,161 @@
 {
-  "updated": "2026-03-12T06:37:41.555659+00:00",
+  "updated": "2026-03-12T07:37:55.687012+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
       "name": "د. هبة أحمد",
-      "feedTitle": "د. هبة أحمد",
-      "items": [],
-      "ok": false
+      "feedTitle": "Heba Ahmed - هبة احمد",
+      "items": [
+        {
+          "title": "خناقة الذكاء الاصطناعي مع البنتاجون… القصة اللي محدش حكاها",
+          "link": "https://www.youtube.com/watch?v=x-xXSuL3k70",
+          "videoId": "x-xXSuL3k70",
+          "pubDate": "2026-03-08T19:00:40+00:00"
+        },
+        {
+          "title": "المواجهة بتسخن 🔥 GPT-5.4 الجديد في اختبار ضد Gemini",
+          "link": "https://www.youtube.com/watch?v=LIwkZovua9k",
+          "videoId": "LIwkZovua9k",
+          "pubDate": "2026-03-06T21:04:00+00:00"
+        },
+        {
+          "title": "وحش التصميم الجديد Nano Banana 2 🍌🔥 | وداعاً للفوتوشوب (أوامر سحرية للتصميم والمذاكرة!)",
+          "link": "https://www.youtube.com/watch?v=EAGBzSOsbvM",
+          "videoId": "EAGBzSOsbvM",
+          "pubDate": "2026-02-27T19:35:08+00:00"
+        }
+      ],
+      "ok": true
     },
     "UC2jjW7c63dqOPkfMm3P-u3w": {
       "handle": "every_day_a_new_website",
       "name": "موقع كل يوم",
-      "feedTitle": "موقع كل يوم",
-      "items": [],
-      "ok": false
+      "feedTitle": "كل يوم موقع جديد",
+      "items": [
+        {
+          "title": "أشياء مذهلة يمكنك فعلها بـ Gemini يجب أن تعرفها الآن!",
+          "link": "https://www.youtube.com/watch?v=tsHdOcTpmLk",
+          "videoId": "tsHdOcTpmLk",
+          "pubDate": "2026-03-10T18:05:30+00:00"
+        },
+        {
+          "title": "وداعاً للبحث! اكتشفت \"الكنز\" الذي يضم جميع أدوات الـ AI مجاناً حتى الفيديو 🤯",
+          "link": "https://www.youtube.com/watch?v=_lWxvfjSlYE",
+          "videoId": "_lWxvfjSlYE",
+          "pubDate": "2026-03-08T18:39:11+00:00"
+        },
+        {
+          "title": "اصنع قصتك الخاصة: دليل تصميم كتب قصصية مخصصة عبر ذكاء Gemini",
+          "link": "https://www.youtube.com/watch?v=jNWT4qymChE",
+          "videoId": "jNWT4qymChE",
+          "pubDate": "2026-03-07T18:33:52+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCKD8vOz3maRPyLAbMXhr-Pw": {
       "handle": "infotech4you_Marwasoliman",
       "name": "مروة سليمان",
-      "feedTitle": "مروة سليمان",
-      "items": [],
-      "ok": false
+      "feedTitle": "Infotech4you - مروي سليمان",
+      "items": [
+        {
+          "title": " Claude Skills: تعلم مهارات كلود في 12 دقيقة فقط!",
+          "link": "https://www.youtube.com/watch?v=e_bS2UtpjaY",
+          "videoId": "e_bS2UtpjaY",
+          "pubDate": "2026-03-11T22:55:33+00:00"
+        },
+        {
+          "title": "تحديث NotebookLM الجديد! اعرف كيف تختار أفضل نمط إنفوجرافيك لبياناتك؟",
+          "link": "https://www.youtube.com/watch?v=hYIJbVB3DkY",
+          "videoId": "hYIJbVB3DkY",
+          "pubDate": "2026-03-11T00:21:28+00:00"
+        },
+        {
+          "title": "السيطرة المطلقة على تعديل الصور مع القوة المزدوجة Gemini + Nano Banana 2",
+          "link": "https://www.youtube.com/watch?v=gF1CSQCkkEU",
+          "videoId": "gF1CSQCkkEU",
+          "pubDate": "2026-03-09T16:53:52+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCSRy-3lglM2QKJ_xF2zuPlQ": {
       "handle": "AbdellatifSaidA",
       "name": "عبداللطيف سعيد",
-      "feedTitle": "عبداللطيف سعيد",
-      "items": [],
-      "ok": false
+      "feedTitle": "عبداللطيف سعيد Abdellatif Said",
+      "items": [
+        {
+          "title": "الريمونتادا الكبرى: تحديث ChatGPT 5.4 اللي هيتحكم في كمبيوترك مكانك!",
+          "link": "https://www.youtube.com/watch?v=PEsJ0a1fPtI",
+          "videoId": "PEsJ0a1fPtI",
+          "pubDate": "2026-03-09T14:15:04+00:00"
+        },
+        {
+          "title": "وداعاً ChatGPT.. أفضل بدائل الذكاء الاصطناعي اللي هتنجزلك شغلك وتنقذ بياناتك (دليل شامل)!",
+          "link": "https://www.youtube.com/watch?v=jNbcD4GH7ag",
+          "videoId": "jNbcD4GH7ag",
+          "pubDate": "2026-03-07T14:15:04+00:00"
+        },
+        {
+          "title": "هل ظهر منافس حقيقي لـ Nano Banana Pro؟ تجربة نموذج Soul 2.0 الجديد والنتيجة صدمة!",
+          "link": "https://www.youtube.com/watch?v=oFMXfKK8Gtc",
+          "videoId": "oFMXfKK8Gtc",
+          "pubDate": "2026-03-05T14:15:11+00:00"
+        }
+      ],
+      "ok": true
     },
     "UC81Ks7DR9JFgZc14nmZ07EA": {
       "handle": "AMRSALEM800",
       "name": "عمرو سالم",
-      "feedTitle": "عمرو سالم",
-      "items": [],
-      "ok": false
+      "feedTitle": "AMR SALEM _ عمرو سالم",
+      "items": [
+        {
+          "title": "انشئ راديو احترافي خاص بك علي antigravity بالمجان",
+          "link": "https://www.youtube.com/watch?v=atTewFWJyTc",
+          "videoId": "atTewFWJyTc",
+          "pubDate": "2026-03-10T21:10:14+00:00"
+        },
+        {
+          "title": "شركة Anthropic نزلت كورس مجاني لتعلم Claude وبناء AI Agents",
+          "link": "https://www.youtube.com/watch?v=cOq2d3nOA6o",
+          "videoId": "cOq2d3nOA6o",
+          "pubDate": "2026-03-08T19:11:52+00:00"
+        },
+        {
+          "title": "أهمية Agent Skills في Antigravity | السر الحقيقي لبناء تطبيقات قوية بالذكاء الاصطناعي",
+          "link": "https://www.youtube.com/watch?v=c3RWBcQw3D8",
+          "videoId": "c3RWBcQw3D8",
+          "pubDate": "2026-03-05T17:01:02+00:00"
+        }
+      ],
+      "ok": true
     },
     "UC9ocsRoOwj9tkAQNfUt8ZJg": {
       "handle": "PythonArab",
       "name": "بايثون عربي",
-      "feedTitle": "بايثون عربي",
-      "items": [],
-      "ok": false
+      "feedTitle": "Python Arabic Community",
+      "items": [
+        {
+          "title": "الذكاء الاصطناعي 🚀 | 83 | الكذبة الكبرى لشركات الذكاء الاصطناعي.. وسقوط أقوى تشفير",
+          "link": "https://www.youtube.com/watch?v=aBM1Y6M3YRE",
+          "videoId": "aBM1Y6M3YRE",
+          "pubDate": "2026-03-10T21:18:47+00:00"
+        },
+        {
+          "title": "مبادرة رمضان الأثر - مجتمع إتقان (جوائز لا تقدر بثمن تنتظركم🎁)",
+          "link": "https://www.youtube.com/watch?v=TKET-IN0dLo",
+          "videoId": "TKET-IN0dLo",
+          "pubDate": "2026-03-05T21:44:12+00:00"
+        },
+        {
+          "title": "بناء تطبيق لتحويل الصور إلى نصوص (OCR) في أقل من 15 دقيقة مع Mistral OCR ! يدعم العربي",
+          "link": "https://www.youtube.com/watch?v=xaCM3rwr_84",
+          "videoId": "xaCM3rwr_84",
+          "pubDate": "2026-03-02T17:50:01+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCSNkfKl4cU-55Nm-ovsvOHQ": {
       "handle": "elzerowebschool",
@@ -98,79 +212,288 @@
     "UCSXcmF4Gxl6Hc-m6cHYD_Vg": {
       "handle": "MohamedAnsary",
       "name": "محمد أنصاري",
-      "feedTitle": "محمد أنصاري",
-      "items": [],
-      "ok": false
+      "feedTitle": "Mohamed Ansary",
+      "items": [
+        {
+          "title": "من الفشل إلى النجاح.. القصة كلها في \"العقلية\"",
+          "link": "https://www.youtube.com/watch?v=CRQg_Xd9tLs",
+          "videoId": "CRQg_Xd9tLs",
+          "pubDate": "2026-03-11T15:21:20+00:00"
+        },
+        {
+          "title": "كيفية عمل تطبيق صوتي من خلال Google Ai Studio مجانًا..",
+          "link": "https://www.youtube.com/watch?v=ywHTnAHDDbE",
+          "videoId": "ywHTnAHDDbE",
+          "pubDate": "2026-03-11T07:19:19+00:00"
+        },
+        {
+          "title": "\"Seedance 1.5 Pro مجانًا في CapCut! نصوص تتحول لفيديوهات واقعية مذهلة 🔥",
+          "link": "https://www.youtube.com/watch?v=6DymqmD1Z9M",
+          "videoId": "6DymqmD1Z9M",
+          "pubDate": "2026-03-10T10:18:59+00:00"
+        }
+      ],
+      "ok": true
     },
     "UC16aC4Jti6tYAi0LuXmu-9w": {
       "handle": "KhairJaleesBook",
       "name": "خير جليس",
       "feedTitle": "خير جليس",
-      "items": [],
-      "ok": false
+      "items": [
+        {
+          "title": "محاربة المشاعر تجعلها أقوى - من كتاب السماح بالرحيل",
+          "link": "https://www.youtube.com/watch?v=XPxW2DK7uP8",
+          "videoId": "XPxW2DK7uP8",
+          "pubDate": "2026-03-12T06:00:32+00:00"
+        },
+        {
+          "title": "الانتصارات الصغيرة تعيد تشكيل الهوية مع الوقت  - من كتاب الثقة التامة بالنفس",
+          "link": "https://www.youtube.com/watch?v=65T5LeNDpPI",
+          "videoId": "65T5LeNDpPI",
+          "pubDate": "2026-03-10T06:13:28+00:00"
+        },
+        {
+          "title": "ملخص كتاب السماح بالرحيل بقلم ديفيد هوكينز",
+          "link": "https://www.youtube.com/watch?v=wt-IClbZ7Tk",
+          "videoId": "wt-IClbZ7Tk",
+          "pubDate": "2026-03-10T06:00:45+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCu1NJiJlhrhmF5ZgT-0yWdA": {
       "handle": "Jeelyaqraa",
       "name": "جيل يقرأ",
-      "feedTitle": "جيل يقرأ",
-      "items": [],
-      "ok": false
+      "feedTitle": "ReadTube - جيل يقرأ",
+      "items": [
+        {
+          "title": "الذين ضحكوا حتى البكاء -ملخص لكتاب د. مصطفى محمود",
+          "link": "https://www.youtube.com/watch?v=bSbrMABmf4E",
+          "videoId": "bSbrMABmf4E",
+          "pubDate": "2026-03-03T20:46:03+00:00"
+        },
+        {
+          "title": "المسيري يتنبأ بالمستقبل",
+          "link": "https://www.youtube.com/watch?v=N2hD24PnJQ4",
+          "videoId": "N2hD24PnJQ4",
+          "pubDate": "2026-03-01T20:56:54+00:00"
+        },
+        {
+          "title": "المسيري يفضح الفكر الابستيني - كتاب :الفلسفة المادية وتفكيك الإنسان",
+          "link": "https://www.youtube.com/watch?v=A9FEkTJhvfU",
+          "videoId": "A9FEkTJhvfU",
+          "pubDate": "2026-02-22T19:01:53+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCtUor2SqesPS3b_SMFtLT_w": {
       "handle": "a5drcom",
       "name": "أخضر",
       "feedTitle": "أخضر",
-      "items": [],
-      "ok": false
+      "items": [
+        {
+          "title": "أسرار العداء بين أمريكا وإيران🕵️‍♂️⚔️ | على الماشي #أخضر",
+          "link": "https://www.youtube.com/watch?v=4Yc5iJ5NlR4",
+          "videoId": "4Yc5iJ5NlR4",
+          "pubDate": "2026-03-09T19:00:09+00:00"
+        },
+        {
+          "title": "السيجارة الأخيرة: الطريقة السهلة للإقلاع عن التدخين😵‍💫",
+          "link": "https://www.youtube.com/watch?v=o2MNAhVw6V4",
+          "videoId": "o2MNAhVw6V4",
+          "pubDate": "2026-03-07T20:02:49+00:00"
+        },
+        {
+          "title": "النوم والأحلام والجاثوم 😴👹 كتاب: سيكولوجية الأحلام🛌 #أخضر",
+          "link": "https://www.youtube.com/watch?v=sBxquJV6J6Y",
+          "videoId": "sBxquJV6J6Y",
+          "pubDate": "2026-03-06T16:01:31+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCUjRjJ1-h3oUx40gf2tuh3w": {
       "handle": "Sha5bata",
       "name": "شخبطة",
-      "feedTitle": "شخبطة",
-      "items": [],
-      "ok": false
+      "feedTitle": "شخبطة Sha5bata",
+      "items": [
+        {
+          "title": "30 رسالة عشان تحب الصلاة.. الرسالة 5",
+          "link": "https://www.youtube.com/watch?v=XhtqZm56Pss",
+          "videoId": "XhtqZm56Pss",
+          "pubDate": "2026-02-27T13:21:19+00:00"
+        },
+        {
+          "title": "كيف تُنظم وقتك مثل السلف الصالح .. ستتغير حياتك للأبد !",
+          "link": "https://www.youtube.com/watch?v=46h0sA5idsY",
+          "videoId": "46h0sA5idsY",
+          "pubDate": "2026-02-23T14:00:12+00:00"
+        },
+        {
+          "title": "تحدي 30 رسالة في 30 يوم عشان تحب الصلاة.. الرسالة ٤",
+          "link": "https://www.youtube.com/watch?v=3UYSdl0qbNU",
+          "videoId": "3UYSdl0qbNU",
+          "pubDate": "2026-02-20T11:00:07+00:00"
+        }
+      ],
+      "ok": true
     },
     "UChbuH4HULlesX_rzlozkT6Q": {
       "handle": "AliMuhammadAli",
       "name": "علي محمد علي",
-      "feedTitle": "علي محمد علي",
-      "items": [],
-      "ok": false
+      "feedTitle": "Ali Muhammad Ali",
+      "items": [
+        {
+          "title": "ما زلنا هنا..",
+          "link": "https://www.youtube.com/watch?v=gJjoYniRSZc",
+          "videoId": "gJjoYniRSZc",
+          "pubDate": "2026-02-28T13:31:00+00:00"
+        },
+        {
+          "title": "نهاية عصر القراءة!",
+          "link": "https://www.youtube.com/watch?v=JRnEJiLeJZ8",
+          "videoId": "JRnEJiLeJZ8",
+          "pubDate": "2025-09-25T12:08:55+00:00"
+        },
+        {
+          "title": "العب كاليستنكس",
+          "link": "https://www.youtube.com/watch?v=1FfEXdbhjGs",
+          "videoId": "1FfEXdbhjGs",
+          "pubDate": "2025-07-14T15:54:20+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCJlu6BjPWHZhzuCc0zVME0Q": {
       "handle": "Dupamicaffeine",
       "name": "دوباميكافيين",
-      "feedTitle": "دوباميكافيين",
-      "items": [],
-      "ok": false
+      "feedTitle": "دوباميكافين Dupamicaffeine",
+      "items": [
+        {
+          "title": "لماذا تفشل البدايات؟ - لغات الحب الخمس - الجزء الأول - دوباميكافين",
+          "link": "https://www.youtube.com/watch?v=c3IepeJCpUk",
+          "videoId": "c3IepeJCpUk",
+          "pubDate": "2026-03-09T19:00:46+00:00"
+        },
+        {
+          "title": "كيف تحقق أهدافك - شرح كامل لكتاب الاثنى عشر أسبوع - دوباميكافين",
+          "link": "https://www.youtube.com/watch?v=4Ai5WEOHzgs",
+          "videoId": "4Ai5WEOHzgs",
+          "pubDate": "2026-03-04T19:00:02+00:00"
+        },
+        {
+          "title": "خطط أسبوعيًا - كل أسبوع يعادل شهر - كتاب سنة الإثنى عشر أسبوع - الجزء الثاني - دوباميكافين",
+          "link": "https://www.youtube.com/watch?v=TKT9HEHvHXY",
+          "videoId": "TKT9HEHvHXY",
+          "pubDate": "2026-02-28T19:17:08+00:00"
+        }
+      ],
+      "ok": true
     },
     "UC0LSnqrwqtMwl2YwfUpO66g": {
       "handle": "aljazeeradocumentary",
       "name": "الجزيرة الوثائقية",
-      "feedTitle": "الجزيرة الوثائقية",
-      "items": [],
-      "ok": false
+      "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
+      "items": [
+        {
+          "title": "ّالجزائر.. جريمة كيماوية\".. تشاهدون الفيلم غدا الخميس 9 مساء بتوقيت مكة المكرمة\"",
+          "link": "https://www.youtube.com/watch?v=GXtjg37mgkk",
+          "videoId": "GXtjg37mgkk",
+          "pubDate": "2026-03-11T20:48:00+00:00"
+        },
+        {
+          "title": "كيف يصوم أتباع الديانة الصابئة المندائية؟",
+          "link": "https://www.youtube.com/watch?v=WycndO5fWSY",
+          "videoId": "WycndO5fWSY",
+          "pubDate": "2026-03-11T18:00:01+00:00"
+        },
+        {
+          "title": "أخطر طوائف تعدد الزوجات في تاريخ الولايات المتحدة",
+          "link": "https://www.youtube.com/watch?v=bQzrjf9dylo",
+          "videoId": "bQzrjf9dylo",
+          "pubDate": "2026-03-11T17:00:00+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCArK7aSQ68vRCiJY2m7spkA": {
       "handle": "AsharqDoc",
       "name": "الشرق الوثائقية",
-      "feedTitle": "الشرق الوثائقية",
-      "items": [],
-      "ok": false
+      "feedTitle": "Asharq Documentary الشرق الوثائقية",
+      "items": [
+        {
+          "title": "متلازمة هافانا - ضحايا غير مرئيين - الحلقة 1 | الشرق الوثائقية",
+          "link": "https://www.youtube.com/watch?v=4QZCAvHkgnw",
+          "videoId": "4QZCAvHkgnw",
+          "pubDate": "2026-03-11T19:00:04+00:00"
+        },
+        {
+          "title": "بين النفي والذاكرة: حكايات ضحايا سياسة الترحيل العرقي في أستراليا .. المنفيون | الشرق الوثائقية",
+          "link": "https://www.youtube.com/watch?v=j5tGnEA0gSY",
+          "videoId": "j5tGnEA0gSY",
+          "pubDate": "2026-03-10T19:00:57+00:00"
+        },
+        {
+          "title": "لماذا نشعر بالنعاس بعد الإفطار فورا؟",
+          "link": "https://www.youtube.com/watch?v=8klQ-UVbCJg",
+          "videoId": "8klQ-UVbCJg",
+          "pubDate": "2026-03-10T17:00:49+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCLiTe0aOHShx7hXGyqZ9UIw": {
       "handle": "natgeoabudhabime",
       "name": "ناشيونال جيوغرافيك",
-      "feedTitle": "ناشيونال جيوغرافيك",
-      "items": [],
-      "ok": false
+      "feedTitle": "Nat Geo Abu Dhabi",
+      "items": [
+        {
+          "title": "الحلقة الأولى | هياكل عملاقة: كاسحة الجليد | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=W4SxLBeI-as",
+          "videoId": "W4SxLBeI-as",
+          "pubDate": "2026-02-26T17:09:26+00:00"
+        },
+        {
+          "title": "الخزفي | مسار الصحوة | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=5V2a8ib5ktA",
+          "videoId": "5V2a8ib5ktA",
+          "pubDate": "2026-02-23T19:15:18+00:00"
+        },
+        {
+          "title": "من باريس إلى بيتسبرغ | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=f8B8HyN7Znw",
+          "videoId": "f8B8HyN7Znw",
+          "pubDate": "2026-02-21T16:24:46+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCET6sWl4Xcu-U8Ka9PJPrwA": {
       "handle": "dwdocarabia",
       "name": "DW عربية وثائقي",
-      "feedTitle": "DW عربية وثائقي",
-      "items": [],
-      "ok": false
+      "feedTitle": "DW Documentary وثائقية دي دبليو",
+      "items": [
+        {
+          "title": "وثائقي | شبكة حزب الله – من يقف وراء اغتيال رفيق الحريري؟ (3/2) | وثائقية دي دبليو",
+          "link": "https://www.youtube.com/watch?v=-AQW10di2rU",
+          "videoId": "-AQW10di2rU",
+          "pubDate": "2026-03-10T17:36:53+00:00"
+        },
+        {
+          "title": "وثائقي | شبكة حزب الله - غسيل أموال في أوروبا (3/3) | وثائقية دي دبليو",
+          "link": "https://www.youtube.com/watch?v=-20YJdU0Kbo",
+          "videoId": "-20YJdU0Kbo",
+          "pubDate": "2026-03-10T17:36:21+00:00"
+        },
+        {
+          "title": "وثائقي | شبكة حزب الله - تجارة مخدرات وإرهاب (3/1) | وثائقية دي دبليو",
+          "link": "https://www.youtube.com/watch?v=mmEOvdkVDv0",
+          "videoId": "mmEOvdkVDv0",
+          "pubDate": "2026-03-10T17:35:28+00:00"
+        }
+      ],
+      "ok": true
     }
   }
 }
