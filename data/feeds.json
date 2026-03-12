@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-12T16:45:24.348206+00:00",
+  "updated": "2026-03-12T17:39:37.358597+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -397,6 +397,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "قارئ القرآن الذي أبدع في التلاوة على الطريقة الإسطنبولية",
+          "link": "https://www.youtube.com/watch?v=ciu1wrFpft4",
+          "videoId": "ciu1wrFpft4",
+          "pubDate": "2026-03-12T17:00:01+00:00"
+        },
+        {
           "title": "صوم \"الباعوثة\".. طقس مسيحي يستند إلى قصة النبي يونس",
           "link": "https://www.youtube.com/watch?v=ng8w6RKBHJ8",
           "videoId": "ng8w6RKBHJ8",
@@ -407,12 +413,6 @@
           "link": "https://www.youtube.com/watch?v=tzAYRKmVroQ",
           "videoId": "tzAYRKmVroQ",
           "pubDate": "2026-03-12T11:00:01+00:00"
-        },
-        {
-          "title": "توجد أساسا في الأسماك.. لماذا تحتاج أجسامنا للدهون الصحية؟",
-          "link": "https://www.youtube.com/watch?v=llWSDWjbXGQ",
-          "videoId": "llWSDWjbXGQ",
-          "pubDate": "2026-03-12T09:30:01+00:00"
         }
       ],
       "ok": true
