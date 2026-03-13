@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-13T10:23:06.347383+00:00",
+  "updated": "2026-03-13T11:21:57.077044+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -189,6 +189,12 @@
       "feedTitle": "ذكاء اصطناعي عربي",
       "items": [
         {
+          "title": "What is Parameters? | شرح المعاملات",
+          "link": "https://www.youtube.com/watch?v=WC1xEf4V-H0",
+          "videoId": "WC1xEf4V-H0",
+          "pubDate": "2026-03-13T11:00:54+00:00"
+        },
+        {
           "title": "Agent Skills Architecture | فهم بنية الوكلاء الذكيين",
           "link": "https://www.youtube.com/watch?v=FW6nyEFV6ic",
           "videoId": "FW6nyEFV6ic",
@@ -199,12 +205,6 @@
           "link": "https://www.youtube.com/watch?v=LNZUW6jdsbE",
           "videoId": "LNZUW6jdsbE",
           "pubDate": "2026-03-12T11:00:39+00:00"
-        },
-        {
-          "title": "What is Fine-tuning? | شرح الضبط الدقيق",
-          "link": "https://www.youtube.com/watch?v=-Y7YzWwPgkk",
-          "videoId": "-Y7YzWwPgkk",
-          "pubDate": "2026-03-11T06:01:11+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "السيارات الكهربائية بين الصين وأوروبا",
+          "link": "https://www.youtube.com/watch?v=gOYmQqQBgsc",
+          "videoId": "gOYmQqQBgsc",
+          "pubDate": "2026-03-13T10:50:23+00:00"
+        },
+        {
           "title": "وثائقي | بعد وفاة خامنئي: احتجاج وأمل وقمع في إيران | وثائقية دي دبليو",
           "link": "https://www.youtube.com/watch?v=IUQYQ3MNOqs",
           "videoId": "IUQYQ3MNOqs",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=0MWpPSHs958",
           "videoId": "0MWpPSHs958",
           "pubDate": "2026-03-12T10:11:48+00:00"
-        },
-        {
-          "title": "وثائقي | شبكة حزب الله – من يقف وراء اغتيال رفيق الحريري؟ (3/2) | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=-AQW10di2rU",
-          "videoId": "-AQW10di2rU",
-          "pubDate": "2026-03-10T17:36:53+00:00"
         }
       ],
       "ok": true
