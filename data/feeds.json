@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-13T13:50:52.085171+00:00",
+  "updated": "2026-03-13T14:33:47.506277+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -85,6 +85,12 @@
       "feedTitle": "عبداللطيف سعيد Abdellatif Said",
       "items": [
         {
+          "title": "عملت برنامج كمبيوتر من غير ولا سطر كود! | تصميم برامج ويندوز بالذكاء الاصطناعي 🤖💻",
+          "link": "https://www.youtube.com/watch?v=xVX98YypDtw",
+          "videoId": "xVX98YypDtw",
+          "pubDate": "2026-03-13T14:15:14+00:00"
+        },
+        {
           "title": "الريمونتادا الكبرى: تحديث ChatGPT 5.4 اللي هيتحكم في كمبيوترك مكانك!",
           "link": "https://www.youtube.com/watch?v=PEsJ0a1fPtI",
           "videoId": "PEsJ0a1fPtI",
@@ -95,12 +101,6 @@
           "link": "https://www.youtube.com/watch?v=jNbcD4GH7ag",
           "videoId": "jNbcD4GH7ag",
           "pubDate": "2026-03-07T14:15:04+00:00"
-        },
-        {
-          "title": "هل ظهر منافس حقيقي لـ Nano Banana Pro؟ تجربة نموذج Soul 2.0 الجديد والنتيجة صدمة!",
-          "link": "https://www.youtube.com/watch?v=oFMXfKK8Gtc",
-          "videoId": "oFMXfKK8Gtc",
-          "pubDate": "2026-03-05T14:15:11+00:00"
         }
       ],
       "ok": true
