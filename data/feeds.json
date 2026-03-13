@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-13T16:24:36.904426+00:00",
+  "updated": "2026-03-13T17:25:26.930205+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "وثائقي | تاريخ الاتجار بالبشر - الاستغلال من أجل السكر (2/1) | وثائقية دي دبليو",
+          "link": "https://www.youtube.com/watch?v=jbDV9JKRGTM",
+          "videoId": "jbDV9JKRGTM",
+          "pubDate": "2026-03-13T17:01:13+00:00"
+        },
+        {
           "title": "السيارات الكهربائية بين الصين وأوروبا",
           "link": "https://www.youtube.com/watch?v=gOYmQqQBgsc",
           "videoId": "gOYmQqQBgsc",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=IUQYQ3MNOqs",
           "videoId": "IUQYQ3MNOqs",
           "pubDate": "2026-03-12T18:00:17+00:00"
-        },
-        {
-          "title": "#وثائقي من المتسبب في أزمة الأفيون في أمريكا؟",
-          "link": "https://www.youtube.com/watch?v=0MWpPSHs958",
-          "videoId": "0MWpPSHs958",
-          "pubDate": "2026-03-12T10:11:48+00:00"
         }
       ],
       "ok": true
