@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-13T05:07:19.541999+00:00",
+  "updated": "2026-03-13T06:35:35.734611+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -74,9 +74,28 @@
     "UCu1NJiJlhrhmF5ZgT-0yWdA": {
       "handle": "Jeelyaqraa",
       "name": "جيل يقرأ",
-      "feedTitle": "جيل يقرأ",
-      "items": [],
-      "ok": false
+      "feedTitle": "ReadTube - جيل يقرأ",
+      "items": [
+        {
+          "title": "الذين ضحكوا حتى البكاء -ملخص لكتاب د. مصطفى محمود",
+          "link": "https://www.youtube.com/watch?v=bSbrMABmf4E",
+          "videoId": "bSbrMABmf4E",
+          "pubDate": "2026-03-03T20:46:03+00:00"
+        },
+        {
+          "title": "المسيري يتنبأ بالمستقبل",
+          "link": "https://www.youtube.com/watch?v=N2hD24PnJQ4",
+          "videoId": "N2hD24PnJQ4",
+          "pubDate": "2026-03-01T20:56:54+00:00"
+        },
+        {
+          "title": "المسيري يفضح الفكر الابستيني - كتاب :الفلسفة المادية وتفكيك الإنسان",
+          "link": "https://www.youtube.com/watch?v=A9FEkTJhvfU",
+          "videoId": "A9FEkTJhvfU",
+          "pubDate": "2026-02-22T19:01:53+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCtUor2SqesPS3b_SMFtLT_w": {
       "handle": "a5drcom",
@@ -123,9 +142,28 @@
     "UCLiTe0aOHShx7hXGyqZ9UIw": {
       "handle": "natgeoabudhabime",
       "name": "ناشيونال جيوغرافيك",
-      "feedTitle": "ناشيونال جيوغرافيك",
-      "items": [],
-      "ok": false
+      "feedTitle": "Nat Geo Abu Dhabi",
+      "items": [
+        {
+          "title": "المدينة الغارقة في مصر | استنزاف المحيط | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=PTjz82aP4kM",
+          "videoId": "PTjz82aP4kM",
+          "pubDate": "2026-03-12T19:25:15+00:00"
+        },
+        {
+          "title": "الحلقة الأولى | هياكل عملاقة: كاسحة الجليد | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=W4SxLBeI-as",
+          "videoId": "W4SxLBeI-as",
+          "pubDate": "2026-02-26T17:09:26+00:00"
+        },
+        {
+          "title": "الخزفي | مسار الصحوة | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=5V2a8ib5ktA",
+          "videoId": "5V2a8ib5ktA",
+          "pubDate": "2026-02-23T19:15:18+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCET6sWl4Xcu-U8Ka9PJPrwA": {
       "handle": "dwdocarabia",
