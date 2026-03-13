@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-13T03:26:31.597306+00:00",
+  "updated": "2026-03-13T05:07:19.541999+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -11,80 +11,23 @@
     "UC2jjW7c63dqOPkfMm3P-u3w": {
       "handle": "every_day_a_new_website",
       "name": "موقع كل يوم",
-      "feedTitle": "كل يوم موقع جديد",
-      "items": [
-        {
-          "title": "حول صور منتجك الي جلسة تصوير احترافية مع أداة جوجل المجانية Pomelli  Photoshoot",
-          "link": "https://www.youtube.com/watch?v=oEArDGaqig8",
-          "videoId": "oEArDGaqig8",
-          "pubDate": "2026-03-12T20:12:43+00:00"
-        },
-        {
-          "title": "أشياء مذهلة يمكنك فعلها بـ Gemini يجب أن تعرفها الآن!",
-          "link": "https://www.youtube.com/watch?v=tsHdOcTpmLk",
-          "videoId": "tsHdOcTpmLk",
-          "pubDate": "2026-03-10T18:05:30+00:00"
-        },
-        {
-          "title": "وداعاً للبحث! اكتشفت \"الكنز\" الذي يضم جميع أدوات الـ AI مجاناً حتى الفيديو 🤯",
-          "link": "https://www.youtube.com/watch?v=_lWxvfjSlYE",
-          "videoId": "_lWxvfjSlYE",
-          "pubDate": "2026-03-08T18:39:11+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "موقع كل يوم",
+      "items": [],
+      "ok": false
     },
     "UCKD8vOz3maRPyLAbMXhr-Pw": {
       "handle": "infotech4you_Marwasoliman",
       "name": "مروة سليمان",
-      "feedTitle": "Infotech4you - مروي سليمان",
-      "items": [
-        {
-          "title": " Claude Skills: تعلم مهارات كلود في 12 دقيقة فقط!",
-          "link": "https://www.youtube.com/watch?v=e_bS2UtpjaY",
-          "videoId": "e_bS2UtpjaY",
-          "pubDate": "2026-03-11T22:55:33+00:00"
-        },
-        {
-          "title": "تحديث NotebookLM الجديد! اعرف كيف تختار أفضل نمط إنفوجرافيك لبياناتك؟",
-          "link": "https://www.youtube.com/watch?v=hYIJbVB3DkY",
-          "videoId": "hYIJbVB3DkY",
-          "pubDate": "2026-03-11T00:21:28+00:00"
-        },
-        {
-          "title": "السيطرة المطلقة على تعديل الصور مع القوة المزدوجة Gemini + Nano Banana 2",
-          "link": "https://www.youtube.com/watch?v=gF1CSQCkkEU",
-          "videoId": "gF1CSQCkkEU",
-          "pubDate": "2026-03-09T16:53:52+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "مروة سليمان",
+      "items": [],
+      "ok": false
     },
     "UCSRy-3lglM2QKJ_xF2zuPlQ": {
       "handle": "AbdellatifSaidA",
       "name": "عبداللطيف سعيد",
-      "feedTitle": "عبداللطيف سعيد Abdellatif Said",
-      "items": [
-        {
-          "title": "الريمونتادا الكبرى: تحديث ChatGPT 5.4 اللي هيتحكم في كمبيوترك مكانك!",
-          "link": "https://www.youtube.com/watch?v=PEsJ0a1fPtI",
-          "videoId": "PEsJ0a1fPtI",
-          "pubDate": "2026-03-09T14:15:04+00:00"
-        },
-        {
-          "title": "وداعاً ChatGPT.. أفضل بدائل الذكاء الاصطناعي اللي هتنجزلك شغلك وتنقذ بياناتك (دليل شامل)!",
-          "link": "https://www.youtube.com/watch?v=jNbcD4GH7ag",
-          "videoId": "jNbcD4GH7ag",
-          "pubDate": "2026-03-07T14:15:04+00:00"
-        },
-        {
-          "title": "هل ظهر منافس حقيقي لـ Nano Banana Pro؟ تجربة نموذج Soul 2.0 الجديد والنتيجة صدمة!",
-          "link": "https://www.youtube.com/watch?v=oFMXfKK8Gtc",
-          "videoId": "oFMXfKK8Gtc",
-          "pubDate": "2026-03-05T14:15:11+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "عبداللطيف سعيد",
+      "items": [],
+      "ok": false
     },
     "UC81Ks7DR9JFgZc14nmZ07EA": {
       "handle": "AMRSALEM800",
@@ -110,28 +53,9 @@
     "UCGrVvqu8PlVv0wPqA5kgY8A": {
       "handle": "ArabicArtificialIntelligence",
       "name": "الذكاء الاصطناعي العربي",
-      "feedTitle": "ذكاء اصطناعي عربي",
-      "items": [
-        {
-          "title": "Agent Skills Architecture | فهم بنية الوكلاء الذكيين",
-          "link": "https://www.youtube.com/watch?v=FW6nyEFV6ic",
-          "videoId": "FW6nyEFV6ic",
-          "pubDate": "2026-03-12T23:23:09+00:00"
-        },
-        {
-          "title": "What is Retrieval-Augmented Generation? | شرح التوليد المعزز بالاسترجاع",
-          "link": "https://www.youtube.com/watch?v=LNZUW6jdsbE",
-          "videoId": "LNZUW6jdsbE",
-          "pubDate": "2026-03-12T11:00:39+00:00"
-        },
-        {
-          "title": "What is Fine-tuning? | شرح الضبط الدقيق",
-          "link": "https://www.youtube.com/watch?v=-Y7YzWwPgkk",
-          "videoId": "-Y7YzWwPgkk",
-          "pubDate": "2026-03-11T06:01:11+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "الذكاء الاصطناعي العربي",
+      "items": [],
+      "ok": false
     },
     "UCSXcmF4Gxl6Hc-m6cHYD_Vg": {
       "handle": "MohamedAnsary",
@@ -144,53 +68,15 @@
       "handle": "KhairJaleesBook",
       "name": "خير جليس",
       "feedTitle": "خير جليس",
-      "items": [
-        {
-          "title": "محاربة المشاعر تجعلها أقوى - من كتاب السماح بالرحيل",
-          "link": "https://www.youtube.com/watch?v=XPxW2DK7uP8",
-          "videoId": "XPxW2DK7uP8",
-          "pubDate": "2026-03-12T06:00:32+00:00"
-        },
-        {
-          "title": "الانتصارات الصغيرة تعيد تشكيل الهوية مع الوقت  - من كتاب الثقة التامة بالنفس",
-          "link": "https://www.youtube.com/watch?v=65T5LeNDpPI",
-          "videoId": "65T5LeNDpPI",
-          "pubDate": "2026-03-10T06:13:28+00:00"
-        },
-        {
-          "title": "ملخص كتاب السماح بالرحيل بقلم ديفيد هوكينز",
-          "link": "https://www.youtube.com/watch?v=wt-IClbZ7Tk",
-          "videoId": "wt-IClbZ7Tk",
-          "pubDate": "2026-03-10T06:00:45+00:00"
-        }
-      ],
-      "ok": true
+      "items": [],
+      "ok": false
     },
     "UCu1NJiJlhrhmF5ZgT-0yWdA": {
       "handle": "Jeelyaqraa",
       "name": "جيل يقرأ",
-      "feedTitle": "ReadTube - جيل يقرأ",
-      "items": [
-        {
-          "title": "الذين ضحكوا حتى البكاء -ملخص لكتاب د. مصطفى محمود",
-          "link": "https://www.youtube.com/watch?v=bSbrMABmf4E",
-          "videoId": "bSbrMABmf4E",
-          "pubDate": "2026-03-03T20:46:03+00:00"
-        },
-        {
-          "title": "المسيري يتنبأ بالمستقبل",
-          "link": "https://www.youtube.com/watch?v=N2hD24PnJQ4",
-          "videoId": "N2hD24PnJQ4",
-          "pubDate": "2026-03-01T20:56:54+00:00"
-        },
-        {
-          "title": "المسيري يفضح الفكر الابستيني - كتاب :الفلسفة المادية وتفكيك الإنسان",
-          "link": "https://www.youtube.com/watch?v=A9FEkTJhvfU",
-          "videoId": "A9FEkTJhvfU",
-          "pubDate": "2026-02-22T19:01:53+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "جيل يقرأ",
+      "items": [],
+      "ok": false
     },
     "UCtUor2SqesPS3b_SMFtLT_w": {
       "handle": "a5drcom",
@@ -230,54 +116,16 @@
     "UCArK7aSQ68vRCiJY2m7spkA": {
       "handle": "AsharqDoc",
       "name": "الشرق الوثائقية",
-      "feedTitle": "Asharq Documentary الشرق الوثائقية",
-      "items": [
-        {
-          "title": "متلازمة هافانا - باندورا.. المشروع السري - الحلقة 2 | الشرق الوثائقية",
-          "link": "https://www.youtube.com/watch?v=p85N2gDOXBk",
-          "videoId": "p85N2gDOXBk",
-          "pubDate": "2026-03-12T19:01:00+00:00"
-        },
-        {
-          "title": "رمضان فرصة لإعادة ضبط نمط حياتنا الصحية..",
-          "link": "https://www.youtube.com/watch?v=B_C-0w3XQ4c",
-          "videoId": "B_C-0w3XQ4c",
-          "pubDate": "2026-03-12T17:49:09+00:00"
-        },
-        {
-          "title": "متلازمة هافانا - ضحايا غير مرئيين - الحلقة 1 | الشرق الوثائقية",
-          "link": "https://www.youtube.com/watch?v=4QZCAvHkgnw",
-          "videoId": "4QZCAvHkgnw",
-          "pubDate": "2026-03-11T19:00:04+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "الشرق الوثائقية",
+      "items": [],
+      "ok": false
     },
     "UCLiTe0aOHShx7hXGyqZ9UIw": {
       "handle": "natgeoabudhabime",
       "name": "ناشيونال جيوغرافيك",
-      "feedTitle": "Nat Geo Abu Dhabi",
-      "items": [
-        {
-          "title": "المدينة الغارقة في مصر | استنزاف المحيط | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=PTjz82aP4kM",
-          "videoId": "PTjz82aP4kM",
-          "pubDate": "2026-03-12T19:25:15+00:00"
-        },
-        {
-          "title": "الحلقة الأولى | هياكل عملاقة: كاسحة الجليد | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=W4SxLBeI-as",
-          "videoId": "W4SxLBeI-as",
-          "pubDate": "2026-02-26T17:09:26+00:00"
-        },
-        {
-          "title": "الخزفي | مسار الصحوة | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=5V2a8ib5ktA",
-          "videoId": "5V2a8ib5ktA",
-          "pubDate": "2026-02-23T19:15:18+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "ناشيونال جيوغرافيك",
+      "items": [],
+      "ok": false
     },
     "UCET6sWl4Xcu-U8Ka9PJPrwA": {
       "handle": "dwdocarabia",
