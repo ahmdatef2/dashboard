@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-13T11:21:57.077044+00:00",
+  "updated": "2026-03-13T12:28:56.529062+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -189,6 +189,12 @@
       "feedTitle": "ذكاء اصطناعي عربي",
       "items": [
         {
+          "title": "حديث AI و عن Qwen3.5",
+          "link": "https://www.youtube.com/watch?v=hwbGWWmGZRo",
+          "videoId": "hwbGWWmGZRo",
+          "pubDate": "2026-03-13T11:43:56+00:00"
+        },
+        {
           "title": "What is Parameters? | شرح المعاملات",
           "link": "https://www.youtube.com/watch?v=WC1xEf4V-H0",
           "videoId": "WC1xEf4V-H0",
@@ -199,12 +205,6 @@
           "link": "https://www.youtube.com/watch?v=FW6nyEFV6ic",
           "videoId": "FW6nyEFV6ic",
           "pubDate": "2026-03-12T23:23:09+00:00"
-        },
-        {
-          "title": "What is Retrieval-Augmented Generation? | شرح التوليد المعزز بالاسترجاع",
-          "link": "https://www.youtube.com/watch?v=LNZUW6jdsbE",
-          "videoId": "LNZUW6jdsbE",
-          "pubDate": "2026-03-12T11:00:39+00:00"
         }
       ],
       "ok": true
