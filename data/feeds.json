@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-12T23:16:24.126368+00:00",
+  "updated": "2026-03-13T00:58:18.102352+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -189,6 +189,12 @@
       "feedTitle": "ذكاء اصطناعي عربي",
       "items": [
         {
+          "title": "Agent Skills Architecture | فهم بنية الوكلاء الذكيين",
+          "link": "https://www.youtube.com/watch?v=FW6nyEFV6ic",
+          "videoId": "FW6nyEFV6ic",
+          "pubDate": "2026-03-12T23:23:09+00:00"
+        },
+        {
           "title": "What is Retrieval-Augmented Generation? | شرح التوليد المعزز بالاسترجاع",
           "link": "https://www.youtube.com/watch?v=LNZUW6jdsbE",
           "videoId": "LNZUW6jdsbE",
@@ -199,12 +205,6 @@
           "link": "https://www.youtube.com/watch?v=-Y7YzWwPgkk",
           "videoId": "-Y7YzWwPgkk",
           "pubDate": "2026-03-11T06:01:11+00:00"
-        },
-        {
-          "title": "What is Foundation Model? | شرح النموذج التأسيسي",
-          "link": "https://www.youtube.com/watch?v=ROUocE7p6ZY",
-          "videoId": "ROUocE7p6ZY",
-          "pubDate": "2026-03-10T16:37:14+00:00"
         }
       ],
       "ok": true
