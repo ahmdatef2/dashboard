@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-14T13:37:02.966637+00:00",
+  "updated": "2026-03-14T14:17:41.710319+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -215,6 +215,12 @@
       "feedTitle": "Mohamed Ansary",
       "items": [
         {
+          "title": "تحليل البيانات وتصميم العروض بذكاء واحترافية من خلال Skywork وبشكل مجاني",
+          "link": "https://www.youtube.com/watch?v=TV55baAhRCc",
+          "videoId": "TV55baAhRCc",
+          "pubDate": "2026-03-14T14:02:05+00:00"
+        },
+        {
           "title": "تصميم إنفوجرافيك ب10أنماط جديدة بشكل مجاني..من خلال Notebook LM",
           "link": "https://www.youtube.com/watch?v=8nY_n9eZs80",
           "videoId": "8nY_n9eZs80",
@@ -225,12 +231,6 @@
           "link": "https://www.youtube.com/watch?v=CRQg_Xd9tLs",
           "videoId": "CRQg_Xd9tLs",
           "pubDate": "2026-03-11T15:21:20+00:00"
-        },
-        {
-          "title": "كيفية عمل تطبيق صوتي من خلال Google Ai Studio مجانًا..",
-          "link": "https://www.youtube.com/watch?v=ywHTnAHDDbE",
-          "videoId": "ywHTnAHDDbE",
-          "pubDate": "2026-03-11T07:19:19+00:00"
         }
       ],
       "ok": true
