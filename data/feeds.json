@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-14T11:13:35.379469+00:00",
+  "updated": "2026-03-14T12:22:05.985632+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -111,6 +111,12 @@
       "feedTitle": "AMR SALEM _ عمرو سالم",
       "items": [
         {
+          "title": "بنيت برنامج يخفي الملفات السرية على الكمبيوتر باستخدام Antigravity وPython",
+          "link": "https://www.youtube.com/watch?v=BQTgtarvEOE",
+          "videoId": "BQTgtarvEOE",
+          "pubDate": "2026-03-14T12:00:19+00:00"
+        },
+        {
           "title": "اصنع تطبيقات Full-Stack كاملة مجانًا 100٪ (تسجيل دخول + قواعد بيانات + نشر) | ANTIGRAVITY + INSFORGE",
           "link": "https://www.youtube.com/watch?v=3FMbd9jzf-o",
           "videoId": "3FMbd9jzf-o",
@@ -121,12 +127,6 @@
           "link": "https://www.youtube.com/watch?v=atTewFWJyTc",
           "videoId": "atTewFWJyTc",
           "pubDate": "2026-03-10T21:10:14+00:00"
-        },
-        {
-          "title": "شركة Anthropic نزلت كورس مجاني لتعلم Claude وبناء AI Agents",
-          "link": "https://www.youtube.com/watch?v=cOq2d3nOA6o",
-          "videoId": "cOq2d3nOA6o",
-          "pubDate": "2026-03-08T19:11:52+00:00"
         }
       ],
       "ok": true
