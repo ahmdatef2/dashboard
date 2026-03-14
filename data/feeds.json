@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-14T10:15:56.520102+00:00",
+  "updated": "2026-03-14T11:13:35.379469+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -189,6 +189,12 @@
       "feedTitle": "ذكاء اصطناعي عربي",
       "items": [
         {
+          "title": "What is Temperature? | شرح درجة الحرارة",
+          "link": "https://www.youtube.com/watch?v=sk_U7HYAyxU",
+          "videoId": "sk_U7HYAyxU",
+          "pubDate": "2026-03-14T11:01:23+00:00"
+        },
+        {
           "title": "حديث AI و عن Qwen3.5",
           "link": "https://www.youtube.com/watch?v=hwbGWWmGZRo",
           "videoId": "hwbGWWmGZRo",
@@ -199,12 +205,6 @@
           "link": "https://www.youtube.com/watch?v=WC1xEf4V-H0",
           "videoId": "WC1xEf4V-H0",
           "pubDate": "2026-03-13T11:00:54+00:00"
-        },
-        {
-          "title": "Agent Skills Architecture | فهم بنية الوكلاء الذكيين",
-          "link": "https://www.youtube.com/watch?v=FW6nyEFV6ic",
-          "videoId": "FW6nyEFV6ic",
-          "pubDate": "2026-03-12T23:23:09+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "العنف الجنسي ضد النساء في الهند",
+          "link": "https://www.youtube.com/watch?v=Alr6AGr0j98",
+          "videoId": "Alr6AGr0j98",
+          "pubDate": "2026-03-14T10:45:01+00:00"
+        },
+        {
           "title": "وثائقي | تاريخ الاتجار بالبشر - الاستغلال من أجل السكر (2/2) | وثائقية دي دبليو",
           "link": "https://www.youtube.com/watch?v=tSKOfW_8LD4",
           "videoId": "tSKOfW_8LD4",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=jbDV9JKRGTM",
           "videoId": "jbDV9JKRGTM",
           "pubDate": "2026-03-13T17:01:13+00:00"
-        },
-        {
-          "title": "السيارات الكهربائية بين الصين وأوروبا",
-          "link": "https://www.youtube.com/watch?v=gOYmQqQBgsc",
-          "videoId": "gOYmQqQBgsc",
-          "pubDate": "2026-03-13T10:50:23+00:00"
         }
       ],
       "ok": true
