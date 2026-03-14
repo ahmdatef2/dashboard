@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-14T18:19:51.856490+00:00",
+  "updated": "2026-03-14T19:18:32.408287+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -423,6 +423,12 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "الاتحاد السوفييتي من التأسيس إلى الانهيار - النصر العظيم - الجزء 2 | الشرق الوثائقية",
+          "link": "https://www.youtube.com/watch?v=Iw8i_6apR6A",
+          "videoId": "Iw8i_6apR6A",
+          "pubDate": "2026-03-14T19:00:13+00:00"
+        },
+        {
           "title": "الاتحاد السوفييتي من التأسيس إلى الانهيار - قوة عالمية عظمى - الجزء 1 | الشرق الوثائقية",
           "link": "https://www.youtube.com/watch?v=NDSd3qpwxGM",
           "videoId": "NDSd3qpwxGM",
@@ -433,12 +439,6 @@
           "link": "https://www.youtube.com/watch?v=p85N2gDOXBk",
           "videoId": "p85N2gDOXBk",
           "pubDate": "2026-03-12T19:01:00+00:00"
-        },
-        {
-          "title": "رمضان فرصة لإعادة ضبط نمط حياتنا الصحية..",
-          "link": "https://www.youtube.com/watch?v=B_C-0w3XQ4c",
-          "videoId": "B_C-0w3XQ4c",
-          "pubDate": "2026-03-12T17:49:09+00:00"
         }
       ],
       "ok": true
