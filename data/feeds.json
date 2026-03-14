@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-14T16:16:43.828039+00:00",
+  "updated": "2026-03-14T17:16:29.250581+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -293,6 +293,12 @@
       "feedTitle": "أخضر",
       "items": [
         {
+          "title": "ازاي تغير حياتك؟🤩 كتاب: على بصيرة.. مسودة أولية لاستعادة النفس البشرية #أخضر",
+          "link": "https://www.youtube.com/watch?v=0jIZo347l-s",
+          "videoId": "0jIZo347l-s",
+          "pubDate": "2026-03-14T16:45:01+00:00"
+        },
+        {
           "title": "أسرار العداء بين أمريكا وإيران🕵️‍♂️⚔️ | على الماشي #أخضر",
           "link": "https://www.youtube.com/watch?v=4Yc5iJ5NlR4",
           "videoId": "4Yc5iJ5NlR4",
@@ -303,12 +309,6 @@
           "link": "https://www.youtube.com/watch?v=o2MNAhVw6V4",
           "videoId": "o2MNAhVw6V4",
           "pubDate": "2026-03-07T20:02:49+00:00"
-        },
-        {
-          "title": "النوم والأحلام والجاثوم 😴👹 كتاب: سيكولوجية الأحلام🛌 #أخضر",
-          "link": "https://www.youtube.com/watch?v=sBxquJV6J6Y",
-          "videoId": "sBxquJV6J6Y",
-          "pubDate": "2026-03-06T16:01:31+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "وثائقي | كوكب الأرض - إعادة كتابة تاريخ كوكبنا | وثائقية دي دبليو",
+          "link": "https://www.youtube.com/watch?v=e814Qs7pp6Q",
+          "videoId": "e814Qs7pp6Q",
+          "pubDate": "2026-03-14T17:00:49+00:00"
+        },
+        {
           "title": "العنف الجنسي ضد النساء في الهند",
           "link": "https://www.youtube.com/watch?v=Alr6AGr0j98",
           "videoId": "Alr6AGr0j98",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=tSKOfW_8LD4",
           "videoId": "tSKOfW_8LD4",
           "pubDate": "2026-03-13T17:30:30+00:00"
-        },
-        {
-          "title": "وثائقي | تاريخ الاتجار بالبشر - الاستغلال من أجل السكر (2/1) | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=jbDV9JKRGTM",
-          "videoId": "jbDV9JKRGTM",
-          "pubDate": "2026-03-13T17:01:13+00:00"
         }
       ],
       "ok": true
