@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-14T05:04:45.079346+00:00",
+  "updated": "2026-03-14T06:30:40.373589+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -53,28 +53,9 @@
     "UCGrVvqu8PlVv0wPqA5kgY8A": {
       "handle": "ArabicArtificialIntelligence",
       "name": "الذكاء الاصطناعي العربي",
-      "feedTitle": "ذكاء اصطناعي عربي",
-      "items": [
-        {
-          "title": "حديث AI و عن Qwen3.5",
-          "link": "https://www.youtube.com/watch?v=hwbGWWmGZRo",
-          "videoId": "hwbGWWmGZRo",
-          "pubDate": "2026-03-13T11:43:56+00:00"
-        },
-        {
-          "title": "What is Parameters? | شرح المعاملات",
-          "link": "https://www.youtube.com/watch?v=WC1xEf4V-H0",
-          "videoId": "WC1xEf4V-H0",
-          "pubDate": "2026-03-13T11:00:54+00:00"
-        },
-        {
-          "title": "Agent Skills Architecture | فهم بنية الوكلاء الذكيين",
-          "link": "https://www.youtube.com/watch?v=FW6nyEFV6ic",
-          "videoId": "FW6nyEFV6ic",
-          "pubDate": "2026-03-12T23:23:09+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "الذكاء الاصطناعي العربي",
+      "items": [],
+      "ok": false
     },
     "UCSXcmF4Gxl6Hc-m6cHYD_Vg": {
       "handle": "MohamedAnsary",
@@ -149,28 +130,9 @@
     "UCET6sWl4Xcu-U8Ka9PJPrwA": {
       "handle": "dwdocarabia",
       "name": "DW عربية وثائقي",
-      "feedTitle": "DW Documentary وثائقية دي دبليو",
-      "items": [
-        {
-          "title": "وثائقي | تاريخ الاتجار بالبشر - الاستغلال من أجل السكر (2/2) | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=tSKOfW_8LD4",
-          "videoId": "tSKOfW_8LD4",
-          "pubDate": "2026-03-13T17:30:30+00:00"
-        },
-        {
-          "title": "وثائقي | تاريخ الاتجار بالبشر - الاستغلال من أجل السكر (2/1) | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=jbDV9JKRGTM",
-          "videoId": "jbDV9JKRGTM",
-          "pubDate": "2026-03-13T17:01:13+00:00"
-        },
-        {
-          "title": "السيارات الكهربائية بين الصين وأوروبا",
-          "link": "https://www.youtube.com/watch?v=gOYmQqQBgsc",
-          "videoId": "gOYmQqQBgsc",
-          "pubDate": "2026-03-13T10:50:23+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "DW عربية وثائقي",
+      "items": [],
+      "ok": false
     }
   }
 }
