@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-15T16:16:52.013064+00:00",
+  "updated": "2026-03-15T17:16:25.674724+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "وثائقي | الضحايا المجهولون لمنظمة الجيش الأحمر في ألمانيا | وثائقية دي دبليو",
+          "link": "https://www.youtube.com/watch?v=fKeG50q0sd0",
+          "videoId": "fKeG50q0sd0",
+          "pubDate": "2026-03-15T17:01:01+00:00"
+        },
+        {
           "title": "وثائقي | كوكب الأرض - إعادة كتابة تاريخ كوكبنا | وثائقية دي دبليو",
           "link": "https://www.youtube.com/watch?v=e814Qs7pp6Q",
           "videoId": "e814Qs7pp6Q",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=Alr6AGr0j98",
           "videoId": "Alr6AGr0j98",
           "pubDate": "2026-03-14T10:45:01+00:00"
-        },
-        {
-          "title": "وثائقي | تاريخ الاتجار بالبشر - الاستغلال من أجل السكر (2/2) | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=tSKOfW_8LD4",
-          "videoId": "tSKOfW_8LD4",
-          "pubDate": "2026-03-13T17:30:30+00:00"
         }
       ],
       "ok": true
