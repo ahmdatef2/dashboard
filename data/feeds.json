@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-15T20:14:49.750250+00:00",
+  "updated": "2026-03-15T21:16:04.657792+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -59,6 +59,12 @@
       "feedTitle": "Infotech4you - مروي سليمان",
       "items": [
         {
+          "title": "Claude لم يعد مجرد شات… الميزة الجديدة غيرت اللعبة",
+          "link": "https://www.youtube.com/watch?v=NwE66xMWyi8",
+          "videoId": "NwE66xMWyi8",
+          "pubDate": "2026-03-15T20:44:26+00:00"
+        },
+        {
           "title": "Claude Cowork :  كيف تجعل أداة انثروبيك  المذهلة تعمل بدلاً منك ؟",
           "link": "https://www.youtube.com/watch?v=vcsrUGNsE-g",
           "videoId": "vcsrUGNsE-g",
@@ -69,12 +75,6 @@
           "link": "https://www.youtube.com/watch?v=e_bS2UtpjaY",
           "videoId": "e_bS2UtpjaY",
           "pubDate": "2026-03-11T22:55:33+00:00"
-        },
-        {
-          "title": "تحديث NotebookLM الجديد! اعرف كيف تختار أفضل نمط إنفوجرافيك لبياناتك؟",
-          "link": "https://www.youtube.com/watch?v=hYIJbVB3DkY",
-          "videoId": "hYIJbVB3DkY",
-          "pubDate": "2026-03-11T00:21:28+00:00"
         }
       ],
       "ok": true
