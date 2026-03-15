@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-15T15:17:32.779285+00:00",
+  "updated": "2026-03-15T16:16:52.013064+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -397,6 +397,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "قاتل مأجور لابنته: إذا قتلتُ أمك سأضطر لقتلكم جميعا",
+          "link": "https://www.youtube.com/watch?v=GvIA4DN_OPE",
+          "videoId": "GvIA4DN_OPE",
+          "pubDate": "2026-03-15T16:00:01+00:00"
+        },
+        {
           "title": "بولين مود طبيبة هولندية دخلت الإسلام بعد عدائها له",
           "link": "https://www.youtube.com/watch?v=a7NFmChg0eQ",
           "videoId": "a7NFmChg0eQ",
@@ -407,12 +413,6 @@
           "link": "https://www.youtube.com/watch?v=hla4V7Ppv-E",
           "videoId": "hla4V7Ppv-E",
           "pubDate": "2026-03-15T11:00:01+00:00"
-        },
-        {
-          "title": "الجزائر.. جريمة كيماوية | حين استخدمت فرنسا السلاح المحظور ضد المقاومين",
-          "link": "https://www.youtube.com/watch?v=JkctGEIjB3A",
-          "videoId": "JkctGEIjB3A",
-          "pubDate": "2026-03-12T19:30:03+00:00"
         }
       ],
       "ok": true
