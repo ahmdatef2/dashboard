@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-15T18:21:21.671246+00:00",
+  "updated": "2026-03-15T19:19:53.865234+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -371,6 +371,12 @@
       "feedTitle": "دوباميكافين Dupamicaffeine",
       "items": [
         {
+          "title": "تعلم كيف تعبر عن حبك الحقيقي بغير الغزل - لغات الحب الخمس - الجزء الثاني",
+          "link": "https://www.youtube.com/watch?v=L6rE-GRYzr8",
+          "videoId": "L6rE-GRYzr8",
+          "pubDate": "2026-03-15T19:00:26+00:00"
+        },
+        {
           "title": "اللغة الأولى للحب - قريبًا",
           "link": "https://www.youtube.com/watch?v=6eHYRb3h9fU",
           "videoId": "6eHYRb3h9fU",
@@ -381,12 +387,6 @@
           "link": "https://www.youtube.com/watch?v=c3IepeJCpUk",
           "videoId": "c3IepeJCpUk",
           "pubDate": "2026-03-09T19:00:46+00:00"
-        },
-        {
-          "title": "كيف تحقق أهدافك - شرح كامل لكتاب الاثنى عشر أسبوع - دوباميكافين",
-          "link": "https://www.youtube.com/watch?v=4Ai5WEOHzgs",
-          "videoId": "4Ai5WEOHzgs",
-          "pubDate": "2026-03-04T19:00:02+00:00"
         }
       ],
       "ok": true
@@ -396,6 +396,12 @@
       "name": "الجزيرة الوثائقية",
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
+        {
+          "title": "\"لا أوحش الله منك يا رمضان\" هكذا يودع السودانيون شهر الصيام",
+          "link": "https://www.youtube.com/watch?v=tOUEsjs6mvc",
+          "videoId": "tOUEsjs6mvc",
+          "pubDate": "2026-03-15T19:00:01+00:00"
+        },
         {
           "title": "قاتل مأجور لابنته: إذا قتلتُ أمك سأضطر لقتلكم جميعا",
           "link": "https://www.youtube.com/watch?v=GvIA4DN_OPE",
@@ -407,12 +413,6 @@
           "link": "https://www.youtube.com/watch?v=a7NFmChg0eQ",
           "videoId": "a7NFmChg0eQ",
           "pubDate": "2026-03-15T12:30:01+00:00"
-        },
-        {
-          "title": "في العصر الفيكتوري: رحلة عالم جيولوجي بريطاني إلى المغرب تنتهي باعتناق الإسلام",
-          "link": "https://www.youtube.com/watch?v=hla4V7Ppv-E",
-          "videoId": "hla4V7Ppv-E",
-          "pubDate": "2026-03-15T11:00:01+00:00"
         }
       ],
       "ok": true
@@ -422,6 +422,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "الاتحاد السوفييتي من التأسيس إلى الانهيار - الانهيار والتفكك - الجزء 3 | الشرق الوثائقية",
+          "link": "https://www.youtube.com/watch?v=32ZHJIeDkzg",
+          "videoId": "32ZHJIeDkzg",
+          "pubDate": "2026-03-15T19:00:06+00:00"
+        },
         {
           "title": "الاتحاد السوفييتي من التأسيس إلى الانهيار - النصر العظيم - الجزء 2 | الشرق الوثائقية",
           "link": "https://www.youtube.com/watch?v=Iw8i_6apR6A",
@@ -433,12 +439,6 @@
           "link": "https://www.youtube.com/watch?v=NDSd3qpwxGM",
           "videoId": "NDSd3qpwxGM",
           "pubDate": "2026-03-13T19:00:33+00:00"
-        },
-        {
-          "title": "متلازمة هافانا - باندورا.. المشروع السري - الحلقة 2 | الشرق الوثائقية",
-          "link": "https://www.youtube.com/watch?v=p85N2gDOXBk",
-          "videoId": "p85N2gDOXBk",
-          "pubDate": "2026-03-12T19:01:00+00:00"
         }
       ],
       "ok": true
