@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-15T12:24:00.683594+00:00",
+  "updated": "2026-03-15T13:38:24.193509+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -397,6 +397,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "بولين مود طبيبة هولندية دخلت الإسلام بعد عدائها له",
+          "link": "https://www.youtube.com/watch?v=a7NFmChg0eQ",
+          "videoId": "a7NFmChg0eQ",
+          "pubDate": "2026-03-15T12:30:01+00:00"
+        },
+        {
           "title": "في العصر الفيكتوري: رحلة عالم جيولوجي بريطاني إلى المغرب تنتهي باعتناق الإسلام",
           "link": "https://www.youtube.com/watch?v=hla4V7Ppv-E",
           "videoId": "hla4V7Ppv-E",
@@ -407,12 +413,6 @@
           "link": "https://www.youtube.com/watch?v=JkctGEIjB3A",
           "videoId": "JkctGEIjB3A",
           "pubDate": "2026-03-12T19:30:03+00:00"
-        },
-        {
-          "title": "\"لن يكون في مصلحة فلسطين\".. موقف لورد بريطاني من \"وعد بلفور\"",
-          "link": "https://www.youtube.com/watch?v=7ad6SUjFX3U",
-          "videoId": "7ad6SUjFX3U",
-          "pubDate": "2026-03-12T19:00:02+00:00"
         }
       ],
       "ok": true
