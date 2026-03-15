@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-15T07:36:51.613007+00:00",
+  "updated": "2026-03-15T08:22:43.404344+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -371,6 +371,12 @@
       "feedTitle": "دوباميكافين Dupamicaffeine",
       "items": [
         {
+          "title": "اللغة الأولى للحب - قريبًا",
+          "link": "https://www.youtube.com/watch?v=6eHYRb3h9fU",
+          "videoId": "6eHYRb3h9fU",
+          "pubDate": "2026-03-15T07:57:35+00:00"
+        },
+        {
           "title": "لماذا تفشل البدايات؟ - لغات الحب الخمس - الجزء الأول - دوباميكافين",
           "link": "https://www.youtube.com/watch?v=c3IepeJCpUk",
           "videoId": "c3IepeJCpUk",
@@ -381,12 +387,6 @@
           "link": "https://www.youtube.com/watch?v=4Ai5WEOHzgs",
           "videoId": "4Ai5WEOHzgs",
           "pubDate": "2026-03-04T19:00:02+00:00"
-        },
-        {
-          "title": "خطط أسبوعيًا - كل أسبوع يعادل شهر - كتاب سنة الإثنى عشر أسبوع - الجزء الثاني - دوباميكافين",
-          "link": "https://www.youtube.com/watch?v=TKT9HEHvHXY",
-          "videoId": "TKT9HEHvHXY",
-          "pubDate": "2026-02-28T19:17:08+00:00"
         }
       ],
       "ok": true
