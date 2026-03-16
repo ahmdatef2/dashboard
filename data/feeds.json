@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-16T17:50:53.311175+00:00",
+  "updated": "2026-03-16T18:43:33.872610+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -397,6 +397,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "كعك تلمسان حلوى المناسبات التي صمدت عبر القرون",
+          "link": "https://www.youtube.com/watch?v=6uGtrdez90E",
+          "videoId": "6uGtrdez90E",
+          "pubDate": "2026-03-16T18:00:02+00:00"
+        },
+        {
           "title": "الشيخ البهتيمي صوت صاغه السماع وجمع بين التلاوة والإنشاد",
           "link": "https://www.youtube.com/watch?v=q023e9TwLak",
           "videoId": "q023e9TwLak",
@@ -407,12 +413,6 @@
           "link": "https://www.youtube.com/watch?v=F1TOWSXLIHM",
           "videoId": "F1TOWSXLIHM",
           "pubDate": "2026-03-16T12:30:01+00:00"
-        },
-        {
-          "title": "\"لا أوحش الله منك يا رمضان\" هكذا يودع السودانيون شهر الصيام",
-          "link": "https://www.youtube.com/watch?v=tOUEsjs6mvc",
-          "videoId": "tOUEsjs6mvc",
-          "pubDate": "2026-03-15T19:00:01+00:00"
         }
       ],
       "ok": true
