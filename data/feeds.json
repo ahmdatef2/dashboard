@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-16T22:20:56.920820+00:00",
+  "updated": "2026-03-16T23:19:32.674531+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -33,6 +33,12 @@
       "feedTitle": "كل يوم موقع جديد",
       "items": [
         {
+          "title": "NotebookLM أقوى مما تتخيل: 5 خصائص خفية لازم تعرفها",
+          "link": "https://www.youtube.com/watch?v=3JuyaRNM0XI",
+          "videoId": "3JuyaRNM0XI",
+          "pubDate": "2026-03-16T22:23:19+00:00"
+        },
+        {
           "title": "أداة Canva الجديدة Magic Layers هتغير قواعد اللعبة 😱",
           "link": "https://www.youtube.com/watch?v=jtb8pYX9djg",
           "videoId": "jtb8pYX9djg",
@@ -43,12 +49,6 @@
           "link": "https://www.youtube.com/watch?v=oEArDGaqig8",
           "videoId": "oEArDGaqig8",
           "pubDate": "2026-03-12T20:12:43+00:00"
-        },
-        {
-          "title": "أشياء مذهلة يمكنك فعلها بـ Gemini يجب أن تعرفها الآن!",
-          "link": "https://www.youtube.com/watch?v=tsHdOcTpmLk",
-          "videoId": "tsHdOcTpmLk",
-          "pubDate": "2026-03-10T18:05:30+00:00"
         }
       ],
       "ok": true
