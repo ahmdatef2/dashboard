@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-16T15:53:03.112118+00:00",
+  "updated": "2026-03-16T16:48:50.867214+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -449,6 +449,12 @@
       "feedTitle": "Nat Geo Abu Dhabi",
       "items": [
         {
+          "title": "الحلقة الأولى | أمن المطارات: كولومبيا | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=vb0KQIQ5wF0",
+          "videoId": "vb0KQIQ5wF0",
+          "pubDate": "2026-03-16T16:04:01+00:00"
+        },
+        {
           "title": "عروض شهر مارس | ناشونال جيوغرافيك أبوظبي",
           "link": "https://www.youtube.com/watch?v=vj54LhAglPM",
           "videoId": "vj54LhAglPM",
@@ -459,12 +465,6 @@
           "link": "https://www.youtube.com/watch?v=Dz_xJux-gLs",
           "videoId": "Dz_xJux-gLs",
           "pubDate": "2026-03-13T19:15:49+00:00"
-        },
-        {
-          "title": "المدينة الغارقة في مصر | استنزاف المحيط | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=PTjz82aP4kM",
-          "videoId": "PTjz82aP4kM",
-          "pubDate": "2026-03-12T19:25:15+00:00"
         }
       ],
       "ok": true
