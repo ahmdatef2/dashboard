@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-16T16:48:50.867214+00:00",
+  "updated": "2026-03-16T17:50:53.311175+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "ريبورتاج | التبرع بالحيوانات المنوية في أوروبا | وثائقية دي دبليو",
+          "link": "https://www.youtube.com/watch?v=uYngUCVh4kU",
+          "videoId": "uYngUCVh4kU",
+          "pubDate": "2026-03-16T17:01:22+00:00"
+        },
+        {
           "title": "وثائقي | الضحايا المجهولون لمنظمة الجيش الأحمر في ألمانيا | وثائقية دي دبليو",
           "link": "https://www.youtube.com/watch?v=fKeG50q0sd0",
           "videoId": "fKeG50q0sd0",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=e814Qs7pp6Q",
           "videoId": "e814Qs7pp6Q",
           "pubDate": "2026-03-14T17:00:49+00:00"
-        },
-        {
-          "title": "العنف الجنسي ضد النساء في الهند",
-          "link": "https://www.youtube.com/watch?v=Alr6AGr0j98",
-          "videoId": "Alr6AGr0j98",
-          "pubDate": "2026-03-14T10:45:01+00:00"
         }
       ],
       "ok": true
