@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-16T11:37:25.978235+00:00",
+  "updated": "2026-03-16T12:40:05.562134+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -397,6 +397,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "كيف تحايل ضابط بريطاني على الموساد الإسرائيلي؟",
+          "link": "https://www.youtube.com/watch?v=F1TOWSXLIHM",
+          "videoId": "F1TOWSXLIHM",
+          "pubDate": "2026-03-16T12:30:01+00:00"
+        },
+        {
           "title": "\"لا أوحش الله منك يا رمضان\" هكذا يودع السودانيون شهر الصيام",
           "link": "https://www.youtube.com/watch?v=tOUEsjs6mvc",
           "videoId": "tOUEsjs6mvc",
@@ -407,12 +413,6 @@
           "link": "https://www.youtube.com/watch?v=GvIA4DN_OPE",
           "videoId": "GvIA4DN_OPE",
           "pubDate": "2026-03-15T16:00:01+00:00"
-        },
-        {
-          "title": "بولين مود طبيبة هولندية دخلت الإسلام بعد عدائها له",
-          "link": "https://www.youtube.com/watch?v=a7NFmChg0eQ",
-          "videoId": "a7NFmChg0eQ",
-          "pubDate": "2026-03-15T12:30:01+00:00"
         }
       ],
       "ok": true
