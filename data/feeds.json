@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-16T18:43:33.872610+00:00",
+  "updated": "2026-03-16T19:44:51.961488+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -59,7 +59,7 @@
       "feedTitle": "Infotech4you - مروي سليمان",
       "items": [
         {
-          "title": "منصة AI رهيبة جمعت كل شيء في مكان واحد | HIX AI",
+          "title": "منصة AI رهيبة جمعت كل أدوات الذكاء الإصطناعي في مكان واحد | HIX AI",
           "link": "https://www.youtube.com/watch?v=DGVje4_TIyQ",
           "videoId": "DGVje4_TIyQ",
           "pubDate": "2026-03-16T15:00:24+00:00"
@@ -371,6 +371,12 @@
       "feedTitle": "دوباميكافين Dupamicaffeine",
       "items": [
         {
+          "title": "الكلمة الطيبة",
+          "link": "https://www.youtube.com/watch?v=Zh-Klchn_QQ",
+          "videoId": "Zh-Klchn_QQ",
+          "pubDate": "2026-03-16T19:00:39+00:00"
+        },
+        {
           "title": "تعلم كيف تعبر عن حبك الحقيقي بغير الغزل - لغات الحب الخمس - الجزء الثاني",
           "link": "https://www.youtube.com/watch?v=L6rE-GRYzr8",
           "videoId": "L6rE-GRYzr8",
@@ -381,12 +387,6 @@
           "link": "https://www.youtube.com/watch?v=6eHYRb3h9fU",
           "videoId": "6eHYRb3h9fU",
           "pubDate": "2026-03-15T07:57:35+00:00"
-        },
-        {
-          "title": "لماذا تفشل البدايات؟ - لغات الحب الخمس - الجزء الأول - دوباميكافين",
-          "link": "https://www.youtube.com/watch?v=c3IepeJCpUk",
-          "videoId": "c3IepeJCpUk",
-          "pubDate": "2026-03-09T19:00:46+00:00"
         }
       ],
       "ok": true
@@ -423,6 +423,12 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "في ظلال بيروت ... كيف يعيش الفقراء في بيروت خلال أسوأ أزمة اقتصادية؟ | الشرق الوثائقية",
+          "link": "https://www.youtube.com/watch?v=btbRQNqq4e0",
+          "videoId": "btbRQNqq4e0",
+          "pubDate": "2026-03-16T19:00:40+00:00"
+        },
+        {
           "title": "الاتحاد السوفييتي من التأسيس إلى الانهيار - الانهيار والتفكك - الجزء 3 | الشرق الوثائقية",
           "link": "https://www.youtube.com/watch?v=32ZHJIeDkzg",
           "videoId": "32ZHJIeDkzg",
@@ -433,12 +439,6 @@
           "link": "https://www.youtube.com/watch?v=Iw8i_6apR6A",
           "videoId": "Iw8i_6apR6A",
           "pubDate": "2026-03-14T19:00:13+00:00"
-        },
-        {
-          "title": "الاتحاد السوفييتي من التأسيس إلى الانهيار - قوة عالمية عظمى - الجزء 1 | الشرق الوثائقية",
-          "link": "https://www.youtube.com/watch?v=NDSd3qpwxGM",
-          "videoId": "NDSd3qpwxGM",
-          "pubDate": "2026-03-13T19:00:33+00:00"
         }
       ],
       "ok": true
