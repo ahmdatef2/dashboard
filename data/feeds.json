@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-16T14:11:17.852406+00:00",
+  "updated": "2026-03-16T15:53:03.112118+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -59,6 +59,12 @@
       "feedTitle": "Infotech4you - مروي سليمان",
       "items": [
         {
+          "title": "منصة AI رهيبة جمعت كل شيء في مكان واحد | HIX AI",
+          "link": "https://www.youtube.com/watch?v=DGVje4_TIyQ",
+          "videoId": "DGVje4_TIyQ",
+          "pubDate": "2026-03-16T15:00:24+00:00"
+        },
+        {
           "title": "Claude لم يعد مجرد شات… الميزة الجديدة غيرت اللعبة",
           "link": "https://www.youtube.com/watch?v=NwE66xMWyi8",
           "videoId": "NwE66xMWyi8",
@@ -69,12 +75,6 @@
           "link": "https://www.youtube.com/watch?v=vcsrUGNsE-g",
           "videoId": "vcsrUGNsE-g",
           "pubDate": "2026-03-14T20:22:34+00:00"
-        },
-        {
-          "title": " Claude Skills: تعلم مهارات كلود في 12 دقيقة فقط!",
-          "link": "https://www.youtube.com/watch?v=e_bS2UtpjaY",
-          "videoId": "e_bS2UtpjaY",
-          "pubDate": "2026-03-11T22:55:33+00:00"
         }
       ],
       "ok": true
@@ -397,6 +397,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "الشيخ البهتيمي صوت صاغه السماع وجمع بين التلاوة والإنشاد",
+          "link": "https://www.youtube.com/watch?v=q023e9TwLak",
+          "videoId": "q023e9TwLak",
+          "pubDate": "2026-03-16T14:30:01+00:00"
+        },
+        {
           "title": "كيف تحايل ضابط بريطاني على الموساد الإسرائيلي؟",
           "link": "https://www.youtube.com/watch?v=F1TOWSXLIHM",
           "videoId": "F1TOWSXLIHM",
@@ -407,12 +413,6 @@
           "link": "https://www.youtube.com/watch?v=tOUEsjs6mvc",
           "videoId": "tOUEsjs6mvc",
           "pubDate": "2026-03-15T19:00:01+00:00"
-        },
-        {
-          "title": "قاتل مأجور لابنته: إذا قتلتُ أمك سأضطر لقتلكم جميعا",
-          "link": "https://www.youtube.com/watch?v=GvIA4DN_OPE",
-          "videoId": "GvIA4DN_OPE",
-          "pubDate": "2026-03-15T16:00:01+00:00"
         }
       ],
       "ok": true
