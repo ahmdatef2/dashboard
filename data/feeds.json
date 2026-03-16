@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-16T10:53:29.760228+00:00",
+  "updated": "2026-03-16T11:37:25.978235+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -189,6 +189,12 @@
       "feedTitle": "ذكاء اصطناعي عربي",
       "items": [
         {
+          "title": "What is Token? | شرح الوحدة الرمزية / التوكن",
+          "link": "https://www.youtube.com/watch?v=G97nlN86FP8",
+          "videoId": "G97nlN86FP8",
+          "pubDate": "2026-03-16T11:00:34+00:00"
+        },
+        {
           "title": "What is Embeddings? | شرح التمثيلات المتجهية / التضمينات",
           "link": "https://www.youtube.com/watch?v=ehUj6jOgHBY",
           "videoId": "ehUj6jOgHBY",
@@ -199,12 +205,6 @@
           "link": "https://www.youtube.com/watch?v=sk_U7HYAyxU",
           "videoId": "sk_U7HYAyxU",
           "pubDate": "2026-03-14T11:01:23+00:00"
-        },
-        {
-          "title": "حديث AI و عن Qwen3.5",
-          "link": "https://www.youtube.com/watch?v=hwbGWWmGZRo",
-          "videoId": "hwbGWWmGZRo",
-          "pubDate": "2026-03-14T09:11:04+00:00"
         }
       ],
       "ok": true
