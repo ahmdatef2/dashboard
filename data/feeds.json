@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-16T19:44:51.961488+00:00",
+  "updated": "2026-03-16T20:24:39.090252+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -397,6 +397,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "عبوة الدواء الفقاعية ليست شكلا بل حماية",
+          "link": "https://www.youtube.com/watch?v=D3xgv-RUlbM",
+          "videoId": "D3xgv-RUlbM",
+          "pubDate": "2026-03-16T20:00:01+00:00"
+        },
+        {
           "title": "كعك تلمسان حلوى المناسبات التي صمدت عبر القرون",
           "link": "https://www.youtube.com/watch?v=6uGtrdez90E",
           "videoId": "6uGtrdez90E",
@@ -407,12 +413,6 @@
           "link": "https://www.youtube.com/watch?v=q023e9TwLak",
           "videoId": "q023e9TwLak",
           "pubDate": "2026-03-16T14:30:01+00:00"
-        },
-        {
-          "title": "كيف تحايل ضابط بريطاني على الموساد الإسرائيلي؟",
-          "link": "https://www.youtube.com/watch?v=F1TOWSXLIHM",
-          "videoId": "F1TOWSXLIHM",
-          "pubDate": "2026-03-16T12:30:01+00:00"
         }
       ],
       "ok": true
