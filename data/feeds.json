@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-17T05:16:18.821868+00:00",
+  "updated": "2026-03-17T06:47:29.847187+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -241,6 +241,12 @@
       "feedTitle": "خير جليس",
       "items": [
         {
+          "title": "السماح بالرحيل يحدث لحظة بلحظة - من كتاب السماح بالرحيل",
+          "link": "https://www.youtube.com/watch?v=QkLZIx_xHOQ",
+          "videoId": "QkLZIx_xHOQ",
+          "pubDate": "2026-03-17T06:00:16+00:00"
+        },
+        {
           "title": "ملخص كتاب الأب الغني الأب الفقير بقلم روبرت كيوساكي",
           "link": "https://www.youtube.com/watch?v=JiWPfZ7jAEg",
           "videoId": "JiWPfZ7jAEg",
@@ -251,12 +257,6 @@
           "link": "https://www.youtube.com/watch?v=ZaUUmF5jqDs",
           "videoId": "ZaUUmF5jqDs",
           "pubDate": "2026-03-16T06:19:32+00:00"
-        },
-        {
-          "title": "الاستسلام يصنع الوضوح لا السلبية - من كتاب السماح بالرحيل",
-          "link": "https://www.youtube.com/watch?v=ptVmzihyF_Y",
-          "videoId": "ptVmzihyF_Y",
-          "pubDate": "2026-03-15T06:00:37+00:00"
         }
       ],
       "ok": true
