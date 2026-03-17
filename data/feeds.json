@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-17T16:52:18.090962+00:00",
+  "updated": "2026-03-17T17:54:42.388877+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -397,6 +397,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "كيف وُلد منصب شيخ الأزهر؟",
+          "link": "https://www.youtube.com/watch?v=Zui9tcZWsPQ",
+          "videoId": "Zui9tcZWsPQ",
+          "pubDate": "2026-03-17T17:00:02+00:00"
+        },
+        {
           "title": "جندي فرنسي لقّب بالجرذ لتسلّله إلى حصون المقاومين الجزائريين",
           "link": "https://www.youtube.com/watch?v=VUeDKpbl8KA",
           "videoId": "VUeDKpbl8KA",
@@ -407,12 +413,6 @@
           "link": "https://www.youtube.com/watch?v=-zjlHdemdIA",
           "videoId": "-zjlHdemdIA",
           "pubDate": "2026-03-17T12:30:02+00:00"
-        },
-        {
-          "title": "عبوة الدواء الفقاعية ليست شكلا بل حماية",
-          "link": "https://www.youtube.com/watch?v=D3xgv-RUlbM",
-          "videoId": "D3xgv-RUlbM",
-          "pubDate": "2026-03-16T20:00:01+00:00"
         }
       ],
       "ok": true
