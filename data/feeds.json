@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-17T07:44:29.454715+00:00",
+  "updated": "2026-03-17T08:36:47.596480+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -215,6 +215,12 @@
       "feedTitle": "Mohamed Ansary",
       "items": [
         {
+          "title": "كيفية عمل تطبيقات Vibe Coding من خلال Google Ai Studio..",
+          "link": "https://www.youtube.com/watch?v=p9Ff7IJR8gk",
+          "videoId": "p9Ff7IJR8gk",
+          "pubDate": "2026-03-17T08:16:28+00:00"
+        },
+        {
           "title": "كيفية تصميم رسوم ومخططات بيانية بشكل ٱحترافي من خلال Claude العملاق.",
           "link": "https://www.youtube.com/watch?v=9x2AZDyE2J8",
           "videoId": "9x2AZDyE2J8",
@@ -225,12 +231,6 @@
           "link": "https://www.youtube.com/watch?v=TV55baAhRCc",
           "videoId": "TV55baAhRCc",
           "pubDate": "2026-03-14T14:02:05+00:00"
-        },
-        {
-          "title": "تصميم إنفوجرافيك ب10أنماط جديدة بشكل مجاني..من خلال Notebook LM",
-          "link": "https://www.youtube.com/watch?v=8nY_n9eZs80",
-          "videoId": "8nY_n9eZs80",
-          "pubDate": "2026-03-13T06:34:27+00:00"
         }
       ],
       "ok": true
