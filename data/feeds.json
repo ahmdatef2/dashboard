@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-17T18:43:04.541012+00:00",
+  "updated": "2026-03-17T19:45:54.553153+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -423,6 +423,12 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "سر أغنى عائلة في البندقية وكيف اختفت فجأة من التاريخ | الشرق الوثائقية",
+          "link": "https://www.youtube.com/watch?v=d2dv1s_fH8k",
+          "videoId": "d2dv1s_fH8k",
+          "pubDate": "2026-03-17T19:00:39+00:00"
+        },
+        {
           "title": "في ظلال بيروت ... كيف يعيش الفقراء في بيروت خلال أسوأ أزمة اقتصادية؟ | الشرق الوثائقية",
           "link": "https://www.youtube.com/watch?v=btbRQNqq4e0",
           "videoId": "btbRQNqq4e0",
@@ -433,12 +439,6 @@
           "link": "https://www.youtube.com/watch?v=32ZHJIeDkzg",
           "videoId": "32ZHJIeDkzg",
           "pubDate": "2026-03-15T19:00:06+00:00"
-        },
-        {
-          "title": "الاتحاد السوفييتي من التأسيس إلى الانهيار - النصر العظيم - الجزء 2 | الشرق الوثائقية",
-          "link": "https://www.youtube.com/watch?v=Iw8i_6apR6A",
-          "videoId": "Iw8i_6apR6A",
-          "pubDate": "2026-03-14T19:00:13+00:00"
         }
       ],
       "ok": true
