@@ -1,11 +1,17 @@
 {
-  "updated": "2026-03-17T19:45:54.553153+00:00",
+  "updated": "2026-03-17T20:26:13.218115+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
       "name": "د. هبة أحمد",
       "feedTitle": "Heba Ahmed - هبة احمد",
       "items": [
+        {
+          "title": "ازاي تفعل عرض 300 دولار مجانًا 🔥 واستخدم Nano Banana Pro و Veo 3.1 براحتك",
+          "link": "https://www.youtube.com/watch?v=LJk1Q6R4lgM",
+          "videoId": "LJk1Q6R4lgM",
+          "pubDate": "2026-03-17T19:55:11+00:00"
+        },
         {
           "title": "أسرار Google AI Studio: الفرق بينه وبين Gemini App",
           "link": "https://www.youtube.com/watch?v=f_buNpmquws",
@@ -17,12 +23,6 @@
           "link": "https://www.youtube.com/watch?v=x-xXSuL3k70",
           "videoId": "x-xXSuL3k70",
           "pubDate": "2026-03-08T19:00:40+00:00"
-        },
-        {
-          "title": "المواجهة بتسخن 🔥 GPT-5.4 الجديد في اختبار ضد Gemini",
-          "link": "https://www.youtube.com/watch?v=LIwkZovua9k",
-          "videoId": "LIwkZovua9k",
-          "pubDate": "2026-03-06T21:04:00+00:00"
         }
       ],
       "ok": true
@@ -397,22 +397,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "الليالي العشر الأواخر من رمضان مسلمو البلقان يعمرون المساجد بالعبادة",
+          "link": "https://www.youtube.com/watch?v=YFhlep_W0wk",
+          "videoId": "YFhlep_W0wk",
+          "pubDate": "2026-03-17T20:00:00+00:00"
+        },
+        {
+          "title": "عمالقة غرينلاند.. أسرار الحياة في أقسى بيئة على الأرض",
+          "link": "https://www.youtube.com/watch?v=TyIGIPn1nhg",
+          "videoId": "TyIGIPn1nhg",
+          "pubDate": "2026-03-17T19:45:01+00:00"
+        },
+        {
           "title": "كيف وُلد منصب شيخ الأزهر؟",
           "link": "https://www.youtube.com/watch?v=Zui9tcZWsPQ",
           "videoId": "Zui9tcZWsPQ",
           "pubDate": "2026-03-17T17:00:02+00:00"
-        },
-        {
-          "title": "جندي فرنسي لقّب بالجرذ لتسلّله إلى حصون المقاومين الجزائريين",
-          "link": "https://www.youtube.com/watch?v=VUeDKpbl8KA",
-          "videoId": "VUeDKpbl8KA",
-          "pubDate": "2026-03-17T14:30:01+00:00"
-        },
-        {
-          "title": "صدقات خفية تقاليد رمضان في مدن البلقان",
-          "link": "https://www.youtube.com/watch?v=-zjlHdemdIA",
-          "videoId": "-zjlHdemdIA",
-          "pubDate": "2026-03-17T12:30:02+00:00"
         }
       ],
       "ok": true
