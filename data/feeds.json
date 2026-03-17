@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-17T12:38:19.942609+00:00",
+  "updated": "2026-03-17T14:10:08.206108+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -241,6 +241,12 @@
       "feedTitle": "خير جليس",
       "items": [
         {
+          "title": "السلام يصبح الحالة الطبيعية مع الممارسة - من كتاب السماح بالرحيل",
+          "link": "https://www.youtube.com/watch?v=GtCuL3erIKo",
+          "videoId": "GtCuL3erIKo",
+          "pubDate": "2026-03-17T13:00:27+00:00"
+        },
+        {
           "title": "السماح بالرحيل يحدث لحظة بلحظة - من كتاب السماح بالرحيل",
           "link": "https://www.youtube.com/watch?v=QkLZIx_xHOQ",
           "videoId": "QkLZIx_xHOQ",
@@ -251,12 +257,6 @@
           "link": "https://www.youtube.com/watch?v=JiWPfZ7jAEg",
           "videoId": "JiWPfZ7jAEg",
           "pubDate": "2026-03-16T07:00:25+00:00"
-        },
-        {
-          "title": "السلام الداخلي يزيد الفاعلية - من كتاب السماح بالرحيل",
-          "link": "https://www.youtube.com/watch?v=ZaUUmF5jqDs",
-          "videoId": "ZaUUmF5jqDs",
-          "pubDate": "2026-03-16T06:19:32+00:00"
         }
       ],
       "ok": true
@@ -397,6 +397,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "صدقات خفية تقاليد رمضان في مدن البلقان",
+          "link": "https://www.youtube.com/watch?v=-zjlHdemdIA",
+          "videoId": "-zjlHdemdIA",
+          "pubDate": "2026-03-17T12:30:02+00:00"
+        },
+        {
           "title": "عبوة الدواء الفقاعية ليست شكلا بل حماية",
           "link": "https://www.youtube.com/watch?v=D3xgv-RUlbM",
           "videoId": "D3xgv-RUlbM",
@@ -407,12 +413,6 @@
           "link": "https://www.youtube.com/watch?v=6uGtrdez90E",
           "videoId": "6uGtrdez90E",
           "pubDate": "2026-03-16T18:00:02+00:00"
-        },
-        {
-          "title": "الشيخ البهتيمي صوت صاغه السماع وجمع بين التلاوة والإنشاد",
-          "link": "https://www.youtube.com/watch?v=q023e9TwLak",
-          "videoId": "q023e9TwLak",
-          "pubDate": "2026-03-16T14:30:01+00:00"
         }
       ],
       "ok": true
