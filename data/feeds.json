@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-17T14:10:08.206108+00:00",
+  "updated": "2026-03-17T15:51:38.154954+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -397,6 +397,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "جندي فرنسي لقّب بالجرذ لتسلّله إلى حصون المقاومين الجزائريين",
+          "link": "https://www.youtube.com/watch?v=VUeDKpbl8KA",
+          "videoId": "VUeDKpbl8KA",
+          "pubDate": "2026-03-17T14:30:01+00:00"
+        },
+        {
           "title": "صدقات خفية تقاليد رمضان في مدن البلقان",
           "link": "https://www.youtube.com/watch?v=-zjlHdemdIA",
           "videoId": "-zjlHdemdIA",
@@ -407,12 +413,6 @@
           "link": "https://www.youtube.com/watch?v=D3xgv-RUlbM",
           "videoId": "D3xgv-RUlbM",
           "pubDate": "2026-03-16T20:00:01+00:00"
-        },
-        {
-          "title": "كعك تلمسان حلوى المناسبات التي صمدت عبر القرون",
-          "link": "https://www.youtube.com/watch?v=6uGtrdez90E",
-          "videoId": "6uGtrdez90E",
-          "pubDate": "2026-03-16T18:00:02+00:00"
         }
       ],
       "ok": true
@@ -449,6 +449,12 @@
       "feedTitle": "Nat Geo Abu Dhabi",
       "items": [
         {
+          "title": "السلحفاة والقط بدون شعر | كريتر فيكسرز: أطباء في الريف | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=VrPYTepNZM0",
+          "videoId": "VrPYTepNZM0",
+          "pubDate": "2026-03-17T14:39:12+00:00"
+        },
+        {
           "title": "الحلقة الأولى | أمن المطارات: كولومبيا | ناشونال جيوغرافيك أبوظبي",
           "link": "https://www.youtube.com/watch?v=vb0KQIQ5wF0",
           "videoId": "vb0KQIQ5wF0",
@@ -459,12 +465,6 @@
           "link": "https://www.youtube.com/watch?v=vj54LhAglPM",
           "videoId": "vj54LhAglPM",
           "pubDate": "2026-03-13T19:16:08+00:00"
-        },
-        {
-          "title": "عروض شهر مارس | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=Dz_xJux-gLs",
-          "videoId": "Dz_xJux-gLs",
-          "pubDate": "2026-03-13T19:15:49+00:00"
         }
       ],
       "ok": true
