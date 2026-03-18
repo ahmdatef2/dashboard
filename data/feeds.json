@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-18T20:23:15.959983+00:00",
+  "updated": "2026-03-18T21:23:33.460626+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -397,6 +397,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "تسجيل نادر لأم كلثوم ترتل سورة إبراهيم حصل عليه الشيخ عبد الحميد احساين",
+          "link": "https://www.youtube.com/watch?v=WTy6vtPh44w",
+          "videoId": "WTy6vtPh44w",
+          "pubDate": "2026-03-18T20:59:01+00:00"
+        },
+        {
           "title": "شابة من مدينة بار بالبلقان: \"والدي كان يبكي آخر يوم في رمضان\"",
           "link": "https://www.youtube.com/watch?v=SjJuhPKsRYY",
           "videoId": "SjJuhPKsRYY",
@@ -407,12 +413,6 @@
           "link": "https://www.youtube.com/watch?v=PdRtbOXntIc",
           "videoId": "PdRtbOXntIc",
           "pubDate": "2026-03-18T18:00:01+00:00"
-        },
-        {
-          "title": "الأزهر في العهد العثماني مؤسسة تعليمية حرة سبقت عصرها",
-          "link": "https://www.youtube.com/watch?v=UabUaoyROAM",
-          "videoId": "UabUaoyROAM",
-          "pubDate": "2026-03-18T17:50:14+00:00"
         }
       ],
       "ok": true
