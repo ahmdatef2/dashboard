@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-18T16:56:09.454072+00:00",
+  "updated": "2026-03-18T17:52:42.017294+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -59,6 +59,12 @@
       "feedTitle": "Infotech4you - مروي سليمان",
       "items": [
         {
+          "title": "ازاي تبني Skill  بنفسك وتستخدمه مباشرة داخل Claude خطوة بخطوة ؟",
+          "link": "https://www.youtube.com/watch?v=GBaXIwVUpEI",
+          "videoId": "GBaXIwVUpEI",
+          "pubDate": "2026-03-18T17:00:49+00:00"
+        },
+        {
           "title": "منصة AI رهيبة جمعت كل أدوات الذكاء الإصطناعي في مكان واحد | HIX AI",
           "link": "https://www.youtube.com/watch?v=DGVje4_TIyQ",
           "videoId": "DGVje4_TIyQ",
@@ -69,12 +75,6 @@
           "link": "https://www.youtube.com/watch?v=NwE66xMWyi8",
           "videoId": "NwE66xMWyi8",
           "pubDate": "2026-03-15T20:44:26+00:00"
-        },
-        {
-          "title": "Claude Cowork :  كيف تجعل أداة انثروبيك  المذهلة تعمل بدلاً منك ؟",
-          "link": "https://www.youtube.com/watch?v=vcsrUGNsE-g",
-          "videoId": "vcsrUGNsE-g",
-          "pubDate": "2026-03-14T20:22:34+00:00"
         }
       ],
       "ok": true
