@@ -1,38 +1,38 @@
 {
-  "updated": "2026-03-18T04:11:29.249573+00:00",
+  "updated": "2026-03-18T05:55:00.085703+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
       "name": "د. هبة أحمد",
-      "feedTitle": "د. هبة أحمد",
-      "items": [],
-      "ok": false
+      "feedTitle": "Heba Ahmed - هبة احمد",
+      "items": [
+        {
+          "title": "ازاي تفعل عرض 300 دولار مجانًا 🔥 واستخدم Nano Banana Pro و Veo 3.1 براحتك",
+          "link": "https://www.youtube.com/watch?v=LJk1Q6R4lgM",
+          "videoId": "LJk1Q6R4lgM",
+          "pubDate": "2026-03-17T19:55:11+00:00"
+        },
+        {
+          "title": "أسرار Google AI Studio: الفرق بينه وبين Gemini App",
+          "link": "https://www.youtube.com/watch?v=f_buNpmquws",
+          "videoId": "f_buNpmquws",
+          "pubDate": "2026-03-14T20:14:40+00:00"
+        },
+        {
+          "title": "خناقة الذكاء الاصطناعي مع البنتاجون… القصة اللي محدش حكاها",
+          "link": "https://www.youtube.com/watch?v=x-xXSuL3k70",
+          "videoId": "x-xXSuL3k70",
+          "pubDate": "2026-03-08T19:00:40+00:00"
+        }
+      ],
+      "ok": true
     },
     "UC2jjW7c63dqOPkfMm3P-u3w": {
       "handle": "every_day_a_new_website",
       "name": "موقع كل يوم",
-      "feedTitle": "كل يوم موقع جديد",
-      "items": [
-        {
-          "title": "NotebookLM أقوى مما تتخيل: 5 خصائص خفية لازم تعرفها",
-          "link": "https://www.youtube.com/watch?v=3JuyaRNM0XI",
-          "videoId": "3JuyaRNM0XI",
-          "pubDate": "2026-03-16T22:23:19+00:00"
-        },
-        {
-          "title": "أداة Canva الجديدة Magic Layers هتغير قواعد اللعبة 😱",
-          "link": "https://www.youtube.com/watch?v=jtb8pYX9djg",
-          "videoId": "jtb8pYX9djg",
-          "pubDate": "2026-03-14T22:51:57+00:00"
-        },
-        {
-          "title": "حول صور منتجك الي جلسة تصوير احترافية مع أداة جوجل المجانية Pomelli  Photoshoot",
-          "link": "https://www.youtube.com/watch?v=oEArDGaqig8",
-          "videoId": "oEArDGaqig8",
-          "pubDate": "2026-03-12T20:12:43+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "موقع كل يوم",
+      "items": [],
+      "ok": false
     },
     "UCKD8vOz3maRPyLAbMXhr-Pw": {
       "handle": "infotech4you_Marwasoliman",
@@ -70,28 +70,9 @@
     "UC81Ks7DR9JFgZc14nmZ07EA": {
       "handle": "AMRSALEM800",
       "name": "عمرو سالم",
-      "feedTitle": "AMR SALEM _ عمرو سالم",
-      "items": [
-        {
-          "title": "ازاي تعمل تطبيق تدريب على الكتابة السريعة بالذكاء الاصطناعي (بدون كود!) 🔥",
-          "link": "https://www.youtube.com/watch?v=U7im7_ewwwI",
-          "videoId": "U7im7_ewwwI",
-          "pubDate": "2026-03-17T12:00:54+00:00"
-        },
-        {
-          "title": "40 حركة كاميرا سينمائية بالذكاء الاصطناعي | شرح Camera Movements باستخدام Grok AI",
-          "link": "https://www.youtube.com/watch?v=np2_ARwL4E4",
-          "videoId": "np2_ARwL4E4",
-          "pubDate": "2026-03-17T00:09:57+00:00"
-        },
-        {
-          "title": "بنيت برنامج يخفي الملفات السرية على الكمبيوتر باستخدام Antigravity وPython",
-          "link": "https://www.youtube.com/watch?v=BQTgtarvEOE",
-          "videoId": "BQTgtarvEOE",
-          "pubDate": "2026-03-14T12:00:19+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "عمرو سالم",
+      "items": [],
+      "ok": false
     },
     "UC9ocsRoOwj9tkAQNfUt8ZJg": {
       "handle": "PythonArab",
@@ -123,27 +104,8 @@
       "handle": "elzerowebschool",
       "name": "Elzero Web School",
       "feedTitle": "Elzero Web School",
-      "items": [
-        {
-          "title": "مبادرة هتطورك في البرمجة وتاخد ثواب وفرصة لرحلة عمرة",
-          "link": "https://www.youtube.com/watch?v=1n4AJdviibs",
-          "videoId": "1n4AJdviibs",
-          "pubDate": "2026-03-03T19:47:57+00:00"
-        },
-        {
-          "title": "توظيف البشر لصالح الذكاء الاصطناعي",
-          "link": "https://www.youtube.com/watch?v=4XBhqzlYJGY",
-          "videoId": "4XBhqzlYJGY",
-          "pubDate": "2026-02-16T10:47:19+00:00"
-        },
-        {
-          "title": "هل الذكاء الاصطناعي هيخلي السوق اصعب ؟",
-          "link": "https://www.youtube.com/watch?v=c-MANp0eKq4",
-          "videoId": "c-MANp0eKq4",
-          "pubDate": "2026-02-15T17:20:33+00:00"
-        }
-      ],
-      "ok": true
+      "items": [],
+      "ok": false
     },
     "UCGrVvqu8PlVv0wPqA5kgY8A": {
       "handle": "ArabicArtificialIntelligence",
@@ -190,28 +152,9 @@
     "UChbuH4HULlesX_rzlozkT6Q": {
       "handle": "AliMuhammadAli",
       "name": "علي محمد علي",
-      "feedTitle": "Ali Muhammad Ali",
-      "items": [
-        {
-          "title": "ما زلنا هنا..",
-          "link": "https://www.youtube.com/watch?v=gJjoYniRSZc",
-          "videoId": "gJjoYniRSZc",
-          "pubDate": "2026-02-28T13:31:00+00:00"
-        },
-        {
-          "title": "نهاية عصر القراءة!",
-          "link": "https://www.youtube.com/watch?v=JRnEJiLeJZ8",
-          "videoId": "JRnEJiLeJZ8",
-          "pubDate": "2025-09-25T12:08:55+00:00"
-        },
-        {
-          "title": "العب كاليستنكس",
-          "link": "https://www.youtube.com/watch?v=1FfEXdbhjGs",
-          "videoId": "1FfEXdbhjGs",
-          "pubDate": "2025-07-14T15:54:20+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "علي محمد علي",
+      "items": [],
+      "ok": false
     },
     "UCJlu6BjPWHZhzuCc0zVME0Q": {
       "handle": "Dupamicaffeine",
@@ -242,35 +185,35 @@
     "UC0LSnqrwqtMwl2YwfUpO66g": {
       "handle": "aljazeeradocumentary",
       "name": "الجزيرة الوثائقية",
-      "feedTitle": "الجزيرة الوثائقية",
-      "items": [],
-      "ok": false
+      "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
+      "items": [
+        {
+          "title": "الليالي العشر الأواخر من رمضان مسلمو البلقان يعمرون المساجد بالعبادة",
+          "link": "https://www.youtube.com/watch?v=YFhlep_W0wk",
+          "videoId": "YFhlep_W0wk",
+          "pubDate": "2026-03-17T20:00:00+00:00"
+        },
+        {
+          "title": "عمالقة غرينلاند.. أسرار الحياة في أقسى بيئة على الأرض",
+          "link": "https://www.youtube.com/watch?v=TyIGIPn1nhg",
+          "videoId": "TyIGIPn1nhg",
+          "pubDate": "2026-03-17T19:45:01+00:00"
+        },
+        {
+          "title": "كيف وُلد منصب شيخ الأزهر؟",
+          "link": "https://www.youtube.com/watch?v=Zui9tcZWsPQ",
+          "videoId": "Zui9tcZWsPQ",
+          "pubDate": "2026-03-17T17:00:02+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCArK7aSQ68vRCiJY2m7spkA": {
       "handle": "AsharqDoc",
       "name": "الشرق الوثائقية",
-      "feedTitle": "Asharq Documentary الشرق الوثائقية",
-      "items": [
-        {
-          "title": "سر أغنى عائلة في البندقية وكيف اختفت فجأة من التاريخ | الشرق الوثائقية",
-          "link": "https://www.youtube.com/watch?v=d2dv1s_fH8k",
-          "videoId": "d2dv1s_fH8k",
-          "pubDate": "2026-03-17T19:00:39+00:00"
-        },
-        {
-          "title": "في ظلال بيروت ... كيف يعيش الفقراء في بيروت خلال أسوأ أزمة اقتصادية؟ | الشرق الوثائقية",
-          "link": "https://www.youtube.com/watch?v=btbRQNqq4e0",
-          "videoId": "btbRQNqq4e0",
-          "pubDate": "2026-03-16T19:00:40+00:00"
-        },
-        {
-          "title": "الاتحاد السوفييتي من التأسيس إلى الانهيار - الانهيار والتفكك - الجزء 3 | الشرق الوثائقية",
-          "link": "https://www.youtube.com/watch?v=32ZHJIeDkzg",
-          "videoId": "32ZHJIeDkzg",
-          "pubDate": "2026-03-15T19:00:06+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "الشرق الوثائقية",
+      "items": [],
+      "ok": false
     },
     "UCLiTe0aOHShx7hXGyqZ9UIw": {
       "handle": "natgeoabudhabime",
@@ -301,28 +244,9 @@
     "UCET6sWl4Xcu-U8Ka9PJPrwA": {
       "handle": "dwdocarabia",
       "name": "DW عربية وثائقي",
-      "feedTitle": "DW Documentary وثائقية دي دبليو",
-      "items": [
-        {
-          "title": "ريبورتاج | التبرع بالحيوانات المنوية في أوروبا | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=uYngUCVh4kU",
-          "videoId": "uYngUCVh4kU",
-          "pubDate": "2026-03-16T17:01:22+00:00"
-        },
-        {
-          "title": "وثائقي | الضحايا المجهولون لمنظمة الجيش الأحمر في ألمانيا | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=fKeG50q0sd0",
-          "videoId": "fKeG50q0sd0",
-          "pubDate": "2026-03-15T17:01:01+00:00"
-        },
-        {
-          "title": "وثائقي | كوكب الأرض - إعادة كتابة تاريخ كوكبنا | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=e814Qs7pp6Q",
-          "videoId": "e814Qs7pp6Q",
-          "pubDate": "2026-03-14T17:00:49+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "DW عربية وثائقي",
+      "items": [],
+      "ok": false
     }
   }
 }
