@@ -1,31 +1,12 @@
 {
-  "updated": "2026-03-18T05:55:00.085703+00:00",
+  "updated": "2026-03-18T06:46:08.710595+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
       "name": "د. هبة أحمد",
-      "feedTitle": "Heba Ahmed - هبة احمد",
-      "items": [
-        {
-          "title": "ازاي تفعل عرض 300 دولار مجانًا 🔥 واستخدم Nano Banana Pro و Veo 3.1 براحتك",
-          "link": "https://www.youtube.com/watch?v=LJk1Q6R4lgM",
-          "videoId": "LJk1Q6R4lgM",
-          "pubDate": "2026-03-17T19:55:11+00:00"
-        },
-        {
-          "title": "أسرار Google AI Studio: الفرق بينه وبين Gemini App",
-          "link": "https://www.youtube.com/watch?v=f_buNpmquws",
-          "videoId": "f_buNpmquws",
-          "pubDate": "2026-03-14T20:14:40+00:00"
-        },
-        {
-          "title": "خناقة الذكاء الاصطناعي مع البنتاجون… القصة اللي محدش حكاها",
-          "link": "https://www.youtube.com/watch?v=x-xXSuL3k70",
-          "videoId": "x-xXSuL3k70",
-          "pubDate": "2026-03-08T19:00:40+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "د. هبة أحمد",
+      "items": [],
+      "ok": false
     },
     "UC2jjW7c63dqOPkfMm3P-u3w": {
       "handle": "every_day_a_new_website",
@@ -37,28 +18,9 @@
     "UCKD8vOz3maRPyLAbMXhr-Pw": {
       "handle": "infotech4you_Marwasoliman",
       "name": "مروة سليمان",
-      "feedTitle": "Infotech4you - مروي سليمان",
-      "items": [
-        {
-          "title": "منصة AI رهيبة جمعت كل أدوات الذكاء الإصطناعي في مكان واحد | HIX AI",
-          "link": "https://www.youtube.com/watch?v=DGVje4_TIyQ",
-          "videoId": "DGVje4_TIyQ",
-          "pubDate": "2026-03-16T15:00:24+00:00"
-        },
-        {
-          "title": "Claude لم يعد مجرد شات… الميزة الجديدة غيرت اللعبة",
-          "link": "https://www.youtube.com/watch?v=NwE66xMWyi8",
-          "videoId": "NwE66xMWyi8",
-          "pubDate": "2026-03-15T20:44:26+00:00"
-        },
-        {
-          "title": "Claude Cowork :  كيف تجعل أداة انثروبيك  المذهلة تعمل بدلاً منك ؟",
-          "link": "https://www.youtube.com/watch?v=vcsrUGNsE-g",
-          "videoId": "vcsrUGNsE-g",
-          "pubDate": "2026-03-14T20:22:34+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "مروة سليمان",
+      "items": [],
+      "ok": false
     },
     "UCSRy-3lglM2QKJ_xF2zuPlQ": {
       "handle": "AbdellatifSaidA",
@@ -77,28 +39,9 @@
     "UC9ocsRoOwj9tkAQNfUt8ZJg": {
       "handle": "PythonArab",
       "name": "بايثون عربي",
-      "feedTitle": "Python Arabic Community",
-      "items": [
-        {
-          "title": "الذكاء الاصطناعي 🚀 | 83 | الكذبة الكبرى لشركات الذكاء الاصطناعي.. وسقوط أقوى تشفير",
-          "link": "https://www.youtube.com/watch?v=aBM1Y6M3YRE",
-          "videoId": "aBM1Y6M3YRE",
-          "pubDate": "2026-03-10T21:18:47+00:00"
-        },
-        {
-          "title": "مبادرة رمضان الأثر - مجتمع إتقان (جوائز لا تقدر بثمن تنتظركم🎁)",
-          "link": "https://www.youtube.com/watch?v=TKET-IN0dLo",
-          "videoId": "TKET-IN0dLo",
-          "pubDate": "2026-03-05T21:44:12+00:00"
-        },
-        {
-          "title": "بناء تطبيق لتحويل الصور إلى نصوص (OCR) في أقل من 15 دقيقة مع Mistral OCR ! يدعم العربي",
-          "link": "https://www.youtube.com/watch?v=xaCM3rwr_84",
-          "videoId": "xaCM3rwr_84",
-          "pubDate": "2026-03-02T17:50:01+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "بايثون عربي",
+      "items": [],
+      "ok": false
     },
     "UCSNkfKl4cU-55Nm-ovsvOHQ": {
       "handle": "elzerowebschool",
@@ -159,54 +102,16 @@
     "UCJlu6BjPWHZhzuCc0zVME0Q": {
       "handle": "Dupamicaffeine",
       "name": "دوباميكافيين",
-      "feedTitle": "دوباميكافين Dupamicaffeine",
-      "items": [
-        {
-          "title": "الكلمة الطيبة",
-          "link": "https://www.youtube.com/watch?v=Zh-Klchn_QQ",
-          "videoId": "Zh-Klchn_QQ",
-          "pubDate": "2026-03-16T19:00:39+00:00"
-        },
-        {
-          "title": "تعلم كيف تعبر عن حبك الحقيقي بغير الغزل - لغات الحب الخمس - الجزء الثاني",
-          "link": "https://www.youtube.com/watch?v=L6rE-GRYzr8",
-          "videoId": "L6rE-GRYzr8",
-          "pubDate": "2026-03-15T19:00:26+00:00"
-        },
-        {
-          "title": "اللغة الأولى للحب - قريبًا",
-          "link": "https://www.youtube.com/watch?v=6eHYRb3h9fU",
-          "videoId": "6eHYRb3h9fU",
-          "pubDate": "2026-03-15T07:57:35+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "دوباميكافيين",
+      "items": [],
+      "ok": false
     },
     "UC0LSnqrwqtMwl2YwfUpO66g": {
       "handle": "aljazeeradocumentary",
       "name": "الجزيرة الوثائقية",
-      "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
-      "items": [
-        {
-          "title": "الليالي العشر الأواخر من رمضان مسلمو البلقان يعمرون المساجد بالعبادة",
-          "link": "https://www.youtube.com/watch?v=YFhlep_W0wk",
-          "videoId": "YFhlep_W0wk",
-          "pubDate": "2026-03-17T20:00:00+00:00"
-        },
-        {
-          "title": "عمالقة غرينلاند.. أسرار الحياة في أقسى بيئة على الأرض",
-          "link": "https://www.youtube.com/watch?v=TyIGIPn1nhg",
-          "videoId": "TyIGIPn1nhg",
-          "pubDate": "2026-03-17T19:45:01+00:00"
-        },
-        {
-          "title": "كيف وُلد منصب شيخ الأزهر؟",
-          "link": "https://www.youtube.com/watch?v=Zui9tcZWsPQ",
-          "videoId": "Zui9tcZWsPQ",
-          "pubDate": "2026-03-17T17:00:02+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "الجزيرة الوثائقية",
+      "items": [],
+      "ok": false
     },
     "UCArK7aSQ68vRCiJY2m7spkA": {
       "handle": "AsharqDoc",
@@ -218,28 +123,9 @@
     "UCLiTe0aOHShx7hXGyqZ9UIw": {
       "handle": "natgeoabudhabime",
       "name": "ناشيونال جيوغرافيك",
-      "feedTitle": "Nat Geo Abu Dhabi",
-      "items": [
-        {
-          "title": "السلحفاة والقط بدون شعر | كريتر فيكسرز: أطباء في الريف | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=VrPYTepNZM0",
-          "videoId": "VrPYTepNZM0",
-          "pubDate": "2026-03-17T14:39:12+00:00"
-        },
-        {
-          "title": "الحلقة الأولى | أمن المطارات: كولومبيا | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=vb0KQIQ5wF0",
-          "videoId": "vb0KQIQ5wF0",
-          "pubDate": "2026-03-16T16:04:01+00:00"
-        },
-        {
-          "title": "عروض شهر مارس | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=vj54LhAglPM",
-          "videoId": "vj54LhAglPM",
-          "pubDate": "2026-03-13T19:16:08+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "ناشيونال جيوغرافيك",
+      "items": [],
+      "ok": false
     },
     "UCET6sWl4Xcu-U8Ka9PJPrwA": {
       "handle": "dwdocarabia",
