@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-18T19:40:17.782238+00:00",
+  "updated": "2026-03-18T20:23:15.959983+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -397,6 +397,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "شابة من مدينة بار بالبلقان: \"والدي كان يبكي آخر يوم في رمضان\"",
+          "link": "https://www.youtube.com/watch?v=SjJuhPKsRYY",
+          "videoId": "SjJuhPKsRYY",
+          "pubDate": "2026-03-18T20:00:02+00:00"
+        },
+        {
           "title": "عبد الله كويليام الرجل الذي قدم الإسلام إلى البلاط الملكي البريطاني",
           "link": "https://www.youtube.com/watch?v=PdRtbOXntIc",
           "videoId": "PdRtbOXntIc",
@@ -407,12 +413,6 @@
           "link": "https://www.youtube.com/watch?v=UabUaoyROAM",
           "videoId": "UabUaoyROAM",
           "pubDate": "2026-03-18T17:50:14+00:00"
-        },
-        {
-          "title": "من الأرشيف 1982: خطبة الشيخ أحمد القطان عن مجزرة حماة في سوريا",
-          "link": "https://www.youtube.com/watch?v=yEFlLukAoQc",
-          "videoId": "yEFlLukAoQc",
-          "pubDate": "2026-03-18T14:28:38+00:00"
         }
       ],
       "ok": true
@@ -449,6 +449,12 @@
       "feedTitle": "Nat Geo Abu Dhabi",
       "items": [
         {
+          "title": "صعود كيمبا | صيادو أفريقيا | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=xsDQqGkiGMQ",
+          "videoId": "xsDQqGkiGMQ",
+          "pubDate": "2026-03-18T19:37:47+00:00"
+        },
+        {
           "title": "السلحفاة والقط بدون شعر | كريتر فيكسرز: أطباء في الريف | ناشونال جيوغرافيك أبوظبي",
           "link": "https://www.youtube.com/watch?v=VrPYTepNZM0",
           "videoId": "VrPYTepNZM0",
@@ -459,12 +465,6 @@
           "link": "https://www.youtube.com/watch?v=vb0KQIQ5wF0",
           "videoId": "vb0KQIQ5wF0",
           "pubDate": "2026-03-16T16:04:01+00:00"
-        },
-        {
-          "title": "عروض شهر مارس | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=vj54LhAglPM",
-          "videoId": "vj54LhAglPM",
-          "pubDate": "2026-03-13T19:16:08+00:00"
         }
       ],
       "ok": true
