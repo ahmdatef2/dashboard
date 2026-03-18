@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-18T10:38:45.957565+00:00",
+  "updated": "2026-03-18T11:35:26.151943+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -189,6 +189,12 @@
       "feedTitle": "ذكاء اصطناعي عربي",
       "items": [
         {
+          "title": "What is Model Context Protocol? | شرح بروتوكول سياق النموذج",
+          "link": "https://www.youtube.com/watch?v=Ln2mIYWEpIc",
+          "videoId": "Ln2mIYWEpIc",
+          "pubDate": "2026-03-18T11:00:39+00:00"
+        },
+        {
           "title": "What is Context Window? | شرح نافذة السياق",
           "link": "https://www.youtube.com/watch?v=oXr9oEGACLI",
           "videoId": "oXr9oEGACLI",
@@ -199,12 +205,6 @@
           "link": "https://www.youtube.com/watch?v=G97nlN86FP8",
           "videoId": "G97nlN86FP8",
           "pubDate": "2026-03-16T11:00:34+00:00"
-        },
-        {
-          "title": "What is Embeddings? | شرح التمثيلات المتجهية / التضمينات",
-          "link": "https://www.youtube.com/watch?v=ehUj6jOgHBY",
-          "videoId": "ehUj6jOgHBY",
-          "pubDate": "2026-03-15T11:01:07+00:00"
         }
       ],
       "ok": true
@@ -397,6 +397,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "معاوية الصياصنة.. طفل من درعا قاد لسقوط نظام الأسد",
+          "link": "https://www.youtube.com/watch?v=uaaScFIz8eU",
+          "videoId": "uaaScFIz8eU",
+          "pubDate": "2026-03-18T11:00:03+00:00"
+        },
+        {
           "title": "الليالي العشر الأواخر من رمضان مسلمو البلقان يعمرون المساجد بالعبادة",
           "link": "https://www.youtube.com/watch?v=YFhlep_W0wk",
           "videoId": "YFhlep_W0wk",
@@ -407,12 +413,6 @@
           "link": "https://www.youtube.com/watch?v=TyIGIPn1nhg",
           "videoId": "TyIGIPn1nhg",
           "pubDate": "2026-03-17T19:45:01+00:00"
-        },
-        {
-          "title": "كيف وُلد منصب شيخ الأزهر؟",
-          "link": "https://www.youtube.com/watch?v=Zui9tcZWsPQ",
-          "videoId": "Zui9tcZWsPQ",
-          "pubDate": "2026-03-17T17:00:02+00:00"
         }
       ],
       "ok": true
