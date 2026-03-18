@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-18T12:39:17.780815+00:00",
+  "updated": "2026-03-18T14:12:19.304737+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -397,6 +397,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "كيف يتجول قرد \"الأورانغوتان\" بين الغابات؟",
+          "link": "https://www.youtube.com/watch?v=zQlZVAr96wI",
+          "videoId": "zQlZVAr96wI",
+          "pubDate": "2026-03-18T13:30:01+00:00"
+        },
+        {
           "title": "معاوية الصياصنة.. طفل من درعا قاد لسقوط نظام الأسد",
           "link": "https://www.youtube.com/watch?v=uaaScFIz8eU",
           "videoId": "uaaScFIz8eU",
@@ -407,12 +413,6 @@
           "link": "https://www.youtube.com/watch?v=YFhlep_W0wk",
           "videoId": "YFhlep_W0wk",
           "pubDate": "2026-03-17T20:00:00+00:00"
-        },
-        {
-          "title": "عمالقة غرينلاند.. أسرار الحياة في أقسى بيئة على الأرض",
-          "link": "https://www.youtube.com/watch?v=TyIGIPn1nhg",
-          "videoId": "TyIGIPn1nhg",
-          "pubDate": "2026-03-17T19:45:01+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "مدن فوق المحيط",
+          "link": "https://www.youtube.com/watch?v=EwUmJMp9LY4",
+          "videoId": "EwUmJMp9LY4",
+          "pubDate": "2026-03-18T13:29:04+00:00"
+        },
+        {
           "title": "ريبورتاج | التبرع بالحيوانات المنوية في أوروبا | وثائقية دي دبليو",
           "link": "https://www.youtube.com/watch?v=uYngUCVh4kU",
           "videoId": "uYngUCVh4kU",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=fKeG50q0sd0",
           "videoId": "fKeG50q0sd0",
           "pubDate": "2026-03-15T17:01:01+00:00"
-        },
-        {
-          "title": "وثائقي | كوكب الأرض - إعادة كتابة تاريخ كوكبنا | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=e814Qs7pp6Q",
-          "videoId": "e814Qs7pp6Q",
-          "pubDate": "2026-03-14T17:00:49+00:00"
         }
       ],
       "ok": true
