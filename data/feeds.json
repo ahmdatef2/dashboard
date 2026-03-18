@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-18T18:40:37.339161+00:00",
+  "updated": "2026-03-18T19:40:17.782238+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -371,6 +371,12 @@
       "feedTitle": "دوباميكافين Dupamicaffeine",
       "items": [
         {
+          "title": "قوّة الشكر والامتنان",
+          "link": "https://www.youtube.com/watch?v=Q8h4kOkGpwc",
+          "videoId": "Q8h4kOkGpwc",
+          "pubDate": "2026-03-18T19:00:25+00:00"
+        },
+        {
           "title": "الكلمة الطيبة",
           "link": "https://www.youtube.com/watch?v=Zh-Klchn_QQ",
           "videoId": "Zh-Klchn_QQ",
@@ -381,12 +387,6 @@
           "link": "https://www.youtube.com/watch?v=L6rE-GRYzr8",
           "videoId": "L6rE-GRYzr8",
           "pubDate": "2026-03-15T19:00:26+00:00"
-        },
-        {
-          "title": "اللغة الأولى للحب - قريبًا",
-          "link": "https://www.youtube.com/watch?v=6eHYRb3h9fU",
-          "videoId": "6eHYRb3h9fU",
-          "pubDate": "2026-03-15T07:57:35+00:00"
         }
       ],
       "ok": true
@@ -423,6 +423,12 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "الملوك الأربعة .. وجوه من الحلبة | الشرق الوثائقية",
+          "link": "https://www.youtube.com/watch?v=3p50Jm5BNww",
+          "videoId": "3p50Jm5BNww",
+          "pubDate": "2026-03-18T19:00:04+00:00"
+        },
+        {
           "title": "سر أغنى عائلة في البندقية وكيف اختفت فجأة من التاريخ | الشرق الوثائقية",
           "link": "https://www.youtube.com/watch?v=d2dv1s_fH8k",
           "videoId": "d2dv1s_fH8k",
@@ -433,12 +439,6 @@
           "link": "https://www.youtube.com/watch?v=btbRQNqq4e0",
           "videoId": "btbRQNqq4e0",
           "pubDate": "2026-03-16T19:00:40+00:00"
-        },
-        {
-          "title": "الاتحاد السوفييتي من التأسيس إلى الانهيار - الانهيار والتفكك - الجزء 3 | الشرق الوثائقية",
-          "link": "https://www.youtube.com/watch?v=32ZHJIeDkzg",
-          "videoId": "32ZHJIeDkzg",
-          "pubDate": "2026-03-15T19:00:06+00:00"
         }
       ],
       "ok": true
