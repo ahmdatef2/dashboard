@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-18T17:52:42.017294+00:00",
+  "updated": "2026-03-18T18:40:37.339161+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -33,6 +33,12 @@
       "feedTitle": "كل يوم موقع جديد",
       "items": [
         {
+          "title": "أداة جديدة مجانية في Claude تصنع لك محتوى بصري تفاعلي فورًا",
+          "link": "https://www.youtube.com/watch?v=gu2elwf4F48",
+          "videoId": "gu2elwf4F48",
+          "pubDate": "2026-03-18T18:31:49+00:00"
+        },
+        {
           "title": "NotebookLM أقوى مما تتخيل: 5 خصائص خفية لازم تعرفها",
           "link": "https://www.youtube.com/watch?v=3JuyaRNM0XI",
           "videoId": "3JuyaRNM0XI",
@@ -43,12 +49,6 @@
           "link": "https://www.youtube.com/watch?v=jtb8pYX9djg",
           "videoId": "jtb8pYX9djg",
           "pubDate": "2026-03-14T22:51:57+00:00"
-        },
-        {
-          "title": "حول صور منتجك الي جلسة تصوير احترافية مع أداة جوجل المجانية Pomelli  Photoshoot",
-          "link": "https://www.youtube.com/watch?v=oEArDGaqig8",
-          "videoId": "oEArDGaqig8",
-          "pubDate": "2026-03-12T20:12:43+00:00"
         }
       ],
       "ok": true
@@ -215,6 +215,12 @@
       "feedTitle": "Mohamed Ansary",
       "items": [
         {
+          "title": "عروض تقديمية أكثر احترافية ومزايا أخرى عديدة GLM-4.6   من خلال Z.ai.",
+          "link": "https://www.youtube.com/watch?v=a6Wz9oVG3fQ",
+          "videoId": "a6Wz9oVG3fQ",
+          "pubDate": "2026-03-18T18:28:10+00:00"
+        },
+        {
           "title": "كيفية عمل تطبيقات Vibe Coding من خلال Google Ai Studio..",
           "link": "https://www.youtube.com/watch?v=p9Ff7IJR8gk",
           "videoId": "p9Ff7IJR8gk",
@@ -225,12 +231,6 @@
           "link": "https://www.youtube.com/watch?v=9x2AZDyE2J8",
           "videoId": "9x2AZDyE2J8",
           "pubDate": "2026-03-16T07:51:39+00:00"
-        },
-        {
-          "title": "تحليل البيانات وتصميم العروض بذكاء واحترافية من خلال Skywork وبشكل مجاني",
-          "link": "https://www.youtube.com/watch?v=TV55baAhRCc",
-          "videoId": "TV55baAhRCc",
-          "pubDate": "2026-03-14T14:02:05+00:00"
         }
       ],
       "ok": true
@@ -397,22 +397,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "عبد الله كويليام الرجل الذي قدم الإسلام إلى البلاط الملكي البريطاني",
+          "link": "https://www.youtube.com/watch?v=PdRtbOXntIc",
+          "videoId": "PdRtbOXntIc",
+          "pubDate": "2026-03-18T18:00:01+00:00"
+        },
+        {
+          "title": "الأزهر في العهد العثماني مؤسسة تعليمية حرة سبقت عصرها",
+          "link": "https://www.youtube.com/watch?v=UabUaoyROAM",
+          "videoId": "UabUaoyROAM",
+          "pubDate": "2026-03-18T17:50:14+00:00"
+        },
+        {
           "title": "من الأرشيف 1982: خطبة الشيخ أحمد القطان عن مجزرة حماة في سوريا",
           "link": "https://www.youtube.com/watch?v=yEFlLukAoQc",
           "videoId": "yEFlLukAoQc",
           "pubDate": "2026-03-18T14:28:38+00:00"
-        },
-        {
-          "title": "فيل قاتل.. يُعاقب كالأطفال تماما",
-          "link": "https://www.youtube.com/watch?v=5SCFkuzfvjs",
-          "videoId": "5SCFkuzfvjs",
-          "pubDate": "2026-03-18T14:21:48+00:00"
-        },
-        {
-          "title": "كيف يتجول قرد \"الأورانغوتان\" بين الغابات؟",
-          "link": "https://www.youtube.com/watch?v=zQlZVAr96wI",
-          "videoId": "zQlZVAr96wI",
-          "pubDate": "2026-03-18T13:30:01+00:00"
         }
       ],
       "ok": true
