@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-19T08:27:35.509290+00:00",
+  "updated": "2026-03-19T09:31:34.732426+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -241,6 +241,12 @@
       "feedTitle": "خير جليس",
       "items": [
         {
+          "title": "التعليم وحده لا يصنع الثروة - من  كتاب الأب الغني الأب الفقير",
+          "link": "https://www.youtube.com/watch?v=82LxBfeWMiM",
+          "videoId": "82LxBfeWMiM",
+          "pubDate": "2026-03-19T09:30:24+00:00"
+        },
+        {
           "title": "السلام يصبح الحالة الطبيعية مع الممارسة - من كتاب السماح بالرحيل",
           "link": "https://www.youtube.com/watch?v=GtCuL3erIKo",
           "videoId": "GtCuL3erIKo",
@@ -251,12 +257,6 @@
           "link": "https://www.youtube.com/watch?v=QkLZIx_xHOQ",
           "videoId": "QkLZIx_xHOQ",
           "pubDate": "2026-03-17T06:00:16+00:00"
-        },
-        {
-          "title": "ملخص كتاب الأب الغني الأب الفقير بقلم روبرت كيوساكي",
-          "link": "https://www.youtube.com/watch?v=JiWPfZ7jAEg",
-          "videoId": "JiWPfZ7jAEg",
-          "pubDate": "2026-03-16T07:00:25+00:00"
         }
       ],
       "ok": true
