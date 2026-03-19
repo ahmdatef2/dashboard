@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-19T10:27:52.754109+00:00",
+  "updated": "2026-03-19T11:25:34.003216+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -189,6 +189,12 @@
       "feedTitle": "ذكاء اصطناعي عربي",
       "items": [
         {
+          "title": "What is Quantization? | شرح التكميم / تقليص الحجم",
+          "link": "https://www.youtube.com/watch?v=sBEr9GjMQpw",
+          "videoId": "sBEr9GjMQpw",
+          "pubDate": "2026-03-19T11:01:29+00:00"
+        },
+        {
           "title": "What is Model Context Protocol? | شرح بروتوكول سياق النموذج",
           "link": "https://www.youtube.com/watch?v=Ln2mIYWEpIc",
           "videoId": "Ln2mIYWEpIc",
@@ -199,12 +205,6 @@
           "link": "https://www.youtube.com/watch?v=oXr9oEGACLI",
           "videoId": "oXr9oEGACLI",
           "pubDate": "2026-03-17T11:01:22+00:00"
-        },
-        {
-          "title": "What is Token? | شرح الوحدة الرمزية / التوكن",
-          "link": "https://www.youtube.com/watch?v=G97nlN86FP8",
-          "videoId": "G97nlN86FP8",
-          "pubDate": "2026-03-16T11:00:34+00:00"
         }
       ],
       "ok": true
@@ -397,6 +397,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "مظاهر غير مألوفة للمصريين أدخلها الفاطميون",
+          "link": "https://www.youtube.com/watch?v=T3Nrsgi4UGc",
+          "videoId": "T3Nrsgi4UGc",
+          "pubDate": "2026-03-19T11:00:01+00:00"
+        },
+        {
           "title": "تسجيل نادر لأم كلثوم ترتل سورة إبراهيم حصل عليه الشيخ عبد الحميد احساين",
           "link": "https://www.youtube.com/watch?v=WTy6vtPh44w",
           "videoId": "WTy6vtPh44w",
@@ -407,12 +413,6 @@
           "link": "https://www.youtube.com/watch?v=SjJuhPKsRYY",
           "videoId": "SjJuhPKsRYY",
           "pubDate": "2026-03-18T20:00:02+00:00"
-        },
-        {
-          "title": "عبد الله كويليام الرجل الذي قدم الإسلام إلى البلاط الملكي البريطاني",
-          "link": "https://www.youtube.com/watch?v=PdRtbOXntIc",
-          "videoId": "PdRtbOXntIc",
-          "pubDate": "2026-03-18T18:00:01+00:00"
         }
       ],
       "ok": true
