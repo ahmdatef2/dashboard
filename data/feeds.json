@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-19T20:24:01.795843+00:00",
+  "updated": "2026-03-19T21:31:10.109475+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -59,6 +59,12 @@
       "feedTitle": "Infotech4you - مروي سليمان",
       "items": [
         {
+          "title": "ميزة Claude Dispatch الجديدة : ربط الهاتف بالكمبيوتر وتنفيذ المهام بذكاء",
+          "link": "https://www.youtube.com/watch?v=sKFUNGG7hPM",
+          "videoId": "sKFUNGG7hPM",
+          "pubDate": "2026-03-19T21:15:18+00:00"
+        },
+        {
           "title": "ازاي تبني Skill  بنفسك وتستخدمه مباشرة داخل Claude خطوة بخطوة ؟",
           "link": "https://www.youtube.com/watch?v=GBaXIwVUpEI",
           "videoId": "GBaXIwVUpEI",
@@ -69,12 +75,6 @@
           "link": "https://www.youtube.com/watch?v=DGVje4_TIyQ",
           "videoId": "DGVje4_TIyQ",
           "pubDate": "2026-03-16T15:00:24+00:00"
-        },
-        {
-          "title": "Claude لم يعد مجرد شات… الميزة الجديدة غيرت اللعبة",
-          "link": "https://www.youtube.com/watch?v=NwE66xMWyi8",
-          "videoId": "NwE66xMWyi8",
-          "pubDate": "2026-03-15T20:44:26+00:00"
         }
       ],
       "ok": true
@@ -231,6 +231,84 @@
           "link": "https://www.youtube.com/watch?v=9x2AZDyE2J8",
           "videoId": "9x2AZDyE2J8",
           "pubDate": "2026-03-16T07:51:39+00:00"
+        }
+      ],
+      "ok": true
+    },
+    "UCDqp23rTdCo_tXsuHLYF47Q": {
+      "handle": "ArabianAiSchool",
+      "name": "Arabian AI School",
+      "feedTitle": "مدرسة الذكاء الاصطناعي",
+      "items": [
+        {
+          "title": "اعمل مساعد ذكاء اصطناعي تكلمه من موبايلك ويعملك كل حاجة",
+          "link": "https://www.youtube.com/watch?v=W9whm_hl0-0",
+          "videoId": "W9whm_hl0-0",
+          "pubDate": "2026-03-17T20:03:27+00:00"
+        },
+        {
+          "title": "قارنت Claude Cowork وبديله المجاني والنتيجة ...",
+          "link": "https://www.youtube.com/watch?v=rkkSJlP014w",
+          "videoId": "rkkSJlP014w",
+          "pubDate": "2026-03-09T22:20:19+00:00"
+        },
+        {
+          "title": "لغيت اشتراكي وعملت نفس الأداة مجانًا بالذكاء الاصطناعي",
+          "link": "https://www.youtube.com/watch?v=9au3hNjod_A",
+          "videoId": "9au3hNjod_A",
+          "pubDate": "2026-03-02T19:29:51+00:00"
+        }
+      ],
+      "ok": true
+    },
+    "UCz0N3nKrJiDhNdKQvM6r93w": {
+      "handle": "ryan.academy",
+      "name": "Ryan Academy",
+      "feedTitle": "أكاديمية ريان | Ryan Academy",
+      "items": [
+        {
+          "title": "أداة بتعمل فيديوهات ريلز قرآن كريم تلقائياً بدون حدود مجاناً (أفضل أداة مجانية)",
+          "link": "https://www.youtube.com/watch?v=0OMuBQ0l9Ek",
+          "videoId": "0OMuBQ0l9Ek",
+          "pubDate": "2026-03-17T20:00:01+00:00"
+        },
+        {
+          "title": "إصلاح الملفات والفيديوهات والصور التالفة في دقائق — شرح 4DDiG File Repair",
+          "link": "https://www.youtube.com/watch?v=4nE95ZseR60",
+          "videoId": "4nE95ZseR60",
+          "pubDate": "2026-03-15T19:30:01+00:00"
+        },
+        {
+          "title": "وفرت 300$ وبنيت Resume Builder SaaS بالذكاء الاصطناعي (تجربتي كاملة)",
+          "link": "https://www.youtube.com/watch?v=UB8xMjD312g",
+          "videoId": "UB8xMjD312g",
+          "pubDate": "2026-03-13T20:00:32+00:00"
+        }
+      ],
+      "ok": true
+    },
+    "UCXVSIaWCZBxqZ5eCxwIqRGw": {
+      "handle": "TechnoFlashAITech",
+      "name": "TechnoFlash AI",
+      "feedTitle": "تكنوفلاش – AI & Tech",
+      "items": [
+        {
+          "title": "سر grok aiالذي يجعل شخصيات الذكاء الاصطناعي لا تتغير أبدا | خدعة  Free image to video ai generator",
+          "link": "https://www.youtube.com/watch?v=aWNMnqssZDk",
+          "videoId": "aWNMnqssZDk",
+          "pubDate": "2026-03-17T17:49:30+00:00"
+        },
+        {
+          "title": "Claude Code Setup | الدليل الكامل لأنظمة ويندوز",
+          "link": "https://www.youtube.com/watch?v=CRgbNkQwfkw",
+          "videoId": "CRgbNkQwfkw",
+          "pubDate": "2026-03-13T17:34:04+00:00"
+        },
+        {
+          "title": "حولت موقع عادي لموقع فاخر بأمر واحد لجيميناي",
+          "link": "https://www.youtube.com/watch?v=Uk9cq2kDi0w",
+          "videoId": "Uk9cq2kDi0w",
+          "pubDate": "2026-03-13T13:29:48+00:00"
         }
       ],
       "ok": true
@@ -397,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "الجلباب المغربي.. تراث البلد وهوية الشعب",
+          "link": "https://www.youtube.com/watch?v=MmtyNWEsA6I",
+          "videoId": "MmtyNWEsA6I",
+          "pubDate": "2026-03-19T20:59:01+00:00"
+        },
+        {
           "title": "في إينوفيك بالقطب الشمالي.. مسلمون يتحدون العواصف لأداء صلاة العيد",
           "link": "https://www.youtube.com/watch?v=fU-TyqFzg0U",
           "videoId": "fU-TyqFzg0U",
@@ -407,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=G7vJZG8wVh0",
           "videoId": "G7vJZG8wVh0",
           "pubDate": "2026-03-19T19:00:01+00:00"
-        },
-        {
-          "title": "تكريما للمتوفين.. السودانيون يحيون طقس \"الرحمتات\" في رمضان",
-          "link": "https://www.youtube.com/watch?v=-g8sbq8i8wI",
-          "videoId": "-g8sbq8i8wI",
-          "pubDate": "2026-03-19T18:00:01+00:00"
         }
       ],
       "ok": true
