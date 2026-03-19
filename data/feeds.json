@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-19T01:03:00.816515+00:00",
+  "updated": "2026-03-19T04:09:40.421493+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -82,28 +82,9 @@
     "UCSRy-3lglM2QKJ_xF2zuPlQ": {
       "handle": "AbdellatifSaidA",
       "name": "عبداللطيف سعيد",
-      "feedTitle": "عبداللطيف سعيد Abdellatif Said",
-      "items": [
-        {
-          "title": "العلماء قالوا محتاجين \"كائنات فضائية\".. إزاي جوجل حلت أعقد لغز في التاريخ بـ AlphaEvolve؟!",
-          "link": "https://www.youtube.com/watch?v=x7t52oeJTjc",
-          "videoId": "x7t52oeJTjc",
-          "pubDate": "2026-03-18T14:15:17+00:00"
-        },
-        {
-          "title": "عملت برنامج كمبيوتر من غير ولا سطر كود! | تصميم برامج ويندوز بالذكاء الاصطناعي 🤖💻",
-          "link": "https://www.youtube.com/watch?v=xVX98YypDtw",
-          "videoId": "xVX98YypDtw",
-          "pubDate": "2026-03-13T14:15:14+00:00"
-        },
-        {
-          "title": "الريمونتادا الكبرى: تحديث ChatGPT 5.4 اللي هيتحكم في كمبيوترك مكانك!",
-          "link": "https://www.youtube.com/watch?v=PEsJ0a1fPtI",
-          "videoId": "PEsJ0a1fPtI",
-          "pubDate": "2026-03-09T14:15:04+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "عبداللطيف سعيد",
+      "items": [],
+      "ok": false
     },
     "UC81Ks7DR9JFgZc14nmZ07EA": {
       "handle": "AMRSALEM800",
@@ -186,28 +167,9 @@
     "UCGrVvqu8PlVv0wPqA5kgY8A": {
       "handle": "ArabicArtificialIntelligence",
       "name": "الذكاء الاصطناعي العربي",
-      "feedTitle": "ذكاء اصطناعي عربي",
-      "items": [
-        {
-          "title": "What is Model Context Protocol? | شرح بروتوكول سياق النموذج",
-          "link": "https://www.youtube.com/watch?v=Ln2mIYWEpIc",
-          "videoId": "Ln2mIYWEpIc",
-          "pubDate": "2026-03-18T11:00:39+00:00"
-        },
-        {
-          "title": "What is Context Window? | شرح نافذة السياق",
-          "link": "https://www.youtube.com/watch?v=oXr9oEGACLI",
-          "videoId": "oXr9oEGACLI",
-          "pubDate": "2026-03-17T11:01:22+00:00"
-        },
-        {
-          "title": "What is Token? | شرح الوحدة الرمزية / التوكن",
-          "link": "https://www.youtube.com/watch?v=G97nlN86FP8",
-          "videoId": "G97nlN86FP8",
-          "pubDate": "2026-03-16T11:00:34+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "الذكاء الاصطناعي العربي",
+      "items": [],
+      "ok": false
     },
     "UCSXcmF4Gxl6Hc-m6cHYD_Vg": {
       "handle": "MohamedAnsary",
@@ -239,53 +201,15 @@
       "handle": "KhairJaleesBook",
       "name": "خير جليس",
       "feedTitle": "خير جليس",
-      "items": [
-        {
-          "title": "السلام يصبح الحالة الطبيعية مع الممارسة - من كتاب السماح بالرحيل",
-          "link": "https://www.youtube.com/watch?v=GtCuL3erIKo",
-          "videoId": "GtCuL3erIKo",
-          "pubDate": "2026-03-17T13:00:27+00:00"
-        },
-        {
-          "title": "السماح بالرحيل يحدث لحظة بلحظة - من كتاب السماح بالرحيل",
-          "link": "https://www.youtube.com/watch?v=QkLZIx_xHOQ",
-          "videoId": "QkLZIx_xHOQ",
-          "pubDate": "2026-03-17T06:00:16+00:00"
-        },
-        {
-          "title": "ملخص كتاب الأب الغني الأب الفقير بقلم روبرت كيوساكي",
-          "link": "https://www.youtube.com/watch?v=JiWPfZ7jAEg",
-          "videoId": "JiWPfZ7jAEg",
-          "pubDate": "2026-03-16T07:00:25+00:00"
-        }
-      ],
-      "ok": true
+      "items": [],
+      "ok": false
     },
     "UCu1NJiJlhrhmF5ZgT-0yWdA": {
       "handle": "Jeelyaqraa",
       "name": "جيل يقرأ",
-      "feedTitle": "ReadTube - جيل يقرأ",
-      "items": [
-        {
-          "title": "الذين ضحكوا حتى البكاء -ملخص لكتاب د. مصطفى محمود",
-          "link": "https://www.youtube.com/watch?v=bSbrMABmf4E",
-          "videoId": "bSbrMABmf4E",
-          "pubDate": "2026-03-03T20:46:03+00:00"
-        },
-        {
-          "title": "المسيري يتنبأ بالمستقبل",
-          "link": "https://www.youtube.com/watch?v=N2hD24PnJQ4",
-          "videoId": "N2hD24PnJQ4",
-          "pubDate": "2026-03-01T20:56:54+00:00"
-        },
-        {
-          "title": "المسيري يفضح الفكر الابستيني - كتاب :الفلسفة المادية وتفكيك الإنسان",
-          "link": "https://www.youtube.com/watch?v=A9FEkTJhvfU",
-          "videoId": "A9FEkTJhvfU",
-          "pubDate": "2026-02-22T19:01:53+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "جيل يقرأ",
+      "items": [],
+      "ok": false
     },
     "UCtUor2SqesPS3b_SMFtLT_w": {
       "handle": "a5drcom",
