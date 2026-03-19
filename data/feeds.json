@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-19T17:45:30.776744+00:00",
+  "updated": "2026-03-19T18:38:13.293867+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -397,6 +397,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "تكريما للمتوفين.. السودانيون يحيون طقس \"الرحمتات\" في رمضان",
+          "link": "https://www.youtube.com/watch?v=-g8sbq8i8wI",
+          "videoId": "-g8sbq8i8wI",
+          "pubDate": "2026-03-19T18:00:01+00:00"
+        },
+        {
           "title": "في الموصل هكذا يودعون رمضان ويستقبلون العيد",
           "link": "https://www.youtube.com/watch?v=YE5CDw69mY4",
           "videoId": "YE5CDw69mY4",
@@ -407,12 +413,6 @@
           "link": "https://www.youtube.com/watch?v=iW2vgvXrT-g",
           "videoId": "iW2vgvXrT-g",
           "pubDate": "2026-03-19T16:30:02+00:00"
-        },
-        {
-          "title": "مافيا المياه- قريبا",
-          "link": "https://www.youtube.com/watch?v=8syhmSkXxrA",
-          "videoId": "8syhmSkXxrA",
-          "pubDate": "2026-03-19T16:00:00+00:00"
         }
       ],
       "ok": true
