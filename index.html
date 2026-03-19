@@ -235,15 +235,18 @@ main{max-width:1400px;margin:0 auto;padding:28px 22px 0}
 <script>
 var SECTIONS = [
   {key:"tech",title:"عالم التقنية",emoji:"💻",badge:"bt",label:"تقنية",channels:[
-    {h:"dr_hebaahmed",                id:"UCMvdDpKRU_-ZmSz9F1lKOVA",n:"د. هبة أحمد",              e:"💻"},
-    {h:"every_day_a_new_website",     id:"UC2jjW7c63dqOPkfMm3P-u3w",n:"موقع كل يوم",              e:"🌐"},
-    {h:"infotech4you_Marwasoliman",   id:"UCKD8vOz3maRPyLAbMXhr-Pw",n:"مروة سليمان",              e:"📱"},
-    {h:"AbdellatifSaidA",             id:"UCSRy-3lglM2QKJ_xF2zuPlQ",n:"عبداللطيف سعيد",           e:"☁️"},
-    {h:"AMRSALEM800",                 id:"UC81Ks7DR9JFgZc14nmZ07EA", n:"عمرو سالم",                e:"⚡"},
-    {h:"PythonArab",                  id:"UC9ocsRoOwj9tkAQNfUt8ZJg", n:"بايثون عربي",              e:"🐍"},
-    {h:"elzerowebschool",             id:"UCSNkfKl4cU-55Nm-ovsvOHQ", n:"Elzero Web School",        e:"🎓"},
-    {h:"ArabicArtificialIntelligence",id:"UCGrVvqu8PlVv0wPqA5kgY8A", n:"الذكاء الاصطناعي العربي", e:"🤖"},
-    {h:"MohamedAnsary",               id:"UCSXcmF4Gxl6Hc-m6cHYD_Vg", n:"محمد أنصاري",              e:"💡"}
+    {h:"dr_hebaahmed",                id:"UCMvdDpKRU_-ZmSz9F1lKOVA", n:"د. هبة أحمد",              e:"💻"},
+    {h:"every_day_a_new_website",     id:"UC2jjW7c63dqOPkfMm3P-u3w", n:"موقع كل يوم",              e:"🌐"},
+    {h:"infotech4you_Marwasoliman",   id:"UCKD8vOz3maRPyLAbMXhr-Pw", n:"مروة سليمان",              e:"📱"},
+    {h:"AbdellatifSaidA",             id:"UCSRy-3lglM2QKJ_xF2zuPlQ", n:"عبداللطيف سعيد",           e:"☁️"},
+    {h:"AMRSALEM800",                 id:"UC81Ks7DR9JFgZc14nmZ07EA",  n:"عمرو سالم",                e:"⚡"},
+    {h:"PythonArab",                  id:"UC9ocsRoOwj9tkAQNfUt8ZJg",  n:"بايثون عربي",              e:"🐍"},
+    {h:"elzerowebschool",             id:"UCSNkfKl4cU-55Nm-ovsvOHQ",  n:"Elzero Web School",        e:"🎓"},
+    {h:"ArabicArtificialIntelligence",id:"UCGrVvqu8PlVv0wPqA5kgY8A",  n:"الذكاء الاصطناعي العربي", e:"🤖"},
+    {h:"MohamedAnsary",               id:"UCSXcmF4Gxl6Hc-m6cHYD_Vg", n:"محمد أنصاري",              e:"💡"},
+    {h:"ArabianAiSchool",             id:"UCDqp23rTdCo_tXsuHLYF47Q",  n:"Arabian AI School",        e:"🎓"},
+    {h:"ryan.academy",                id:"UCz0N3nKrJiDhNdKQvM6r93w",  n:"Ryan Academy",             e:"🎯"},
+    {h:"TechnoFlashAITech",           id:"UCXVSIaWCZBxqZ5eCxwIqRGw",  n:"TechnoFlash AI",           e:"⚡"}
   ]},
   {key:"books",title:"عالم الكتب",emoji:"📚",badge:"bb",label:"كتب",channels:[
     {h:"KhairJaleesBook",id:"UC16aC4Jti6tYAi0LuXmu-9w",n:"خير جليس",    e:"📖"},
@@ -261,7 +264,6 @@ var SECTIONS = [
   ]}
 ];
 
-// ── قراءة البيانات من feeds.json (يُحدَّث كل ساعة عبر GitHub Actions) ──
 var FEEDS_CACHE = null;
 
 async function loadFeedsJson() {
@@ -269,7 +271,6 @@ async function loadFeedsJson() {
   try {
     var res = await fetch('data/feeds.json?t=' + Date.now());
     FEEDS_CACHE = await res.json();
-    // عرض وقت آخر تحديث في الهيدر
     if (FEEDS_CACHE.updated) {
       var d = new Date(FEEDS_CACHE.updated);
       var sub = document.querySelector('.sub');
@@ -310,14 +311,13 @@ function buildVids(f) {
   return '<p class="vids-empty">اضغط ↻ لتحميل الفيديوهات</p>';
 }
 
-// ── بناء الصفوف والأقسام ──
 function buildRow(ch, i, k) {
-  var rowId   = 'row-'  + k + '-' + ch.h;
-  var avId    = 'av-'   + k + '-' + ch.h;
-  var nmId    = 'nm-'   + k + '-' + ch.h;
-  var vidsId  = 'vids-' + k + '-' + ch.h;
-  var rfId    = 'rfbtn-'+ k + '-' + ch.h;
-  var url     = 'https://www.youtube.com/@' + ch.h;
+  var rowId  = 'row-'  + k + '-' + ch.h;
+  var avId   = 'av-'   + k + '-' + ch.h;
+  var nmId   = 'nm-'   + k + '-' + ch.h;
+  var vidsId = 'vids-' + k + '-' + ch.h;
+  var rfId   = 'rfbtn-'+ k + '-' + ch.h;
+  var url    = 'https://www.youtube.com/@' + ch.h;
 
   var row = document.createElement('div');
   row.className = 'ch-row';
@@ -336,7 +336,6 @@ function buildRow(ch, i, k) {
     + '</div></div>'
     + '<div class="ch-vids" id="' + vidsId + '"><p class="vids-empty">اضغط ↻ لتحميل الفيديوهات</p></div>';
 
-  // ربط الأحداث بدون onclick strings
   row.querySelector('.ch-refresh').addEventListener('click', function() { refreshChannel(k, ch.h); });
   row.querySelector('.ch-del').addEventListener('click', function() { deleteChannel(k, ch.h); });
   return row;
@@ -379,7 +378,6 @@ function renderLayout() {
   });
 }
 
-// ── تحديث قناة واحدة ──
 async function refreshChannel(k, h) {
   var sec = SECTIONS.find(function(s) { return s.key === k; });
   if (!sec) return;
@@ -401,9 +399,8 @@ async function refreshChannel(k, h) {
   if (vidsEl) vidsEl.innerHTML = buildVids(f);
 }
 
-// ── تحديث الكل تدريجياً ──
 async function loadAll() {
-  FEEDS_CACHE = null; // إعادة قراءة feeds.json
+  FEEDS_CACHE = null;
   var ri = document.getElementById('ri');
   ri.classList.add('spinning');
   renderLayout();
@@ -417,7 +414,6 @@ async function loadAll() {
   ri.classList.remove('spinning');
 }
 
-// ── حذف قناة ──
 function deleteChannel(k, h) {
   if (!confirm('هل تريد حذف هذه القناة؟')) return;
   var sec = SECTIONS.find(function(s) { return s.key === k; });
@@ -432,7 +428,6 @@ function deleteChannel(k, h) {
   }, 320);
 }
 
-// ── مودال إضافة قناة ──
 function openAddChannel(k) {
   var sel = document.getElementById('f-section');
   sel.innerHTML = '';
@@ -466,7 +461,6 @@ function saveChannel() {
   if (cnt) cnt.textContent = sec.channels.length + ' قنوات';
 }
 
-// ── مودال إضافة قسم ──
 function openAddSection() {
   ['fs-name','fs-emoji'].forEach(function(id) { document.getElementById(id).value = ''; });
   document.getElementById('addSecModal').classList.add('open');
@@ -490,7 +484,6 @@ function saveSection() {
   }, 100);
 }
 
-// ── تنزيل ──
 function downloadPage() {
   var html = document.documentElement.outerHTML;
   html = html.replace(/var SECTIONS = \[[\s\S]*?\];/, 'var SECTIONS = ' + JSON.stringify(SECTIONS) + ';');
