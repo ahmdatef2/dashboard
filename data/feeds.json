@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-19T18:38:13.293867+00:00",
+  "updated": "2026-03-19T19:38:27.990184+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -397,6 +397,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "هلال العيد.. لماذا لا تتحد في رؤيته الدول الإسلامية؟",
+          "link": "https://www.youtube.com/watch?v=G7vJZG8wVh0",
+          "videoId": "G7vJZG8wVh0",
+          "pubDate": "2026-03-19T19:00:01+00:00"
+        },
+        {
           "title": "تكريما للمتوفين.. السودانيون يحيون طقس \"الرحمتات\" في رمضان",
           "link": "https://www.youtube.com/watch?v=-g8sbq8i8wI",
           "videoId": "-g8sbq8i8wI",
@@ -407,12 +413,6 @@
           "link": "https://www.youtube.com/watch?v=YE5CDw69mY4",
           "videoId": "YE5CDw69mY4",
           "pubDate": "2026-03-19T17:00:02+00:00"
-        },
-        {
-          "title": "الجزيرة الوثائقية تُهنئكم بحلول عيد الفطر المبارك. #وراء_كل_صورة_حكاية #عيد_الفطر",
-          "link": "https://www.youtube.com/watch?v=iW2vgvXrT-g",
-          "videoId": "iW2vgvXrT-g",
-          "pubDate": "2026-03-19T16:30:02+00:00"
         }
       ],
       "ok": true
@@ -422,6 +422,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "الملوك الأربعة .. معركة الأبطال | الشرق الوثائقية",
+          "link": "https://www.youtube.com/watch?v=lsBoK9tgZHg",
+          "videoId": "lsBoK9tgZHg",
+          "pubDate": "2026-03-19T19:00:48+00:00"
+        },
         {
           "title": "الملوك الأربعة .. وجوه من الحلبة | الشرق الوثائقية",
           "link": "https://www.youtube.com/watch?v=3p50Jm5BNww",
@@ -433,12 +439,6 @@
           "link": "https://www.youtube.com/watch?v=d2dv1s_fH8k",
           "videoId": "d2dv1s_fH8k",
           "pubDate": "2026-03-17T19:00:39+00:00"
-        },
-        {
-          "title": "في ظلال بيروت ... كيف يعيش الفقراء في بيروت خلال أسوأ أزمة اقتصادية؟ | الشرق الوثائقية",
-          "link": "https://www.youtube.com/watch?v=btbRQNqq4e0",
-          "videoId": "btbRQNqq4e0",
-          "pubDate": "2026-03-16T19:00:40+00:00"
         }
       ],
       "ok": true
@@ -449,22 +449,22 @@
       "feedTitle": "Nat Geo Abu Dhabi",
       "items": [
         {
-          "title": "صعود كيمبا | صيادو أفريقيا | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=xsDQqGkiGMQ",
-          "videoId": "xsDQqGkiGMQ",
-          "pubDate": "2026-03-18T19:37:47+00:00"
+          "title": "ابتداءً 20 مارس | كريتر فيكسرز: أطباء في الريف | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=N-uQnmGtO5Y",
+          "videoId": "N-uQnmGtO5Y",
+          "pubDate": "2026-03-19T19:32:34+00:00"
         },
         {
-          "title": "السلحفاة والقط بدون شعر | كريتر فيكسرز: أطباء في الريف | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=VrPYTepNZM0",
-          "videoId": "VrPYTepNZM0",
-          "pubDate": "2026-03-17T14:39:12+00:00"
+          "title": "ابتداءً 19 مارس | كنوز مصر المفقودة | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=XP97azbDM6s",
+          "videoId": "XP97azbDM6s",
+          "pubDate": "2026-03-19T19:29:32+00:00"
         },
         {
-          "title": "الحلقة الأولى | أمن المطارات: كولومبيا | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=vb0KQIQ5wF0",
-          "videoId": "vb0KQIQ5wF0",
-          "pubDate": "2026-03-16T16:04:01+00:00"
+          "title": "ابتداءً 19 مارس | كنوز مصر المفقودة | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=ZhVNgz8wlpE",
+          "videoId": "ZhVNgz8wlpE",
+          "pubDate": "2026-03-19T19:29:28+00:00"
         }
       ],
       "ok": true
