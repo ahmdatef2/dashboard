@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-19T11:25:34.003216+00:00",
+  "updated": "2026-03-19T12:33:01.392902+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -397,6 +397,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "أفعى عين القطة العربية تنقض على إحدى فرائسها",
+          "link": "https://www.youtube.com/watch?v=GwUWETWtM8A",
+          "videoId": "GwUWETWtM8A",
+          "pubDate": "2026-03-19T11:17:57+00:00"
+        },
+        {
           "title": "مظاهر غير مألوفة للمصريين أدخلها الفاطميون",
           "link": "https://www.youtube.com/watch?v=T3Nrsgi4UGc",
           "videoId": "T3Nrsgi4UGc",
@@ -407,12 +413,6 @@
           "link": "https://www.youtube.com/watch?v=WTy6vtPh44w",
           "videoId": "WTy6vtPh44w",
           "pubDate": "2026-03-18T20:59:01+00:00"
-        },
-        {
-          "title": "شابة من مدينة بار بالبلقان: \"والدي كان يبكي آخر يوم في رمضان\"",
-          "link": "https://www.youtube.com/watch?v=SjJuhPKsRYY",
-          "videoId": "SjJuhPKsRYY",
-          "pubDate": "2026-03-18T20:00:02+00:00"
         }
       ],
       "ok": true
