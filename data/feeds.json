@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-19T12:33:01.392902+00:00",
+  "updated": "2026-03-19T14:00:22.541197+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -397,6 +397,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "العائلة في القدس.. والأم محبوسة في البيت",
+          "link": "https://www.youtube.com/watch?v=FVnR9uskVTc",
+          "videoId": "FVnR9uskVTc",
+          "pubDate": "2026-03-19T13:30:01+00:00"
+        },
+        {
           "title": "أفعى عين القطة العربية تنقض على إحدى فرائسها",
           "link": "https://www.youtube.com/watch?v=GwUWETWtM8A",
           "videoId": "GwUWETWtM8A",
@@ -407,12 +413,6 @@
           "link": "https://www.youtube.com/watch?v=T3Nrsgi4UGc",
           "videoId": "T3Nrsgi4UGc",
           "pubDate": "2026-03-19T11:00:01+00:00"
-        },
-        {
-          "title": "تسجيل نادر لأم كلثوم ترتل سورة إبراهيم حصل عليه الشيخ عبد الحميد احساين",
-          "link": "https://www.youtube.com/watch?v=WTy6vtPh44w",
-          "videoId": "WTy6vtPh44w",
-          "pubDate": "2026-03-18T20:59:01+00:00"
         }
       ],
       "ok": true
