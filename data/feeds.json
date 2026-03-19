@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-19T16:43:17.568031+00:00",
+  "updated": "2026-03-19T17:45:30.776744+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -397,6 +397,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "في الموصل هكذا يودعون رمضان ويستقبلون العيد",
+          "link": "https://www.youtube.com/watch?v=YE5CDw69mY4",
+          "videoId": "YE5CDw69mY4",
+          "pubDate": "2026-03-19T17:00:02+00:00"
+        },
+        {
           "title": "الجزيرة الوثائقية تُهنئكم بحلول عيد الفطر المبارك. #وراء_كل_صورة_حكاية #عيد_الفطر",
           "link": "https://www.youtube.com/watch?v=iW2vgvXrT-g",
           "videoId": "iW2vgvXrT-g",
@@ -407,12 +413,6 @@
           "link": "https://www.youtube.com/watch?v=8syhmSkXxrA",
           "videoId": "8syhmSkXxrA",
           "pubDate": "2026-03-19T16:00:00+00:00"
-        },
-        {
-          "title": "العائلة في القدس.. والأم محبوسة في البيت",
-          "link": "https://www.youtube.com/watch?v=FVnR9uskVTc",
-          "videoId": "FVnR9uskVTc",
-          "pubDate": "2026-03-19T13:30:01+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "وثائقي | اليابان: مياه سامة من فوكوشيما | وثائقية دي دبليو",
+          "link": "https://www.youtube.com/watch?v=4ukRka_HMok",
+          "videoId": "4ukRka_HMok",
+          "pubDate": "2026-03-19T17:00:07+00:00"
+        },
+        {
           "title": "مدن فوق المحيط",
           "link": "https://www.youtube.com/watch?v=EwUmJMp9LY4",
           "videoId": "EwUmJMp9LY4",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=uYngUCVh4kU",
           "videoId": "uYngUCVh4kU",
           "pubDate": "2026-03-16T17:01:22+00:00"
-        },
-        {
-          "title": "وثائقي | الضحايا المجهولون لمنظمة الجيش الأحمر في ألمانيا | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=fKeG50q0sd0",
-          "videoId": "fKeG50q0sd0",
-          "pubDate": "2026-03-15T17:01:01+00:00"
         }
       ],
       "ok": true
