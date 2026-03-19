@@ -19,4 +19,4 @@ jobs:
           git pull --rebase origin main
           git add data/feeds.json
           git diff --staged --quiet || git commit -m "update feeds"
-          git push
+          git push --force
