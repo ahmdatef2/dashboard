@@ -24,6 +24,9 @@ CHANNELS = [
   {"id": "UCSNkfKl4cU-55Nm-ovsvOHQ", "h": "elzerowebschool",              "n": "Elzero Web School"},
   {"id": "UCGrVvqu8PlVv0wPqA5kgY8A", "h": "ArabicArtificialIntelligence", "n": "الذكاء الاصطناعي العربي"},
   {"id": "UCSXcmF4Gxl6Hc-m6cHYD_Vg", "h": "MohamedAnsary",               "n": "محمد أنصاري"},
+  {"id": "UCDqp23rTdCo_tXsuHLYF47Q", "h": "ArabianAiSchool",              "n": "Arabian AI School"},
+  {"id": "UCz0N3nKrJiDhNdKQvM6r93w", "h": "ryan.academy",                 "n": "Ryan Academy"},
+  {"id": "UCXVSIaWCZBxqZ5eCxwIqRGw", "h": "TechnoFlashAITech",            "n": "TechnoFlash AI"},
   # عالم الكتب
   {"id": "UC16aC4Jti6tYAi0LuXmu-9w", "h": "KhairJaleesBook",              "n": "خير جليس"},
   {"id": "UCu1NJiJlhrhmF5ZgT-0yWdA", "h": "Jeelyaqraa",                   "n": "جيل يقرأ"},
