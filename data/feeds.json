@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-19T05:48:31.603386+00:00",
+  "updated": "2026-03-19T06:41:27.885969+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -32,28 +32,9 @@
     "UC81Ks7DR9JFgZc14nmZ07EA": {
       "handle": "AMRSALEM800",
       "name": "عمرو سالم",
-      "feedTitle": "AMR SALEM _ عمرو سالم",
-      "items": [
-        {
-          "title": "ازاي تعمل تطبيق تدريب على الكتابة السريعة بالذكاء الاصطناعي (بدون كود!) 🔥",
-          "link": "https://www.youtube.com/watch?v=U7im7_ewwwI",
-          "videoId": "U7im7_ewwwI",
-          "pubDate": "2026-03-17T12:00:54+00:00"
-        },
-        {
-          "title": "40 حركة كاميرا سينمائية بالذكاء الاصطناعي | شرح Camera Movements باستخدام Grok AI",
-          "link": "https://www.youtube.com/watch?v=np2_ARwL4E4",
-          "videoId": "np2_ARwL4E4",
-          "pubDate": "2026-03-17T00:09:57+00:00"
-        },
-        {
-          "title": "بنيت برنامج يخفي الملفات السرية على الكمبيوتر باستخدام Antigravity وPython",
-          "link": "https://www.youtube.com/watch?v=BQTgtarvEOE",
-          "videoId": "BQTgtarvEOE",
-          "pubDate": "2026-03-14T12:00:19+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "عمرو سالم",
+      "items": [],
+      "ok": false
     },
     "UC9ocsRoOwj9tkAQNfUt8ZJg": {
       "handle": "PythonArab",
@@ -66,53 +47,15 @@
       "handle": "elzerowebschool",
       "name": "Elzero Web School",
       "feedTitle": "Elzero Web School",
-      "items": [
-        {
-          "title": "مبادرة هتطورك في البرمجة وتاخد ثواب وفرصة لرحلة عمرة",
-          "link": "https://www.youtube.com/watch?v=1n4AJdviibs",
-          "videoId": "1n4AJdviibs",
-          "pubDate": "2026-03-03T19:47:57+00:00"
-        },
-        {
-          "title": "توظيف البشر لصالح الذكاء الاصطناعي",
-          "link": "https://www.youtube.com/watch?v=4XBhqzlYJGY",
-          "videoId": "4XBhqzlYJGY",
-          "pubDate": "2026-02-16T10:47:19+00:00"
-        },
-        {
-          "title": "هل الذكاء الاصطناعي هيخلي السوق اصعب ؟",
-          "link": "https://www.youtube.com/watch?v=c-MANp0eKq4",
-          "videoId": "c-MANp0eKq4",
-          "pubDate": "2026-02-15T17:20:33+00:00"
-        }
-      ],
-      "ok": true
+      "items": [],
+      "ok": false
     },
     "UCGrVvqu8PlVv0wPqA5kgY8A": {
       "handle": "ArabicArtificialIntelligence",
       "name": "الذكاء الاصطناعي العربي",
-      "feedTitle": "ذكاء اصطناعي عربي",
-      "items": [
-        {
-          "title": "What is Model Context Protocol? | شرح بروتوكول سياق النموذج",
-          "link": "https://www.youtube.com/watch?v=Ln2mIYWEpIc",
-          "videoId": "Ln2mIYWEpIc",
-          "pubDate": "2026-03-18T11:00:39+00:00"
-        },
-        {
-          "title": "What is Context Window? | شرح نافذة السياق",
-          "link": "https://www.youtube.com/watch?v=oXr9oEGACLI",
-          "videoId": "oXr9oEGACLI",
-          "pubDate": "2026-03-17T11:01:22+00:00"
-        },
-        {
-          "title": "What is Token? | شرح الوحدة الرمزية / التوكن",
-          "link": "https://www.youtube.com/watch?v=G97nlN86FP8",
-          "videoId": "G97nlN86FP8",
-          "pubDate": "2026-03-16T11:00:34+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "الذكاء الاصطناعي العربي",
+      "items": [],
+      "ok": false
     },
     "UCSXcmF4Gxl6Hc-m6cHYD_Vg": {
       "handle": "MohamedAnsary",
@@ -131,54 +74,16 @@
     "UCu1NJiJlhrhmF5ZgT-0yWdA": {
       "handle": "Jeelyaqraa",
       "name": "جيل يقرأ",
-      "feedTitle": "ReadTube - جيل يقرأ",
-      "items": [
-        {
-          "title": "الذين ضحكوا حتى البكاء -ملخص لكتاب د. مصطفى محمود",
-          "link": "https://www.youtube.com/watch?v=bSbrMABmf4E",
-          "videoId": "bSbrMABmf4E",
-          "pubDate": "2026-03-03T20:46:03+00:00"
-        },
-        {
-          "title": "المسيري يتنبأ بالمستقبل",
-          "link": "https://www.youtube.com/watch?v=N2hD24PnJQ4",
-          "videoId": "N2hD24PnJQ4",
-          "pubDate": "2026-03-01T20:56:54+00:00"
-        },
-        {
-          "title": "المسيري يفضح الفكر الابستيني - كتاب :الفلسفة المادية وتفكيك الإنسان",
-          "link": "https://www.youtube.com/watch?v=A9FEkTJhvfU",
-          "videoId": "A9FEkTJhvfU",
-          "pubDate": "2026-02-22T19:01:53+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "جيل يقرأ",
+      "items": [],
+      "ok": false
     },
     "UCtUor2SqesPS3b_SMFtLT_w": {
       "handle": "a5drcom",
       "name": "أخضر",
       "feedTitle": "أخضر",
-      "items": [
-        {
-          "title": "هل لازم تكون سعيد طول الوقت؟!",
-          "link": "https://www.youtube.com/watch?v=A0NbmFysecY",
-          "videoId": "A0NbmFysecY",
-          "pubDate": "2026-03-17T11:43:16+00:00"
-        },
-        {
-          "title": "ازاي تغير حياتك؟🤩 كتاب: على بصيرة.. مسودة أولية لاستعادة النفس البشرية #أخضر",
-          "link": "https://www.youtube.com/watch?v=0jIZo347l-s",
-          "videoId": "0jIZo347l-s",
-          "pubDate": "2026-03-14T16:45:01+00:00"
-        },
-        {
-          "title": "أسرار العداء بين أمريكا وإيران🕵️‍♂️⚔️ | على الماشي #أخضر",
-          "link": "https://www.youtube.com/watch?v=4Yc5iJ5NlR4",
-          "videoId": "4Yc5iJ5NlR4",
-          "pubDate": "2026-03-09T19:00:09+00:00"
-        }
-      ],
-      "ok": true
+      "items": [],
+      "ok": false
     },
     "UCUjRjJ1-h3oUx40gf2tuh3w": {
       "handle": "Sha5bata",
@@ -216,28 +121,9 @@
     "UCJlu6BjPWHZhzuCc0zVME0Q": {
       "handle": "Dupamicaffeine",
       "name": "دوباميكافيين",
-      "feedTitle": "دوباميكافين Dupamicaffeine",
-      "items": [
-        {
-          "title": "قوّة الشكر والامتنان",
-          "link": "https://www.youtube.com/watch?v=Q8h4kOkGpwc",
-          "videoId": "Q8h4kOkGpwc",
-          "pubDate": "2026-03-18T19:00:25+00:00"
-        },
-        {
-          "title": "الكلمة الطيبة",
-          "link": "https://www.youtube.com/watch?v=Zh-Klchn_QQ",
-          "videoId": "Zh-Klchn_QQ",
-          "pubDate": "2026-03-16T19:00:39+00:00"
-        },
-        {
-          "title": "تعلم كيف تعبر عن حبك الحقيقي بغير الغزل - لغات الحب الخمس - الجزء الثاني",
-          "link": "https://www.youtube.com/watch?v=L6rE-GRYzr8",
-          "videoId": "L6rE-GRYzr8",
-          "pubDate": "2026-03-15T19:00:26+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "دوباميكافيين",
+      "items": [],
+      "ok": false
     },
     "UC0LSnqrwqtMwl2YwfUpO66g": {
       "handle": "aljazeeradocumentary",
@@ -263,28 +149,9 @@
     "UCET6sWl4Xcu-U8Ka9PJPrwA": {
       "handle": "dwdocarabia",
       "name": "DW عربية وثائقي",
-      "feedTitle": "DW Documentary وثائقية دي دبليو",
-      "items": [
-        {
-          "title": "مدن فوق المحيط",
-          "link": "https://www.youtube.com/watch?v=EwUmJMp9LY4",
-          "videoId": "EwUmJMp9LY4",
-          "pubDate": "2026-03-18T13:29:04+00:00"
-        },
-        {
-          "title": "ريبورتاج | التبرع بالحيوانات المنوية في أوروبا | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=uYngUCVh4kU",
-          "videoId": "uYngUCVh4kU",
-          "pubDate": "2026-03-16T17:01:22+00:00"
-        },
-        {
-          "title": "وثائقي | الضحايا المجهولون لمنظمة الجيش الأحمر في ألمانيا | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=fKeG50q0sd0",
-          "videoId": "fKeG50q0sd0",
-          "pubDate": "2026-03-15T17:01:01+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "DW عربية وثائقي",
+      "items": [],
+      "ok": false
     }
   }
 }
