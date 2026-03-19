@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-19T19:38:27.990184+00:00",
+  "updated": "2026-03-19T20:24:01.795843+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -397,6 +397,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "في إينوفيك بالقطب الشمالي.. مسلمون يتحدون العواصف لأداء صلاة العيد",
+          "link": "https://www.youtube.com/watch?v=fU-TyqFzg0U",
+          "videoId": "fU-TyqFzg0U",
+          "pubDate": "2026-03-19T20:00:01+00:00"
+        },
+        {
           "title": "هلال العيد.. لماذا لا تتحد في رؤيته الدول الإسلامية؟",
           "link": "https://www.youtube.com/watch?v=G7vJZG8wVh0",
           "videoId": "G7vJZG8wVh0",
@@ -407,12 +413,6 @@
           "link": "https://www.youtube.com/watch?v=-g8sbq8i8wI",
           "videoId": "-g8sbq8i8wI",
           "pubDate": "2026-03-19T18:00:01+00:00"
-        },
-        {
-          "title": "في الموصل هكذا يودعون رمضان ويستقبلون العيد",
-          "link": "https://www.youtube.com/watch?v=YE5CDw69mY4",
-          "videoId": "YE5CDw69mY4",
-          "pubDate": "2026-03-19T17:00:02+00:00"
         }
       ],
       "ok": true
@@ -450,6 +450,12 @@
       "items": [
         {
           "title": "ابتداءً 20 مارس | كريتر فيكسرز: أطباء في الريف | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=xJibX6g7h9A",
+          "videoId": "xJibX6g7h9A",
+          "pubDate": "2026-03-19T20:01:00+00:00"
+        },
+        {
+          "title": "ابتداءً 20 مارس | كريتر فيكسرز: أطباء في الريف | ناشونال جيوغرافيك أبوظبي",
           "link": "https://www.youtube.com/watch?v=N-uQnmGtO5Y",
           "videoId": "N-uQnmGtO5Y",
           "pubDate": "2026-03-19T19:32:34+00:00"
@@ -459,12 +465,6 @@
           "link": "https://www.youtube.com/watch?v=XP97azbDM6s",
           "videoId": "XP97azbDM6s",
           "pubDate": "2026-03-19T19:29:32+00:00"
-        },
-        {
-          "title": "ابتداءً 19 مارس | كنوز مصر المفقودة | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=ZhVNgz8wlpE",
-          "videoId": "ZhVNgz8wlpE",
-          "pubDate": "2026-03-19T19:29:28+00:00"
         }
       ],
       "ok": true
