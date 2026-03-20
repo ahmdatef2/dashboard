@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-20T15:31:39.693554+00:00",
+  "updated": "2026-03-20T16:28:13.661827+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -371,6 +371,12 @@
       "feedTitle": "أخضر",
       "items": [
         {
+          "title": "اعادة برمجة جهازك العصبي 🤖 #أخضر",
+          "link": "https://www.youtube.com/watch?v=BeTPC2ecsBI",
+          "videoId": "BeTPC2ecsBI",
+          "pubDate": "2026-03-20T16:00:15+00:00"
+        },
+        {
           "title": "هل لازم تكون سعيد طول الوقت؟!",
           "link": "https://www.youtube.com/watch?v=A0NbmFysecY",
           "videoId": "A0NbmFysecY",
@@ -381,12 +387,6 @@
           "link": "https://www.youtube.com/watch?v=0jIZo347l-s",
           "videoId": "0jIZo347l-s",
           "pubDate": "2026-03-14T16:45:01+00:00"
-        },
-        {
-          "title": "أسرار العداء بين أمريكا وإيران🕵️‍♂️⚔️ | على الماشي #أخضر",
-          "link": "https://www.youtube.com/watch?v=4Yc5iJ5NlR4",
-          "videoId": "4Yc5iJ5NlR4",
-          "pubDate": "2026-03-09T19:00:09+00:00"
         }
       ],
       "ok": true
