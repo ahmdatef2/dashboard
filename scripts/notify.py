@@ -6,8 +6,8 @@ notify.py
 
 import json
 import os
+import time
 import urllib.request
-import urllib.parse
 from datetime import datetime, timezone
 
 # ── المفاتيح من GitHub Secrets ──
@@ -34,9 +34,10 @@ def save_json(path, data):
 def get_transcript(video_id):
     try:
         from youtube_transcript_api import YouTubeTranscriptApi
-        transcript = YouTubeTranscriptApi.get_transcript(video_id, languages=["ar", "en"])
-        text = " ".join([t["text"] for t in transcript])
-        return text[:8000]  # حد آمن لـ Gemini
+        ytt = YouTubeTranscriptApi()
+        fetched = ytt.fetch(video_id, languages=["ar", "en"])
+        text = " ".join([t.text for t in fetched])
+        return text[:8000]
     except Exception as e:
         print(f"  ⚠️ لا يوجد transcript: {e}")
         return None
@@ -66,14 +67,17 @@ def summarize_with_gemini(title, transcript):
         "contents": [{"parts": [{"text": prompt}]}]
     }).encode("utf-8")
 
-    try:
-        req = urllib.request.Request(url, data=body, headers={"Content-Type": "application/json"})
-        with urllib.request.urlopen(req, timeout=30) as r:
-            result = json.loads(r.read().decode("utf-8"))
-            return result["candidates"][0]["content"]["parts"][0]["text"]
-    except Exception as e:
-        print(f"  ⚠️ خطأ في Gemini: {e}")
-        return "⚠️ تعذّر إنشاء الملخص."
+    for attempt in range(3):
+        try:
+            req = urllib.request.Request(url, data=body, headers={"Content-Type": "application/json"})
+            with urllib.request.urlopen(req, timeout=30) as r:
+                result = json.loads(r.read().decode("utf-8"))
+                return result["candidates"][0]["content"]["parts"][0]["text"]
+        except Exception as e:
+            print(f"  ⚠️ خطأ في Gemini (محاولة {attempt+1}): {e}")
+            if attempt < 2:
+                time.sleep(10)
+    return "⚠️ تعذّر إنشاء الملخص."
 
 # ── إرسال رسالة تيليجرام ──
 def send_telegram(message):
@@ -124,12 +128,15 @@ def main():
             # جلب الـ transcript
             transcript = get_transcript(video_id)
 
+            # انتظار بين الطلبات لتجنب 429
+            time.sleep(5)
+
             # تلخيص Gemini
             print("  🤖 جاري التلخيص...")
             summary = summarize_with_gemini(title, transcript)
 
             # بناء الرسالة
-            has_transcript = "✅ ملخص الفيديو" if transcript else "💡 توقع المحتوى (لا يوجد نص)"
+            has_transcript = "✅ ملخص الفيديو" if transcript else "💡 توقع المحتوى"
             message = (
                 f"📺 <b>{ch_name}</b>\n"
                 f"🎬 <b>{title}</b>\n\n"
