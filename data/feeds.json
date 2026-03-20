@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-20T19:29:15.539710+00:00",
+  "updated": "2026-03-20T20:18:12.957939+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "عناق عيد مؤجل منذ 9 سنوات",
+          "link": "https://www.youtube.com/watch?v=IFL9vz23ZkQ",
+          "videoId": "IFL9vz23ZkQ",
+          "pubDate": "2026-03-20T20:00:01+00:00"
+        },
+        {
+          "title": "أسرار في قلب الأدغال.. حكايات من عالم خفي (الحلقة الأولى)",
+          "link": "https://www.youtube.com/watch?v=CEiJ6ziptDM",
+          "videoId": "CEiJ6ziptDM",
+          "pubDate": "2026-03-20T19:30:02+00:00"
+        },
+        {
           "title": "عيد الفطر في البلقان.. احتفالات وابتهالات مميزة",
           "link": "https://www.youtube.com/watch?v=WgrHKb9snMs",
           "videoId": "WgrHKb9snMs",
           "pubDate": "2026-03-20T18:00:01+00:00"
-        },
-        {
-          "title": "التزين بالحناء.. عادة المرأة الصومالية في العيد",
-          "link": "https://www.youtube.com/watch?v=EomAsq3j63U",
-          "videoId": "EomAsq3j63U",
-          "pubDate": "2026-03-20T13:30:01+00:00"
-        },
-        {
-          "title": "جموع غفيرة بلباس أبيض.. طقوس استقبال العيد في وادي مزاب بالجزائر",
-          "link": "https://www.youtube.com/watch?v=iD9R7cuknR8",
-          "videoId": "iD9R7cuknR8",
-          "pubDate": "2026-03-20T12:30:01+00:00"
         }
       ],
       "ok": true
@@ -527,6 +527,12 @@
       "feedTitle": "Nat Geo Abu Dhabi",
       "items": [
         {
+          "title": "أسرار توت عنخ آمون | كنوز مصر المفقودة | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=Oo7-eiD1kdU",
+          "videoId": "Oo7-eiD1kdU",
+          "pubDate": "2026-03-20T19:33:40+00:00"
+        },
+        {
           "title": "ابتداءً 20 مارس | كريتر فيكسرز: أطباء في الريف | ناشونال جيوغرافيك أبوظبي",
           "link": "https://www.youtube.com/watch?v=xJibX6g7h9A",
           "videoId": "xJibX6g7h9A",
@@ -537,12 +543,6 @@
           "link": "https://www.youtube.com/watch?v=N-uQnmGtO5Y",
           "videoId": "N-uQnmGtO5Y",
           "pubDate": "2026-03-19T19:32:34+00:00"
-        },
-        {
-          "title": "ابتداءً 19 مارس | كنوز مصر المفقودة | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=XP97azbDM6s",
-          "videoId": "XP97azbDM6s",
-          "pubDate": "2026-03-19T19:29:32+00:00"
         }
       ],
       "ok": true
