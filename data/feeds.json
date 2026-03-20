@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-20T20:18:12.957939+00:00",
+  "updated": "2026-03-20T21:18:47.332868+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -33,6 +33,12 @@
       "feedTitle": "كل يوم موقع جديد",
       "items": [
         {
+          "title": "أفضل 3 مواقع بديلة لـ Grok مع باقات مجانية قوية",
+          "link": "https://www.youtube.com/watch?v=t7Sxu3kMyOQ",
+          "videoId": "t7Sxu3kMyOQ",
+          "pubDate": "2026-03-20T21:14:44+00:00"
+        },
+        {
           "title": "نموذج صور من Z AI  يدعم النصوص والإنفوجرافيك ! هل يتفوق على جوجل؟",
           "link": "https://www.youtube.com/watch?v=rRm-L17wMCk",
           "videoId": "rRm-L17wMCk",
@@ -43,12 +49,6 @@
           "link": "https://www.youtube.com/watch?v=gu2elwf4F48",
           "videoId": "gu2elwf4F48",
           "pubDate": "2026-03-18T18:31:49+00:00"
-        },
-        {
-          "title": "NotebookLM أقوى مما تتخيل: 5 خصائص خفية لازم تعرفها",
-          "link": "https://www.youtube.com/watch?v=3JuyaRNM0XI",
-          "videoId": "3JuyaRNM0XI",
-          "pubDate": "2026-03-16T22:23:19+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "هل المال يشتري السعادة؟",
+          "link": "https://www.youtube.com/watch?v=7JxQbj1t-hs",
+          "videoId": "7JxQbj1t-hs",
+          "pubDate": "2026-03-20T21:00:02+00:00"
+        },
+        {
           "title": "عناق عيد مؤجل منذ 9 سنوات",
           "link": "https://www.youtube.com/watch?v=IFL9vz23ZkQ",
           "videoId": "IFL9vz23ZkQ",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=CEiJ6ziptDM",
           "videoId": "CEiJ6ziptDM",
           "pubDate": "2026-03-20T19:30:02+00:00"
-        },
-        {
-          "title": "عيد الفطر في البلقان.. احتفالات وابتهالات مميزة",
-          "link": "https://www.youtube.com/watch?v=WgrHKb9snMs",
-          "videoId": "WgrHKb9snMs",
-          "pubDate": "2026-03-20T18:00:01+00:00"
         }
       ],
       "ok": true
