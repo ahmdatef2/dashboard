@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-20T09:28:23.470809+00:00",
+  "updated": "2026-03-20T10:25:55.728760+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "قبل مظاهر العيد.. تفصيلة أبسط تسبق كل شيء",
+          "link": "https://www.youtube.com/watch?v=W-ininBZxV0",
+          "videoId": "W-ininBZxV0",
+          "pubDate": "2026-03-20T09:30:00+00:00"
+        },
+        {
           "title": "كيف يُعلن العيد بلا كهرباء ولا تلفاز ولا هاتف؟",
           "link": "https://www.youtube.com/watch?v=dlekpKKHHFQ",
           "videoId": "dlekpKKHHFQ",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=MmtyNWEsA6I",
           "videoId": "MmtyNWEsA6I",
           "pubDate": "2026-03-19T20:59:01+00:00"
-        },
-        {
-          "title": "في إينوفيك بالقطب الشمالي.. مسلمون يتحدون العواصف لأداء صلاة العيد",
-          "link": "https://www.youtube.com/watch?v=fU-TyqFzg0U",
-          "videoId": "fU-TyqFzg0U",
-          "pubDate": "2026-03-19T20:00:01+00:00"
         }
       ],
       "ok": true
