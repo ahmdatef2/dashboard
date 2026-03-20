@@ -21,9 +21,6 @@ jobs:
       - name: Pull latest data
         run: git pull origin main
 
-      - name: Install dependencies
-        run: pip install youtube-transcript-api
-
       - name: Run notify script
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
