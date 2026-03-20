@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-20T17:27:25.315823+00:00",
+  "updated": "2026-03-20T18:29:58.361293+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "عيد الفطر في البلقان.. احتفالات وابتهالات مميزة",
+          "link": "https://www.youtube.com/watch?v=WgrHKb9snMs",
+          "videoId": "WgrHKb9snMs",
+          "pubDate": "2026-03-20T18:00:01+00:00"
+        },
+        {
           "title": "التزين بالحناء.. عادة المرأة الصومالية في العيد",
           "link": "https://www.youtube.com/watch?v=EomAsq3j63U",
           "videoId": "EomAsq3j63U",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=iD9R7cuknR8",
           "videoId": "iD9R7cuknR8",
           "pubDate": "2026-03-20T12:30:01+00:00"
-        },
-        {
-          "title": "قبل مظاهر العيد.. تفصيلة أبسط تسبق كل شيء",
-          "link": "https://www.youtube.com/watch?v=W-ininBZxV0",
-          "videoId": "W-ininBZxV0",
-          "pubDate": "2026-03-20T09:30:00+00:00"
         }
       ],
       "ok": true
