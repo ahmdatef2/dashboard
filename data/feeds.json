@@ -1,19 +1,57 @@
 {
-  "updated": "2026-03-20T03:29:36.343928+00:00",
+  "updated": "2026-03-20T03:37:51.148263+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
       "name": "د. هبة أحمد",
-      "feedTitle": "د. هبة أحمد",
-      "items": [],
-      "ok": false
+      "feedTitle": "Heba Ahmed - هبة احمد",
+      "items": [
+        {
+          "title": "ازاي تفعل عرض 300 دولار مجانًا 🔥 واستخدم Nano Banana Pro و Veo 3.1 براحتك",
+          "link": "https://www.youtube.com/watch?v=LJk1Q6R4lgM",
+          "videoId": "LJk1Q6R4lgM",
+          "pubDate": "2026-03-17T19:55:11+00:00"
+        },
+        {
+          "title": "أسرار Google AI Studio: الفرق بينه وبين Gemini App",
+          "link": "https://www.youtube.com/watch?v=f_buNpmquws",
+          "videoId": "f_buNpmquws",
+          "pubDate": "2026-03-14T20:14:40+00:00"
+        },
+        {
+          "title": "خناقة الذكاء الاصطناعي مع البنتاجون… القصة اللي محدش حكاها",
+          "link": "https://www.youtube.com/watch?v=x-xXSuL3k70",
+          "videoId": "x-xXSuL3k70",
+          "pubDate": "2026-03-08T19:00:40+00:00"
+        }
+      ],
+      "ok": true
     },
     "UC2jjW7c63dqOPkfMm3P-u3w": {
       "handle": "every_day_a_new_website",
       "name": "موقع كل يوم",
-      "feedTitle": "موقع كل يوم",
-      "items": [],
-      "ok": false
+      "feedTitle": "كل يوم موقع جديد",
+      "items": [
+        {
+          "title": "نموذج صور من Z AI  يدعم النصوص والإنفوجرافيك ! هل يتفوق على جوجل؟",
+          "link": "https://www.youtube.com/watch?v=rRm-L17wMCk",
+          "videoId": "rRm-L17wMCk",
+          "pubDate": "2026-03-20T01:35:12+00:00"
+        },
+        {
+          "title": "أداة جديدة مجانية في Claude تصنع لك محتوى بصري تفاعلي فورًا",
+          "link": "https://www.youtube.com/watch?v=gu2elwf4F48",
+          "videoId": "gu2elwf4F48",
+          "pubDate": "2026-03-18T18:31:49+00:00"
+        },
+        {
+          "title": "NotebookLM أقوى مما تتخيل: 5 خصائص خفية لازم تعرفها",
+          "link": "https://www.youtube.com/watch?v=3JuyaRNM0XI",
+          "videoId": "3JuyaRNM0XI",
+          "pubDate": "2026-03-16T22:23:19+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCKD8vOz3maRPyLAbMXhr-Pw": {
       "handle": "infotech4you_Marwasoliman",
@@ -39,61 +77,42 @@
     "UC9ocsRoOwj9tkAQNfUt8ZJg": {
       "handle": "PythonArab",
       "name": "بايثون عربي",
-      "feedTitle": "Python Arabic Community",
-      "items": [
-        {
-          "title": "الذكاء الاصطناعي 🚀 | 83 | الكذبة الكبرى لشركات الذكاء الاصطناعي.. وسقوط أقوى تشفير",
-          "link": "https://www.youtube.com/watch?v=aBM1Y6M3YRE",
-          "videoId": "aBM1Y6M3YRE",
-          "pubDate": "2026-03-10T21:18:47+00:00"
-        },
-        {
-          "title": "مبادرة رمضان الأثر - مجتمع إتقان (جوائز لا تقدر بثمن تنتظركم🎁)",
-          "link": "https://www.youtube.com/watch?v=TKET-IN0dLo",
-          "videoId": "TKET-IN0dLo",
-          "pubDate": "2026-03-05T21:44:12+00:00"
-        },
-        {
-          "title": "بناء تطبيق لتحويل الصور إلى نصوص (OCR) في أقل من 15 دقيقة مع Mistral OCR ! يدعم العربي",
-          "link": "https://www.youtube.com/watch?v=xaCM3rwr_84",
-          "videoId": "xaCM3rwr_84",
-          "pubDate": "2026-03-02T17:50:01+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "بايثون عربي",
+      "items": [],
+      "ok": false
     },
     "UCSNkfKl4cU-55Nm-ovsvOHQ": {
       "handle": "elzerowebschool",
       "name": "Elzero Web School",
       "feedTitle": "Elzero Web School",
-      "items": [],
-      "ok": false
+      "items": [
+        {
+          "title": "مبادرة هتطورك في البرمجة وتاخد ثواب وفرصة لرحلة عمرة",
+          "link": "https://www.youtube.com/watch?v=1n4AJdviibs",
+          "videoId": "1n4AJdviibs",
+          "pubDate": "2026-03-03T19:47:57+00:00"
+        },
+        {
+          "title": "توظيف البشر لصالح الذكاء الاصطناعي",
+          "link": "https://www.youtube.com/watch?v=4XBhqzlYJGY",
+          "videoId": "4XBhqzlYJGY",
+          "pubDate": "2026-02-16T10:47:19+00:00"
+        },
+        {
+          "title": "هل الذكاء الاصطناعي هيخلي السوق اصعب ؟",
+          "link": "https://www.youtube.com/watch?v=c-MANp0eKq4",
+          "videoId": "c-MANp0eKq4",
+          "pubDate": "2026-02-15T17:20:33+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCGrVvqu8PlVv0wPqA5kgY8A": {
       "handle": "ArabicArtificialIntelligence",
       "name": "الذكاء الاصطناعي العربي",
-      "feedTitle": "ذكاء اصطناعي عربي",
-      "items": [
-        {
-          "title": "What is Quantization? | شرح التكميم / تقليص الحجم",
-          "link": "https://www.youtube.com/watch?v=sBEr9GjMQpw",
-          "videoId": "sBEr9GjMQpw",
-          "pubDate": "2026-03-19T11:01:29+00:00"
-        },
-        {
-          "title": "What is Model Context Protocol? | شرح بروتوكول سياق النموذج",
-          "link": "https://www.youtube.com/watch?v=Ln2mIYWEpIc",
-          "videoId": "Ln2mIYWEpIc",
-          "pubDate": "2026-03-18T11:00:39+00:00"
-        },
-        {
-          "title": "What is Context Window? | شرح نافذة السياق",
-          "link": "https://www.youtube.com/watch?v=oXr9oEGACLI",
-          "videoId": "oXr9oEGACLI",
-          "pubDate": "2026-03-17T11:01:22+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "الذكاء الاصطناعي العربي",
+      "items": [],
+      "ok": false
     },
     "UCSXcmF4Gxl6Hc-m6cHYD_Vg": {
       "handle": "MohamedAnsary",
@@ -105,35 +124,35 @@
     "UCDqp23rTdCo_tXsuHLYF47Q": {
       "handle": "ArabianAiSchool",
       "name": "Arabian AI School",
-      "feedTitle": "مدرسة الذكاء الاصطناعي",
-      "items": [
-        {
-          "title": "اعمل مساعد ذكاء اصطناعي تكلمه من موبايلك ويعملك كل حاجة",
-          "link": "https://www.youtube.com/watch?v=W9whm_hl0-0",
-          "videoId": "W9whm_hl0-0",
-          "pubDate": "2026-03-17T20:03:27+00:00"
-        },
-        {
-          "title": "قارنت Claude Cowork وبديله المجاني والنتيجة ...",
-          "link": "https://www.youtube.com/watch?v=rkkSJlP014w",
-          "videoId": "rkkSJlP014w",
-          "pubDate": "2026-03-09T22:20:19+00:00"
-        },
-        {
-          "title": "لغيت اشتراكي وعملت نفس الأداة مجانًا بالذكاء الاصطناعي",
-          "link": "https://www.youtube.com/watch?v=9au3hNjod_A",
-          "videoId": "9au3hNjod_A",
-          "pubDate": "2026-03-02T19:29:51+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "Arabian AI School",
+      "items": [],
+      "ok": false
     },
     "UCz0N3nKrJiDhNdKQvM6r93w": {
       "handle": "ryan.academy",
       "name": "Ryan Academy",
-      "feedTitle": "Ryan Academy",
-      "items": [],
-      "ok": false
+      "feedTitle": "أكاديمية ريان | Ryan Academy",
+      "items": [
+        {
+          "title": "أداة بتعمل فيديوهات ريلز قرآن كريم تلقائياً بدون حدود مجاناً (أفضل أداة مجانية)",
+          "link": "https://www.youtube.com/watch?v=0OMuBQ0l9Ek",
+          "videoId": "0OMuBQ0l9Ek",
+          "pubDate": "2026-03-17T20:00:01+00:00"
+        },
+        {
+          "title": "إصلاح الملفات والفيديوهات والصور التالفة في دقائق — شرح 4DDiG File Repair",
+          "link": "https://www.youtube.com/watch?v=4nE95ZseR60",
+          "videoId": "4nE95ZseR60",
+          "pubDate": "2026-03-15T19:30:01+00:00"
+        },
+        {
+          "title": "وفرت 300$ وبنيت Resume Builder SaaS بالذكاء الاصطناعي (تجربتي كاملة)",
+          "link": "https://www.youtube.com/watch?v=UB8xMjD312g",
+          "videoId": "UB8xMjD312g",
+          "pubDate": "2026-03-13T20:00:32+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCXVSIaWCZBxqZ5eCxwIqRGw": {
       "handle": "TechnoFlashAITech",
@@ -146,8 +165,27 @@
       "handle": "KhairJaleesBook",
       "name": "خير جليس",
       "feedTitle": "خير جليس",
-      "items": [],
-      "ok": false
+      "items": [
+        {
+          "title": "التعليم وحده لا يصنع الثروة - من  كتاب الأب الغني الأب الفقير",
+          "link": "https://www.youtube.com/watch?v=82LxBfeWMiM",
+          "videoId": "82LxBfeWMiM",
+          "pubDate": "2026-03-19T09:30:24+00:00"
+        },
+        {
+          "title": "السلام يصبح الحالة الطبيعية مع الممارسة - من كتاب السماح بالرحيل",
+          "link": "https://www.youtube.com/watch?v=GtCuL3erIKo",
+          "videoId": "GtCuL3erIKo",
+          "pubDate": "2026-03-17T13:00:27+00:00"
+        },
+        {
+          "title": "السماح بالرحيل يحدث لحظة بلحظة - من كتاب السماح بالرحيل",
+          "link": "https://www.youtube.com/watch?v=QkLZIx_xHOQ",
+          "videoId": "QkLZIx_xHOQ",
+          "pubDate": "2026-03-17T06:00:16+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCu1NJiJlhrhmF5ZgT-0yWdA": {
       "handle": "Jeelyaqraa",
@@ -160,8 +198,27 @@
       "handle": "a5drcom",
       "name": "أخضر",
       "feedTitle": "أخضر",
-      "items": [],
-      "ok": false
+      "items": [
+        {
+          "title": "هل لازم تكون سعيد طول الوقت؟!",
+          "link": "https://www.youtube.com/watch?v=A0NbmFysecY",
+          "videoId": "A0NbmFysecY",
+          "pubDate": "2026-03-17T11:43:16+00:00"
+        },
+        {
+          "title": "ازاي تغير حياتك؟🤩 كتاب: على بصيرة.. مسودة أولية لاستعادة النفس البشرية #أخضر",
+          "link": "https://www.youtube.com/watch?v=0jIZo347l-s",
+          "videoId": "0jIZo347l-s",
+          "pubDate": "2026-03-14T16:45:01+00:00"
+        },
+        {
+          "title": "أسرار العداء بين أمريكا وإيران🕵️‍♂️⚔️ | على الماشي #أخضر",
+          "link": "https://www.youtube.com/watch?v=4Yc5iJ5NlR4",
+          "videoId": "4Yc5iJ5NlR4",
+          "pubDate": "2026-03-09T19:00:09+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCUjRjJ1-h3oUx40gf2tuh3w": {
       "handle": "Sha5bata",
@@ -218,28 +275,9 @@
     "UCJlu6BjPWHZhzuCc0zVME0Q": {
       "handle": "Dupamicaffeine",
       "name": "دوباميكافيين",
-      "feedTitle": "دوباميكافين Dupamicaffeine",
-      "items": [
-        {
-          "title": "قوّة الشكر والامتنان",
-          "link": "https://www.youtube.com/watch?v=Q8h4kOkGpwc",
-          "videoId": "Q8h4kOkGpwc",
-          "pubDate": "2026-03-18T19:00:25+00:00"
-        },
-        {
-          "title": "الكلمة الطيبة",
-          "link": "https://www.youtube.com/watch?v=Zh-Klchn_QQ",
-          "videoId": "Zh-Klchn_QQ",
-          "pubDate": "2026-03-16T19:00:39+00:00"
-        },
-        {
-          "title": "تعلم كيف تعبر عن حبك الحقيقي بغير الغزل - لغات الحب الخمس - الجزء الثاني",
-          "link": "https://www.youtube.com/watch?v=L6rE-GRYzr8",
-          "videoId": "L6rE-GRYzr8",
-          "pubDate": "2026-03-15T19:00:26+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "دوباميكافيين",
+      "items": [],
+      "ok": false
     },
     "UC0LSnqrwqtMwl2YwfUpO66g": {
       "handle": "aljazeeradocumentary",
@@ -258,9 +296,28 @@
     "UCLiTe0aOHShx7hXGyqZ9UIw": {
       "handle": "natgeoabudhabime",
       "name": "ناشيونال جيوغرافيك",
-      "feedTitle": "ناشيونال جيوغرافيك",
-      "items": [],
-      "ok": false
+      "feedTitle": "Nat Geo Abu Dhabi",
+      "items": [
+        {
+          "title": "ابتداءً 20 مارس | كريتر فيكسرز: أطباء في الريف | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=xJibX6g7h9A",
+          "videoId": "xJibX6g7h9A",
+          "pubDate": "2026-03-19T20:01:00+00:00"
+        },
+        {
+          "title": "ابتداءً 20 مارس | كريتر فيكسرز: أطباء في الريف | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=N-uQnmGtO5Y",
+          "videoId": "N-uQnmGtO5Y",
+          "pubDate": "2026-03-19T19:32:34+00:00"
+        },
+        {
+          "title": "ابتداءً 19 مارس | كنوز مصر المفقودة | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=XP97azbDM6s",
+          "videoId": "XP97azbDM6s",
+          "pubDate": "2026-03-19T19:29:32+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCET6sWl4Xcu-U8Ka9PJPrwA": {
       "handle": "dwdocarabia",
