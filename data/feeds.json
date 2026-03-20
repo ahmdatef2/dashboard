@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-20T18:29:58.361293+00:00",
+  "updated": "2026-03-20T19:29:15.539710+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -371,6 +371,12 @@
       "feedTitle": "أخضر",
       "items": [
         {
+          "title": "السيجارة مش عادة.. هي كدبة بتتكررها كل يوم🚬",
+          "link": "https://www.youtube.com/watch?v=nyzxUr1IMBA",
+          "videoId": "nyzxUr1IMBA",
+          "pubDate": "2026-03-20T18:34:23+00:00"
+        },
+        {
           "title": "اعادة برمجة جهازك العصبي 🤖 #أخضر",
           "link": "https://www.youtube.com/watch?v=BeTPC2ecsBI",
           "videoId": "BeTPC2ecsBI",
@@ -381,12 +387,6 @@
           "link": "https://www.youtube.com/watch?v=A0NbmFysecY",
           "videoId": "A0NbmFysecY",
           "pubDate": "2026-03-17T11:43:16+00:00"
-        },
-        {
-          "title": "ازاي تغير حياتك؟🤩 كتاب: على بصيرة.. مسودة أولية لاستعادة النفس البشرية #أخضر",
-          "link": "https://www.youtube.com/watch?v=0jIZo347l-s",
-          "videoId": "0jIZo347l-s",
-          "pubDate": "2026-03-14T16:45:01+00:00"
         }
       ],
       "ok": true
@@ -501,6 +501,12 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "الملوك الأربعة .. محاكمة يوبانك | الشرق الوثائقية",
+          "link": "https://www.youtube.com/watch?v=5qx1LgHn9_Q",
+          "videoId": "5qx1LgHn9_Q",
+          "pubDate": "2026-03-20T19:00:06+00:00"
+        },
+        {
           "title": "الملوك الأربعة .. معركة الأبطال | الشرق الوثائقية",
           "link": "https://www.youtube.com/watch?v=lsBoK9tgZHg",
           "videoId": "lsBoK9tgZHg",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=3p50Jm5BNww",
           "videoId": "3p50Jm5BNww",
           "pubDate": "2026-03-18T19:00:04+00:00"
-        },
-        {
-          "title": "سر أغنى عائلة في البندقية وكيف اختفت فجأة من التاريخ | الشرق الوثائقية",
-          "link": "https://www.youtube.com/watch?v=d2dv1s_fH8k",
-          "videoId": "d2dv1s_fH8k",
-          "pubDate": "2026-03-17T19:00:39+00:00"
         }
       ],
       "ok": true
