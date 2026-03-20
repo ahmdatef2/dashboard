@@ -1,26 +1,83 @@
 {
-  "updated": "2026-03-20T06:38:23.325369+00:00",
+  "updated": "2026-03-20T07:37:36.975387+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
       "name": "د. هبة أحمد",
-      "feedTitle": "د. هبة أحمد",
-      "items": [],
-      "ok": false
+      "feedTitle": "Heba Ahmed - هبة احمد",
+      "items": [
+        {
+          "title": "ازاي تفعل عرض 300 دولار مجانًا 🔥 واستخدم Nano Banana Pro و Veo 3.1 براحتك",
+          "link": "https://www.youtube.com/watch?v=LJk1Q6R4lgM",
+          "videoId": "LJk1Q6R4lgM",
+          "pubDate": "2026-03-17T19:55:11+00:00"
+        },
+        {
+          "title": "أسرار Google AI Studio: الفرق بينه وبين Gemini App",
+          "link": "https://www.youtube.com/watch?v=f_buNpmquws",
+          "videoId": "f_buNpmquws",
+          "pubDate": "2026-03-14T20:14:40+00:00"
+        },
+        {
+          "title": "خناقة الذكاء الاصطناعي مع البنتاجون… القصة اللي محدش حكاها",
+          "link": "https://www.youtube.com/watch?v=x-xXSuL3k70",
+          "videoId": "x-xXSuL3k70",
+          "pubDate": "2026-03-08T19:00:40+00:00"
+        }
+      ],
+      "ok": true
     },
     "UC2jjW7c63dqOPkfMm3P-u3w": {
       "handle": "every_day_a_new_website",
       "name": "موقع كل يوم",
-      "feedTitle": "موقع كل يوم",
-      "items": [],
-      "ok": false
+      "feedTitle": "كل يوم موقع جديد",
+      "items": [
+        {
+          "title": "نموذج صور من Z AI  يدعم النصوص والإنفوجرافيك ! هل يتفوق على جوجل؟",
+          "link": "https://www.youtube.com/watch?v=rRm-L17wMCk",
+          "videoId": "rRm-L17wMCk",
+          "pubDate": "2026-03-20T01:35:12+00:00"
+        },
+        {
+          "title": "أداة جديدة مجانية في Claude تصنع لك محتوى بصري تفاعلي فورًا",
+          "link": "https://www.youtube.com/watch?v=gu2elwf4F48",
+          "videoId": "gu2elwf4F48",
+          "pubDate": "2026-03-18T18:31:49+00:00"
+        },
+        {
+          "title": "NotebookLM أقوى مما تتخيل: 5 خصائص خفية لازم تعرفها",
+          "link": "https://www.youtube.com/watch?v=3JuyaRNM0XI",
+          "videoId": "3JuyaRNM0XI",
+          "pubDate": "2026-03-16T22:23:19+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCKD8vOz3maRPyLAbMXhr-Pw": {
       "handle": "infotech4you_Marwasoliman",
       "name": "مروة سليمان",
-      "feedTitle": "مروة سليمان",
-      "items": [],
-      "ok": false
+      "feedTitle": "Infotech4you - مروي سليمان",
+      "items": [
+        {
+          "title": "ميزة Claude Dispatch الجديدة : ربط الهاتف بالكمبيوتر وتنفيذ المهام بذكاء",
+          "link": "https://www.youtube.com/watch?v=sKFUNGG7hPM",
+          "videoId": "sKFUNGG7hPM",
+          "pubDate": "2026-03-19T21:15:18+00:00"
+        },
+        {
+          "title": "ازاي تبني Skill  بنفسك وتستخدمه مباشرة داخل Claude خطوة بخطوة ؟",
+          "link": "https://www.youtube.com/watch?v=GBaXIwVUpEI",
+          "videoId": "GBaXIwVUpEI",
+          "pubDate": "2026-03-18T17:00:49+00:00"
+        },
+        {
+          "title": "منصة AI رهيبة جمعت كل أدوات الذكاء الإصطناعي في مكان واحد | HIX AI",
+          "link": "https://www.youtube.com/watch?v=DGVje4_TIyQ",
+          "videoId": "DGVje4_TIyQ",
+          "pubDate": "2026-03-16T15:00:24+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCSRy-3lglM2QKJ_xF2zuPlQ": {
       "handle": "AbdellatifSaidA",
@@ -77,51 +134,184 @@
     "UC9ocsRoOwj9tkAQNfUt8ZJg": {
       "handle": "PythonArab",
       "name": "بايثون عربي",
-      "feedTitle": "بايثون عربي",
-      "items": [],
-      "ok": false
+      "feedTitle": "Python Arabic Community",
+      "items": [
+        {
+          "title": "الذكاء الاصطناعي 🚀 | 83 | الكذبة الكبرى لشركات الذكاء الاصطناعي.. وسقوط أقوى تشفير",
+          "link": "https://www.youtube.com/watch?v=aBM1Y6M3YRE",
+          "videoId": "aBM1Y6M3YRE",
+          "pubDate": "2026-03-10T21:18:47+00:00"
+        },
+        {
+          "title": "مبادرة رمضان الأثر - مجتمع إتقان (جوائز لا تقدر بثمن تنتظركم🎁)",
+          "link": "https://www.youtube.com/watch?v=TKET-IN0dLo",
+          "videoId": "TKET-IN0dLo",
+          "pubDate": "2026-03-05T21:44:12+00:00"
+        },
+        {
+          "title": "بناء تطبيق لتحويل الصور إلى نصوص (OCR) في أقل من 15 دقيقة مع Mistral OCR ! يدعم العربي",
+          "link": "https://www.youtube.com/watch?v=xaCM3rwr_84",
+          "videoId": "xaCM3rwr_84",
+          "pubDate": "2026-03-02T17:50:01+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCSNkfKl4cU-55Nm-ovsvOHQ": {
       "handle": "elzerowebschool",
       "name": "Elzero Web School",
       "feedTitle": "Elzero Web School",
-      "items": [],
-      "ok": false
+      "items": [
+        {
+          "title": "مبادرة هتطورك في البرمجة وتاخد ثواب وفرصة لرحلة عمرة",
+          "link": "https://www.youtube.com/watch?v=1n4AJdviibs",
+          "videoId": "1n4AJdviibs",
+          "pubDate": "2026-03-03T19:47:57+00:00"
+        },
+        {
+          "title": "توظيف البشر لصالح الذكاء الاصطناعي",
+          "link": "https://www.youtube.com/watch?v=4XBhqzlYJGY",
+          "videoId": "4XBhqzlYJGY",
+          "pubDate": "2026-02-16T10:47:19+00:00"
+        },
+        {
+          "title": "هل الذكاء الاصطناعي هيخلي السوق اصعب ؟",
+          "link": "https://www.youtube.com/watch?v=c-MANp0eKq4",
+          "videoId": "c-MANp0eKq4",
+          "pubDate": "2026-02-15T17:20:33+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCGrVvqu8PlVv0wPqA5kgY8A": {
       "handle": "ArabicArtificialIntelligence",
       "name": "الذكاء الاصطناعي العربي",
-      "feedTitle": "الذكاء الاصطناعي العربي",
-      "items": [],
-      "ok": false
+      "feedTitle": "ذكاء اصطناعي عربي",
+      "items": [
+        {
+          "title": "What is Quantization? | شرح التكميم / تقليص الحجم",
+          "link": "https://www.youtube.com/watch?v=sBEr9GjMQpw",
+          "videoId": "sBEr9GjMQpw",
+          "pubDate": "2026-03-19T11:01:29+00:00"
+        },
+        {
+          "title": "What is Model Context Protocol? | شرح بروتوكول سياق النموذج",
+          "link": "https://www.youtube.com/watch?v=Ln2mIYWEpIc",
+          "videoId": "Ln2mIYWEpIc",
+          "pubDate": "2026-03-18T11:00:39+00:00"
+        },
+        {
+          "title": "What is Context Window? | شرح نافذة السياق",
+          "link": "https://www.youtube.com/watch?v=oXr9oEGACLI",
+          "videoId": "oXr9oEGACLI",
+          "pubDate": "2026-03-17T11:01:22+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCSXcmF4Gxl6Hc-m6cHYD_Vg": {
       "handle": "MohamedAnsary",
       "name": "محمد أنصاري",
-      "feedTitle": "محمد أنصاري",
-      "items": [],
-      "ok": false
+      "feedTitle": "Mohamed Ansary",
+      "items": [
+        {
+          "title": "عروض تقديمية أكثر احترافية ومزايا أخرى عديدة GLM-4.6   من خلال Z.ai.",
+          "link": "https://www.youtube.com/watch?v=a6Wz9oVG3fQ",
+          "videoId": "a6Wz9oVG3fQ",
+          "pubDate": "2026-03-18T18:28:10+00:00"
+        },
+        {
+          "title": "كيفية عمل تطبيقات Vibe Coding من خلال Google Ai Studio..",
+          "link": "https://www.youtube.com/watch?v=p9Ff7IJR8gk",
+          "videoId": "p9Ff7IJR8gk",
+          "pubDate": "2026-03-17T08:16:28+00:00"
+        },
+        {
+          "title": "كيفية تصميم رسوم ومخططات بيانية بشكل ٱحترافي من خلال Claude العملاق.",
+          "link": "https://www.youtube.com/watch?v=9x2AZDyE2J8",
+          "videoId": "9x2AZDyE2J8",
+          "pubDate": "2026-03-16T07:51:39+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCDqp23rTdCo_tXsuHLYF47Q": {
       "handle": "ArabianAiSchool",
       "name": "Arabian AI School",
-      "feedTitle": "Arabian AI School",
-      "items": [],
-      "ok": false
+      "feedTitle": "مدرسة الذكاء الاصطناعي",
+      "items": [
+        {
+          "title": "اعمل مساعد ذكاء اصطناعي تكلمه من موبايلك ويعملك كل حاجة",
+          "link": "https://www.youtube.com/watch?v=W9whm_hl0-0",
+          "videoId": "W9whm_hl0-0",
+          "pubDate": "2026-03-17T20:03:27+00:00"
+        },
+        {
+          "title": "قارنت Claude Cowork وبديله المجاني والنتيجة ...",
+          "link": "https://www.youtube.com/watch?v=rkkSJlP014w",
+          "videoId": "rkkSJlP014w",
+          "pubDate": "2026-03-09T22:20:19+00:00"
+        },
+        {
+          "title": "لغيت اشتراكي وعملت نفس الأداة مجانًا بالذكاء الاصطناعي",
+          "link": "https://www.youtube.com/watch?v=9au3hNjod_A",
+          "videoId": "9au3hNjod_A",
+          "pubDate": "2026-03-02T19:29:51+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCz0N3nKrJiDhNdKQvM6r93w": {
       "handle": "ryan.academy",
       "name": "Ryan Academy",
-      "feedTitle": "Ryan Academy",
-      "items": [],
-      "ok": false
+      "feedTitle": "أكاديمية ريان | Ryan Academy",
+      "items": [
+        {
+          "title": "أداة بتعمل فيديوهات ريلز قرآن كريم تلقائياً بدون حدود مجاناً (أفضل أداة مجانية)",
+          "link": "https://www.youtube.com/watch?v=0OMuBQ0l9Ek",
+          "videoId": "0OMuBQ0l9Ek",
+          "pubDate": "2026-03-17T20:00:01+00:00"
+        },
+        {
+          "title": "إصلاح الملفات والفيديوهات والصور التالفة في دقائق — شرح 4DDiG File Repair",
+          "link": "https://www.youtube.com/watch?v=4nE95ZseR60",
+          "videoId": "4nE95ZseR60",
+          "pubDate": "2026-03-15T19:30:01+00:00"
+        },
+        {
+          "title": "وفرت 300$ وبنيت Resume Builder SaaS بالذكاء الاصطناعي (تجربتي كاملة)",
+          "link": "https://www.youtube.com/watch?v=UB8xMjD312g",
+          "videoId": "UB8xMjD312g",
+          "pubDate": "2026-03-13T20:00:32+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCXVSIaWCZBxqZ5eCxwIqRGw": {
       "handle": "TechnoFlashAITech",
       "name": "TechnoFlash AI",
-      "feedTitle": "TechnoFlash AI",
-      "items": [],
-      "ok": false
+      "feedTitle": "تكنوفلاش – AI & Tech",
+      "items": [
+        {
+          "title": "سر grok aiالذي يجعل شخصيات الذكاء الاصطناعي لا تتغير أبدا | خدعة  Free image to video ai generator",
+          "link": "https://www.youtube.com/watch?v=aWNMnqssZDk",
+          "videoId": "aWNMnqssZDk",
+          "pubDate": "2026-03-17T17:49:30+00:00"
+        },
+        {
+          "title": "Claude Code Setup | الدليل الكامل لأنظمة ويندوز",
+          "link": "https://www.youtube.com/watch?v=CRgbNkQwfkw",
+          "videoId": "CRgbNkQwfkw",
+          "pubDate": "2026-03-13T17:34:04+00:00"
+        },
+        {
+          "title": "حولت موقع عادي لموقع فاخر بأمر واحد لجيميناي",
+          "link": "https://www.youtube.com/watch?v=Uk9cq2kDi0w",
+          "videoId": "Uk9cq2kDi0w",
+          "pubDate": "2026-03-13T13:29:48+00:00"
+        }
+      ],
+      "ok": true
     },
     "UC16aC4Jti6tYAi0LuXmu-9w": {
       "handle": "KhairJaleesBook",
@@ -152,9 +342,28 @@
     "UCu1NJiJlhrhmF5ZgT-0yWdA": {
       "handle": "Jeelyaqraa",
       "name": "جيل يقرأ",
-      "feedTitle": "جيل يقرأ",
-      "items": [],
-      "ok": false
+      "feedTitle": "ReadTube - جيل يقرأ",
+      "items": [
+        {
+          "title": "الذين ضحكوا حتى البكاء -ملخص لكتاب د. مصطفى محمود",
+          "link": "https://www.youtube.com/watch?v=bSbrMABmf4E",
+          "videoId": "bSbrMABmf4E",
+          "pubDate": "2026-03-03T20:46:03+00:00"
+        },
+        {
+          "title": "المسيري يتنبأ بالمستقبل",
+          "link": "https://www.youtube.com/watch?v=N2hD24PnJQ4",
+          "videoId": "N2hD24PnJQ4",
+          "pubDate": "2026-03-01T20:56:54+00:00"
+        },
+        {
+          "title": "المسيري يفضح الفكر الابستيني - كتاب :الفلسفة المادية وتفكيك الإنسان",
+          "link": "https://www.youtube.com/watch?v=A9FEkTJhvfU",
+          "videoId": "A9FEkTJhvfU",
+          "pubDate": "2026-02-22T19:01:53+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCtUor2SqesPS3b_SMFtLT_w": {
       "handle": "a5drcom",
@@ -185,37 +394,132 @@
     "UCUjRjJ1-h3oUx40gf2tuh3w": {
       "handle": "Sha5bata",
       "name": "شخبطة",
-      "feedTitle": "شخبطة",
-      "items": [],
-      "ok": false
+      "feedTitle": "شخبطة Sha5bata",
+      "items": [
+        {
+          "title": "30 رسالة عشان تحب الصلاة.. الرسالة 5",
+          "link": "https://www.youtube.com/watch?v=XhtqZm56Pss",
+          "videoId": "XhtqZm56Pss",
+          "pubDate": "2026-02-27T13:21:19+00:00"
+        },
+        {
+          "title": "كيف تُنظم وقتك مثل السلف الصالح .. ستتغير حياتك للأبد !",
+          "link": "https://www.youtube.com/watch?v=46h0sA5idsY",
+          "videoId": "46h0sA5idsY",
+          "pubDate": "2026-02-23T14:00:12+00:00"
+        },
+        {
+          "title": "تحدي 30 رسالة في 30 يوم عشان تحب الصلاة.. الرسالة ٤",
+          "link": "https://www.youtube.com/watch?v=3UYSdl0qbNU",
+          "videoId": "3UYSdl0qbNU",
+          "pubDate": "2026-02-20T11:00:07+00:00"
+        }
+      ],
+      "ok": true
     },
     "UChbuH4HULlesX_rzlozkT6Q": {
       "handle": "AliMuhammadAli",
       "name": "علي محمد علي",
-      "feedTitle": "علي محمد علي",
-      "items": [],
-      "ok": false
+      "feedTitle": "Ali Muhammad Ali",
+      "items": [
+        {
+          "title": "ما زلنا هنا..",
+          "link": "https://www.youtube.com/watch?v=gJjoYniRSZc",
+          "videoId": "gJjoYniRSZc",
+          "pubDate": "2026-02-28T13:31:00+00:00"
+        },
+        {
+          "title": "نهاية عصر القراءة!",
+          "link": "https://www.youtube.com/watch?v=JRnEJiLeJZ8",
+          "videoId": "JRnEJiLeJZ8",
+          "pubDate": "2025-09-25T12:08:55+00:00"
+        },
+        {
+          "title": "العب كاليستنكس",
+          "link": "https://www.youtube.com/watch?v=1FfEXdbhjGs",
+          "videoId": "1FfEXdbhjGs",
+          "pubDate": "2025-07-14T15:54:20+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCJlu6BjPWHZhzuCc0zVME0Q": {
       "handle": "Dupamicaffeine",
       "name": "دوباميكافيين",
-      "feedTitle": "دوباميكافيين",
-      "items": [],
-      "ok": false
+      "feedTitle": "دوباميكافين Dupamicaffeine",
+      "items": [
+        {
+          "title": "قوّة الشكر والامتنان",
+          "link": "https://www.youtube.com/watch?v=Q8h4kOkGpwc",
+          "videoId": "Q8h4kOkGpwc",
+          "pubDate": "2026-03-18T19:00:25+00:00"
+        },
+        {
+          "title": "الكلمة الطيبة",
+          "link": "https://www.youtube.com/watch?v=Zh-Klchn_QQ",
+          "videoId": "Zh-Klchn_QQ",
+          "pubDate": "2026-03-16T19:00:39+00:00"
+        },
+        {
+          "title": "تعلم كيف تعبر عن حبك الحقيقي بغير الغزل - لغات الحب الخمس - الجزء الثاني",
+          "link": "https://www.youtube.com/watch?v=L6rE-GRYzr8",
+          "videoId": "L6rE-GRYzr8",
+          "pubDate": "2026-03-15T19:00:26+00:00"
+        }
+      ],
+      "ok": true
     },
     "UC0LSnqrwqtMwl2YwfUpO66g": {
       "handle": "aljazeeradocumentary",
       "name": "الجزيرة الوثائقية",
-      "feedTitle": "الجزيرة الوثائقية",
-      "items": [],
-      "ok": false
+      "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
+      "items": [
+        {
+          "title": "الجلباب المغربي.. تراث البلد وهوية الشعب",
+          "link": "https://www.youtube.com/watch?v=MmtyNWEsA6I",
+          "videoId": "MmtyNWEsA6I",
+          "pubDate": "2026-03-19T20:59:01+00:00"
+        },
+        {
+          "title": "في إينوفيك بالقطب الشمالي.. مسلمون يتحدون العواصف لأداء صلاة العيد",
+          "link": "https://www.youtube.com/watch?v=fU-TyqFzg0U",
+          "videoId": "fU-TyqFzg0U",
+          "pubDate": "2026-03-19T20:00:01+00:00"
+        },
+        {
+          "title": "هلال العيد.. لماذا لا تتحد في رؤيته الدول الإسلامية؟",
+          "link": "https://www.youtube.com/watch?v=G7vJZG8wVh0",
+          "videoId": "G7vJZG8wVh0",
+          "pubDate": "2026-03-19T19:00:01+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCArK7aSQ68vRCiJY2m7spkA": {
       "handle": "AsharqDoc",
       "name": "الشرق الوثائقية",
-      "feedTitle": "الشرق الوثائقية",
-      "items": [],
-      "ok": false
+      "feedTitle": "Asharq Documentary الشرق الوثائقية",
+      "items": [
+        {
+          "title": "الملوك الأربعة .. معركة الأبطال | الشرق الوثائقية",
+          "link": "https://www.youtube.com/watch?v=lsBoK9tgZHg",
+          "videoId": "lsBoK9tgZHg",
+          "pubDate": "2026-03-19T19:00:48+00:00"
+        },
+        {
+          "title": "الملوك الأربعة .. وجوه من الحلبة | الشرق الوثائقية",
+          "link": "https://www.youtube.com/watch?v=3p50Jm5BNww",
+          "videoId": "3p50Jm5BNww",
+          "pubDate": "2026-03-18T19:00:04+00:00"
+        },
+        {
+          "title": "سر أغنى عائلة في البندقية وكيف اختفت فجأة من التاريخ | الشرق الوثائقية",
+          "link": "https://www.youtube.com/watch?v=d2dv1s_fH8k",
+          "videoId": "d2dv1s_fH8k",
+          "pubDate": "2026-03-17T19:00:39+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCLiTe0aOHShx7hXGyqZ9UIw": {
       "handle": "natgeoabudhabime",
@@ -246,9 +550,28 @@
     "UCET6sWl4Xcu-U8Ka9PJPrwA": {
       "handle": "dwdocarabia",
       "name": "DW عربية وثائقي",
-      "feedTitle": "DW عربية وثائقي",
-      "items": [],
-      "ok": false
+      "feedTitle": "DW Documentary وثائقية دي دبليو",
+      "items": [
+        {
+          "title": "وثائقي | اليابان: مياه سامة من فوكوشيما | وثائقية دي دبليو",
+          "link": "https://www.youtube.com/watch?v=4ukRka_HMok",
+          "videoId": "4ukRka_HMok",
+          "pubDate": "2026-03-19T17:00:07+00:00"
+        },
+        {
+          "title": "مدن فوق المحيط",
+          "link": "https://www.youtube.com/watch?v=EwUmJMp9LY4",
+          "videoId": "EwUmJMp9LY4",
+          "pubDate": "2026-03-18T13:29:04+00:00"
+        },
+        {
+          "title": "ريبورتاج | التبرع بالحيوانات المنوية في أوروبا | وثائقية دي دبليو",
+          "link": "https://www.youtube.com/watch?v=uYngUCVh4kU",
+          "videoId": "uYngUCVh4kU",
+          "pubDate": "2026-03-16T17:01:22+00:00"
+        }
+      ],
+      "ok": true
     }
   }
 }
