@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-20T05:10:36.822672+00:00",
+  "updated": "2026-03-20T06:38:23.325369+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -18,28 +18,9 @@
     "UCKD8vOz3maRPyLAbMXhr-Pw": {
       "handle": "infotech4you_Marwasoliman",
       "name": "مروة سليمان",
-      "feedTitle": "Infotech4you - مروي سليمان",
-      "items": [
-        {
-          "title": "ميزة Claude Dispatch الجديدة : ربط الهاتف بالكمبيوتر وتنفيذ المهام بذكاء",
-          "link": "https://www.youtube.com/watch?v=sKFUNGG7hPM",
-          "videoId": "sKFUNGG7hPM",
-          "pubDate": "2026-03-19T21:15:18+00:00"
-        },
-        {
-          "title": "ازاي تبني Skill  بنفسك وتستخدمه مباشرة داخل Claude خطوة بخطوة ؟",
-          "link": "https://www.youtube.com/watch?v=GBaXIwVUpEI",
-          "videoId": "GBaXIwVUpEI",
-          "pubDate": "2026-03-18T17:00:49+00:00"
-        },
-        {
-          "title": "منصة AI رهيبة جمعت كل أدوات الذكاء الإصطناعي في مكان واحد | HIX AI",
-          "link": "https://www.youtube.com/watch?v=DGVje4_TIyQ",
-          "videoId": "DGVje4_TIyQ",
-          "pubDate": "2026-03-16T15:00:24+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "مروة سليمان",
+      "items": [],
+      "ok": false
     },
     "UCSRy-3lglM2QKJ_xF2zuPlQ": {
       "handle": "AbdellatifSaidA",
@@ -70,35 +51,35 @@
     "UC81Ks7DR9JFgZc14nmZ07EA": {
       "handle": "AMRSALEM800",
       "name": "عمرو سالم",
-      "feedTitle": "عمرو سالم",
-      "items": [],
-      "ok": false
+      "feedTitle": "AMR SALEM _ عمرو سالم",
+      "items": [
+        {
+          "title": "اضخم تحديث ل Google Stitch | تحديث مجنون",
+          "link": "https://www.youtube.com/watch?v=h0jKil3mMEo",
+          "videoId": "h0jKil3mMEo",
+          "pubDate": "2026-03-20T05:00:46+00:00"
+        },
+        {
+          "title": "ازاي تعمل تطبيق تدريب على الكتابة السريعة بالذكاء الاصطناعي (بدون كود!) 🔥",
+          "link": "https://www.youtube.com/watch?v=U7im7_ewwwI",
+          "videoId": "U7im7_ewwwI",
+          "pubDate": "2026-03-17T12:00:54+00:00"
+        },
+        {
+          "title": "40 حركة كاميرا سينمائية بالذكاء الاصطناعي | شرح Camera Movements باستخدام Grok AI",
+          "link": "https://www.youtube.com/watch?v=np2_ARwL4E4",
+          "videoId": "np2_ARwL4E4",
+          "pubDate": "2026-03-17T00:09:57+00:00"
+        }
+      ],
+      "ok": true
     },
     "UC9ocsRoOwj9tkAQNfUt8ZJg": {
       "handle": "PythonArab",
       "name": "بايثون عربي",
-      "feedTitle": "Python Arabic Community",
-      "items": [
-        {
-          "title": "الذكاء الاصطناعي 🚀 | 83 | الكذبة الكبرى لشركات الذكاء الاصطناعي.. وسقوط أقوى تشفير",
-          "link": "https://www.youtube.com/watch?v=aBM1Y6M3YRE",
-          "videoId": "aBM1Y6M3YRE",
-          "pubDate": "2026-03-10T21:18:47+00:00"
-        },
-        {
-          "title": "مبادرة رمضان الأثر - مجتمع إتقان (جوائز لا تقدر بثمن تنتظركم🎁)",
-          "link": "https://www.youtube.com/watch?v=TKET-IN0dLo",
-          "videoId": "TKET-IN0dLo",
-          "pubDate": "2026-03-05T21:44:12+00:00"
-        },
-        {
-          "title": "بناء تطبيق لتحويل الصور إلى نصوص (OCR) في أقل من 15 دقيقة مع Mistral OCR ! يدعم العربي",
-          "link": "https://www.youtube.com/watch?v=xaCM3rwr_84",
-          "videoId": "xaCM3rwr_84",
-          "pubDate": "2026-03-02T17:50:01+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "بايثون عربي",
+      "items": [],
+      "ok": false
     },
     "UCSNkfKl4cU-55Nm-ovsvOHQ": {
       "handle": "elzerowebschool",
@@ -146,8 +127,27 @@
       "handle": "KhairJaleesBook",
       "name": "خير جليس",
       "feedTitle": "خير جليس",
-      "items": [],
-      "ok": false
+      "items": [
+        {
+          "title": "الخوف والطمع يقودان معظم القرارات المالية - من  كتاب الأب الغني الأب الفقير",
+          "link": "https://www.youtube.com/watch?v=tBG-WL9PVMQ",
+          "videoId": "tBG-WL9PVMQ",
+          "pubDate": "2026-03-20T06:00:48+00:00"
+        },
+        {
+          "title": "التعليم وحده لا يصنع الثروة - من  كتاب الأب الغني الأب الفقير",
+          "link": "https://www.youtube.com/watch?v=82LxBfeWMiM",
+          "videoId": "82LxBfeWMiM",
+          "pubDate": "2026-03-19T09:30:24+00:00"
+        },
+        {
+          "title": "السلام يصبح الحالة الطبيعية مع الممارسة - من كتاب السماح بالرحيل",
+          "link": "https://www.youtube.com/watch?v=GtCuL3erIKo",
+          "videoId": "GtCuL3erIKo",
+          "pubDate": "2026-03-17T13:00:27+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCu1NJiJlhrhmF5ZgT-0yWdA": {
       "handle": "Jeelyaqraa",
@@ -160,8 +160,27 @@
       "handle": "a5drcom",
       "name": "أخضر",
       "feedTitle": "أخضر",
-      "items": [],
-      "ok": false
+      "items": [
+        {
+          "title": "هل لازم تكون سعيد طول الوقت؟!",
+          "link": "https://www.youtube.com/watch?v=A0NbmFysecY",
+          "videoId": "A0NbmFysecY",
+          "pubDate": "2026-03-17T11:43:16+00:00"
+        },
+        {
+          "title": "ازاي تغير حياتك؟🤩 كتاب: على بصيرة.. مسودة أولية لاستعادة النفس البشرية #أخضر",
+          "link": "https://www.youtube.com/watch?v=0jIZo347l-s",
+          "videoId": "0jIZo347l-s",
+          "pubDate": "2026-03-14T16:45:01+00:00"
+        },
+        {
+          "title": "أسرار العداء بين أمريكا وإيران🕵️‍♂️⚔️ | على الماشي #أخضر",
+          "link": "https://www.youtube.com/watch?v=4Yc5iJ5NlR4",
+          "videoId": "4Yc5iJ5NlR4",
+          "pubDate": "2026-03-09T19:00:09+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCUjRjJ1-h3oUx40gf2tuh3w": {
       "handle": "Sha5bata",
@@ -194,35 +213,35 @@
     "UCArK7aSQ68vRCiJY2m7spkA": {
       "handle": "AsharqDoc",
       "name": "الشرق الوثائقية",
-      "feedTitle": "Asharq Documentary الشرق الوثائقية",
-      "items": [
-        {
-          "title": "الملوك الأربعة .. معركة الأبطال | الشرق الوثائقية",
-          "link": "https://www.youtube.com/watch?v=lsBoK9tgZHg",
-          "videoId": "lsBoK9tgZHg",
-          "pubDate": "2026-03-19T19:00:48+00:00"
-        },
-        {
-          "title": "الملوك الأربعة .. وجوه من الحلبة | الشرق الوثائقية",
-          "link": "https://www.youtube.com/watch?v=3p50Jm5BNww",
-          "videoId": "3p50Jm5BNww",
-          "pubDate": "2026-03-18T19:00:04+00:00"
-        },
-        {
-          "title": "سر أغنى عائلة في البندقية وكيف اختفت فجأة من التاريخ | الشرق الوثائقية",
-          "link": "https://www.youtube.com/watch?v=d2dv1s_fH8k",
-          "videoId": "d2dv1s_fH8k",
-          "pubDate": "2026-03-17T19:00:39+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "الشرق الوثائقية",
+      "items": [],
+      "ok": false
     },
     "UCLiTe0aOHShx7hXGyqZ9UIw": {
       "handle": "natgeoabudhabime",
       "name": "ناشيونال جيوغرافيك",
-      "feedTitle": "ناشيونال جيوغرافيك",
-      "items": [],
-      "ok": false
+      "feedTitle": "Nat Geo Abu Dhabi",
+      "items": [
+        {
+          "title": "ابتداءً 20 مارس | كريتر فيكسرز: أطباء في الريف | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=xJibX6g7h9A",
+          "videoId": "xJibX6g7h9A",
+          "pubDate": "2026-03-19T20:01:00+00:00"
+        },
+        {
+          "title": "ابتداءً 20 مارس | كريتر فيكسرز: أطباء في الريف | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=N-uQnmGtO5Y",
+          "videoId": "N-uQnmGtO5Y",
+          "pubDate": "2026-03-19T19:32:34+00:00"
+        },
+        {
+          "title": "ابتداءً 19 مارس | كنوز مصر المفقودة | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=XP97azbDM6s",
+          "videoId": "XP97azbDM6s",
+          "pubDate": "2026-03-19T19:29:32+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCET6sWl4Xcu-U8Ka9PJPrwA": {
       "handle": "dwdocarabia",
