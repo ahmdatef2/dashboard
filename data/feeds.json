@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-20T10:25:55.728760+00:00",
+  "updated": "2026-03-20T11:21:20.528564+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -189,6 +189,12 @@
       "feedTitle": "ذكاء اصطناعي عربي",
       "items": [
         {
+          "title": "What is AI Agent? | شرح وكيل ذكاء اصطناعي",
+          "link": "https://www.youtube.com/watch?v=zACIXBszXgg",
+          "videoId": "zACIXBszXgg",
+          "pubDate": "2026-03-20T11:01:54+00:00"
+        },
+        {
           "title": "What is Quantization? | شرح التكميم / تقليص الحجم",
           "link": "https://www.youtube.com/watch?v=sBEr9GjMQpw",
           "videoId": "sBEr9GjMQpw",
@@ -199,12 +205,6 @@
           "link": "https://www.youtube.com/watch?v=Ln2mIYWEpIc",
           "videoId": "Ln2mIYWEpIc",
           "pubDate": "2026-03-18T11:00:39+00:00"
-        },
-        {
-          "title": "What is Context Window? | شرح نافذة السياق",
-          "link": "https://www.youtube.com/watch?v=oXr9oEGACLI",
-          "videoId": "oXr9oEGACLI",
-          "pubDate": "2026-03-17T11:01:22+00:00"
         }
       ],
       "ok": true
@@ -553,6 +553,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "#وثائقي المزارعون الشباب في إيطاليا",
+          "link": "https://www.youtube.com/watch?v=wzXai8rHkz4",
+          "videoId": "wzXai8rHkz4",
+          "pubDate": "2026-03-20T10:30:47+00:00"
+        },
+        {
           "title": "وثائقي | اليابان: مياه سامة من فوكوشيما | وثائقية دي دبليو",
           "link": "https://www.youtube.com/watch?v=4ukRka_HMok",
           "videoId": "4ukRka_HMok",
@@ -563,12 +569,6 @@
           "link": "https://www.youtube.com/watch?v=EwUmJMp9LY4",
           "videoId": "EwUmJMp9LY4",
           "pubDate": "2026-03-18T13:29:04+00:00"
-        },
-        {
-          "title": "ريبورتاج | التبرع بالحيوانات المنوية في أوروبا | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=uYngUCVh4kU",
-          "videoId": "uYngUCVh4kU",
-          "pubDate": "2026-03-16T17:01:22+00:00"
         }
       ],
       "ok": true
