@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-20T22:14:48.364618+00:00",
+  "updated": "2026-03-20T23:17:10.752304+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -59,7 +59,7 @@
       "feedTitle": "Infotech4you - مروي سليمان",
       "items": [
         {
-          "title": "ميزة Claude Dispatch الجديدة : ربط الهاتف بالكمبيوتر وتنفيذ المهام بذكاء",
+          "title": "مفاجأة انثروبيك للجميع: Claude Dispatch وإدارة جهازك من الهاتف!",
           "link": "https://www.youtube.com/watch?v=sKFUNGG7hPM",
           "videoId": "sKFUNGG7hPM",
           "pubDate": "2026-03-19T21:15:18+00:00"
@@ -293,6 +293,12 @@
       "feedTitle": "تكنوفلاش – AI & Tech",
       "items": [
         {
+          "title": "بديل Grok المجاني 100% بدون اشتراك! اصنع فيديوهات وصور AI بلا حدود",
+          "link": "https://www.youtube.com/watch?v=oR7H4VByAD4",
+          "videoId": "oR7H4VByAD4",
+          "pubDate": "2026-03-20T22:38:34+00:00"
+        },
+        {
           "title": "سر grok aiالذي يجعل شخصيات الذكاء الاصطناعي لا تتغير أبدا | خدعة  Free image to video ai generator",
           "link": "https://www.youtube.com/watch?v=aWNMnqssZDk",
           "videoId": "aWNMnqssZDk",
@@ -303,12 +309,6 @@
           "link": "https://www.youtube.com/watch?v=CRgbNkQwfkw",
           "videoId": "CRgbNkQwfkw",
           "pubDate": "2026-03-13T17:34:04+00:00"
-        },
-        {
-          "title": "حولت موقع عادي لموقع فاخر بأمر واحد لجيميناي",
-          "link": "https://www.youtube.com/watch?v=Uk9cq2kDi0w",
-          "videoId": "Uk9cq2kDi0w",
-          "pubDate": "2026-03-13T13:29:48+00:00"
         }
       ],
       "ok": true
