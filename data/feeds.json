@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-20T21:18:47.332868+00:00",
+  "updated": "2026-03-20T22:14:48.364618+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -241,6 +241,12 @@
       "feedTitle": "مدرسة الذكاء الاصطناعي",
       "items": [
         {
+          "title": "طريقة سرية لعمل المواقع بالذكاء الاصطناعي (اتحداك لو تعرفها)",
+          "link": "https://www.youtube.com/watch?v=g7wlbRuKxls",
+          "videoId": "g7wlbRuKxls",
+          "pubDate": "2026-03-20T21:22:48+00:00"
+        },
+        {
           "title": "اعمل مساعد ذكاء اصطناعي تكلمه من موبايلك ويعملك كل حاجة",
           "link": "https://www.youtube.com/watch?v=W9whm_hl0-0",
           "videoId": "W9whm_hl0-0",
@@ -251,12 +257,6 @@
           "link": "https://www.youtube.com/watch?v=rkkSJlP014w",
           "videoId": "rkkSJlP014w",
           "pubDate": "2026-03-09T22:20:19+00:00"
-        },
-        {
-          "title": "لغيت اشتراكي وعملت نفس الأداة مجانًا بالذكاء الاصطناعي",
-          "link": "https://www.youtube.com/watch?v=9au3hNjod_A",
-          "videoId": "9au3hNjod_A",
-          "pubDate": "2026-03-02T19:29:51+00:00"
         }
       ],
       "ok": true
