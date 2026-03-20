@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-20T07:37:36.975387+00:00",
+  "updated": "2026-03-20T08:26:51.895044+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "كيف يُعلن العيد بلا كهرباء ولا تلفاز ولا هاتف؟",
+          "link": "https://www.youtube.com/watch?v=dlekpKKHHFQ",
+          "videoId": "dlekpKKHHFQ",
+          "pubDate": "2026-03-20T08:00:02+00:00"
+        },
+        {
           "title": "الجلباب المغربي.. تراث البلد وهوية الشعب",
           "link": "https://www.youtube.com/watch?v=MmtyNWEsA6I",
           "videoId": "MmtyNWEsA6I",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=fU-TyqFzg0U",
           "videoId": "fU-TyqFzg0U",
           "pubDate": "2026-03-19T20:00:01+00:00"
-        },
-        {
-          "title": "هلال العيد.. لماذا لا تتحد في رؤيته الدول الإسلامية؟",
-          "link": "https://www.youtube.com/watch?v=G7vJZG8wVh0",
-          "videoId": "G7vJZG8wVh0",
-          "pubDate": "2026-03-19T19:00:01+00:00"
         }
       ],
       "ok": true
