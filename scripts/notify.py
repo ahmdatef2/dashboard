@@ -30,38 +30,47 @@ def save_json(path, data):
     with open(path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
-# ── جلب transcript من يوتيوب ──
-def get_transcript(video_id):
-    try:
-        from youtube_transcript_api import YouTubeTranscriptApi
-        ytt_api = YouTubeTranscriptApi()
-        transcript_list = ytt_api.list(video_id)
-        transcript = transcript_list.find_transcript(["ar", "en"])
-        lines = transcript.fetch()
-        text = " ".join([item["text"] for item in lines])
-        return text[:8000]
-    except Exception as e:
-        print(f"  ⚠️ لا يوجد transcript: {e}")
-        return None
-
-# ── تلخيص Gemini ──
-def summarize_with_gemini(title, transcript):
-    if transcript:
-        prompt = f"""أنت مساعد متخصص في تلخيص محتوى الفيديوهات.
-لخّص هذا الفيديو بالعربية في 5-7 نقاط واضحة ومفيدة.
-
-عنوان الفيديو: {title}
-
-نص الفيديو:
-{transcript}
-
+# ── تلخيص Gemini مع رابط يوتيوب مباشرة ──
+def summarize_with_gemini(title, video_url):
+    prompt = f"""أنت مساعد متخصص في تلخيص محتوى الفيديوهات.
+شاهد هذا الفيديو ولخّصه بالعربية في 5-7 نقاط واضحة ومفيدة.
 اكتب الملخص بالعربية فقط بصيغة نقاط."""
-    else:
-        prompt = f"""أنت مساعد متخصص في تلخيص محتوى الفيديوهات.
+
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={GEMINI_API_KEY}"
+    body = json.dumps({
+        "contents": [{
+            "parts": [
+                {
+                    "file_data": {
+                        "mime_type": "video/mp4",
+                        "file_uri": video_url
+                    }
+                },
+                {
+                    "text": prompt
+                }
+            ]
+        }]
+    }).encode("utf-8")
+
+    for attempt in range(3):
+        try:
+            req = urllib.request.Request(url, data=body, headers={"Content-Type": "application/json"})
+            with urllib.request.urlopen(req, timeout=60) as r:
+                result = json.loads(r.read().decode("utf-8"))
+                return result["candidates"][0]["content"]["parts"][0]["text"]
+        except Exception as e:
+            print(f"  ⚠️ خطأ في Gemini (محاولة {attempt+1}): {e}")
+            if attempt < 2:
+                time.sleep(10)
+
+    # fallback: تلخيص بالعنوان فقط
+    return summarize_by_title(title)
+
+def summarize_by_title(title):
+    prompt = f"""أنت مساعد متخصص في تلخيص محتوى الفيديوهات.
 بناءً على عنوان الفيديو فقط، اكتب وصفاً مختصراً بالعربية لما يُرجَّح أن يتناوله هذا الفيديو.
-
 عنوان الفيديو: {title}
-
 اكتب الوصف بالعربية في 3-4 جمل."""
 
     url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={GEMINI_API_KEY}"
@@ -69,17 +78,14 @@ def summarize_with_gemini(title, transcript):
         "contents": [{"parts": [{"text": prompt}]}]
     }).encode("utf-8")
 
-    for attempt in range(3):
-        try:
-            req = urllib.request.Request(url, data=body, headers={"Content-Type": "application/json"})
-            with urllib.request.urlopen(req, timeout=30) as r:
-                result = json.loads(r.read().decode("utf-8"))
-                return result["candidates"][0]["content"]["parts"][0]["text"]
-        except Exception as e:
-            print(f"  ⚠️ خطأ في Gemini (محاولة {attempt+1}): {e}")
-            if attempt < 2:
-                time.sleep(10)
-    return "⚠️ تعذّر إنشاء الملخص."
+    try:
+        req = urllib.request.Request(url, data=body, headers={"Content-Type": "application/json"})
+        with urllib.request.urlopen(req, timeout=30) as r:
+            result = json.loads(r.read().decode("utf-8"))
+            return result["candidates"][0]["content"]["parts"][0]["text"]
+    except Exception as e:
+        print(f"  ⚠️ خطأ في Gemini fallback: {e}")
+        return "⚠️ تعذّر إنشاء الملخص."
 
 # ── إرسال رسالة تيليجرام ──
 def send_telegram(message):
@@ -122,27 +128,20 @@ def main():
             if not video_id or video_id in sent_ids:
                 continue
 
-            title = item.get("title", "")
-            link  = item.get("link", "")
+            title     = item.get("title", "")
+            link      = item.get("link", "")
             print(f"\n📹 فيديو جديد: {title}")
             print(f"   القناة: {ch_name}")
 
-            # جلب الـ transcript
-            transcript = get_transcript(video_id)
-
-            # انتظار بين الطلبات لتجنب 429
-            time.sleep(5)
-
-            # تلخيص Gemini
+            # تلخيص Gemini برابط الفيديو مباشرة
             print("  🤖 جاري التلخيص...")
-            summary = summarize_with_gemini(title, transcript)
+            summary = summarize_with_gemini(title, link)
 
             # بناء الرسالة
-            has_transcript = "✅ ملخص الفيديو" if transcript else "💡 توقع المحتوى"
             message = (
                 f"📺 <b>{ch_name}</b>\n"
                 f"🎬 <b>{title}</b>\n\n"
-                f"{has_transcript}:\n"
+                f"✅ ملخص الفيديو:\n"
                 f"{summary}\n\n"
                 f"🔗 <a href='{link}'>مشاهدة الفيديو</a>"
             )
@@ -154,6 +153,9 @@ def main():
                 print(f"  ✓ تم الإرسال")
             else:
                 print(f"  ✗ فشل الإرسال")
+
+            # انتظار بين الفيديوهات
+            time.sleep(5)
 
     # حفظ الملف المحدّث
     sent["videos"] = list(sent_ids)
