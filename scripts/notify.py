@@ -34,9 +34,11 @@ def save_json(path, data):
 def get_transcript(video_id):
     try:
         from youtube_transcript_api import YouTubeTranscriptApi
-        ytt = YouTubeTranscriptApi()
-        fetched = ytt.fetch(video_id, languages=["ar", "en"])
-        text = " ".join([t.text for t in fetched])
+        ytt_api = YouTubeTranscriptApi()
+        transcript_list = ytt_api.list(video_id)
+        transcript = transcript_list.find_transcript(["ar", "en"])
+        lines = transcript.fetch()
+        text = " ".join([item["text"] for item in lines])
         return text[:8000]
     except Exception as e:
         print(f"  ⚠️ لا يوجد transcript: {e}")
