@@ -1,0 +1,43 @@
+name: Notify New YouTube Videos
+
+on:
+  workflow_run:
+    workflows: ["Fetch YouTube RSS Feeds"]
+    types:
+      - completed
+  workflow_dispatch:
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    if: ${{ github.event.workflow_run.conclusion == 'success' || github.event_name == 'workflow_dispatch' }}
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Pull latest data
+        run: git pull origin main
+
+      - name: Install dependencies
+        run: pip install youtube-transcript-api
+
+      - name: Run notify script
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python3 scripts/notify.py
+
+      - name: Save sent.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/sent.json
+          git diff --staged --quiet || git commit -m "update sent videos"
+      - name: Pull latest changes
+        run: git pull --rebase origin main
+      - name: Push changes
+        run: git push origin main
