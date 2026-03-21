@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-21T20:12:11.991479+00:00",
+  "updated": "2026-03-21T21:13:45.476025+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -59,6 +59,12 @@
       "feedTitle": "Infotech4you - مروي سليمان",
       "items": [
         {
+          "title": "تحديث ضخم داخل Google AI Studio وبناء تطبيق كامل بقاعادة بيانات في ثوان!",
+          "link": "https://www.youtube.com/watch?v=XLnz5vP-jxU",
+          "videoId": "XLnz5vP-jxU",
+          "pubDate": "2026-03-21T21:01:39+00:00"
+        },
+        {
           "title": "مفاجأة انثروبيك للجميع: Claude Dispatch وإدارة جهازك من الهاتف!",
           "link": "https://www.youtube.com/watch?v=sKFUNGG7hPM",
           "videoId": "sKFUNGG7hPM",
@@ -69,12 +75,6 @@
           "link": "https://www.youtube.com/watch?v=GBaXIwVUpEI",
           "videoId": "GBaXIwVUpEI",
           "pubDate": "2026-03-18T17:00:49+00:00"
-        },
-        {
-          "title": "منصة AI رهيبة جمعت كل أدوات الذكاء الإصطناعي في مكان واحد | HIX AI",
-          "link": "https://www.youtube.com/watch?v=DGVje4_TIyQ",
-          "videoId": "DGVje4_TIyQ",
-          "pubDate": "2026-03-16T15:00:24+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "ما علاقة النور بالمسيحية واليهودية والإسلام؟",
+          "link": "https://www.youtube.com/watch?v=KoEZMaYSwcs",
+          "videoId": "KoEZMaYSwcs",
+          "pubDate": "2026-03-21T21:00:01+00:00"
+        },
+        {
           "title": "مافيا المياه",
           "link": "https://www.youtube.com/watch?v=YBXoQJMqSaw",
           "videoId": "YBXoQJMqSaw",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=kT3znxjgQvc",
           "videoId": "kT3znxjgQvc",
           "pubDate": "2026-03-21T19:00:01+00:00"
-        },
-        {
-          "title": "ناظم الغزالي.. من جبهات فلسطين إلى قمة المقام العراقي",
-          "link": "https://www.youtube.com/watch?v=pzIwSAzflw4",
-          "videoId": "pzIwSAzflw4",
-          "pubDate": "2026-03-21T17:00:01+00:00"
         }
       ],
       "ok": true
