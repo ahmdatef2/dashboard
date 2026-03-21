@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-21T07:24:39.560001+00:00",
+  "updated": "2026-03-21T08:17:36.159248+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "مساجد كاملة في ساحة واحدة",
+          "link": "https://www.youtube.com/watch?v=MdTNIydB4Ls",
+          "videoId": "MdTNIydB4Ls",
+          "pubDate": "2026-03-21T08:00:01+00:00"
+        },
+        {
           "title": "هل المال يشتري السعادة؟",
           "link": "https://www.youtube.com/watch?v=7JxQbj1t-hs",
           "videoId": "7JxQbj1t-hs",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=IFL9vz23ZkQ",
           "videoId": "IFL9vz23ZkQ",
           "pubDate": "2026-03-20T20:00:01+00:00"
-        },
-        {
-          "title": "أسرار في قلب الأدغال.. حكايات من عالم خفي (الحلقة الأولى)",
-          "link": "https://www.youtube.com/watch?v=CEiJ6ziptDM",
-          "videoId": "CEiJ6ziptDM",
-          "pubDate": "2026-03-20T19:30:02+00:00"
         }
       ],
       "ok": true
