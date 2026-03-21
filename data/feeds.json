@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-21T18:18:51.405712+00:00",
+  "updated": "2026-03-21T19:14:59.637963+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "مافيا المياه",
+          "link": "https://www.youtube.com/watch?v=YBXoQJMqSaw",
+          "videoId": "YBXoQJMqSaw",
+          "pubDate": "2026-03-21T19:00:26+00:00"
+        },
+        {
+          "title": "\"مطرقة الساحرات\".. كتاب شرعن حرق الآلاف بتهمة السحر",
+          "link": "https://www.youtube.com/watch?v=kT3znxjgQvc",
+          "videoId": "kT3znxjgQvc",
+          "pubDate": "2026-03-21T19:00:01+00:00"
+        },
+        {
           "title": "ناظم الغزالي.. من جبهات فلسطين إلى قمة المقام العراقي",
           "link": "https://www.youtube.com/watch?v=pzIwSAzflw4",
           "videoId": "pzIwSAzflw4",
           "pubDate": "2026-03-21T17:00:01+00:00"
-        },
-        {
-          "title": "أغنية يمنية كتبت صدفة فأحيت العيد سنوات",
-          "link": "https://www.youtube.com/watch?v=3ig0dCmDWF4",
-          "videoId": "3ig0dCmDWF4",
-          "pubDate": "2026-03-21T13:30:01+00:00"
-        },
-        {
-          "title": "أحذية مصنوعة من جلود الثعابين وعصي تتخذ سيوفا",
-          "link": "https://www.youtube.com/watch?v=NRJsLjRYfT0",
-          "videoId": "NRJsLjRYfT0",
-          "pubDate": "2026-03-21T12:30:01+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "الملوك الأربعة .. أبطال وندوب | الشرق الوثائقية",
+          "link": "https://www.youtube.com/watch?v=SJaEY8dTGEc",
+          "videoId": "SJaEY8dTGEc",
+          "pubDate": "2026-03-21T19:00:24+00:00"
+        },
         {
           "title": "الملوك الأربعة .. محاكمة يوبانك | الشرق الوثائقية",
           "link": "https://www.youtube.com/watch?v=5qx1LgHn9_Q",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=lsBoK9tgZHg",
           "videoId": "lsBoK9tgZHg",
           "pubDate": "2026-03-19T19:00:48+00:00"
-        },
-        {
-          "title": "الملوك الأربعة .. وجوه من الحلبة | الشرق الوثائقية",
-          "link": "https://www.youtube.com/watch?v=3p50Jm5BNww",
-          "videoId": "3p50Jm5BNww",
-          "pubDate": "2026-03-18T19:00:04+00:00"
         }
       ],
       "ok": true
