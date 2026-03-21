@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-21T05:40:43.641279+00:00",
+  "updated": "2026-03-21T06:27:44.443402+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -18,35 +18,35 @@
     "UCKD8vOz3maRPyLAbMXhr-Pw": {
       "handle": "infotech4you_Marwasoliman",
       "name": "مروة سليمان",
-      "feedTitle": "Infotech4you - مروي سليمان",
-      "items": [
-        {
-          "title": "مفاجأة انثروبيك للجميع: Claude Dispatch وإدارة جهازك من الهاتف!",
-          "link": "https://www.youtube.com/watch?v=sKFUNGG7hPM",
-          "videoId": "sKFUNGG7hPM",
-          "pubDate": "2026-03-19T21:15:18+00:00"
-        },
-        {
-          "title": "ازاي تبني Skill  بنفسك وتستخدمه مباشرة داخل Claude خطوة بخطوة ؟",
-          "link": "https://www.youtube.com/watch?v=GBaXIwVUpEI",
-          "videoId": "GBaXIwVUpEI",
-          "pubDate": "2026-03-18T17:00:49+00:00"
-        },
-        {
-          "title": "منصة AI رهيبة جمعت كل أدوات الذكاء الإصطناعي في مكان واحد | HIX AI",
-          "link": "https://www.youtube.com/watch?v=DGVje4_TIyQ",
-          "videoId": "DGVje4_TIyQ",
-          "pubDate": "2026-03-16T15:00:24+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "مروة سليمان",
+      "items": [],
+      "ok": false
     },
     "UCSRy-3lglM2QKJ_xF2zuPlQ": {
       "handle": "AbdellatifSaidA",
       "name": "عبداللطيف سعيد",
-      "feedTitle": "عبداللطيف سعيد",
-      "items": [],
-      "ok": false
+      "feedTitle": "عبداللطيف سعيد Abdellatif Said",
+      "items": [
+        {
+          "title": "العلماء قالوا محتاجين \"كائنات فضائية\".. إزاي جوجل حلت أعقد لغز في التاريخ بـ AlphaEvolve؟!",
+          "link": "https://www.youtube.com/watch?v=x7t52oeJTjc",
+          "videoId": "x7t52oeJTjc",
+          "pubDate": "2026-03-18T14:15:17+00:00"
+        },
+        {
+          "title": "عملت برنامج كمبيوتر من غير ولا سطر كود! | تصميم برامج ويندوز بالذكاء الاصطناعي 🤖💻",
+          "link": "https://www.youtube.com/watch?v=xVX98YypDtw",
+          "videoId": "xVX98YypDtw",
+          "pubDate": "2026-03-13T14:15:14+00:00"
+        },
+        {
+          "title": "الريمونتادا الكبرى: تحديث ChatGPT 5.4 اللي هيتحكم في كمبيوترك مكانك!",
+          "link": "https://www.youtube.com/watch?v=PEsJ0a1fPtI",
+          "videoId": "PEsJ0a1fPtI",
+          "pubDate": "2026-03-09T14:15:04+00:00"
+        }
+      ],
+      "ok": true
     },
     "UC81Ks7DR9JFgZc14nmZ07EA": {
       "handle": "AMRSALEM800",
@@ -66,15 +66,53 @@
       "handle": "elzerowebschool",
       "name": "Elzero Web School",
       "feedTitle": "Elzero Web School",
-      "items": [],
-      "ok": false
+      "items": [
+        {
+          "title": "مبادرة هتطورك في البرمجة وتاخد ثواب وفرصة لرحلة عمرة",
+          "link": "https://www.youtube.com/watch?v=1n4AJdviibs",
+          "videoId": "1n4AJdviibs",
+          "pubDate": "2026-03-03T19:47:57+00:00"
+        },
+        {
+          "title": "توظيف البشر لصالح الذكاء الاصطناعي",
+          "link": "https://www.youtube.com/watch?v=4XBhqzlYJGY",
+          "videoId": "4XBhqzlYJGY",
+          "pubDate": "2026-02-16T10:47:19+00:00"
+        },
+        {
+          "title": "هل الذكاء الاصطناعي هيخلي السوق اصعب ؟",
+          "link": "https://www.youtube.com/watch?v=c-MANp0eKq4",
+          "videoId": "c-MANp0eKq4",
+          "pubDate": "2026-02-15T17:20:33+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCGrVvqu8PlVv0wPqA5kgY8A": {
       "handle": "ArabicArtificialIntelligence",
       "name": "الذكاء الاصطناعي العربي",
-      "feedTitle": "الذكاء الاصطناعي العربي",
-      "items": [],
-      "ok": false
+      "feedTitle": "ذكاء اصطناعي عربي",
+      "items": [
+        {
+          "title": "What is AI Agent? | شرح وكيل ذكاء اصطناعي",
+          "link": "https://www.youtube.com/watch?v=zACIXBszXgg",
+          "videoId": "zACIXBszXgg",
+          "pubDate": "2026-03-20T11:01:54+00:00"
+        },
+        {
+          "title": "What is Quantization? | شرح التكميم / تقليص الحجم",
+          "link": "https://www.youtube.com/watch?v=sBEr9GjMQpw",
+          "videoId": "sBEr9GjMQpw",
+          "pubDate": "2026-03-19T11:01:29+00:00"
+        },
+        {
+          "title": "What is Model Context Protocol? | شرح بروتوكول سياق النموذج",
+          "link": "https://www.youtube.com/watch?v=Ln2mIYWEpIc",
+          "videoId": "Ln2mIYWEpIc",
+          "pubDate": "2026-03-18T11:00:39+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCSXcmF4Gxl6Hc-m6cHYD_Vg": {
       "handle": "MohamedAnsary",
@@ -86,28 +124,9 @@
     "UCDqp23rTdCo_tXsuHLYF47Q": {
       "handle": "ArabianAiSchool",
       "name": "Arabian AI School",
-      "feedTitle": "مدرسة الذكاء الاصطناعي",
-      "items": [
-        {
-          "title": "طريقة سرية لعمل المواقع بالذكاء الاصطناعي (اتحداك لو تعرفها)",
-          "link": "https://www.youtube.com/watch?v=g7wlbRuKxls",
-          "videoId": "g7wlbRuKxls",
-          "pubDate": "2026-03-20T21:22:48+00:00"
-        },
-        {
-          "title": "اعمل مساعد ذكاء اصطناعي تكلمه من موبايلك ويعملك كل حاجة",
-          "link": "https://www.youtube.com/watch?v=W9whm_hl0-0",
-          "videoId": "W9whm_hl0-0",
-          "pubDate": "2026-03-17T20:03:27+00:00"
-        },
-        {
-          "title": "قارنت Claude Cowork وبديله المجاني والنتيجة ...",
-          "link": "https://www.youtube.com/watch?v=rkkSJlP014w",
-          "videoId": "rkkSJlP014w",
-          "pubDate": "2026-03-09T22:20:19+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "Arabian AI School",
+      "items": [],
+      "ok": false
     },
     "UCz0N3nKrJiDhNdKQvM6r93w": {
       "handle": "ryan.academy",
@@ -133,9 +152,28 @@
     "UCu1NJiJlhrhmF5ZgT-0yWdA": {
       "handle": "Jeelyaqraa",
       "name": "جيل يقرأ",
-      "feedTitle": "جيل يقرأ",
-      "items": [],
-      "ok": false
+      "feedTitle": "ReadTube - جيل يقرأ",
+      "items": [
+        {
+          "title": "الذين ضحكوا حتى البكاء -ملخص لكتاب د. مصطفى محمود",
+          "link": "https://www.youtube.com/watch?v=bSbrMABmf4E",
+          "videoId": "bSbrMABmf4E",
+          "pubDate": "2026-03-03T20:46:03+00:00"
+        },
+        {
+          "title": "المسيري يتنبأ بالمستقبل",
+          "link": "https://www.youtube.com/watch?v=N2hD24PnJQ4",
+          "videoId": "N2hD24PnJQ4",
+          "pubDate": "2026-03-01T20:56:54+00:00"
+        },
+        {
+          "title": "المسيري يفضح الفكر الابستيني - كتاب :الفلسفة المادية وتفكيك الإنسان",
+          "link": "https://www.youtube.com/watch?v=A9FEkTJhvfU",
+          "videoId": "A9FEkTJhvfU",
+          "pubDate": "2026-02-22T19:01:53+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCtUor2SqesPS3b_SMFtLT_w": {
       "handle": "a5drcom",
@@ -168,28 +206,9 @@
     "UC0LSnqrwqtMwl2YwfUpO66g": {
       "handle": "aljazeeradocumentary",
       "name": "الجزيرة الوثائقية",
-      "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
-      "items": [
-        {
-          "title": "هل المال يشتري السعادة؟",
-          "link": "https://www.youtube.com/watch?v=7JxQbj1t-hs",
-          "videoId": "7JxQbj1t-hs",
-          "pubDate": "2026-03-20T21:00:02+00:00"
-        },
-        {
-          "title": "عناق عيد مؤجل منذ 9 سنوات",
-          "link": "https://www.youtube.com/watch?v=IFL9vz23ZkQ",
-          "videoId": "IFL9vz23ZkQ",
-          "pubDate": "2026-03-20T20:00:01+00:00"
-        },
-        {
-          "title": "أسرار في قلب الأدغال.. حكايات من عالم خفي (الحلقة الأولى)",
-          "link": "https://www.youtube.com/watch?v=CEiJ6ziptDM",
-          "videoId": "CEiJ6ziptDM",
-          "pubDate": "2026-03-20T19:30:02+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "الجزيرة الوثائقية",
+      "items": [],
+      "ok": false
     },
     "UCArK7aSQ68vRCiJY2m7spkA": {
       "handle": "AsharqDoc",
