@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-21T16:14:36.608093+00:00",
+  "updated": "2026-03-21T17:15:10.667940+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "ناظم الغزالي.. من جبهات فلسطين إلى قمة المقام العراقي",
+          "link": "https://www.youtube.com/watch?v=pzIwSAzflw4",
+          "videoId": "pzIwSAzflw4",
+          "pubDate": "2026-03-21T17:00:01+00:00"
+        },
+        {
           "title": "أغنية يمنية كتبت صدفة فأحيت العيد سنوات",
           "link": "https://www.youtube.com/watch?v=3ig0dCmDWF4",
           "videoId": "3ig0dCmDWF4",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=NRJsLjRYfT0",
           "videoId": "NRJsLjRYfT0",
           "pubDate": "2026-03-21T12:30:01+00:00"
-        },
-        {
-          "title": "من جبهة القتال في سوريا.. رسالة جندي مغربي لأبيه",
-          "link": "https://www.youtube.com/watch?v=bPAGQlZOFjw",
-          "videoId": "bPAGQlZOFjw",
-          "pubDate": "2026-03-21T11:00:01+00:00"
         }
       ],
       "ok": true
