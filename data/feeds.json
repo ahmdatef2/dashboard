@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-21T12:20:39.380965+00:00",
+  "updated": "2026-03-21T13:34:21.627626+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "أحذية مصنوعة من جلود الثعابين وعصي تتخذ سيوفا",
+          "link": "https://www.youtube.com/watch?v=NRJsLjRYfT0",
+          "videoId": "NRJsLjRYfT0",
+          "pubDate": "2026-03-21T12:30:01+00:00"
+        },
+        {
           "title": "من جبهة القتال في سوريا.. رسالة جندي مغربي لأبيه",
           "link": "https://www.youtube.com/watch?v=bPAGQlZOFjw",
           "videoId": "bPAGQlZOFjw",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=MdTNIydB4Ls",
           "videoId": "MdTNIydB4Ls",
           "pubDate": "2026-03-21T08:00:01+00:00"
-        },
-        {
-          "title": "هل المال يشتري السعادة؟",
-          "link": "https://www.youtube.com/watch?v=7JxQbj1t-hs",
-          "videoId": "7JxQbj1t-hs",
-          "pubDate": "2026-03-20T21:00:02+00:00"
         }
       ],
       "ok": true
