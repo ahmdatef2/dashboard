@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-22T22:12:57.427606+00:00",
+  "updated": "2026-03-22T23:15:46.310074+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -241,6 +241,12 @@
       "feedTitle": "مدرسة الذكاء الاصطناعي",
       "items": [
         {
+          "title": "اخيرا Claude code مجانا وبلا حدود حتى لو جهازك ضعيف",
+          "link": "https://www.youtube.com/watch?v=ct8mZ3SPXT8",
+          "videoId": "ct8mZ3SPXT8",
+          "pubDate": "2026-03-22T23:05:41+00:00"
+        },
+        {
           "title": "طريقة سرية لعمل المواقع بالذكاء الاصطناعي (اتحداك لو تعرفها)",
           "link": "https://www.youtube.com/watch?v=g7wlbRuKxls",
           "videoId": "g7wlbRuKxls",
@@ -251,12 +257,6 @@
           "link": "https://www.youtube.com/watch?v=W9whm_hl0-0",
           "videoId": "W9whm_hl0-0",
           "pubDate": "2026-03-17T20:03:27+00:00"
-        },
-        {
-          "title": "قارنت Claude Cowork وبديله المجاني والنتيجة ...",
-          "link": "https://www.youtube.com/watch?v=rkkSJlP014w",
-          "videoId": "rkkSJlP014w",
-          "pubDate": "2026-03-09T22:20:19+00:00"
         }
       ],
       "ok": true
