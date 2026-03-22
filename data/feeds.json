@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-22T07:30:56.575479+00:00",
+  "updated": "2026-03-22T08:19:32.045721+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "العقبة- الأردن",
+          "link": "https://www.youtube.com/watch?v=evZnBasTltg",
+          "videoId": "evZnBasTltg",
+          "pubDate": "2026-03-22T08:00:01+00:00"
+        },
+        {
           "title": "ما علاقة النور بالمسيحية واليهودية والإسلام؟",
           "link": "https://www.youtube.com/watch?v=KoEZMaYSwcs",
           "videoId": "KoEZMaYSwcs",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=YBXoQJMqSaw",
           "videoId": "YBXoQJMqSaw",
           "pubDate": "2026-03-21T19:00:26+00:00"
-        },
-        {
-          "title": "\"مطرقة الساحرات\".. كتاب شرعن حرق الآلاف بتهمة السحر",
-          "link": "https://www.youtube.com/watch?v=kT3znxjgQvc",
-          "videoId": "kT3znxjgQvc",
-          "pubDate": "2026-03-21T19:00:01+00:00"
         }
       ],
       "ok": true
