@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-22T16:15:14.555159+00:00",
+  "updated": "2026-03-22T17:15:21.345204+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "الحمية المتوسطية.. من موائد الفقراء إلى أفضل نظام غذائي في العالم",
+          "link": "https://www.youtube.com/watch?v=3wJPJibAZ_Y",
+          "videoId": "3wJPJibAZ_Y",
+          "pubDate": "2026-03-22T17:00:01+00:00"
+        },
+        {
           "title": "برج بابل.. بُني لتحدي الإله فأتت العقوبة فورية",
           "link": "https://www.youtube.com/watch?v=LkBKk87zxaA",
           "videoId": "LkBKk87zxaA",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=Pw4dbpP2Ews",
           "videoId": "Pw4dbpP2Ews",
           "pubDate": "2026-03-22T09:30:01+00:00"
-        },
-        {
-          "title": "العقبة- الأردن",
-          "link": "https://www.youtube.com/watch?v=evZnBasTltg",
-          "videoId": "evZnBasTltg",
-          "pubDate": "2026-03-22T08:00:01+00:00"
         }
       ],
       "ok": true
@@ -553,6 +553,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "وثائقي | الحيوانات الغازية: تهديد للتوازن البيئي | وثائقية دي دبليو",
+          "link": "https://www.youtube.com/watch?v=FsOoWwTlzTg",
+          "videoId": "FsOoWwTlzTg",
+          "pubDate": "2026-03-22T17:00:17+00:00"
+        },
+        {
           "title": "وثائقي | القلب – العضو الأقوى في جسمنا  | وثائقية دي دبليو",
           "link": "https://www.youtube.com/watch?v=XObIUQB05sA",
           "videoId": "XObIUQB05sA",
@@ -563,12 +569,6 @@
           "link": "https://www.youtube.com/watch?v=wzXai8rHkz4",
           "videoId": "wzXai8rHkz4",
           "pubDate": "2026-03-20T10:30:47+00:00"
-        },
-        {
-          "title": "وثائقي | اليابان: مياه سامة من فوكوشيما | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=4ukRka_HMok",
-          "videoId": "4ukRka_HMok",
-          "pubDate": "2026-03-19T17:00:07+00:00"
         }
       ],
       "ok": true
