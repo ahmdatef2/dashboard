@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-22T04:07:32.968656+00:00",
+  "updated": "2026-03-22T05:43:47.336052+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -25,28 +25,9 @@
     "UCSRy-3lglM2QKJ_xF2zuPlQ": {
       "handle": "AbdellatifSaidA",
       "name": "عبداللطيف سعيد",
-      "feedTitle": "عبداللطيف سعيد Abdellatif Said",
-      "items": [
-        {
-          "title": "العلماء قالوا محتاجين \"كائنات فضائية\".. إزاي جوجل حلت أعقد لغز في التاريخ بـ AlphaEvolve؟!",
-          "link": "https://www.youtube.com/watch?v=x7t52oeJTjc",
-          "videoId": "x7t52oeJTjc",
-          "pubDate": "2026-03-18T14:15:17+00:00"
-        },
-        {
-          "title": "عملت برنامج كمبيوتر من غير ولا سطر كود! | تصميم برامج ويندوز بالذكاء الاصطناعي 🤖💻",
-          "link": "https://www.youtube.com/watch?v=xVX98YypDtw",
-          "videoId": "xVX98YypDtw",
-          "pubDate": "2026-03-13T14:15:14+00:00"
-        },
-        {
-          "title": "الريمونتادا الكبرى: تحديث ChatGPT 5.4 اللي هيتحكم في كمبيوترك مكانك!",
-          "link": "https://www.youtube.com/watch?v=PEsJ0a1fPtI",
-          "videoId": "PEsJ0a1fPtI",
-          "pubDate": "2026-03-09T14:15:04+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "عبداللطيف سعيد",
+      "items": [],
+      "ok": false
     },
     "UC81Ks7DR9JFgZc14nmZ07EA": {
       "handle": "AMRSALEM800",
