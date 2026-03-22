@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-22T18:19:10.148777+00:00",
+  "updated": "2026-03-22T19:16:49.913268+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -501,6 +501,12 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "أباطرة المال .. نموذج الصين | الشرق الوثائقية",
+          "link": "https://www.youtube.com/watch?v=1LoN3xiM-WM",
+          "videoId": "1LoN3xiM-WM",
+          "pubDate": "2026-03-22T19:00:01+00:00"
+        },
+        {
           "title": "الملوك الأربعة .. أبطال وندوب | الشرق الوثائقية",
           "link": "https://www.youtube.com/watch?v=SJaEY8dTGEc",
           "videoId": "SJaEY8dTGEc",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=5qx1LgHn9_Q",
           "videoId": "5qx1LgHn9_Q",
           "pubDate": "2026-03-20T19:00:06+00:00"
-        },
-        {
-          "title": "الملوك الأربعة .. معركة الأبطال | الشرق الوثائقية",
-          "link": "https://www.youtube.com/watch?v=lsBoK9tgZHg",
-          "videoId": "lsBoK9tgZHg",
-          "pubDate": "2026-03-19T19:00:48+00:00"
         }
       ],
       "ok": true
