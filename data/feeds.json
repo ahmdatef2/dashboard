@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-22T09:20:02.561181+00:00",
+  "updated": "2026-03-22T10:14:47.173255+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "كيف تؤثر الزراعة التقليدية سلبا على نظامنا الغذائي؟",
+          "link": "https://www.youtube.com/watch?v=Pw4dbpP2Ews",
+          "videoId": "Pw4dbpP2Ews",
+          "pubDate": "2026-03-22T09:30:01+00:00"
+        },
+        {
           "title": "العقبة- الأردن",
           "link": "https://www.youtube.com/watch?v=evZnBasTltg",
           "videoId": "evZnBasTltg",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=KoEZMaYSwcs",
           "videoId": "KoEZMaYSwcs",
           "pubDate": "2026-03-21T21:00:01+00:00"
-        },
-        {
-          "title": "مافيا المياه",
-          "link": "https://www.youtube.com/watch?v=YBXoQJMqSaw",
-          "videoId": "YBXoQJMqSaw",
-          "pubDate": "2026-03-21T19:00:26+00:00"
         }
       ],
       "ok": true
