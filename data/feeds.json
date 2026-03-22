@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-22T19:16:49.913268+00:00",
+  "updated": "2026-03-22T20:12:49.784328+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -33,6 +33,12 @@
       "feedTitle": "كل يوم موقع جديد",
       "items": [
         {
+          "title": "اصنع فيديو طويل بالذكاء الاصطناعي باستخدام NotebookLM + Canva",
+          "link": "https://www.youtube.com/watch?v=QNeDdUUKF50",
+          "videoId": "QNeDdUUKF50",
+          "pubDate": "2026-03-22T19:37:19+00:00"
+        },
+        {
           "title": "أفضل 3 مواقع بديلة لـ Grok مع باقات مجانية قوية",
           "link": "https://www.youtube.com/watch?v=t7Sxu3kMyOQ",
           "videoId": "t7Sxu3kMyOQ",
@@ -43,12 +49,6 @@
           "link": "https://www.youtube.com/watch?v=rRm-L17wMCk",
           "videoId": "rRm-L17wMCk",
           "pubDate": "2026-03-20T01:35:12+00:00"
-        },
-        {
-          "title": "أداة جديدة مجانية في Claude تصنع لك محتوى بصري تفاعلي فورًا",
-          "link": "https://www.youtube.com/watch?v=gu2elwf4F48",
-          "videoId": "gu2elwf4F48",
-          "pubDate": "2026-03-18T18:31:49+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "كيف أنقذ جمال عبد الناصر أم كلثوم؟",
+          "link": "https://www.youtube.com/watch?v=7ORZVONMOu0",
+          "videoId": "7ORZVONMOu0",
+          "pubDate": "2026-03-22T20:00:00+00:00"
+        },
+        {
           "title": "400 عام من التأثير.. العرب على الجبال والعثمانيين قرب البحار",
           "link": "https://www.youtube.com/watch?v=vC40SKpHHDA",
           "videoId": "vC40SKpHHDA",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=3wJPJibAZ_Y",
           "videoId": "3wJPJibAZ_Y",
           "pubDate": "2026-03-22T17:00:01+00:00"
-        },
-        {
-          "title": "برج بابل.. بُني لتحدي الإله فأتت العقوبة فورية",
-          "link": "https://www.youtube.com/watch?v=LkBKk87zxaA",
-          "videoId": "LkBKk87zxaA",
-          "pubDate": "2026-03-22T14:30:00+00:00"
         }
       ],
       "ok": true
@@ -527,6 +527,12 @@
       "feedTitle": "Nat Geo Abu Dhabi",
       "items": [
         {
+          "title": "المناطق الاستوائيّة | دليل هازن للبقاء على قيد الحياة في البرية | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=TdyGLcLBmhs",
+          "videoId": "TdyGLcLBmhs",
+          "pubDate": "2026-03-22T19:53:30+00:00"
+        },
+        {
           "title": "أسرار توت عنخ آمون | كنوز مصر المفقودة | ناشونال جيوغرافيك أبوظبي",
           "link": "https://www.youtube.com/watch?v=Oo7-eiD1kdU",
           "videoId": "Oo7-eiD1kdU",
@@ -537,12 +543,6 @@
           "link": "https://www.youtube.com/watch?v=xJibX6g7h9A",
           "videoId": "xJibX6g7h9A",
           "pubDate": "2026-03-19T20:01:00+00:00"
-        },
-        {
-          "title": "ابتداءً 20 مارس | كريتر فيكسرز: أطباء في الريف | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=N-uQnmGtO5Y",
-          "videoId": "N-uQnmGtO5Y",
-          "pubDate": "2026-03-19T19:32:34+00:00"
         }
       ],
       "ok": true
