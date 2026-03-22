@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-22T21:15:11.563242+00:00",
+  "updated": "2026-03-22T22:12:57.427606+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,12 +475,6 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
-          "title": "30 يوما دون ماء.. أسطورة الجِمال في وادي رم",
-          "link": "https://www.youtube.com/watch?v=aGkYgYmyrjU",
-          "videoId": "aGkYgYmyrjU",
-          "pubDate": "2026-03-22T21:00:01+00:00"
-        },
-        {
           "title": "الكليجة طبق يزين موائد العراقيين في الأعياد",
           "link": "https://www.youtube.com/watch?v=Dxgl110-Xpc",
           "videoId": "Dxgl110-Xpc",
@@ -491,6 +485,12 @@
           "link": "https://www.youtube.com/watch?v=7ORZVONMOu0",
           "videoId": "7ORZVONMOu0",
           "pubDate": "2026-03-22T20:00:00+00:00"
+        },
+        {
+          "title": "400 عام من التأثير.. العرب على الجبال والعثمانيين قرب البحار",
+          "link": "https://www.youtube.com/watch?v=vC40SKpHHDA",
+          "videoId": "vC40SKpHHDA",
+          "pubDate": "2026-03-22T18:00:01+00:00"
         }
       ],
       "ok": true
