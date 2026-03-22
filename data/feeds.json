@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-22T17:15:21.345204+00:00",
+  "updated": "2026-03-22T18:19:10.148777+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "400 عام من التأثير.. العرب على الجبال والعثمانيين قرب البحار",
+          "link": "https://www.youtube.com/watch?v=vC40SKpHHDA",
+          "videoId": "vC40SKpHHDA",
+          "pubDate": "2026-03-22T18:00:01+00:00"
+        },
+        {
           "title": "الحمية المتوسطية.. من موائد الفقراء إلى أفضل نظام غذائي في العالم",
           "link": "https://www.youtube.com/watch?v=3wJPJibAZ_Y",
           "videoId": "3wJPJibAZ_Y",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=LkBKk87zxaA",
           "videoId": "LkBKk87zxaA",
           "pubDate": "2026-03-22T14:30:00+00:00"
-        },
-        {
-          "title": "كيف تؤثر الزراعة التقليدية سلبا على نظامنا الغذائي؟",
-          "link": "https://www.youtube.com/watch?v=Pw4dbpP2Ews",
-          "videoId": "Pw4dbpP2Ews",
-          "pubDate": "2026-03-22T09:30:01+00:00"
         }
       ],
       "ok": true
