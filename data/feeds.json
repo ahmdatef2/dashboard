@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-22T14:16:52.036439+00:00",
+  "updated": "2026-03-22T15:14:12.775617+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "برج بابل.. بُني لتحدي الإله فأتت العقوبة فورية",
+          "link": "https://www.youtube.com/watch?v=LkBKk87zxaA",
+          "videoId": "LkBKk87zxaA",
+          "pubDate": "2026-03-22T14:30:00+00:00"
+        },
+        {
           "title": "كيف تؤثر الزراعة التقليدية سلبا على نظامنا الغذائي؟",
           "link": "https://www.youtube.com/watch?v=Pw4dbpP2Ews",
           "videoId": "Pw4dbpP2Ews",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=evZnBasTltg",
           "videoId": "evZnBasTltg",
           "pubDate": "2026-03-22T08:00:01+00:00"
-        },
-        {
-          "title": "ما علاقة النور بالمسيحية واليهودية والإسلام؟",
-          "link": "https://www.youtube.com/watch?v=KoEZMaYSwcs",
-          "videoId": "KoEZMaYSwcs",
-          "pubDate": "2026-03-21T21:00:01+00:00"
         }
       ],
       "ok": true
