@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-22T10:14:47.173255+00:00",
+  "updated": "2026-03-22T11:13:27.947886+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -215,6 +215,12 @@
       "feedTitle": "Mohamed Ansary",
       "items": [
         {
+          "title": "الحل العبقري للحصول على البرومبت الاحترافي Pretty Prompt",
+          "link": "https://www.youtube.com/watch?v=sDvqKfTaf_o",
+          "videoId": "sDvqKfTaf_o",
+          "pubDate": "2026-03-22T10:31:58+00:00"
+        },
+        {
           "title": "عروض تقديمية أكثر احترافية ومزايا أخرى عديدة GLM-4.6   من خلال Z.ai.",
           "link": "https://www.youtube.com/watch?v=a6Wz9oVG3fQ",
           "videoId": "a6Wz9oVG3fQ",
@@ -225,12 +231,6 @@
           "link": "https://www.youtube.com/watch?v=p9Ff7IJR8gk",
           "videoId": "p9Ff7IJR8gk",
           "pubDate": "2026-03-17T08:16:28+00:00"
-        },
-        {
-          "title": "كيفية تصميم رسوم ومخططات بيانية بشكل ٱحترافي من خلال Claude العملاق.",
-          "link": "https://www.youtube.com/watch?v=9x2AZDyE2J8",
-          "videoId": "9x2AZDyE2J8",
-          "pubDate": "2026-03-16T07:51:39+00:00"
         }
       ],
       "ok": true
