@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-23T08:40:16.987904+00:00",
+  "updated": "2026-03-23T09:50:47.169614+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -293,7 +293,7 @@
       "feedTitle": "تكنوفلاش – AI & Tech",
       "items": [
         {
-          "title": "اقوي بديل Grok المجاني 🔥 | جروك  Grok  وقف الفيديوهات المجانية  | اصنع فيديوهات بلا حدود مجانًا",
+          "title": "اقوي بديل grok ai المجاني 🔥 | جروك grok ai | اصنع فيديوهات بلا حدود مجانًا",
           "link": "https://www.youtube.com/watch?v=qo88aQ9f5Ak",
           "videoId": "qo88aQ9f5Ak",
           "pubDate": "2026-03-23T08:21:05+00:00"
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "طالب من غزة بمعدل 99٪ كاد يتخلى عن الطب لسبب لم يكن بالحسبان",
+          "link": "https://www.youtube.com/watch?v=VcwFuUHfc04",
+          "videoId": "VcwFuUHfc04",
+          "pubDate": "2026-03-23T09:30:01+00:00"
+        },
+        {
           "title": "شبه جزيرة مسندم",
           "link": "https://www.youtube.com/watch?v=pH7foX32S9c",
           "videoId": "pH7foX32S9c",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=Dxgl110-Xpc",
           "videoId": "Dxgl110-Xpc",
           "pubDate": "2026-03-22T20:58:01+00:00"
-        },
-        {
-          "title": "كيف أنقذ جمال عبد الناصر أم كلثوم؟",
-          "link": "https://www.youtube.com/watch?v=7ORZVONMOu0",
-          "videoId": "7ORZVONMOu0",
-          "pubDate": "2026-03-22T20:00:00+00:00"
         }
       ],
       "ok": true
