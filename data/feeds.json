@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-23T04:14:14.934606+00:00",
+  "updated": "2026-03-23T06:02:20.514729+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -151,9 +151,28 @@
     "UCET6sWl4Xcu-U8Ka9PJPrwA": {
       "handle": "dwdocarabia",
       "name": "DW عربية وثائقي",
-      "feedTitle": "DW عربية وثائقي",
-      "items": [],
-      "ok": false
+      "feedTitle": "DW Documentary وثائقية دي دبليو",
+      "items": [
+        {
+          "title": "وثائقي | الحيوانات الغازية: تهديد للتوازن البيئي | وثائقية دي دبليو",
+          "link": "https://www.youtube.com/watch?v=FsOoWwTlzTg",
+          "videoId": "FsOoWwTlzTg",
+          "pubDate": "2026-03-22T17:00:17+00:00"
+        },
+        {
+          "title": "وثائقي | القلب – العضو الأقوى في جسمنا  | وثائقية دي دبليو",
+          "link": "https://www.youtube.com/watch?v=XObIUQB05sA",
+          "videoId": "XObIUQB05sA",
+          "pubDate": "2026-03-20T17:00:49+00:00"
+        },
+        {
+          "title": "#وثائقي المزارعون الشباب في إيطاليا",
+          "link": "https://www.youtube.com/watch?v=wzXai8rHkz4",
+          "videoId": "wzXai8rHkz4",
+          "pubDate": "2026-03-20T10:30:47+00:00"
+        }
+      ],
+      "ok": true
     }
   }
 }
