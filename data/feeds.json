@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-23T14:05:27.501984+00:00",
+  "updated": "2026-03-23T15:49:33.119709+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -59,6 +59,12 @@
       "feedTitle": "Infotech4you - مروي سليمان",
       "items": [
         {
+          "title": "أفضل طريقة لربط NotebookLM مع Google Docs خطوة بخطوة",
+          "link": "https://www.youtube.com/watch?v=hculdKnY3ew",
+          "videoId": "hculdKnY3ew",
+          "pubDate": "2026-03-23T14:18:40+00:00"
+        },
+        {
           "title": "تحديث ضخم داخل Google AI Studio وبناء تطبيق كامل بقاعادة بيانات في ثوان!",
           "link": "https://www.youtube.com/watch?v=XLnz5vP-jxU",
           "videoId": "XLnz5vP-jxU",
@@ -69,12 +75,6 @@
           "link": "https://www.youtube.com/watch?v=sKFUNGG7hPM",
           "videoId": "sKFUNGG7hPM",
           "pubDate": "2026-03-19T21:15:18+00:00"
-        },
-        {
-          "title": "ازاي تبني Skill  بنفسك وتستخدمه مباشرة داخل Claude خطوة بخطوة ؟",
-          "link": "https://www.youtube.com/watch?v=GBaXIwVUpEI",
-          "videoId": "GBaXIwVUpEI",
-          "pubDate": "2026-03-18T17:00:49+00:00"
         }
       ],
       "ok": true
@@ -84,6 +84,12 @@
       "name": "عبداللطيف سعيد",
       "feedTitle": "عبداللطيف سعيد Abdellatif Said",
       "items": [
+        {
+          "title": "جوجل دمرت اللعبة! 🤯 صمم تطبيق أحلامك بمجرد الكلام مع الذكاء الاصطناعي.",
+          "link": "https://www.youtube.com/watch?v=6xEzVck0X0w",
+          "videoId": "6xEzVck0X0w",
+          "pubDate": "2026-03-23T14:15:00+00:00"
+        },
         {
           "title": "العلماء قالوا محتاجين \"كائنات فضائية\".. إزاي جوجل حلت أعقد لغز في التاريخ بـ AlphaEvolve؟!",
           "link": "https://www.youtube.com/watch?v=x7t52oeJTjc",
@@ -95,12 +101,6 @@
           "link": "https://www.youtube.com/watch?v=xVX98YypDtw",
           "videoId": "xVX98YypDtw",
           "pubDate": "2026-03-13T14:15:14+00:00"
-        },
-        {
-          "title": "الريمونتادا الكبرى: تحديث ChatGPT 5.4 اللي هيتحكم في كمبيوترك مكانك!",
-          "link": "https://www.youtube.com/watch?v=PEsJ0a1fPtI",
-          "videoId": "PEsJ0a1fPtI",
-          "pubDate": "2026-03-09T14:15:04+00:00"
         }
       ],
       "ok": true
@@ -559,7 +559,7 @@
           "pubDate": "2026-03-22T17:00:17+00:00"
         },
         {
-          "title": "وثائقي | القلب – العضو الأقوى في جسمنا  | وثائقية دي دبليو",
+          "title": "وثائقي | القلب – العضو الأقوى في جسمنا | وثائقية دي دبليو",
           "link": "https://www.youtube.com/watch?v=XObIUQB05sA",
           "videoId": "XObIUQB05sA",
           "pubDate": "2026-03-20T17:00:49+00:00"
