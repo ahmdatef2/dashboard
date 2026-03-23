@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-23T20:26:16.401113+00:00",
+  "updated": "2026-03-23T21:24:17.826025+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "30 يوما دون ماء.. أسطورة الجِمال في وادي رم",
+          "link": "https://www.youtube.com/watch?v=KtGuUDcDSQw",
+          "videoId": "KtGuUDcDSQw",
+          "pubDate": "2026-03-23T20:59:01+00:00"
+        },
+        {
           "title": "رحلة إلى فلسطين في القرن 19: كيف ألهمت كاتبا بريطانيا ودفعته إلى الإسلام؟",
           "link": "https://www.youtube.com/watch?v=3ZsHCOF4yCg",
           "videoId": "3ZsHCOF4yCg",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=Bfw_ZoBtRbQ",
           "videoId": "Bfw_ZoBtRbQ",
           "pubDate": "2026-03-23T17:00:01+00:00"
-        },
-        {
-          "title": "المرأة في كوريا الشمالية.. مساواة أم عبء مضاعف؟",
-          "link": "https://www.youtube.com/watch?v=xDs0riaP8jA",
-          "videoId": "xDs0riaP8jA",
-          "pubDate": "2026-03-23T16:00:00+00:00"
         }
       ],
       "ok": true
