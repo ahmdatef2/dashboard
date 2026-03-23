@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-23T11:34:52.780104+00:00",
+  "updated": "2026-03-23T12:35:56.432887+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -111,6 +111,12 @@
       "feedTitle": "AMR SALEM _ عمرو سالم",
       "items": [
         {
+          "title": "أكبر تحديث لـ Google Workspace   الآن Gemini في كل مكان",
+          "link": "https://www.youtube.com/watch?v=LMwe4S7peEs",
+          "videoId": "LMwe4S7peEs",
+          "pubDate": "2026-03-23T11:41:28+00:00"
+        },
+        {
           "title": "تحديثات \"ضخمة\" في Google AI Studio | بناء تطبيقات كاملة بضغطة زر!",
           "link": "https://www.youtube.com/watch?v=qYhO2kiJYUE",
           "videoId": "qYhO2kiJYUE",
@@ -121,12 +127,6 @@
           "link": "https://www.youtube.com/watch?v=h0jKil3mMEo",
           "videoId": "h0jKil3mMEo",
           "pubDate": "2026-03-20T05:00:46+00:00"
-        },
-        {
-          "title": "ازاي تعمل تطبيق تدريب على الكتابة السريعة بالذكاء الاصطناعي (بدون كود!) 🔥",
-          "link": "https://www.youtube.com/watch?v=U7im7_ewwwI",
-          "videoId": "U7im7_ewwwI",
-          "pubDate": "2026-03-17T12:00:54+00:00"
         }
       ],
       "ok": true
@@ -305,7 +305,7 @@
           "pubDate": "2026-03-20T22:38:34+00:00"
         },
         {
-          "title": "سر grok aiالذي يجعل شخصيات الذكاء الاصطناعي لا تتغير أبدا | خدعة  Free image to video ai generator",
+          "title": "كيفيه انشاء فيديو بالذكاء الاصطناعي ب grok ai",
           "link": "https://www.youtube.com/watch?v=aWNMnqssZDk",
           "videoId": "aWNMnqssZDk",
           "pubDate": "2026-03-17T17:49:30+00:00"
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "الخنجر العماني أكثر من مجرد سلاح",
+          "link": "https://www.youtube.com/watch?v=hPH5MNDASd8",
+          "videoId": "hPH5MNDASd8",
+          "pubDate": "2026-03-23T12:30:01+00:00"
+        },
+        {
           "title": "طالب من غزة بمعدل 99٪ كاد يتخلى عن الطب لسبب لم يكن بالحسبان",
           "link": "https://www.youtube.com/watch?v=VcwFuUHfc04",
           "videoId": "VcwFuUHfc04",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=pH7foX32S9c",
           "videoId": "pH7foX32S9c",
           "pubDate": "2026-03-23T08:00:01+00:00"
-        },
-        {
-          "title": "الكليجة طبق يزين موائد العراقيين في الأعياد",
-          "link": "https://www.youtube.com/watch?v=Dxgl110-Xpc",
-          "videoId": "Dxgl110-Xpc",
-          "pubDate": "2026-03-22T20:58:01+00:00"
         }
       ],
       "ok": true
