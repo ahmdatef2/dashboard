@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-23T18:35:57.514331+00:00",
+  "updated": "2026-03-23T19:38:53.930596+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "رحلة إلى فلسطين في القرن 19: كيف ألهمت كاتبا بريطانيا ودفعته إلى الإسلام؟",
+          "link": "https://www.youtube.com/watch?v=3ZsHCOF4yCg",
+          "videoId": "3ZsHCOF4yCg",
+          "pubDate": "2026-03-23T19:00:01+00:00"
+        },
+        {
           "title": "ابن رزين التجيبي العالم الذي وثّق أسرار المطبخ الأندلسي",
           "link": "https://www.youtube.com/watch?v=Bfw_ZoBtRbQ",
           "videoId": "Bfw_ZoBtRbQ",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=xDs0riaP8jA",
           "videoId": "xDs0riaP8jA",
           "pubDate": "2026-03-23T16:00:00+00:00"
-        },
-        {
-          "title": "الخنجر العماني أكثر من مجرد سلاح",
-          "link": "https://www.youtube.com/watch?v=hPH5MNDASd8",
-          "videoId": "hPH5MNDASd8",
-          "pubDate": "2026-03-23T12:30:01+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "أباطرة المال .. الحلم الأميركي | الشرق الوثائقية",
+          "link": "https://www.youtube.com/watch?v=xm_PQJw3lcY",
+          "videoId": "xm_PQJw3lcY",
+          "pubDate": "2026-03-23T19:00:53+00:00"
+        },
         {
           "title": "أباطرة المال .. نموذج الصين | الشرق الوثائقية",
           "link": "https://www.youtube.com/watch?v=1LoN3xiM-WM",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=SJaEY8dTGEc",
           "videoId": "SJaEY8dTGEc",
           "pubDate": "2026-03-21T19:00:24+00:00"
-        },
-        {
-          "title": "الملوك الأربعة .. محاكمة يوبانك | الشرق الوثائقية",
-          "link": "https://www.youtube.com/watch?v=5qx1LgHn9_Q",
-          "videoId": "5qx1LgHn9_Q",
-          "pubDate": "2026-03-20T19:00:06+00:00"
         }
       ],
       "ok": true
@@ -527,22 +527,22 @@
       "feedTitle": "Nat Geo Abu Dhabi",
       "items": [
         {
+          "title": "موسم جديد | سفاري قاتلة | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=3T59wW5PqQU",
+          "videoId": "3T59wW5PqQU",
+          "pubDate": "2026-03-23T18:40:07+00:00"
+        },
+        {
+          "title": "موسم جديد | سفاري قاتلة | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=WQwqVhCZ6VQ",
+          "videoId": "WQwqVhCZ6VQ",
+          "pubDate": "2026-03-23T18:39:51+00:00"
+        },
+        {
           "title": "المناطق الاستوائيّة | دليل هازن للبقاء على قيد الحياة في البرية | ناشونال جيوغرافيك أبوظبي",
           "link": "https://www.youtube.com/watch?v=TdyGLcLBmhs",
           "videoId": "TdyGLcLBmhs",
           "pubDate": "2026-03-22T19:53:30+00:00"
-        },
-        {
-          "title": "أسرار توت عنخ آمون | كنوز مصر المفقودة | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=Oo7-eiD1kdU",
-          "videoId": "Oo7-eiD1kdU",
-          "pubDate": "2026-03-20T19:33:40+00:00"
-        },
-        {
-          "title": "ابتداءً 20 مارس | كريتر فيكسرز: أطباء في الريف | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=xJibX6g7h9A",
-          "videoId": "xJibX6g7h9A",
-          "pubDate": "2026-03-19T20:01:00+00:00"
         }
       ],
       "ok": true
