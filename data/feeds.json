@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-23T12:35:56.432887+00:00",
+  "updated": "2026-03-23T14:05:27.501984+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -319,6 +319,12 @@
       "feedTitle": "خير جليس",
       "items": [
         {
+          "title": "المهارات تضاعف إمكانات الدخل - من  كتاب الأب الغني الأب الفقير",
+          "link": "https://www.youtube.com/watch?v=NIRtIHz-CgQ",
+          "videoId": "NIRtIHz-CgQ",
+          "pubDate": "2026-03-23T13:00:38+00:00"
+        },
+        {
           "title": "التدفق النقدي أهم من الراتب - من  كتاب الأب الغني الأب الفقير",
           "link": "https://www.youtube.com/watch?v=y6dV6tF8vrI",
           "videoId": "y6dV6tF8vrI",
@@ -329,12 +335,6 @@
           "link": "https://www.youtube.com/watch?v=c7-iJJEfqao",
           "videoId": "c7-iJJEfqao",
           "pubDate": "2026-03-21T06:00:24+00:00"
-        },
-        {
-          "title": "الخوف والطمع يقودان معظم القرارات المالية - من  كتاب الأب الغني الأب الفقير",
-          "link": "https://www.youtube.com/watch?v=tBG-WL9PVMQ",
-          "videoId": "tBG-WL9PVMQ",
-          "pubDate": "2026-03-20T06:00:48+00:00"
         }
       ],
       "ok": true
