@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-24T22:18:17.725649+00:00",
+  "updated": "2026-03-24T23:19:51.830449+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -33,6 +33,12 @@
       "feedTitle": "كل يوم موقع جديد",
       "items": [
         {
+          "title": "هل Kimi K2.5 أفضل أداة لعمل العروض التقديمية بالذكاء الاصطناعي؟",
+          "link": "https://www.youtube.com/watch?v=wU3oin0CzRI",
+          "videoId": "wU3oin0CzRI",
+          "pubDate": "2026-03-24T22:24:47+00:00"
+        },
+        {
           "title": "اصنع فيديو طويل بالذكاء الاصطناعي باستخدام NotebookLM + Canva",
           "link": "https://www.youtube.com/watch?v=QNeDdUUKF50",
           "videoId": "QNeDdUUKF50",
@@ -43,12 +49,6 @@
           "link": "https://www.youtube.com/watch?v=t7Sxu3kMyOQ",
           "videoId": "t7Sxu3kMyOQ",
           "pubDate": "2026-03-20T21:14:44+00:00"
-        },
-        {
-          "title": "نموذج صور من Z AI  يدعم النصوص والإنفوجرافيك ! هل يتفوق على جوجل؟",
-          "link": "https://www.youtube.com/watch?v=rRm-L17wMCk",
-          "videoId": "rRm-L17wMCk",
-          "pubDate": "2026-03-20T01:35:12+00:00"
         }
       ],
       "ok": true
