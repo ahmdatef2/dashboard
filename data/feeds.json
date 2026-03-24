@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-24T08:36:22.365917+00:00",
+  "updated": "2026-03-24T09:42:22.418314+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "نادية سمور.. معركة قانونية ضد تقييد الصوت الفلسطيني",
+          "link": "https://www.youtube.com/watch?v=wf3nit0T81k",
+          "videoId": "wf3nit0T81k",
+          "pubDate": "2026-03-24T08:27:44+00:00"
+        },
+        {
           "title": "أكبر كائن سمكي ملاذ آمن لأصغر المخلوقات البحرية",
           "link": "https://www.youtube.com/watch?v=Ah60l2DMggE",
           "videoId": "Ah60l2DMggE",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=KtGuUDcDSQw",
           "videoId": "KtGuUDcDSQw",
           "pubDate": "2026-03-23T20:59:01+00:00"
-        },
-        {
-          "title": "رحلة إلى فلسطين في القرن 19: كيف ألهمت كاتبا بريطانيا ودفعته إلى الإسلام؟",
-          "link": "https://www.youtube.com/watch?v=3ZsHCOF4yCg",
-          "videoId": "3ZsHCOF4yCg",
-          "pubDate": "2026-03-23T19:00:01+00:00"
         }
       ],
       "ok": true
