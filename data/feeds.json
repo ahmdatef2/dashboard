@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-24T15:53:26.269426+00:00",
+  "updated": "2026-03-24T16:47:10.210951+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -215,22 +215,22 @@
       "feedTitle": "Mohamed Ansary",
       "items": [
         {
+          "title": "ثورة الذكاء الاصطناعي التوليدي: دورة احترافية جديدة.",
+          "link": "https://www.youtube.com/watch?v=gLsekZleAWo",
+          "videoId": "gLsekZleAWo",
+          "pubDate": "2026-03-24T16:35:30+00:00"
+        },
+        {
+          "title": "ثورة الذكاء الاصطناعي التوليدي:دورة إحترافية جديدة.",
+          "link": "https://www.youtube.com/watch?v=CfEvmxph_tg",
+          "videoId": "CfEvmxph_tg",
+          "pubDate": "2026-03-24T16:29:26+00:00"
+        },
+        {
           "title": "التحديث العملاق من جوجل سكولار..",
           "link": "https://www.youtube.com/watch?v=CIhgo3XEY0Q",
           "videoId": "CIhgo3XEY0Q",
           "pubDate": "2026-03-24T10:37:43+00:00"
-        },
-        {
-          "title": "الحل العبقري للحصول على البرومبت الاحترافي Pretty Prompt",
-          "link": "https://www.youtube.com/watch?v=sDvqKfTaf_o",
-          "videoId": "sDvqKfTaf_o",
-          "pubDate": "2026-03-22T10:31:58+00:00"
-        },
-        {
-          "title": "عروض تقديمية أكثر احترافية ومزايا أخرى عديدة GLM-4.6   من خلال Z.ai.",
-          "link": "https://www.youtube.com/watch?v=a6Wz9oVG3fQ",
-          "videoId": "a6Wz9oVG3fQ",
-          "pubDate": "2026-03-18T18:28:10+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "مبشر أمريكي اكتشف مغارة جعيتا عن طريق الصدفة",
+          "link": "https://www.youtube.com/watch?v=YUIvPTWUs80",
+          "videoId": "YUIvPTWUs80",
+          "pubDate": "2026-03-24T16:00:01+00:00"
+        },
+        {
           "title": "ذو السن المكسورة.. أخطر رجال المافيا الصينيين",
           "link": "https://www.youtube.com/watch?v=V0EKW8RhZu0",
           "videoId": "V0EKW8RhZu0",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=pmNdrn8da-k",
           "videoId": "pmNdrn8da-k",
           "pubDate": "2026-03-24T12:30:01+00:00"
-        },
-        {
-          "title": "نادية سمور.. معركة قانونية ضد تقييد الصوت الفلسطيني",
-          "link": "https://www.youtube.com/watch?v=wf3nit0T81k",
-          "videoId": "wf3nit0T81k",
-          "pubDate": "2026-03-24T08:27:44+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "مكتب معلومات الحرب",
+          "link": "https://www.youtube.com/watch?v=awhAWqxB3-4",
+          "videoId": "awhAWqxB3-4",
+          "pubDate": "2026-03-24T16:00:05+00:00"
+        },
         {
           "title": "جمع البذور هو عمل الإنسان منذ 300 ألف عام",
           "link": "https://www.youtube.com/watch?v=gUrwjhu1fak",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=c5x80eNcZD4",
           "videoId": "c5x80eNcZD4",
           "pubDate": "2026-03-24T10:46:40+00:00"
-        },
-        {
-          "title": "أباطرة المال .. الحلم الأميركي | الشرق الوثائقية",
-          "link": "https://www.youtube.com/watch?v=xm_PQJw3lcY",
-          "videoId": "xm_PQJw3lcY",
-          "pubDate": "2026-03-23T19:00:53+00:00"
         }
       ],
       "ok": true
@@ -553,6 +553,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "حقائق لا نعرفها عن القلب",
+          "link": "https://www.youtube.com/watch?v=eHj133ghUTU",
+          "videoId": "eHj133ghUTU",
+          "pubDate": "2026-03-24T16:14:01+00:00"
+        },
+        {
           "title": "ريبورتاج |  الدراسة في ألمانيا - واقع الطلاب الهنود | وثائقية دي دبليو",
           "link": "https://www.youtube.com/watch?v=HIMS2SQ-LMs",
           "videoId": "HIMS2SQ-LMs",
@@ -563,12 +569,6 @@
           "link": "https://www.youtube.com/watch?v=FsOoWwTlzTg",
           "videoId": "FsOoWwTlzTg",
           "pubDate": "2026-03-22T17:00:17+00:00"
-        },
-        {
-          "title": "وثائقي | القلب – العضو الأقوى في جسمنا | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=XObIUQB05sA",
-          "videoId": "XObIUQB05sA",
-          "pubDate": "2026-03-20T17:00:49+00:00"
         }
       ],
       "ok": true
