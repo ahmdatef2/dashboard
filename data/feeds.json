@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-24T09:42:22.418314+00:00",
+  "updated": "2026-03-24T10:38:32.594666+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -215,6 +215,12 @@
       "feedTitle": "Mohamed Ansary",
       "items": [
         {
+          "title": "التحديث العملاق من جوجل سكولار..",
+          "link": "https://www.youtube.com/watch?v=CIhgo3XEY0Q",
+          "videoId": "CIhgo3XEY0Q",
+          "pubDate": "2026-03-24T10:37:43+00:00"
+        },
+        {
           "title": "الحل العبقري للحصول على البرومبت الاحترافي Pretty Prompt",
           "link": "https://www.youtube.com/watch?v=sDvqKfTaf_o",
           "videoId": "sDvqKfTaf_o",
@@ -225,12 +231,6 @@
           "link": "https://www.youtube.com/watch?v=a6Wz9oVG3fQ",
           "videoId": "a6Wz9oVG3fQ",
           "pubDate": "2026-03-18T18:28:10+00:00"
-        },
-        {
-          "title": "كيفية عمل تطبيقات Vibe Coding من خلال Google Ai Studio..",
-          "link": "https://www.youtube.com/watch?v=p9Ff7IJR8gk",
-          "videoId": "p9Ff7IJR8gk",
-          "pubDate": "2026-03-17T08:16:28+00:00"
         }
       ],
       "ok": true
