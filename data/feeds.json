@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-24T19:44:42.344663+00:00",
+  "updated": "2026-03-24T20:28:51.671503+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -215,12 +215,6 @@
       "feedTitle": "Mohamed Ansary",
       "items": [
         {
-          "title": "أهم مصادر رسائل الماجستير والدكتوراه",
-          "link": "https://www.youtube.com/watch?v=Pgp6UJdLJac",
-          "videoId": "Pgp6UJdLJac",
-          "pubDate": "2026-03-24T19:05:26+00:00"
-        },
-        {
           "title": "ثورة الذكاء الاصطناعي التوليدي: دورة احترافية جديدة.",
           "link": "https://www.youtube.com/watch?v=gLsekZleAWo",
           "videoId": "gLsekZleAWo",
@@ -231,6 +225,12 @@
           "link": "https://www.youtube.com/watch?v=CfEvmxph_tg",
           "videoId": "CfEvmxph_tg",
           "pubDate": "2026-03-24T16:29:26+00:00"
+        },
+        {
+          "title": "التحديث العملاق من جوجل سكولار..",
+          "link": "https://www.youtube.com/watch?v=CIhgo3XEY0Q",
+          "videoId": "CIhgo3XEY0Q",
+          "pubDate": "2026-03-24T10:37:43+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "البقاء في عصر الاحتباس الحراري.. الحضارة |  هل يستطيع الإنسان التأقلم؟",
+          "link": "https://www.youtube.com/watch?v=oKL7hfha0nY",
+          "videoId": "oKL7hfha0nY",
+          "pubDate": "2026-03-24T20:00:37+00:00"
+        },
+        {
           "title": "بيكاسو.. الرسمة الأولى | ليلة صنعت عبقرية أحد أعظم فناني القرن العشرين",
           "link": "https://www.youtube.com/watch?v=18HgrAhrYdA",
           "videoId": "18HgrAhrYdA",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=mepZS9-8Rjs",
           "videoId": "mepZS9-8Rjs",
           "pubDate": "2026-03-24T18:00:01+00:00"
-        },
-        {
-          "title": "مبشر أمريكي اكتشف مغارة جعيتا عن طريق الصدفة",
-          "link": "https://www.youtube.com/watch?v=YUIvPTWUs80",
-          "videoId": "YUIvPTWUs80",
-          "pubDate": "2026-03-24T16:00:01+00:00"
         }
       ],
       "ok": true
@@ -527,6 +527,12 @@
       "feedTitle": "Nat Geo Abu Dhabi",
       "items": [
         {
+          "title": "الحلقة الأولى | المتخفي | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=RiZBqX7IQHw",
+          "videoId": "RiZBqX7IQHw",
+          "pubDate": "2026-03-24T19:47:34+00:00"
+        },
+        {
           "title": "موسم جديد | سفاري قاتلة | ناشونال جيوغرافيك أبوظبي",
           "link": "https://www.youtube.com/watch?v=3T59wW5PqQU",
           "videoId": "3T59wW5PqQU",
@@ -537,12 +543,6 @@
           "link": "https://www.youtube.com/watch?v=WQwqVhCZ6VQ",
           "videoId": "WQwqVhCZ6VQ",
           "pubDate": "2026-03-23T18:39:51+00:00"
-        },
-        {
-          "title": "المناطق الاستوائيّة | دليل هازن للبقاء على قيد الحياة في البرية | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=TdyGLcLBmhs",
-          "videoId": "TdyGLcLBmhs",
-          "pubDate": "2026-03-22T19:53:30+00:00"
         }
       ],
       "ok": true
