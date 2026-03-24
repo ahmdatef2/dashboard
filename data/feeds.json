@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-24T17:44:47.711874+00:00",
+  "updated": "2026-03-24T18:43:46.514250+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "الشيخ أحمد القطان.. خطيب الكويت الذي نذر منبره لنصرة فلسطين",
+          "link": "https://www.youtube.com/watch?v=mepZS9-8Rjs",
+          "videoId": "mepZS9-8Rjs",
+          "pubDate": "2026-03-24T18:00:01+00:00"
+        },
+        {
           "title": "مبشر أمريكي اكتشف مغارة جعيتا عن طريق الصدفة",
           "link": "https://www.youtube.com/watch?v=YUIvPTWUs80",
           "videoId": "YUIvPTWUs80",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=V0EKW8RhZu0",
           "videoId": "V0EKW8RhZu0",
           "pubDate": "2026-03-24T14:30:01+00:00"
-        },
-        {
-          "title": "كيف دخل تاجر أيسلندي الإسلام بعد زيارته لأحد المساجد في المغرب؟",
-          "link": "https://www.youtube.com/watch?v=pmNdrn8da-k",
-          "videoId": "pmNdrn8da-k",
-          "pubDate": "2026-03-24T12:30:01+00:00"
         }
       ],
       "ok": true
