@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-24T20:28:51.671503+00:00",
+  "updated": "2026-03-24T21:25:53.697677+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -59,7 +59,13 @@
       "feedTitle": "Infotech4you - مروي سليمان",
       "items": [
         {
-          "title": "أفضل طريقة لربط NotebookLM مع Google Docs خطوة بخطوة",
+          "title": "Claude Cowork Projects ميزة جديدة قد تغير شغلك بالكامل !",
+          "link": "https://www.youtube.com/watch?v=a7ebCfPZGbA",
+          "videoId": "a7ebCfPZGbA",
+          "pubDate": "2026-03-24T21:11:25+00:00"
+        },
+        {
+          "title": "أقوى Workflow بين NotebookLM وGoogle Docs في 2026",
           "link": "https://www.youtube.com/watch?v=hculdKnY3ew",
           "videoId": "hculdKnY3ew",
           "pubDate": "2026-03-23T14:18:40+00:00"
@@ -69,12 +75,6 @@
           "link": "https://www.youtube.com/watch?v=XLnz5vP-jxU",
           "videoId": "XLnz5vP-jxU",
           "pubDate": "2026-03-21T21:01:39+00:00"
-        },
-        {
-          "title": "مفاجأة انثروبيك للجميع: Claude Dispatch وإدارة جهازك من الهاتف!",
-          "link": "https://www.youtube.com/watch?v=sKFUNGG7hPM",
-          "videoId": "sKFUNGG7hPM",
-          "pubDate": "2026-03-19T21:15:18+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "رجل الجليد الذي كان يجمد ضحاياه بعد قتلهم",
+          "link": "https://www.youtube.com/watch?v=IixsWFgeAMk",
+          "videoId": "IixsWFgeAMk",
+          "pubDate": "2026-03-24T20:59:01+00:00"
+        },
+        {
           "title": "البقاء في عصر الاحتباس الحراري.. الحضارة |  هل يستطيع الإنسان التأقلم؟",
           "link": "https://www.youtube.com/watch?v=oKL7hfha0nY",
           "videoId": "oKL7hfha0nY",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=18HgrAhrYdA",
           "videoId": "18HgrAhrYdA",
           "pubDate": "2026-03-24T18:45:01+00:00"
-        },
-        {
-          "title": "الشيخ أحمد القطان.. خطيب الكويت الذي نذر منبره لنصرة فلسطين",
-          "link": "https://www.youtube.com/watch?v=mepZS9-8Rjs",
-          "videoId": "mepZS9-8Rjs",
-          "pubDate": "2026-03-24T18:00:01+00:00"
         }
       ],
       "ok": true
