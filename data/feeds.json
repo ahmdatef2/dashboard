@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-24T11:35:55.718680+00:00",
+  "updated": "2026-03-24T12:39:29.227761+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -293,13 +293,13 @@
       "feedTitle": "تكنوفلاش – AI & Tech",
       "items": [
         {
-          "title": "بديل Grok المجاني بدون اشتراك! اصنع فيديوهات وصور AI grok ",
+          "title": "بديل grok المجاني 2026 | إنشاء فيديوهات بالذكاء الاصطناعي بدون حدود!",
           "link": "https://www.youtube.com/watch?v=qo88aQ9f5Ak",
           "videoId": "qo88aQ9f5Ak",
           "pubDate": "2026-03-23T08:21:05+00:00"
         },
         {
-          "title": "بديل Grok المجاني بدون اشتراك! اصنع فيديوهات وصور AI ",
+          "title": "بديل grok المجاني 2026 | إنشاء فيديوهات بالذكاء الاصطناعي بدون حدود!",
           "link": "https://www.youtube.com/watch?v=oR7H4VByAD4",
           "videoId": "oR7H4VByAD4",
           "pubDate": "2026-03-20T22:38:34+00:00"
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "كيف دخل تاجر أيسلندي الإسلام بعد زيارته لأحد المساجد في المغرب؟",
+          "link": "https://www.youtube.com/watch?v=pmNdrn8da-k",
+          "videoId": "pmNdrn8da-k",
+          "pubDate": "2026-03-24T12:30:01+00:00"
+        },
+        {
           "title": "نادية سمور.. معركة قانونية ضد تقييد الصوت الفلسطيني",
           "link": "https://www.youtube.com/watch?v=wf3nit0T81k",
           "videoId": "wf3nit0T81k",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=Ah60l2DMggE",
           "videoId": "Ah60l2DMggE",
           "pubDate": "2026-03-24T08:00:00+00:00"
-        },
-        {
-          "title": "30 يوما دون ماء.. أسطورة الجِمال في وادي رم",
-          "link": "https://www.youtube.com/watch?v=KtGuUDcDSQw",
-          "videoId": "KtGuUDcDSQw",
-          "pubDate": "2026-03-23T20:59:01+00:00"
         }
       ],
       "ok": true
