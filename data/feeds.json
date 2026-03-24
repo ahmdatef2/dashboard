@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-24T21:25:53.697677+00:00",
+  "updated": "2026-03-24T22:18:17.725649+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -501,22 +501,22 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "التاريخ الصادم للمتفجرات",
+          "link": "https://www.youtube.com/watch?v=gmSnt0QN69s",
+          "videoId": "gmSnt0QN69s",
+          "pubDate": "2026-03-24T21:45:02+00:00"
+        },
+        {
+          "title": "طقوس مرتبة للموت",
+          "link": "https://www.youtube.com/watch?v=aX_dnV9N1CU",
+          "videoId": "aX_dnV9N1CU",
+          "pubDate": "2026-03-24T21:45:00+00:00"
+        },
+        {
           "title": "فنزويلا.. احتضار بحيرة النفط | الشرق الوثائقية",
           "link": "https://www.youtube.com/watch?v=eQOgwnf_5Gw",
           "videoId": "eQOgwnf_5Gw",
           "pubDate": "2026-03-24T19:00:42+00:00"
-        },
-        {
-          "title": "مكتب معلومات الحرب",
-          "link": "https://www.youtube.com/watch?v=awhAWqxB3-4",
-          "videoId": "awhAWqxB3-4",
-          "pubDate": "2026-03-24T16:00:05+00:00"
-        },
-        {
-          "title": "جمع البذور هو عمل الإنسان منذ 300 ألف عام",
-          "link": "https://www.youtube.com/watch?v=gUrwjhu1fak",
-          "videoId": "gUrwjhu1fak",
-          "pubDate": "2026-03-24T10:47:06+00:00"
         }
       ],
       "ok": true
