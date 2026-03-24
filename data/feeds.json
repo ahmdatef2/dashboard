@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-24T07:44:49.585993+00:00",
+  "updated": "2026-03-24T08:36:22.365917+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -111,6 +111,12 @@
       "feedTitle": "AMR SALEM _ عمرو سالم",
       "items": [
         {
+          "title": "طريقة عمل لعبة متعددة اللاعبين علي google ai studio بعد التحديث الاخير",
+          "link": "https://www.youtube.com/watch?v=_JhNEcy7d-A",
+          "videoId": "_JhNEcy7d-A",
+          "pubDate": "2026-03-24T07:50:50+00:00"
+        },
+        {
           "title": "أكبر تحديث لـ Google Workspace   الآن Gemini في كل مكان",
           "link": "https://www.youtube.com/watch?v=LMwe4S7peEs",
           "videoId": "LMwe4S7peEs",
@@ -121,12 +127,6 @@
           "link": "https://www.youtube.com/watch?v=qYhO2kiJYUE",
           "videoId": "qYhO2kiJYUE",
           "pubDate": "2026-03-21T04:54:45+00:00"
-        },
-        {
-          "title": "اضخم تحديث ل Google Stitch | تحديث مجنون",
-          "link": "https://www.youtube.com/watch?v=h0jKil3mMEo",
-          "videoId": "h0jKil3mMEo",
-          "pubDate": "2026-03-20T05:00:46+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "أكبر كائن سمكي ملاذ آمن لأصغر المخلوقات البحرية",
+          "link": "https://www.youtube.com/watch?v=Ah60l2DMggE",
+          "videoId": "Ah60l2DMggE",
+          "pubDate": "2026-03-24T08:00:00+00:00"
+        },
+        {
           "title": "30 يوما دون ماء.. أسطورة الجِمال في وادي رم",
           "link": "https://www.youtube.com/watch?v=KtGuUDcDSQw",
           "videoId": "KtGuUDcDSQw",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=3ZsHCOF4yCg",
           "videoId": "3ZsHCOF4yCg",
           "pubDate": "2026-03-23T19:00:01+00:00"
-        },
-        {
-          "title": "ابن رزين التجيبي العالم الذي وثّق أسرار المطبخ الأندلسي",
-          "link": "https://www.youtube.com/watch?v=Bfw_ZoBtRbQ",
-          "videoId": "Bfw_ZoBtRbQ",
-          "pubDate": "2026-03-23T17:00:01+00:00"
         }
       ],
       "ok": true
