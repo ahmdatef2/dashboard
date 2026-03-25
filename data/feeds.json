@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-25T11:32:18.797419+00:00",
+  "updated": "2026-03-25T12:36:45.801614+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "كيف تأثر الزي العثماني بالتوسع الإمبراطوري؟",
+          "link": "https://www.youtube.com/watch?v=EnFeYsjPlJE",
+          "videoId": "EnFeYsjPlJE",
+          "pubDate": "2026-03-25T12:30:01+00:00"
+        },
+        {
           "title": "الإتيكيت وآداب الأكل في العصر العباسي",
           "link": "https://www.youtube.com/watch?v=RMJruqRdt98",
           "videoId": "RMJruqRdt98",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=IixsWFgeAMk",
           "videoId": "IixsWFgeAMk",
           "pubDate": "2026-03-24T20:59:01+00:00"
-        },
-        {
-          "title": "البقاء في عصر الاحتباس الحراري.. الحضارة |  هل يستطيع الإنسان التأقلم؟",
-          "link": "https://www.youtube.com/watch?v=oKL7hfha0nY",
-          "videoId": "oKL7hfha0nY",
-          "pubDate": "2026-03-24T20:00:37+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "كان للحصان دور كبير في الحروب قديماً.. فكيف كان يتم تدريبه؟",
+          "link": "https://www.youtube.com/watch?v=LnyyTsa065E",
+          "videoId": "LnyyTsa065E",
+          "pubDate": "2026-03-25T12:00:38+00:00"
+        },
         {
           "title": "التاريخ الصادم للمتفجرات",
           "link": "https://www.youtube.com/watch?v=gmSnt0QN69s",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=aX_dnV9N1CU",
           "videoId": "aX_dnV9N1CU",
           "pubDate": "2026-03-24T21:45:00+00:00"
-        },
-        {
-          "title": "فنزويلا.. احتضار بحيرة النفط | الشرق الوثائقية",
-          "link": "https://www.youtube.com/watch?v=eQOgwnf_5Gw",
-          "videoId": "eQOgwnf_5Gw",
-          "pubDate": "2026-03-24T19:00:42+00:00"
         }
       ],
       "ok": true
