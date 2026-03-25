@@ -1,11 +1,17 @@
 {
-  "updated": "2026-03-25T12:36:45.801614+00:00",
+  "updated": "2026-03-25T14:08:40.795965+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
       "name": "د. هبة أحمد",
       "feedTitle": "Heba Ahmed - هبة احمد",
       "items": [
+        {
+          "title": "أخيرًا… استخدام OpenClaw بدون تعقيد! 🔥",
+          "link": "https://www.youtube.com/watch?v=-FfcB8Yj2RQ",
+          "videoId": "-FfcB8Yj2RQ",
+          "pubDate": "2026-03-25T14:00:41+00:00"
+        },
         {
           "title": "ازاي تفعل عرض 300 دولار مجانًا 🔥 واستخدم Nano Banana Pro و Veo 3.1 براحتك",
           "link": "https://www.youtube.com/watch?v=LJk1Q6R4lgM",
@@ -17,12 +23,6 @@
           "link": "https://www.youtube.com/watch?v=f_buNpmquws",
           "videoId": "f_buNpmquws",
           "pubDate": "2026-03-14T20:14:40+00:00"
-        },
-        {
-          "title": "خناقة الذكاء الاصطناعي مع البنتاجون… القصة اللي محدش حكاها",
-          "link": "https://www.youtube.com/watch?v=x-xXSuL3k70",
-          "videoId": "x-xXSuL3k70",
-          "pubDate": "2026-03-08T19:00:40+00:00"
         }
       ],
       "ok": true
@@ -59,7 +59,7 @@
       "feedTitle": "Infotech4you - مروي سليمان",
       "items": [
         {
-          "title": "Claude Cowork Projects ميزة جديدة قد تغير شغلك بالكامل !",
+          "title": "Claude Cowork Projects أصبح  متاحا بقوة إضافية 🤯",
           "link": "https://www.youtube.com/watch?v=a7ebCfPZGbA",
           "videoId": "a7ebCfPZGbA",
           "pubDate": "2026-03-24T21:11:25+00:00"
@@ -371,7 +371,7 @@
       "feedTitle": "أخضر",
       "items": [
         {
-          "title": "لعنة نوبل💀 #أخضر",
+          "title": "ما بعد جائزة نوبل 🏅| على الماشي #أخضر",
           "link": "https://www.youtube.com/watch?v=EU8-bGScikQ",
           "videoId": "EU8-bGScikQ",
           "pubDate": "2026-03-24T19:14:48+00:00"
@@ -383,7 +383,7 @@
           "pubDate": "2026-03-20T18:34:23+00:00"
         },
         {
-          "title": "اعادة برمجة جهازك العصبي 🤖 #أخضر",
+          "title": "ازاي تتحكم في أعصابك؟ 😎 كتاب: إعادة برمجة جهازك العصبي #أخضر",
           "link": "https://www.youtube.com/watch?v=BeTPC2ecsBI",
           "videoId": "BeTPC2ecsBI",
           "pubDate": "2026-03-20T16:00:15+00:00"
