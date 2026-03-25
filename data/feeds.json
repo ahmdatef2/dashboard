@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-25T14:08:40.795965+00:00",
+  "updated": "2026-03-25T15:56:58.727094+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -85,6 +85,12 @@
       "feedTitle": "عبداللطيف سعيد Abdellatif Said",
       "items": [
         {
+          "title": "السر اللي محدش هيقولك عليه.. إزاي تكسب من الذكاء الاصطناعي في أرض الواقع؟ ( دردشة )",
+          "link": "https://www.youtube.com/watch?v=kW9-2JFe3bk",
+          "videoId": "kW9-2JFe3bk",
+          "pubDate": "2026-03-25T14:15:05+00:00"
+        },
+        {
           "title": "جوجل دمرت اللعبة! 🤯 صمم تطبيق أحلامك بمجرد الكلام مع الذكاء الاصطناعي.",
           "link": "https://www.youtube.com/watch?v=6xEzVck0X0w",
           "videoId": "6xEzVck0X0w",
@@ -95,12 +101,6 @@
           "link": "https://www.youtube.com/watch?v=x7t52oeJTjc",
           "videoId": "x7t52oeJTjc",
           "pubDate": "2026-03-18T14:15:17+00:00"
-        },
-        {
-          "title": "عملت برنامج كمبيوتر من غير ولا سطر كود! | تصميم برامج ويندوز بالذكاء الاصطناعي 🤖💻",
-          "link": "https://www.youtube.com/watch?v=xVX98YypDtw",
-          "videoId": "xVX98YypDtw",
-          "pubDate": "2026-03-13T14:15:14+00:00"
         }
       ],
       "ok": true
@@ -501,6 +501,12 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "عاصفة عنيفة ضربت نيوجيرسي",
+          "link": "https://www.youtube.com/watch?v=bPEhTFXW_IQ",
+          "videoId": "bPEhTFXW_IQ",
+          "pubDate": "2026-03-25T15:27:24+00:00"
+        },
+        {
           "title": "كان للحصان دور كبير في الحروب قديماً.. فكيف كان يتم تدريبه؟",
           "link": "https://www.youtube.com/watch?v=LnyyTsa065E",
           "videoId": "LnyyTsa065E",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=gmSnt0QN69s",
           "videoId": "gmSnt0QN69s",
           "pubDate": "2026-03-24T21:45:02+00:00"
-        },
-        {
-          "title": "طقوس مرتبة للموت",
-          "link": "https://www.youtube.com/watch?v=aX_dnV9N1CU",
-          "videoId": "aX_dnV9N1CU",
-          "pubDate": "2026-03-24T21:45:00+00:00"
         }
       ],
       "ok": true
