@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-25T17:47:33.844095+00:00",
+  "updated": "2026-03-25T18:39:38.627953+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -33,7 +33,7 @@
       "feedTitle": "كل يوم موقع جديد",
       "items": [
         {
-          "title": "كيف تصنع فيديو أنيمشين Stickman  احترافي من الصفر بسهولة!",
+          "title": "كيف تصنع فيديو أنيمشين Stickman  احترافي من NotebookLM  بسهولة!",
           "link": "https://www.youtube.com/watch?v=SQXTdZ4qidw",
           "videoId": "SQXTdZ4qidw",
           "pubDate": "2026-03-25T16:58:15+00:00"
@@ -137,6 +137,12 @@
       "feedTitle": "Python Arabic Community",
       "items": [
         {
+          "title": "كيف استبدلت نفسي بذكاء اصطناعي يعمل وأنا نائم! (وكيل MaxClaw)🚀",
+          "link": "https://www.youtube.com/watch?v=XAW6ygPfN8I",
+          "videoId": "XAW6ygPfN8I",
+          "pubDate": "2026-03-25T17:43:01+00:00"
+        },
+        {
           "title": "الذكاء الاصطناعي 🚀 | 83 | الكذبة الكبرى لشركات الذكاء الاصطناعي.. وسقوط أقوى تشفير",
           "link": "https://www.youtube.com/watch?v=aBM1Y6M3YRE",
           "videoId": "aBM1Y6M3YRE",
@@ -147,12 +153,6 @@
           "link": "https://www.youtube.com/watch?v=TKET-IN0dLo",
           "videoId": "TKET-IN0dLo",
           "pubDate": "2026-03-05T21:44:12+00:00"
-        },
-        {
-          "title": "بناء تطبيق لتحويل الصور إلى نصوص (OCR) في أقل من 15 دقيقة مع Mistral OCR ! يدعم العربي",
-          "link": "https://www.youtube.com/watch?v=xaCM3rwr_84",
-          "videoId": "xaCM3rwr_84",
-          "pubDate": "2026-03-02T17:50:01+00:00"
         }
       ],
       "ok": true
