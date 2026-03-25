@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-25T18:39:38.627953+00:00",
+  "updated": "2026-03-25T19:37:24.103797+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -501,6 +501,12 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "أميركا.. الحرب على المرأة | الشرق الوثائقية",
+          "link": "https://www.youtube.com/watch?v=UOAbUBxnzs0",
+          "videoId": "UOAbUBxnzs0",
+          "pubDate": "2026-03-25T19:00:23+00:00"
+        },
+        {
           "title": "كم يبلغ عدد اليهود الحسيديين في الولايات المتحدة؟",
           "link": "https://www.youtube.com/watch?v=DWHhHox294w",
           "videoId": "DWHhHox294w",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=bPEhTFXW_IQ",
           "videoId": "bPEhTFXW_IQ",
           "pubDate": "2026-03-25T15:27:24+00:00"
-        },
-        {
-          "title": "كان للحصان دور كبير في الحروب قديماً.. فكيف كان يتم تدريبه؟",
-          "link": "https://www.youtube.com/watch?v=LnyyTsa065E",
-          "videoId": "LnyyTsa065E",
-          "pubDate": "2026-03-25T12:00:38+00:00"
         }
       ],
       "ok": true
