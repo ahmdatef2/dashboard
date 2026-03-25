@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-25T16:55:14.157340+00:00",
+  "updated": "2026-03-25T17:47:33.844095+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -33,6 +33,12 @@
       "feedTitle": "كل يوم موقع جديد",
       "items": [
         {
+          "title": "كيف تصنع فيديو أنيمشين Stickman  احترافي من الصفر بسهولة!",
+          "link": "https://www.youtube.com/watch?v=SQXTdZ4qidw",
+          "videoId": "SQXTdZ4qidw",
+          "pubDate": "2026-03-25T16:58:15+00:00"
+        },
+        {
           "title": "هل Kimi K2.5 أفضل أداة لعمل العروض التقديمية بالذكاء الاصطناعي؟",
           "link": "https://www.youtube.com/watch?v=wU3oin0CzRI",
           "videoId": "wU3oin0CzRI",
@@ -43,12 +49,6 @@
           "link": "https://www.youtube.com/watch?v=QNeDdUUKF50",
           "videoId": "QNeDdUUKF50",
           "pubDate": "2026-03-22T19:37:19+00:00"
-        },
-        {
-          "title": "أفضل 3 مواقع بديلة لـ Grok مع باقات مجانية قوية",
-          "link": "https://www.youtube.com/watch?v=t7Sxu3kMyOQ",
-          "videoId": "t7Sxu3kMyOQ",
-          "pubDate": "2026-03-20T21:14:44+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "ابن سينا.. ماذا تعرف عن \"الشيخ الرئيس\" الذي صار من أعلام الطب وهو ابن 16؟",
+          "link": "https://www.youtube.com/watch?v=emoD1iEobRI",
+          "videoId": "emoD1iEobRI",
+          "pubDate": "2026-03-25T17:00:01+00:00"
+        },
+        {
           "title": "ما السر الحقيقي وراء عباءة دراكولا؟",
           "link": "https://www.youtube.com/watch?v=nIaiTun86bE",
           "videoId": "nIaiTun86bE",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=EnFeYsjPlJE",
           "videoId": "EnFeYsjPlJE",
           "pubDate": "2026-03-25T12:30:01+00:00"
-        },
-        {
-          "title": "الإتيكيت وآداب الأكل في العصر العباسي",
-          "link": "https://www.youtube.com/watch?v=RMJruqRdt98",
-          "videoId": "RMJruqRdt98",
-          "pubDate": "2026-03-25T09:30:01+00:00"
         }
       ],
       "ok": true
@@ -553,6 +553,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "وثائقي | تقصي أثر الأموال: تبرعات للإرهاب؟ | وثائقية دي دبليو",
+          "link": "https://www.youtube.com/watch?v=3Wtv9x7T9ls",
+          "videoId": "3Wtv9x7T9ls",
+          "pubDate": "2026-03-25T17:00:05+00:00"
+        },
+        {
           "title": "حقائق لا نعرفها عن القلب",
           "link": "https://www.youtube.com/watch?v=eHj133ghUTU",
           "videoId": "eHj133ghUTU",
@@ -563,12 +569,6 @@
           "link": "https://www.youtube.com/watch?v=HIMS2SQ-LMs",
           "videoId": "HIMS2SQ-LMs",
           "pubDate": "2026-03-23T17:00:22+00:00"
-        },
-        {
-          "title": "وثائقي | الحيوانات الغازية: تهديد للتوازن البيئي | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=FsOoWwTlzTg",
-          "videoId": "FsOoWwTlzTg",
-          "pubDate": "2026-03-22T17:00:17+00:00"
         }
       ],
       "ok": true
