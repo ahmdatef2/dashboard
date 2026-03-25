@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-25T20:25:49.716956+00:00",
+  "updated": "2026-03-25T21:25:43.523330+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "الحب والزواج من أجنبية كيف يراه شاب فلسطيني يعيش في قرية؟",
+          "link": "https://www.youtube.com/watch?v=yqFFkUTY_xg",
+          "videoId": "yqFFkUTY_xg",
+          "pubDate": "2026-03-25T20:59:00+00:00"
+        },
+        {
           "title": "الضبع المخطط من أندر الحيوانات البرية في سلطنة عمان",
           "link": "https://www.youtube.com/watch?v=RecqCSGGzHk",
           "videoId": "RecqCSGGzHk",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=vWxKF-Put1U",
           "videoId": "vWxKF-Put1U",
           "pubDate": "2026-03-25T19:30:19+00:00"
-        },
-        {
-          "title": "ابن سينا.. ماذا تعرف عن \"الشيخ الرئيس\" الذي صار من أعلام الطب وهو ابن 16؟",
-          "link": "https://www.youtube.com/watch?v=emoD1iEobRI",
-          "videoId": "emoD1iEobRI",
-          "pubDate": "2026-03-25T17:00:01+00:00"
         }
       ],
       "ok": true
