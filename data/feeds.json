@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-25T09:40:33.061855+00:00",
+  "updated": "2026-03-25T10:36:10.145496+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "الإتيكيت وآداب الأكل في العصر العباسي",
+          "link": "https://www.youtube.com/watch?v=RMJruqRdt98",
+          "videoId": "RMJruqRdt98",
+          "pubDate": "2026-03-25T09:30:01+00:00"
+        },
+        {
           "title": "رجل الجليد الذي كان يجمد ضحاياه بعد قتلهم",
           "link": "https://www.youtube.com/watch?v=IixsWFgeAMk",
           "videoId": "IixsWFgeAMk",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=oKL7hfha0nY",
           "videoId": "oKL7hfha0nY",
           "pubDate": "2026-03-24T20:00:37+00:00"
-        },
-        {
-          "title": "بيكاسو.. الرسمة الأولى | ليلة صنعت عبقرية أحد أعظم فناني القرن العشرين",
-          "link": "https://www.youtube.com/watch?v=18HgrAhrYdA",
-          "videoId": "18HgrAhrYdA",
-          "pubDate": "2026-03-24T18:45:01+00:00"
         }
       ],
       "ok": true
