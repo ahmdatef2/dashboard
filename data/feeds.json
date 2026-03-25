@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-25T19:37:24.103797+00:00",
+  "updated": "2026-03-25T20:25:49.716956+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "الضبع المخطط من أندر الحيوانات البرية في سلطنة عمان",
+          "link": "https://www.youtube.com/watch?v=RecqCSGGzHk",
+          "videoId": "RecqCSGGzHk",
+          "pubDate": "2026-03-25T20:00:01+00:00"
+        },
+        {
+          "title": "عالم يشبهنا.. أسرار مشاعر الحيوانات وسلوكها المدهش عبر القارات | الحلقة الأولى",
+          "link": "https://www.youtube.com/watch?v=vWxKF-Put1U",
+          "videoId": "vWxKF-Put1U",
+          "pubDate": "2026-03-25T19:30:19+00:00"
+        },
+        {
           "title": "ابن سينا.. ماذا تعرف عن \"الشيخ الرئيس\" الذي صار من أعلام الطب وهو ابن 16؟",
           "link": "https://www.youtube.com/watch?v=emoD1iEobRI",
           "videoId": "emoD1iEobRI",
           "pubDate": "2026-03-25T17:00:01+00:00"
-        },
-        {
-          "title": "ما السر الحقيقي وراء عباءة دراكولا؟",
-          "link": "https://www.youtube.com/watch?v=nIaiTun86bE",
-          "videoId": "nIaiTun86bE",
-          "pubDate": "2026-03-25T16:00:01+00:00"
-        },
-        {
-          "title": "كيف تأثر الزي العثماني بالتوسع الإمبراطوري؟",
-          "link": "https://www.youtube.com/watch?v=EnFeYsjPlJE",
-          "videoId": "EnFeYsjPlJE",
-          "pubDate": "2026-03-25T12:30:01+00:00"
         }
       ],
       "ok": true
