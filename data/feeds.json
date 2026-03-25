@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-25T15:56:58.727094+00:00",
+  "updated": "2026-03-25T16:55:14.157340+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "ما السر الحقيقي وراء عباءة دراكولا؟",
+          "link": "https://www.youtube.com/watch?v=nIaiTun86bE",
+          "videoId": "nIaiTun86bE",
+          "pubDate": "2026-03-25T16:00:01+00:00"
+        },
+        {
           "title": "كيف تأثر الزي العثماني بالتوسع الإمبراطوري؟",
           "link": "https://www.youtube.com/watch?v=EnFeYsjPlJE",
           "videoId": "EnFeYsjPlJE",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=RMJruqRdt98",
           "videoId": "RMJruqRdt98",
           "pubDate": "2026-03-25T09:30:01+00:00"
-        },
-        {
-          "title": "رجل الجليد الذي كان يجمد ضحاياه بعد قتلهم",
-          "link": "https://www.youtube.com/watch?v=IixsWFgeAMk",
-          "videoId": "IixsWFgeAMk",
-          "pubDate": "2026-03-24T20:59:01+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "كم يبلغ عدد اليهود الحسيديين في الولايات المتحدة؟",
+          "link": "https://www.youtube.com/watch?v=DWHhHox294w",
+          "videoId": "DWHhHox294w",
+          "pubDate": "2026-03-25T16:00:17+00:00"
+        },
         {
           "title": "عاصفة عنيفة ضربت نيوجيرسي",
           "link": "https://www.youtube.com/watch?v=bPEhTFXW_IQ",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=LnyyTsa065E",
           "videoId": "LnyyTsa065E",
           "pubDate": "2026-03-25T12:00:38+00:00"
-        },
-        {
-          "title": "التاريخ الصادم للمتفجرات",
-          "link": "https://www.youtube.com/watch?v=gmSnt0QN69s",
-          "videoId": "gmSnt0QN69s",
-          "pubDate": "2026-03-24T21:45:02+00:00"
         }
       ],
       "ok": true
