@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-26T21:20:17.224234+00:00",
+  "updated": "2026-03-26T22:14:42.338542+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -59,7 +59,7 @@
       "feedTitle": "Infotech4you - مروي سليمان",
       "items": [
         {
-          "title": "Canva Magic Layers: تعديل احترافي للعروض والإنفوجرافيك بالعربية",
+          "title": "عودة كانفا مع تحديث ضخم:  عدل على اي انفوجرافيك أو عرض تقديمي وبالعربي",
           "link": "https://www.youtube.com/watch?v=nO7nFNpI9sg",
           "videoId": "nO7nFNpI9sg",
           "pubDate": "2026-03-26T18:40:13+00:00"
@@ -293,7 +293,7 @@
       "feedTitle": "تكنوفلاش – AI & Tech",
       "items": [
         {
-          "title": "Google Antigravity + Supabase MCP: بناء تطبيق احترافي في 14 دقيقه ",
+          "title": "كيف انشت تطبيق ينافس التطبيقات العالمية في 14 دقيقة بدون كود – Supabase Antigravity MCP",
           "link": "https://www.youtube.com/watch?v=SlFGMGUj8iI",
           "videoId": "SlFGMGUj8iI",
           "pubDate": "2026-03-26T11:54:24+00:00"
@@ -501,22 +501,22 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "كيف تفوز برئاسة أميركا؟ | الشرق الوثائقية",
+          "link": "https://www.youtube.com/watch?v=vNXhAC3z0lc",
+          "videoId": "vNXhAC3z0lc",
+          "pubDate": "2026-03-26T22:01:00+00:00"
+        },
+        {
+          "title": "كيف استخدمت فرنسا إيرلندا لغزو بريطانيا؟",
+          "link": "https://www.youtube.com/watch?v=uTiWUW5QLTk",
+          "videoId": "uTiWUW5QLTk",
+          "pubDate": "2026-03-26T21:45:02+00:00"
+        },
+        {
           "title": "شعب يتميز بقصر القامة الملفت",
           "link": "https://www.youtube.com/watch?v=WxLBoKcPIVk",
           "videoId": "WxLBoKcPIVk",
           "pubDate": "2026-03-26T13:30:39+00:00"
-        },
-        {
-          "title": "أميركا.. الحرب على المرأة | الشرق الوثائقية",
-          "link": "https://www.youtube.com/watch?v=UOAbUBxnzs0",
-          "videoId": "UOAbUBxnzs0",
-          "pubDate": "2026-03-25T19:00:23+00:00"
-        },
-        {
-          "title": "كم يبلغ عدد اليهود الحسيديين في الولايات المتحدة؟",
-          "link": "https://www.youtube.com/watch?v=DWHhHox294w",
-          "videoId": "DWHhHox294w",
-          "pubDate": "2026-03-25T16:00:17+00:00"
         }
       ],
       "ok": true
