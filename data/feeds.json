@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-26T08:39:08.930906+00:00",
+  "updated": "2026-03-26T09:49:10.118372+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "إدخال البخور مع الحطب.. سر المطبخ الحلبي لإكساب الطعام نكهة خاصة",
+          "link": "https://www.youtube.com/watch?v=T2wr-fWi3Q4",
+          "videoId": "T2wr-fWi3Q4",
+          "pubDate": "2026-03-26T09:30:00+00:00"
+        },
+        {
           "title": "الحب والزواج من أجنبية كيف يراه شاب فلسطيني يعيش في قرية؟",
           "link": "https://www.youtube.com/watch?v=yqFFkUTY_xg",
           "videoId": "yqFFkUTY_xg",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=RecqCSGGzHk",
           "videoId": "RecqCSGGzHk",
           "pubDate": "2026-03-25T20:00:01+00:00"
-        },
-        {
-          "title": "عالم يشبهنا.. أسرار مشاعر الحيوانات وسلوكها المدهش عبر القارات | الحلقة الأولى",
-          "link": "https://www.youtube.com/watch?v=vWxKF-Put1U",
-          "videoId": "vWxKF-Put1U",
-          "pubDate": "2026-03-25T19:30:19+00:00"
         }
       ],
       "ok": true
