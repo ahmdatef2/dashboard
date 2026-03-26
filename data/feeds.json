@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-26T16:00:14.402389+00:00",
+  "updated": "2026-03-26T17:03:17.862524+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -267,6 +267,12 @@
       "feedTitle": "أكاديمية ريان | Ryan Academy",
       "items": [
         {
+          "title": "عملت تطبيق موبايل كامل مجانًا بالـ AI وبدون خبرة! (Stitch + Flutter + Antigravity)",
+          "link": "https://www.youtube.com/watch?v=D-If7HWOYbE",
+          "videoId": "D-If7HWOYbE",
+          "pubDate": "2026-03-26T17:00:24+00:00"
+        },
+        {
           "title": "لو مش عارف تكتب Prompt صح… الأداة دي هتعمله بدالك",
           "link": "https://www.youtube.com/watch?v=xpGPnOKja9Q",
           "videoId": "xpGPnOKja9Q",
@@ -277,12 +283,6 @@
           "link": "https://www.youtube.com/watch?v=QqSpKP21nDw",
           "videoId": "QqSpKP21nDw",
           "pubDate": "2026-03-20T17:00:41+00:00"
-        },
-        {
-          "title": "أداة بتعمل فيديوهات ريلز قرآن كريم تلقائياً بدون حدود مجاناً (أفضل أداة مجانية)",
-          "link": "https://www.youtube.com/watch?v=0OMuBQ0l9Ek",
-          "videoId": "0OMuBQ0l9Ek",
-          "pubDate": "2026-03-17T20:00:01+00:00"
         }
       ],
       "ok": true
