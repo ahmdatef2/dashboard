@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-26T20:24:17.300078+00:00",
+  "updated": "2026-03-26T21:20:17.224234+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -293,7 +293,7 @@
       "feedTitle": "تكنوفلاش – AI & Tech",
       "items": [
         {
-          "title": "انشئ تطبيق بـ Flutter و Google Antigravity مع ربط Supabase 🔥",
+          "title": "Google Antigravity + Supabase MCP: بناء تطبيق احترافي في 14 دقيقه ",
           "link": "https://www.youtube.com/watch?v=SlFGMGUj8iI",
           "videoId": "SlFGMGUj8iI",
           "pubDate": "2026-03-26T11:54:24+00:00"
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "في الذكرى الـ70 لاستقلال تونس قصة اعتقال الاستعمار الفرنسي للمقاوم محمد الدغباجي؟",
+          "link": "https://www.youtube.com/watch?v=WO_Wi1ZRqIY",
+          "videoId": "WO_Wi1ZRqIY",
+          "pubDate": "2026-03-26T20:59:00+00:00"
+        },
+        {
           "title": "الإنسان الجديد.. هل سيغيّر العلم شكل البشر في المستقبل؟",
           "link": "https://www.youtube.com/watch?v=sS_9hUW61yA",
           "videoId": "sS_9hUW61yA",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=W8Ssb2-9OB8",
           "videoId": "W8Ssb2-9OB8",
           "pubDate": "2026-03-26T18:00:01+00:00"
-        },
-        {
-          "title": "إذاعة أم درمان.. أول من أذاعت مباراة كرة قدم سودانية",
-          "link": "https://www.youtube.com/watch?v=EtBc918w9LI",
-          "videoId": "EtBc918w9LI",
-          "pubDate": "2026-03-26T17:11:05+00:00"
         }
       ],
       "ok": true
