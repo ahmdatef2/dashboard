@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-26T19:47:52.352256+00:00",
+  "updated": "2026-03-26T20:24:17.300078+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -163,6 +163,12 @@
       "feedTitle": "Elzero Web School",
       "items": [
         {
+          "title": "عشر حاجات لو سمعتهم وانت بتتفق على شغل اهرب فورا",
+          "link": "https://www.youtube.com/watch?v=ER_CzhR6JVQ",
+          "videoId": "ER_CzhR6JVQ",
+          "pubDate": "2026-03-26T20:11:50+00:00"
+        },
+        {
           "title": "مبادرة هتطورك في البرمجة وتاخد ثواب وفرصة لرحلة عمرة",
           "link": "https://www.youtube.com/watch?v=1n4AJdviibs",
           "videoId": "1n4AJdviibs",
@@ -173,12 +179,6 @@
           "link": "https://www.youtube.com/watch?v=4XBhqzlYJGY",
           "videoId": "4XBhqzlYJGY",
           "pubDate": "2026-02-16T10:47:19+00:00"
-        },
-        {
-          "title": "هل الذكاء الاصطناعي هيخلي السوق اصعب ؟",
-          "link": "https://www.youtube.com/watch?v=c-MANp0eKq4",
-          "videoId": "c-MANp0eKq4",
-          "pubDate": "2026-02-15T17:20:33+00:00"
         }
       ],
       "ok": true
@@ -527,6 +527,12 @@
       "feedTitle": "Nat Geo Abu Dhabi",
       "items": [
         {
+          "title": "جحيم البرتغال | الشاهد على الكارثة | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=CDyW9YaVEC8",
+          "videoId": "CDyW9YaVEC8",
+          "pubDate": "2026-03-26T19:36:57+00:00"
+        },
+        {
           "title": "الحلقة الأولى | المتخفي | ناشونال جيوغرافيك أبوظبي",
           "link": "https://www.youtube.com/watch?v=RiZBqX7IQHw",
           "videoId": "RiZBqX7IQHw",
@@ -537,12 +543,6 @@
           "link": "https://www.youtube.com/watch?v=3T59wW5PqQU",
           "videoId": "3T59wW5PqQU",
           "pubDate": "2026-03-23T18:40:07+00:00"
-        },
-        {
-          "title": "موسم جديد | سفاري قاتلة | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=WQwqVhCZ6VQ",
-          "videoId": "WQwqVhCZ6VQ",
-          "pubDate": "2026-03-23T18:39:51+00:00"
         }
       ],
       "ok": true
