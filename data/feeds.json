@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-26T09:49:10.118372+00:00",
+  "updated": "2026-03-26T10:40:26.200257+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -215,6 +215,12 @@
       "feedTitle": "Mohamed Ansary",
       "items": [
         {
+          "title": "تصميم بودكاست مرئي مع تحديثات NotebookLMالرائعة",
+          "link": "https://www.youtube.com/watch?v=j0adCYFafqU",
+          "videoId": "j0adCYFafqU",
+          "pubDate": "2026-03-26T10:33:13+00:00"
+        },
+        {
           "title": "ثورة الذكاء الاصطناعي التوليدي: دورة احترافية جديدة.",
           "link": "https://www.youtube.com/watch?v=gLsekZleAWo",
           "videoId": "gLsekZleAWo",
@@ -225,12 +231,6 @@
           "link": "https://www.youtube.com/watch?v=CfEvmxph_tg",
           "videoId": "CfEvmxph_tg",
           "pubDate": "2026-03-24T16:29:26+00:00"
-        },
-        {
-          "title": "التحديث العملاق من جوجل سكولار..",
-          "link": "https://www.youtube.com/watch?v=CIhgo3XEY0Q",
-          "videoId": "CIhgo3XEY0Q",
-          "pubDate": "2026-03-24T10:37:43+00:00"
         }
       ],
       "ok": true
