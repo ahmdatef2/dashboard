@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-26T18:46:11.088077+00:00",
+  "updated": "2026-03-26T19:47:52.352256+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -59,6 +59,12 @@
       "feedTitle": "Infotech4you - مروي سليمان",
       "items": [
         {
+          "title": "Canva Magic Layers: تعديل احترافي للعروض والإنفوجرافيك بالعربية",
+          "link": "https://www.youtube.com/watch?v=nO7nFNpI9sg",
+          "videoId": "nO7nFNpI9sg",
+          "pubDate": "2026-03-26T18:40:13+00:00"
+        },
+        {
           "title": "Claude Cowork Projects:  تحديث كبير سيغير طريقة شغلك  في 7 دقائق",
           "link": "https://www.youtube.com/watch?v=a7ebCfPZGbA",
           "videoId": "a7ebCfPZGbA",
@@ -69,12 +75,6 @@
           "link": "https://www.youtube.com/watch?v=hculdKnY3ew",
           "videoId": "hculdKnY3ew",
           "pubDate": "2026-03-23T14:18:40+00:00"
-        },
-        {
-          "title": "تحديث ضخم داخل Google AI Studio وبناء تطبيق كامل بقاعادة بيانات في ثوان!",
-          "link": "https://www.youtube.com/watch?v=XLnz5vP-jxU",
-          "videoId": "XLnz5vP-jxU",
-          "pubDate": "2026-03-21T21:01:39+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "الإنسان الجديد.. هل سيغيّر العلم شكل البشر في المستقبل؟",
+          "link": "https://www.youtube.com/watch?v=sS_9hUW61yA",
+          "videoId": "sS_9hUW61yA",
+          "pubDate": "2026-03-26T19:15:03+00:00"
+        },
+        {
           "title": "خاتم الزواج على طريقة بطاريق الجنتو",
           "link": "https://www.youtube.com/watch?v=W8Ssb2-9OB8",
           "videoId": "W8Ssb2-9OB8",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=EtBc918w9LI",
           "videoId": "EtBc918w9LI",
           "pubDate": "2026-03-26T17:11:05+00:00"
-        },
-        {
-          "title": "كهف قديم يكشف المستور كيف ضحى شعب المايا بأبنائه من أجل الماء؟",
-          "link": "https://www.youtube.com/watch?v=A-r2uIj10tM",
-          "videoId": "A-r2uIj10tM",
-          "pubDate": "2026-03-26T14:30:03+00:00"
         }
       ],
       "ok": true
