@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-26T17:03:17.862524+00:00",
+  "updated": "2026-03-26T18:46:11.088077+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -85,6 +85,12 @@
       "feedTitle": "عبداللطيف سعيد Abdellatif Said",
       "items": [
         {
+          "title": "وداعاً للتعقيد.. تثبيت وكيل الذكاء الاصطناعي OpenClaw بضغطة زر (وربطه بتليجرام)!",
+          "link": "https://www.youtube.com/watch?v=gsqjwaXbnb8",
+          "videoId": "gsqjwaXbnb8",
+          "pubDate": "2026-03-26T17:05:41+00:00"
+        },
+        {
           "title": "السر اللي محدش هيقولك عليه.. إزاي تكسب من الذكاء الاصطناعي في أرض الواقع؟ ( دردشة )",
           "link": "https://www.youtube.com/watch?v=kW9-2JFe3bk",
           "videoId": "kW9-2JFe3bk",
@@ -95,12 +101,6 @@
           "link": "https://www.youtube.com/watch?v=6xEzVck0X0w",
           "videoId": "6xEzVck0X0w",
           "pubDate": "2026-03-23T14:15:00+00:00"
-        },
-        {
-          "title": "العلماء قالوا محتاجين \"كائنات فضائية\".. إزاي جوجل حلت أعقد لغز في التاريخ بـ AlphaEvolve؟!",
-          "link": "https://www.youtube.com/watch?v=x7t52oeJTjc",
-          "videoId": "x7t52oeJTjc",
-          "pubDate": "2026-03-18T14:15:17+00:00"
         }
       ],
       "ok": true
@@ -267,7 +267,7 @@
       "feedTitle": "أكاديمية ريان | Ryan Academy",
       "items": [
         {
-          "title": "عملت تطبيق موبايل كامل مجانًا بالـ AI وبدون خبرة! (Stitch + Flutter + Antigravity)",
+          "title": "بناء تطبيق موبايل كامل مجانًا بالـ AI وبدون خبرة! (Stitch + Flutter + Antigravity)",
           "link": "https://www.youtube.com/watch?v=D-If7HWOYbE",
           "videoId": "D-If7HWOYbE",
           "pubDate": "2026-03-26T17:00:24+00:00"
@@ -449,6 +449,12 @@
       "feedTitle": "دوباميكافين Dupamicaffeine",
       "items": [
         {
+          "title": "فخ التعويض",
+          "link": "https://www.youtube.com/watch?v=ien4DBMjmZ0",
+          "videoId": "ien4DBMjmZ0",
+          "pubDate": "2026-03-26T18:00:00+00:00"
+        },
+        {
           "title": "سر العلاقة المستمرة",
           "link": "https://www.youtube.com/watch?v=rNvis__wK8E",
           "videoId": "rNvis__wK8E",
@@ -459,12 +465,6 @@
           "link": "https://www.youtube.com/watch?v=Q8h4kOkGpwc",
           "videoId": "Q8h4kOkGpwc",
           "pubDate": "2026-03-18T19:00:25+00:00"
-        },
-        {
-          "title": "الكلمة الطيبة",
-          "link": "https://www.youtube.com/watch?v=Zh-Klchn_QQ",
-          "videoId": "Zh-Klchn_QQ",
-          "pubDate": "2026-03-16T19:00:39+00:00"
         }
       ],
       "ok": true
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "خاتم الزواج على طريقة بطاريق الجنتو",
+          "link": "https://www.youtube.com/watch?v=W8Ssb2-9OB8",
+          "videoId": "W8Ssb2-9OB8",
+          "pubDate": "2026-03-26T18:00:01+00:00"
+        },
+        {
+          "title": "إذاعة أم درمان.. أول من أذاعت مباراة كرة قدم سودانية",
+          "link": "https://www.youtube.com/watch?v=EtBc918w9LI",
+          "videoId": "EtBc918w9LI",
+          "pubDate": "2026-03-26T17:11:05+00:00"
+        },
+        {
           "title": "كهف قديم يكشف المستور كيف ضحى شعب المايا بأبنائه من أجل الماء؟",
           "link": "https://www.youtube.com/watch?v=A-r2uIj10tM",
           "videoId": "A-r2uIj10tM",
           "pubDate": "2026-03-26T14:30:03+00:00"
-        },
-        {
-          "title": "الذهب الأخضر ثروة يقطفها الفقراء.. فما القصة؟",
-          "link": "https://www.youtube.com/watch?v=6rI30W6enQk",
-          "videoId": "6rI30W6enQk",
-          "pubDate": "2026-03-26T12:30:01+00:00"
-        },
-        {
-          "title": "إدخال البخور مع الحطب.. سر المطبخ الحلبي لإكساب الطعام نكهة خاصة",
-          "link": "https://www.youtube.com/watch?v=T2wr-fWi3Q4",
-          "videoId": "T2wr-fWi3Q4",
-          "pubDate": "2026-03-26T09:30:00+00:00"
         }
       ],
       "ok": true
