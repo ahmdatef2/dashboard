@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-27T12:34:16.827114+00:00",
+  "updated": "2026-03-27T14:01:56.223974+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -319,6 +319,12 @@
       "feedTitle": "خير جليس",
       "items": [
         {
+          "title": "العادات المنظمة تصنع الزخم - من  كتاب معجزة الصباح",
+          "link": "https://www.youtube.com/watch?v=QQO1R1fWXAk",
+          "videoId": "QQO1R1fWXAk",
+          "pubDate": "2026-03-27T13:00:21+00:00"
+        },
+        {
           "title": "النمو لا يحدث بالصدفة - من  كتاب معجزة الصباح",
           "link": "https://www.youtube.com/watch?v=AQT8FMv8QoA",
           "videoId": "AQT8FMv8QoA",
@@ -329,12 +335,6 @@
           "link": "https://www.youtube.com/watch?v=5vNXnWLFZCQ",
           "videoId": "5vNXnWLFZCQ",
           "pubDate": "2026-03-26T06:00:03+00:00"
-        },
-        {
-          "title": "ساعتك الأولى تبني هويتك - من  كتاب معجزة الصباح",
-          "link": "https://www.youtube.com/watch?v=5ymUulQLhjs",
-          "videoId": "5ymUulQLhjs",
-          "pubDate": "2026-03-26T04:43:57+00:00"
         }
       ],
       "ok": true
@@ -369,8 +369,27 @@
       "handle": "a5drcom",
       "name": "أخضر",
       "feedTitle": "أخضر",
-      "items": [],
-      "ok": false
+      "items": [
+        {
+          "title": "تحديثات تطبيق أخضر الجديد!",
+          "link": "https://www.youtube.com/watch?v=Qx7s1sp91YM",
+          "videoId": "Qx7s1sp91YM",
+          "pubDate": "2026-03-26T13:51:59+00:00"
+        },
+        {
+          "title": "ما بعد جائزة نوبل 🏅| على الماشي #أخضر",
+          "link": "https://www.youtube.com/watch?v=EU8-bGScikQ",
+          "videoId": "EU8-bGScikQ",
+          "pubDate": "2026-03-24T19:14:48+00:00"
+        },
+        {
+          "title": "السيجارة مش عادة.. هي كدبة بتتكررها كل يوم🚬",
+          "link": "https://www.youtube.com/watch?v=nyzxUr1IMBA",
+          "videoId": "nyzxUr1IMBA",
+          "pubDate": "2026-03-20T18:34:23+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCUjRjJ1-h3oUx40gf2tuh3w": {
       "handle": "Sha5bata",
