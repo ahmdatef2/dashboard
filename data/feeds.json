@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-27T11:32:53.316110+00:00",
+  "updated": "2026-03-27T12:34:16.827114+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -369,27 +369,8 @@
       "handle": "a5drcom",
       "name": "أخضر",
       "feedTitle": "أخضر",
-      "items": [
-        {
-          "title": "تحديثات تطبيق أخضر الجديد!",
-          "link": "https://www.youtube.com/watch?v=Qx7s1sp91YM",
-          "videoId": "Qx7s1sp91YM",
-          "pubDate": "2026-03-26T13:51:59+00:00"
-        },
-        {
-          "title": "ما بعد جائزة نوبل 🏅| على الماشي #أخضر",
-          "link": "https://www.youtube.com/watch?v=EU8-bGScikQ",
-          "videoId": "EU8-bGScikQ",
-          "pubDate": "2026-03-24T19:14:48+00:00"
-        },
-        {
-          "title": "السيجارة مش عادة.. هي كدبة بتتكررها كل يوم🚬",
-          "link": "https://www.youtube.com/watch?v=nyzxUr1IMBA",
-          "videoId": "nyzxUr1IMBA",
-          "pubDate": "2026-03-20T18:34:23+00:00"
-        }
-      ],
-      "ok": true
+      "items": [],
+      "ok": false
     },
     "UCUjRjJ1-h3oUx40gf2tuh3w": {
       "handle": "Sha5bata",
@@ -475,6 +456,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "الموسيقى علاجا وصفة للكندي قبل قرون",
+          "link": "https://www.youtube.com/watch?v=XUX1sEShbe0",
+          "videoId": "XUX1sEShbe0",
+          "pubDate": "2026-03-27T12:30:01+00:00"
+        },
+        {
           "title": "حكاية أحمد قعبور مع 200 طفل يتيم عام 1985",
           "link": "https://www.youtube.com/watch?v=m3PK0ZnAeko",
           "videoId": "m3PK0ZnAeko",
@@ -485,12 +472,6 @@
           "link": "https://www.youtube.com/watch?v=WO_Wi1ZRqIY",
           "videoId": "WO_Wi1ZRqIY",
           "pubDate": "2026-03-26T20:59:00+00:00"
-        },
-        {
-          "title": "الإنسان الجديد.. هل سيغيّر العلم شكل البشر في المستقبل؟",
-          "link": "https://www.youtube.com/watch?v=sS_9hUW61yA",
-          "videoId": "sS_9hUW61yA",
-          "pubDate": "2026-03-26T19:15:03+00:00"
         }
       ],
       "ok": true
