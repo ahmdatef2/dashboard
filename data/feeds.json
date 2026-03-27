@@ -1,26 +1,83 @@
 {
-  "updated": "2026-03-27T06:05:05.393917+00:00",
+  "updated": "2026-03-27T07:50:58.467931+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
       "name": "د. هبة أحمد",
-      "feedTitle": "د. هبة أحمد",
-      "items": [],
-      "ok": false
+      "feedTitle": "Heba Ahmed - هبة احمد",
+      "items": [
+        {
+          "title": "أخيرًا… استخدام OpenClaw بدون تعقيد! 🔥",
+          "link": "https://www.youtube.com/watch?v=-FfcB8Yj2RQ",
+          "videoId": "-FfcB8Yj2RQ",
+          "pubDate": "2026-03-25T14:00:41+00:00"
+        },
+        {
+          "title": "ازاي تفعل عرض 300 دولار مجانًا 🔥 واستخدم Nano Banana Pro و Veo 3.1 براحتك",
+          "link": "https://www.youtube.com/watch?v=LJk1Q6R4lgM",
+          "videoId": "LJk1Q6R4lgM",
+          "pubDate": "2026-03-17T19:55:11+00:00"
+        },
+        {
+          "title": "أسرار Google AI Studio: الفرق بينه وبين Gemini App",
+          "link": "https://www.youtube.com/watch?v=f_buNpmquws",
+          "videoId": "f_buNpmquws",
+          "pubDate": "2026-03-14T20:14:40+00:00"
+        }
+      ],
+      "ok": true
     },
     "UC2jjW7c63dqOPkfMm3P-u3w": {
       "handle": "every_day_a_new_website",
       "name": "موقع كل يوم",
-      "feedTitle": "موقع كل يوم",
-      "items": [],
-      "ok": false
+      "feedTitle": "كل يوم موقع جديد",
+      "items": [
+        {
+          "title": "كيف تصنع فيديو أنيمشين Stickman  احترافي من NotebookLM  بسهولة!",
+          "link": "https://www.youtube.com/watch?v=SQXTdZ4qidw",
+          "videoId": "SQXTdZ4qidw",
+          "pubDate": "2026-03-25T16:58:15+00:00"
+        },
+        {
+          "title": "وداعاً بوربوينت : Kimi K2.5 وكيل ذكاء اصطناعي لعرض تقديمي احترافي!",
+          "link": "https://www.youtube.com/watch?v=wU3oin0CzRI",
+          "videoId": "wU3oin0CzRI",
+          "pubDate": "2026-03-24T22:24:47+00:00"
+        },
+        {
+          "title": "اصنع فيديو طويل بالذكاء الاصطناعي باستخدام NotebookLM + Canva",
+          "link": "https://www.youtube.com/watch?v=QNeDdUUKF50",
+          "videoId": "QNeDdUUKF50",
+          "pubDate": "2026-03-22T19:37:19+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCKD8vOz3maRPyLAbMXhr-Pw": {
       "handle": "infotech4you_Marwasoliman",
       "name": "مروة سليمان",
-      "feedTitle": "مروة سليمان",
-      "items": [],
-      "ok": false
+      "feedTitle": "Infotech4you - مروي سليمان",
+      "items": [
+        {
+          "title": "عودة كانفا مع تحديث ضخم:  عدل على اي انفوجرافيك أو عرض تقديمي وبالعربي",
+          "link": "https://www.youtube.com/watch?v=nO7nFNpI9sg",
+          "videoId": "nO7nFNpI9sg",
+          "pubDate": "2026-03-26T18:40:13+00:00"
+        },
+        {
+          "title": "Claude Cowork Projects:  تحديث كبير سيغير طريقة شغلك  في 7 دقائق",
+          "link": "https://www.youtube.com/watch?v=a7ebCfPZGbA",
+          "videoId": "a7ebCfPZGbA",
+          "pubDate": "2026-03-24T21:11:25+00:00"
+        },
+        {
+          "title": "أقوى Workflow بين NotebookLM وGoogle Docs في 2026",
+          "link": "https://www.youtube.com/watch?v=hculdKnY3ew",
+          "videoId": "hculdKnY3ew",
+          "pubDate": "2026-03-23T14:18:40+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCSRy-3lglM2QKJ_xF2zuPlQ": {
       "handle": "AbdellatifSaidA",
@@ -77,37 +134,132 @@
     "UC9ocsRoOwj9tkAQNfUt8ZJg": {
       "handle": "PythonArab",
       "name": "بايثون عربي",
-      "feedTitle": "بايثون عربي",
-      "items": [],
-      "ok": false
+      "feedTitle": "Python Arabic Community",
+      "items": [
+        {
+          "title": "كيف استبدلت نفسي بذكاء اصطناعي يعمل وأنا نائم! (وكيل MaxClaw)🚀",
+          "link": "https://www.youtube.com/watch?v=XAW6ygPfN8I",
+          "videoId": "XAW6ygPfN8I",
+          "pubDate": "2026-03-25T17:43:01+00:00"
+        },
+        {
+          "title": "الذكاء الاصطناعي 🚀 | 83 | الكذبة الكبرى لشركات الذكاء الاصطناعي.. وسقوط أقوى تشفير",
+          "link": "https://www.youtube.com/watch?v=aBM1Y6M3YRE",
+          "videoId": "aBM1Y6M3YRE",
+          "pubDate": "2026-03-10T21:18:47+00:00"
+        },
+        {
+          "title": "مبادرة رمضان الأثر - مجتمع إتقان (جوائز لا تقدر بثمن تنتظركم🎁)",
+          "link": "https://www.youtube.com/watch?v=TKET-IN0dLo",
+          "videoId": "TKET-IN0dLo",
+          "pubDate": "2026-03-05T21:44:12+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCSNkfKl4cU-55Nm-ovsvOHQ": {
       "handle": "elzerowebschool",
       "name": "Elzero Web School",
       "feedTitle": "Elzero Web School",
-      "items": [],
-      "ok": false
+      "items": [
+        {
+          "title": "عشر حاجات لو سمعتهم وانت بتتفق على شغل اهرب فورا",
+          "link": "https://www.youtube.com/watch?v=ER_CzhR6JVQ",
+          "videoId": "ER_CzhR6JVQ",
+          "pubDate": "2026-03-26T20:11:50+00:00"
+        },
+        {
+          "title": "مبادرة هتطورك في البرمجة وتاخد ثواب وفرصة لرحلة عمرة",
+          "link": "https://www.youtube.com/watch?v=1n4AJdviibs",
+          "videoId": "1n4AJdviibs",
+          "pubDate": "2026-03-03T19:47:57+00:00"
+        },
+        {
+          "title": "توظيف البشر لصالح الذكاء الاصطناعي",
+          "link": "https://www.youtube.com/watch?v=4XBhqzlYJGY",
+          "videoId": "4XBhqzlYJGY",
+          "pubDate": "2026-02-16T10:47:19+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCGrVvqu8PlVv0wPqA5kgY8A": {
       "handle": "ArabicArtificialIntelligence",
       "name": "الذكاء الاصطناعي العربي",
-      "feedTitle": "الذكاء الاصطناعي العربي",
-      "items": [],
-      "ok": false
+      "feedTitle": "ذكاء اصطناعي عربي",
+      "items": [
+        {
+          "title": "What is AI Agent? | شرح وكيل ذكاء اصطناعي",
+          "link": "https://www.youtube.com/watch?v=zACIXBszXgg",
+          "videoId": "zACIXBszXgg",
+          "pubDate": "2026-03-20T11:01:54+00:00"
+        },
+        {
+          "title": "What is Quantization? | شرح التكميم / تقليص الحجم",
+          "link": "https://www.youtube.com/watch?v=sBEr9GjMQpw",
+          "videoId": "sBEr9GjMQpw",
+          "pubDate": "2026-03-19T11:01:29+00:00"
+        },
+        {
+          "title": "What is Model Context Protocol? | شرح بروتوكول سياق النموذج",
+          "link": "https://www.youtube.com/watch?v=Ln2mIYWEpIc",
+          "videoId": "Ln2mIYWEpIc",
+          "pubDate": "2026-03-18T11:00:39+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCSXcmF4Gxl6Hc-m6cHYD_Vg": {
       "handle": "MohamedAnsary",
       "name": "محمد أنصاري",
-      "feedTitle": "محمد أنصاري",
-      "items": [],
-      "ok": false
+      "feedTitle": "Mohamed Ansary",
+      "items": [
+        {
+          "title": "تصميم بودكاست مرئي مع تحديثات NotebookLMالرائعة",
+          "link": "https://www.youtube.com/watch?v=j0adCYFafqU",
+          "videoId": "j0adCYFafqU",
+          "pubDate": "2026-03-26T10:33:13+00:00"
+        },
+        {
+          "title": "ثورة الذكاء الاصطناعي التوليدي: دورة احترافية جديدة.",
+          "link": "https://www.youtube.com/watch?v=gLsekZleAWo",
+          "videoId": "gLsekZleAWo",
+          "pubDate": "2026-03-24T16:35:30+00:00"
+        },
+        {
+          "title": "ثورة الذكاء الاصطناعي التوليدي:دورة إحترافية جديدة.",
+          "link": "https://www.youtube.com/watch?v=CfEvmxph_tg",
+          "videoId": "CfEvmxph_tg",
+          "pubDate": "2026-03-24T16:29:26+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCDqp23rTdCo_tXsuHLYF47Q": {
       "handle": "ArabianAiSchool",
       "name": "Arabian AI School",
-      "feedTitle": "Arabian AI School",
-      "items": [],
-      "ok": false
+      "feedTitle": "مدرسة الذكاء الاصطناعي",
+      "items": [
+        {
+          "title": "شغل Claude code مجانا وبلا حدود حتى لو جهازك ضعيف",
+          "link": "https://www.youtube.com/watch?v=ct8mZ3SPXT8",
+          "videoId": "ct8mZ3SPXT8",
+          "pubDate": "2026-03-22T23:05:41+00:00"
+        },
+        {
+          "title": "طريقة سرية لعمل المواقع بالذكاء الاصطناعي (اتحداك لو تعرفها)",
+          "link": "https://www.youtube.com/watch?v=g7wlbRuKxls",
+          "videoId": "g7wlbRuKxls",
+          "pubDate": "2026-03-20T21:22:48+00:00"
+        },
+        {
+          "title": "اعمل مساعد ذكاء اصطناعي تكلمه من موبايلك ويعملك كل حاجة",
+          "link": "https://www.youtube.com/watch?v=W9whm_hl0-0",
+          "videoId": "W9whm_hl0-0",
+          "pubDate": "2026-03-17T20:03:27+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCz0N3nKrJiDhNdKQvM6r93w": {
       "handle": "ryan.academy",
@@ -138,16 +290,54 @@
     "UCXVSIaWCZBxqZ5eCxwIqRGw": {
       "handle": "TechnoFlashAITech",
       "name": "TechnoFlash AI",
-      "feedTitle": "TechnoFlash AI",
-      "items": [],
-      "ok": false
+      "feedTitle": "تكنوفلاش – AI & Tech",
+      "items": [
+        {
+          "title": "شرح Google Anti Gravity لبناء تطبيقات كاملة بقاعدة بيانات للموبايل وتصديره بصيغة APK في دقائق مجاناً",
+          "link": "https://www.youtube.com/watch?v=SlFGMGUj8iI",
+          "videoId": "SlFGMGUj8iI",
+          "pubDate": "2026-03-26T11:54:24+00:00"
+        },
+        {
+          "title": "بديل  grok المجاني: جروك توقف؟ موقع مجاني  100% بديلة لجروك و veo 3",
+          "link": "https://www.youtube.com/watch?v=qo88aQ9f5Ak",
+          "videoId": "qo88aQ9f5Ak",
+          "pubDate": "2026-03-23T08:21:05+00:00"
+        },
+        {
+          "title": "بديل grok المجاني: جروك توقف؟ موقع مجاني  100% بديلة لجروك و veo 3",
+          "link": "https://www.youtube.com/watch?v=oR7H4VByAD4",
+          "videoId": "oR7H4VByAD4",
+          "pubDate": "2026-03-20T22:38:34+00:00"
+        }
+      ],
+      "ok": true
     },
     "UC16aC4Jti6tYAi0LuXmu-9w": {
       "handle": "KhairJaleesBook",
       "name": "خير جليس",
       "feedTitle": "خير جليس",
-      "items": [],
-      "ok": false
+      "items": [
+        {
+          "title": "النمو لا يحدث بالصدفة - من  كتاب معجزة الصباح",
+          "link": "https://www.youtube.com/watch?v=AQT8FMv8QoA",
+          "videoId": "AQT8FMv8QoA",
+          "pubDate": "2026-03-27T06:00:06+00:00"
+        },
+        {
+          "title": "زر الغفوة يضعف سيطرتك على نفسك - من  كتاب معجزة الصباح",
+          "link": "https://www.youtube.com/watch?v=5vNXnWLFZCQ",
+          "videoId": "5vNXnWLFZCQ",
+          "pubDate": "2026-03-26T06:00:03+00:00"
+        },
+        {
+          "title": "ساعتك الأولى تبني هويتك - من  كتاب معجزة الصباح",
+          "link": "https://www.youtube.com/watch?v=5ymUulQLhjs",
+          "videoId": "5ymUulQLhjs",
+          "pubDate": "2026-03-26T04:43:57+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCu1NJiJlhrhmF5ZgT-0yWdA": {
       "handle": "Jeelyaqraa",
@@ -204,9 +394,28 @@
     "UCUjRjJ1-h3oUx40gf2tuh3w": {
       "handle": "Sha5bata",
       "name": "شخبطة",
-      "feedTitle": "شخبطة",
-      "items": [],
-      "ok": false
+      "feedTitle": "شخبطة Sha5bata",
+      "items": [
+        {
+          "title": "لماذا يختار الأذكياء عدم النشر على  وسائل التواصل الاجتماعى ؟!",
+          "link": "https://www.youtube.com/watch?v=Aobz3_jEajQ",
+          "videoId": "Aobz3_jEajQ",
+          "pubDate": "2026-03-26T13:00:13+00:00"
+        },
+        {
+          "title": "30 رسالة عشان تحب الصلاة.. الرسالة 5",
+          "link": "https://www.youtube.com/watch?v=XhtqZm56Pss",
+          "videoId": "XhtqZm56Pss",
+          "pubDate": "2026-02-27T13:21:19+00:00"
+        },
+        {
+          "title": "كيف تُنظم وقتك مثل السلف الصالح .. ستتغير حياتك للأبد !",
+          "link": "https://www.youtube.com/watch?v=46h0sA5idsY",
+          "videoId": "46h0sA5idsY",
+          "pubDate": "2026-02-23T14:00:12+00:00"
+        }
+      ],
+      "ok": true
     },
     "UChbuH4HULlesX_rzlozkT6Q": {
       "handle": "AliMuhammadAli",
@@ -237,23 +446,80 @@
     "UCJlu6BjPWHZhzuCc0zVME0Q": {
       "handle": "Dupamicaffeine",
       "name": "دوباميكافيين",
-      "feedTitle": "دوباميكافيين",
-      "items": [],
-      "ok": false
+      "feedTitle": "دوباميكافين Dupamicaffeine",
+      "items": [
+        {
+          "title": "فخ التعويض",
+          "link": "https://www.youtube.com/watch?v=ien4DBMjmZ0",
+          "videoId": "ien4DBMjmZ0",
+          "pubDate": "2026-03-26T18:00:00+00:00"
+        },
+        {
+          "title": "سر العلاقة المستمرة",
+          "link": "https://www.youtube.com/watch?v=rNvis__wK8E",
+          "videoId": "rNvis__wK8E",
+          "pubDate": "2026-03-26T13:00:00+00:00"
+        },
+        {
+          "title": "قوّة الشكر والامتنان",
+          "link": "https://www.youtube.com/watch?v=Q8h4kOkGpwc",
+          "videoId": "Q8h4kOkGpwc",
+          "pubDate": "2026-03-18T19:00:25+00:00"
+        }
+      ],
+      "ok": true
     },
     "UC0LSnqrwqtMwl2YwfUpO66g": {
       "handle": "aljazeeradocumentary",
       "name": "الجزيرة الوثائقية",
-      "feedTitle": "الجزيرة الوثائقية",
-      "items": [],
-      "ok": false
+      "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
+      "items": [
+        {
+          "title": "في الذكرى الـ70 لاستقلال تونس قصة اعتقال الاستعمار الفرنسي للمقاوم محمد الدغباجي؟",
+          "link": "https://www.youtube.com/watch?v=WO_Wi1ZRqIY",
+          "videoId": "WO_Wi1ZRqIY",
+          "pubDate": "2026-03-26T20:59:00+00:00"
+        },
+        {
+          "title": "الإنسان الجديد.. هل سيغيّر العلم شكل البشر في المستقبل؟",
+          "link": "https://www.youtube.com/watch?v=sS_9hUW61yA",
+          "videoId": "sS_9hUW61yA",
+          "pubDate": "2026-03-26T19:15:03+00:00"
+        },
+        {
+          "title": "خاتم الزواج على طريقة بطاريق الجنتو",
+          "link": "https://www.youtube.com/watch?v=W8Ssb2-9OB8",
+          "videoId": "W8Ssb2-9OB8",
+          "pubDate": "2026-03-26T18:00:01+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCArK7aSQ68vRCiJY2m7spkA": {
       "handle": "AsharqDoc",
       "name": "الشرق الوثائقية",
-      "feedTitle": "الشرق الوثائقية",
-      "items": [],
-      "ok": false
+      "feedTitle": "Asharq Documentary الشرق الوثائقية",
+      "items": [
+        {
+          "title": "كيف تفوز برئاسة أميركا؟ | الشرق الوثائقية",
+          "link": "https://www.youtube.com/watch?v=vNXhAC3z0lc",
+          "videoId": "vNXhAC3z0lc",
+          "pubDate": "2026-03-26T22:01:00+00:00"
+        },
+        {
+          "title": "كيف استخدمت فرنسا إيرلندا لغزو بريطانيا؟",
+          "link": "https://www.youtube.com/watch?v=uTiWUW5QLTk",
+          "videoId": "uTiWUW5QLTk",
+          "pubDate": "2026-03-26T21:45:02+00:00"
+        },
+        {
+          "title": "شعب يتميز بقصر القامة الملفت",
+          "link": "https://www.youtube.com/watch?v=WxLBoKcPIVk",
+          "videoId": "WxLBoKcPIVk",
+          "pubDate": "2026-03-26T13:30:39+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCLiTe0aOHShx7hXGyqZ9UIw": {
       "handle": "natgeoabudhabime",
@@ -284,9 +550,28 @@
     "UCET6sWl4Xcu-U8Ka9PJPrwA": {
       "handle": "dwdocarabia",
       "name": "DW عربية وثائقي",
-      "feedTitle": "DW عربية وثائقي",
-      "items": [],
-      "ok": false
+      "feedTitle": "DW Documentary وثائقية دي دبليو",
+      "items": [
+        {
+          "title": "نساء مكافحات في الإكوادور",
+          "link": "https://www.youtube.com/watch?v=LieMfWPJVk0",
+          "videoId": "LieMfWPJVk0",
+          "pubDate": "2026-03-26T12:16:00+00:00"
+        },
+        {
+          "title": "وثائقي | تقصي أثر الأموال: تبرعات للإرهاب؟ | وثائقية دي دبليو",
+          "link": "https://www.youtube.com/watch?v=3Wtv9x7T9ls",
+          "videoId": "3Wtv9x7T9ls",
+          "pubDate": "2026-03-25T17:00:05+00:00"
+        },
+        {
+          "title": "حقائق لا نعرفها عن القلب",
+          "link": "https://www.youtube.com/watch?v=eHj133ghUTU",
+          "videoId": "eHj133ghUTU",
+          "pubDate": "2026-03-24T16:14:01+00:00"
+        }
+      ],
+      "ok": true
     }
   }
 }
