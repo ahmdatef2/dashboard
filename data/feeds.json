@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-27T10:35:27.141338+00:00",
+  "updated": "2026-03-27T11:32:53.316110+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "حكاية أحمد قعبور مع 200 طفل يتيم عام 1985",
+          "link": "https://www.youtube.com/watch?v=m3PK0ZnAeko",
+          "videoId": "m3PK0ZnAeko",
+          "pubDate": "2026-03-27T10:45:29+00:00"
+        },
+        {
           "title": "في الذكرى الـ70 لاستقلال تونس قصة اعتقال الاستعمار الفرنسي للمقاوم محمد الدغباجي؟",
           "link": "https://www.youtube.com/watch?v=WO_Wi1ZRqIY",
           "videoId": "WO_Wi1ZRqIY",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=sS_9hUW61yA",
           "videoId": "sS_9hUW61yA",
           "pubDate": "2026-03-26T19:15:03+00:00"
-        },
-        {
-          "title": "خاتم الزواج على طريقة بطاريق الجنتو",
-          "link": "https://www.youtube.com/watch?v=W8Ssb2-9OB8",
-          "videoId": "W8Ssb2-9OB8",
-          "pubDate": "2026-03-26T18:00:01+00:00"
         }
       ],
       "ok": true
@@ -553,6 +553,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "مخاطر العمل الصحفي",
+          "link": "https://www.youtube.com/watch?v=nviSiG13JjQ",
+          "videoId": "nviSiG13JjQ",
+          "pubDate": "2026-03-27T10:45:04+00:00"
+        },
+        {
           "title": "نساء مكافحات في الإكوادور",
           "link": "https://www.youtube.com/watch?v=LieMfWPJVk0",
           "videoId": "LieMfWPJVk0",
@@ -563,12 +569,6 @@
           "link": "https://www.youtube.com/watch?v=3Wtv9x7T9ls",
           "videoId": "3Wtv9x7T9ls",
           "pubDate": "2026-03-25T17:00:05+00:00"
-        },
-        {
-          "title": "حقائق لا نعرفها عن القلب",
-          "link": "https://www.youtube.com/watch?v=eHj133ghUTU",
-          "videoId": "eHj133ghUTU",
-          "pubDate": "2026-03-24T16:14:01+00:00"
         }
       ],
       "ok": true
