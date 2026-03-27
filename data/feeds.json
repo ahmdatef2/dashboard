@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-27T21:23:00.240740+00:00",
+  "updated": "2026-03-27T22:18:21.073465+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -501,6 +501,12 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "نهاية الاستـ عمار البريطاني | الشرق الوثائقية",
+          "link": "https://www.youtube.com/watch?v=SVagRJT_lNQ",
+          "videoId": "SVagRJT_lNQ",
+          "pubDate": "2026-03-27T22:00:00+00:00"
+        },
+        {
           "title": "كيف تفوز برئاسة أميركا؟ | الشرق الوثائقية",
           "link": "https://www.youtube.com/watch?v=vNXhAC3z0lc",
           "videoId": "vNXhAC3z0lc",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=uTiWUW5QLTk",
           "videoId": "uTiWUW5QLTk",
           "pubDate": "2026-03-26T21:45:02+00:00"
-        },
-        {
-          "title": "شعب يتميز بقصر القامة الملفت",
-          "link": "https://www.youtube.com/watch?v=WxLBoKcPIVk",
-          "videoId": "WxLBoKcPIVk",
-          "pubDate": "2026-03-26T13:30:39+00:00"
         }
       ],
       "ok": true
