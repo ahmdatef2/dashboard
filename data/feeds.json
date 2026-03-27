@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-27T17:39:55.050416+00:00",
+  "updated": "2026-03-27T18:39:29.564585+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "لماذا كتب أحمد قعبور أغنية علوا البيارق؟",
+          "link": "https://www.youtube.com/watch?v=aF72ZBmw7U4",
+          "videoId": "aF72ZBmw7U4",
+          "pubDate": "2026-03-27T18:00:01+00:00"
+        },
+        {
           "title": "الموسيقى علاجا وصفة للكندي قبل قرون",
           "link": "https://www.youtube.com/watch?v=XUX1sEShbe0",
           "videoId": "XUX1sEShbe0",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=m3PK0ZnAeko",
           "videoId": "m3PK0ZnAeko",
           "pubDate": "2026-03-27T10:45:29+00:00"
-        },
-        {
-          "title": "في الذكرى الـ70 لاستقلال تونس قصة اعتقال الاستعمار الفرنسي للمقاوم محمد الدغباجي؟",
-          "link": "https://www.youtube.com/watch?v=WO_Wi1ZRqIY",
-          "videoId": "WO_Wi1ZRqIY",
-          "pubDate": "2026-03-26T20:59:00+00:00"
         }
       ],
       "ok": true
