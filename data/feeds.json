@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-27T20:22:54.277593+00:00",
+  "updated": "2026-03-27T21:23:00.240740+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -33,6 +33,12 @@
       "feedTitle": "كل يوم موقع جديد",
       "items": [
         {
+          "title": "من NotebookLM إلى فيديو جاهز للنشر.. الطريقة الأسهل والأسرع",
+          "link": "https://www.youtube.com/watch?v=LL_tL69Os1A",
+          "videoId": "LL_tL69Os1A",
+          "pubDate": "2026-03-27T20:44:14+00:00"
+        },
+        {
           "title": "كيف تصنع فيديو أنيمشين Stickman  احترافي من NotebookLM  بسهولة!",
           "link": "https://www.youtube.com/watch?v=SQXTdZ4qidw",
           "videoId": "SQXTdZ4qidw",
@@ -43,12 +49,6 @@
           "link": "https://www.youtube.com/watch?v=wU3oin0CzRI",
           "videoId": "wU3oin0CzRI",
           "pubDate": "2026-03-24T22:24:47+00:00"
-        },
-        {
-          "title": "اصنع فيديو طويل بالذكاء الاصطناعي باستخدام NotebookLM + Canva",
-          "link": "https://www.youtube.com/watch?v=QNeDdUUKF50",
-          "videoId": "QNeDdUUKF50",
-          "pubDate": "2026-03-22T19:37:19+00:00"
         }
       ],
       "ok": true
@@ -215,6 +215,12 @@
       "feedTitle": "Mohamed Ansary",
       "items": [
         {
+          "title": "وداعاً للبحث التقليدي! وكيلك الذكي على تليجرام يقوم بالمهمة بدلاً منك | Manus",
+          "link": "https://www.youtube.com/watch?v=-36kgHPtd2Y",
+          "videoId": "-36kgHPtd2Y",
+          "pubDate": "2026-03-27T20:42:57+00:00"
+        },
+        {
           "title": "تصميم بودكاست مرئي مع تحديثات NotebookLMالرائعة",
           "link": "https://www.youtube.com/watch?v=j0adCYFafqU",
           "videoId": "j0adCYFafqU",
@@ -225,12 +231,6 @@
           "link": "https://www.youtube.com/watch?v=gLsekZleAWo",
           "videoId": "gLsekZleAWo",
           "pubDate": "2026-03-24T16:35:30+00:00"
-        },
-        {
-          "title": "ثورة الذكاء الاصطناعي التوليدي:دورة إحترافية جديدة.",
-          "link": "https://www.youtube.com/watch?v=CfEvmxph_tg",
-          "videoId": "CfEvmxph_tg",
-          "pubDate": "2026-03-24T16:29:26+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "شاب فلسطيني: \"فلسطين أرضي وإسرائيل ترجع من وين ما إجت\"",
+          "link": "https://www.youtube.com/watch?v=BnooSys5kwE",
+          "videoId": "BnooSys5kwE",
+          "pubDate": "2026-03-27T20:59:01+00:00"
+        },
+        {
           "title": "أسرار في قلب الأدغال.. مدن مفقودة وطائرات غامضة وظواهر لا تُصدق | الحلقة الثانية",
           "link": "https://www.youtube.com/watch?v=6afRaXegZYo",
           "videoId": "6afRaXegZYo",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=Qju0WOjRVCg",
           "videoId": "Qju0WOjRVCg",
           "pubDate": "2026-03-27T19:30:01+00:00"
-        },
-        {
-          "title": "درس صيد لا ينسى لأشبال الفهود",
-          "link": "https://www.youtube.com/watch?v=B6l5oI5qGQc",
-          "videoId": "B6l5oI5qGQc",
-          "pubDate": "2026-03-27T19:00:00+00:00"
         }
       ],
       "ok": true
