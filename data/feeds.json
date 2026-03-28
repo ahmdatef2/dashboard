@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-28T19:21:08.062894+00:00",
+  "updated": "2026-03-28T20:15:50.976184+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -189,6 +189,12 @@
       "feedTitle": "ذكاء اصطناعي عربي",
       "items": [
         {
+          "title": "🧠 تدريب Gemma للتحكم بروبوت… النتيجة غير متوقعة!",
+          "link": "https://www.youtube.com/watch?v=AiTufHK-SaA",
+          "videoId": "AiTufHK-SaA",
+          "pubDate": "2026-03-28T19:32:07+00:00"
+        },
+        {
           "title": "شغال بجد | تجربة صادقة و شرح كامل OpenCode",
           "link": "https://www.youtube.com/watch?v=VrlMYLTJsTc",
           "videoId": "VrlMYLTJsTc",
@@ -199,12 +205,6 @@
           "link": "https://www.youtube.com/watch?v=zACIXBszXgg",
           "videoId": "zACIXBszXgg",
           "pubDate": "2026-03-20T11:01:54+00:00"
-        },
-        {
-          "title": "What is Quantization? | شرح التكميم / تقليص الحجم",
-          "link": "https://www.youtube.com/watch?v=sBEr9GjMQpw",
-          "videoId": "sBEr9GjMQpw",
-          "pubDate": "2026-03-19T11:01:29+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "الهيل.. نكهة فاخرة وصراع دامٍ في الظل",
+          "link": "https://www.youtube.com/watch?v=YP_TP7F5rn8",
+          "videoId": "YP_TP7F5rn8",
+          "pubDate": "2026-03-28T20:00:01+00:00"
+        },
+        {
           "title": "أكل لحوم البشر لأجل النجاة من الموت في الجليد",
           "link": "https://www.youtube.com/watch?v=5-PXpmlrKtM",
           "videoId": "5-PXpmlrKtM",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=bzqcyGbrAyg",
           "videoId": "bzqcyGbrAyg",
           "pubDate": "2026-03-28T17:00:00+00:00"
-        },
-        {
-          "title": "المأمون بن هارون الرشيد الخليفة الذي جعل بلاطه مركزا للعلم",
-          "link": "https://www.youtube.com/watch?v=M_FJYwZ07kI",
-          "videoId": "M_FJYwZ07kI",
-          "pubDate": "2026-03-28T14:30:01+00:00"
         }
       ],
       "ok": true
@@ -527,6 +527,12 @@
       "feedTitle": "Nat Geo Abu Dhabi",
       "items": [
         {
+          "title": "Monster Constrictors",
+          "link": "https://www.youtube.com/watch?v=H4RFcoABpAY",
+          "videoId": "H4RFcoABpAY",
+          "pubDate": "2026-03-28T19:56:27+00:00"
+        },
+        {
           "title": "موسم جديد | كريتر فيكسرز: أطباء في الريف | ناشونال جيوغرافيك أبوظبي",
           "link": "https://www.youtube.com/watch?v=PEWDnL5jer0",
           "videoId": "PEWDnL5jer0",
@@ -537,12 +543,6 @@
           "link": "https://www.youtube.com/watch?v=EYIzTTe6284",
           "videoId": "EYIzTTe6284",
           "pubDate": "2026-03-27T09:03:36+00:00"
-        },
-        {
-          "title": "موسم جديد | كنوز مصر المفقودة | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=aFZ4LNogyVY",
-          "videoId": "aFZ4LNogyVY",
-          "pubDate": "2026-03-27T08:35:59+00:00"
         }
       ],
       "ok": true
