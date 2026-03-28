@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-28T08:24:21.633994+00:00",
+  "updated": "2026-03-28T09:24:25.746568+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "مراكش- المغرب",
+          "link": "https://www.youtube.com/watch?v=aS7cN4628PI",
+          "videoId": "aS7cN4628PI",
+          "pubDate": "2026-03-28T08:00:01+00:00"
+        },
+        {
           "title": "شاب فلسطيني: \"فلسطين أرضي وإسرائيل ترجع من وين ما إجت\"",
           "link": "https://www.youtube.com/watch?v=BnooSys5kwE",
           "videoId": "BnooSys5kwE",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=6afRaXegZYo",
           "videoId": "6afRaXegZYo",
           "pubDate": "2026-03-27T19:30:04+00:00"
-        },
-        {
-          "title": "في مواجهة الصمت",
-          "link": "https://www.youtube.com/watch?v=Qju0WOjRVCg",
-          "videoId": "Qju0WOjRVCg",
-          "pubDate": "2026-03-27T19:30:01+00:00"
         }
       ],
       "ok": true
