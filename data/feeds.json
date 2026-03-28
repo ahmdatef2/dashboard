@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-28T14:22:31.647674+00:00",
+  "updated": "2026-03-28T15:18:54.738445+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "المأمون بن هارون الرشيد الخليفة الذي جعل بلاطه مركزا للعلم",
+          "link": "https://www.youtube.com/watch?v=M_FJYwZ07kI",
+          "videoId": "M_FJYwZ07kI",
+          "pubDate": "2026-03-28T14:30:01+00:00"
+        },
+        {
           "title": "السلط.. مدينة واحدة كانت تسيطر على صناعة الملابس في الأردن",
           "link": "https://www.youtube.com/watch?v=cRyQ9owtM6Y",
           "videoId": "cRyQ9owtM6Y",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=TKUcdxyGptU",
           "videoId": "TKUcdxyGptU",
           "pubDate": "2026-03-28T11:00:01+00:00"
-        },
-        {
-          "title": "مراكش- المغرب",
-          "link": "https://www.youtube.com/watch?v=aS7cN4628PI",
-          "videoId": "aS7cN4628PI",
-          "pubDate": "2026-03-28T08:00:01+00:00"
         }
       ],
       "ok": true
