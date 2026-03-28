@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-28T04:06:52.903016+00:00",
+  "updated": "2026-03-28T05:47:00.182061+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -25,28 +25,9 @@
     "UCSRy-3lglM2QKJ_xF2zuPlQ": {
       "handle": "AbdellatifSaidA",
       "name": "عبداللطيف سعيد",
-      "feedTitle": "عبداللطيف سعيد Abdellatif Said",
-      "items": [
-        {
-          "title": "وداعاً للتعقيد.. تثبيت وكيل الذكاء الاصطناعي OpenClaw بضغطة زر (وربطه بتليجرام)!",
-          "link": "https://www.youtube.com/watch?v=gsqjwaXbnb8",
-          "videoId": "gsqjwaXbnb8",
-          "pubDate": "2026-03-26T17:05:41+00:00"
-        },
-        {
-          "title": "السر اللي محدش هيقولك عليه.. إزاي تكسب من الذكاء الاصطناعي في أرض الواقع؟ ( دردشة )",
-          "link": "https://www.youtube.com/watch?v=kW9-2JFe3bk",
-          "videoId": "kW9-2JFe3bk",
-          "pubDate": "2026-03-25T14:15:05+00:00"
-        },
-        {
-          "title": "جوجل دمرت اللعبة! 🤯 صمم تطبيق أحلامك بمجرد الكلام مع الذكاء الاصطناعي.",
-          "link": "https://www.youtube.com/watch?v=6xEzVck0X0w",
-          "videoId": "6xEzVck0X0w",
-          "pubDate": "2026-03-23T14:15:00+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "عبداللطيف سعيد",
+      "items": [],
+      "ok": false
     },
     "UC81Ks7DR9JFgZc14nmZ07EA": {
       "handle": "AMRSALEM800",
@@ -163,28 +144,9 @@
     "UCLiTe0aOHShx7hXGyqZ9UIw": {
       "handle": "natgeoabudhabime",
       "name": "ناشيونال جيوغرافيك",
-      "feedTitle": "Nat Geo Abu Dhabi",
-      "items": [
-        {
-          "title": "موسم جديد | كريتر فيكسرز: أطباء في الريف | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=PEWDnL5jer0",
-          "videoId": "PEWDnL5jer0",
-          "pubDate": "2026-03-27T09:04:44+00:00"
-        },
-        {
-          "title": "موسم جديد | كريتر فيكسرز: أطباء في الريف | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=EYIzTTe6284",
-          "videoId": "EYIzTTe6284",
-          "pubDate": "2026-03-27T09:03:36+00:00"
-        },
-        {
-          "title": "موسم جديد | كنوز مصر المفقودة | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=aFZ4LNogyVY",
-          "videoId": "aFZ4LNogyVY",
-          "pubDate": "2026-03-27T08:35:59+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "ناشيونال جيوغرافيك",
+      "items": [],
+      "ok": false
     },
     "UCET6sWl4Xcu-U8Ka9PJPrwA": {
       "handle": "dwdocarabia",
