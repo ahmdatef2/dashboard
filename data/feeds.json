@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-28T21:18:14.592482+00:00",
+  "updated": "2026-03-28T22:15:56.736624+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -501,6 +501,12 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "كيف تحوّل الصراع بين أمريكا والاتحاد السوفيتي إلى تعاون في الفضاء؟ | ما وراء كوكبنا ح1",
+          "link": "https://www.youtube.com/watch?v=odfRFiWAkN0",
+          "videoId": "odfRFiWAkN0",
+          "pubDate": "2026-03-28T22:00:00+00:00"
+        },
+        {
           "title": "لماذا يختفي الشعور بالجوع بعد عدة أيام من الصيام؟",
           "link": "https://www.youtube.com/watch?v=gioJslDFo8k",
           "videoId": "gioJslDFo8k",
@@ -510,12 +516,6 @@
           "title": "المذبحة الأشنع في الحرب الصربية-الكرواتية ضد البوسنة",
           "link": "https://www.youtube.com/watch?v=hKx3UqQDNNs",
           "videoId": "hKx3UqQDNNs",
-          "pubDate": "2026-03-28T16:22:44+00:00"
-        },
-        {
-          "title": "عملية الالتهام الذاتي",
-          "link": "https://www.youtube.com/watch?v=rlhn5buQJ7Q",
-          "videoId": "rlhn5buQJ7Q",
           "pubDate": "2026-03-28T16:22:44+00:00"
         }
       ],
