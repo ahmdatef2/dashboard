@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-28T10:19:02.666090+00:00",
+  "updated": "2026-03-28T11:17:11.833994+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -33,7 +33,7 @@
       "feedTitle": "كل يوم موقع جديد",
       "items": [
         {
-          "title": "من NotebookLM إلى فيديو جاهز للنشر.. الطريقة الأسهل والأسرع",
+          "title": "وداعًا للفيديوهات التقليدية! اصنع فيديو احترافي من NotebookLM بسهولة",
           "link": "https://www.youtube.com/watch?v=LL_tL69Os1A",
           "videoId": "LL_tL69Os1A",
           "pubDate": "2026-03-27T20:44:14+00:00"
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "نساء قبيلة الماساي.. منهكات وبلا أي حقوق",
+          "link": "https://www.youtube.com/watch?v=TKUcdxyGptU",
+          "videoId": "TKUcdxyGptU",
+          "pubDate": "2026-03-28T11:00:01+00:00"
+        },
+        {
           "title": "مراكش- المغرب",
           "link": "https://www.youtube.com/watch?v=aS7cN4628PI",
           "videoId": "aS7cN4628PI",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=BnooSys5kwE",
           "videoId": "BnooSys5kwE",
           "pubDate": "2026-03-27T20:59:01+00:00"
-        },
-        {
-          "title": "أسرار في قلب الأدغال.. مدن مفقودة وطائرات غامضة وظواهر لا تُصدق | الحلقة الثانية",
-          "link": "https://www.youtube.com/watch?v=6afRaXegZYo",
-          "videoId": "6afRaXegZYo",
-          "pubDate": "2026-03-27T19:30:04+00:00"
         }
       ],
       "ok": true
