@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-28T16:18:29.667966+00:00",
+  "updated": "2026-03-28T17:18:45.967312+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "كيف أسهم الحديد في انهيار الحضارة الكوشية في مروي؟",
+          "link": "https://www.youtube.com/watch?v=bzqcyGbrAyg",
+          "videoId": "bzqcyGbrAyg",
+          "pubDate": "2026-03-28T17:00:00+00:00"
+        },
+        {
           "title": "المأمون بن هارون الرشيد الخليفة الذي جعل بلاطه مركزا للعلم",
           "link": "https://www.youtube.com/watch?v=M_FJYwZ07kI",
           "videoId": "M_FJYwZ07kI",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=cRyQ9owtM6Y",
           "videoId": "cRyQ9owtM6Y",
           "pubDate": "2026-03-28T12:30:00+00:00"
-        },
-        {
-          "title": "نساء قبيلة الماساي.. منهكات وبلا أي حقوق",
-          "link": "https://www.youtube.com/watch?v=TKUcdxyGptU",
-          "videoId": "TKUcdxyGptU",
-          "pubDate": "2026-03-28T11:00:01+00:00"
         }
       ],
       "ok": true
@@ -501,22 +501,22 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
-          "title": "نهاية الاستـ عمار البريطاني | الشرق الوثائقية",
-          "link": "https://www.youtube.com/watch?v=SVagRJT_lNQ",
-          "videoId": "SVagRJT_lNQ",
-          "pubDate": "2026-03-27T22:00:00+00:00"
+          "title": "لماذا يختفي الشعور بالجوع بعد عدة أيام من الصيام؟",
+          "link": "https://www.youtube.com/watch?v=gioJslDFo8k",
+          "videoId": "gioJslDFo8k",
+          "pubDate": "2026-03-28T16:22:44+00:00"
         },
         {
-          "title": "كيف تفوز برئاسة أميركا؟ | الشرق الوثائقية",
-          "link": "https://www.youtube.com/watch?v=vNXhAC3z0lc",
-          "videoId": "vNXhAC3z0lc",
-          "pubDate": "2026-03-26T22:01:00+00:00"
+          "title": "المذبحة الأشنع في الحرب الصربية-الكرواتية ضد البوسنة",
+          "link": "https://www.youtube.com/watch?v=hKx3UqQDNNs",
+          "videoId": "hKx3UqQDNNs",
+          "pubDate": "2026-03-28T16:22:44+00:00"
         },
         {
-          "title": "كيف استخدمت فرنسا إيرلندا لغزو بريطانيا؟",
-          "link": "https://www.youtube.com/watch?v=uTiWUW5QLTk",
-          "videoId": "uTiWUW5QLTk",
-          "pubDate": "2026-03-26T21:45:02+00:00"
+          "title": "عملية الالتهام الذاتي",
+          "link": "https://www.youtube.com/watch?v=rlhn5buQJ7Q",
+          "videoId": "rlhn5buQJ7Q",
+          "pubDate": "2026-03-28T16:22:44+00:00"
         }
       ],
       "ok": true
@@ -553,6 +553,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "وثائقي | الأخطبوط مهدد بالانقراض  - البحث عن الأسباب في أنحاء البحر المتوسط | وثائقية دي دبليو",
+          "link": "https://www.youtube.com/watch?v=3MNAb84wuF8",
+          "videoId": "3MNAb84wuF8",
+          "pubDate": "2026-03-28T17:00:05+00:00"
+        },
+        {
           "title": "وثائقي | سباق بطاريات السيارات الكهربائية - لماذا تعجز أوروبا عن مواكبة الصين؟| وثائقية دي دبليو",
           "link": "https://www.youtube.com/watch?v=kXath0zQ2W0",
           "videoId": "kXath0zQ2W0",
@@ -563,12 +569,6 @@
           "link": "https://www.youtube.com/watch?v=nviSiG13JjQ",
           "videoId": "nviSiG13JjQ",
           "pubDate": "2026-03-27T10:45:04+00:00"
-        },
-        {
-          "title": "نساء مكافحات في الإكوادور",
-          "link": "https://www.youtube.com/watch?v=LieMfWPJVk0",
-          "videoId": "LieMfWPJVk0",
-          "pubDate": "2026-03-26T12:16:00+00:00"
         }
       ],
       "ok": true
