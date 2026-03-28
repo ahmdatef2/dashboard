@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-28T17:18:45.967312+00:00",
+  "updated": "2026-03-28T18:22:07.128387+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -59,6 +59,12 @@
       "feedTitle": "Infotech4you - مروي سليمان",
       "items": [
         {
+          "title": "Gemini 3.1 Flash Live : أفضل ذكاء اصطناعي صوتي من جوجل وصل !",
+          "link": "https://www.youtube.com/watch?v=wHqb9x1HiJs",
+          "videoId": "wHqb9x1HiJs",
+          "pubDate": "2026-03-28T17:36:22+00:00"
+        },
+        {
           "title": "عودة كانفا مع تحديث ضخم:  عدل على اي انفوجرافيك أو عرض تقديمي وبالعربي",
           "link": "https://www.youtube.com/watch?v=nO7nFNpI9sg",
           "videoId": "nO7nFNpI9sg",
@@ -69,12 +75,6 @@
           "link": "https://www.youtube.com/watch?v=a7ebCfPZGbA",
           "videoId": "a7ebCfPZGbA",
           "pubDate": "2026-03-24T21:11:25+00:00"
-        },
-        {
-          "title": "أقوى Workflow بين NotebookLM وGoogle Docs في 2026",
-          "link": "https://www.youtube.com/watch?v=hculdKnY3ew",
-          "videoId": "hculdKnY3ew",
-          "pubDate": "2026-03-23T14:18:40+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "أكل لحوم البشر لأجل النجاة من الموت في الجليد",
+          "link": "https://www.youtube.com/watch?v=5-PXpmlrKtM",
+          "videoId": "5-PXpmlrKtM",
+          "pubDate": "2026-03-28T18:00:01+00:00"
+        },
+        {
           "title": "كيف أسهم الحديد في انهيار الحضارة الكوشية في مروي؟",
           "link": "https://www.youtube.com/watch?v=bzqcyGbrAyg",
           "videoId": "bzqcyGbrAyg",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=M_FJYwZ07kI",
           "videoId": "M_FJYwZ07kI",
           "pubDate": "2026-03-28T14:30:01+00:00"
-        },
-        {
-          "title": "السلط.. مدينة واحدة كانت تسيطر على صناعة الملابس في الأردن",
-          "link": "https://www.youtube.com/watch?v=cRyQ9owtM6Y",
-          "videoId": "cRyQ9owtM6Y",
-          "pubDate": "2026-03-28T12:30:00+00:00"
         }
       ],
       "ok": true
