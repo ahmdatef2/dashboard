@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-29T18:23:42.020878+00:00",
+  "updated": "2026-03-29T19:23:11.267961+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -371,6 +371,12 @@
       "feedTitle": "أخضر",
       "items": [
         {
+          "title": "الوجه المظلم من جائزة نوبل🏅",
+          "link": "https://www.youtube.com/watch?v=5_Gzletl2Pc",
+          "videoId": "5_Gzletl2Pc",
+          "pubDate": "2026-03-29T19:00:00+00:00"
+        },
+        {
           "title": "كيف تتحكم الإعلانات والمسلسلات في عقولنا؟😲 كتاب: غسيل الأدمغة #أخضر",
           "link": "https://www.youtube.com/watch?v=FThJNbYonjA",
           "videoId": "FThJNbYonjA",
@@ -381,12 +387,6 @@
           "link": "https://www.youtube.com/watch?v=Qx7s1sp91YM",
           "videoId": "Qx7s1sp91YM",
           "pubDate": "2026-03-26T13:51:59+00:00"
-        },
-        {
-          "title": "ما بعد جائزة نوبل 🏅| على الماشي #أخضر",
-          "link": "https://www.youtube.com/watch?v=EU8-bGScikQ",
-          "videoId": "EU8-bGScikQ",
-          "pubDate": "2026-03-24T19:14:48+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "كاميرات سينمائية تعود إلى ما قبل النكبة من صاحبها؟",
+          "link": "https://www.youtube.com/watch?v=ZcxopcljU_U",
+          "videoId": "ZcxopcljU_U",
+          "pubDate": "2026-03-29T19:00:01+00:00"
+        },
+        {
           "title": "مدينة تخفي ثروات العالم وتبيعها بكلمة عربية",
           "link": "https://www.youtube.com/watch?v=b1XU9dHR7R8",
           "videoId": "b1XU9dHR7R8",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=kOCxj_ym02M",
           "videoId": "kOCxj_ym02M",
           "pubDate": "2026-03-29T14:30:00+00:00"
-        },
-        {
-          "title": "الفيلم الذي غيّر نظرتنا للخيال العلمي",
-          "link": "https://www.youtube.com/watch?v=l90b7tyu46c",
-          "videoId": "l90b7tyu46c",
-          "pubDate": "2026-03-29T11:06:28+00:00"
         }
       ],
       "ok": true
@@ -527,7 +527,7 @@
       "feedTitle": "Nat Geo Abu Dhabi",
       "items": [
         {
-          "title": "Monster Constrictors",
+          "title": "الحلقاة الكاملة | ثعابين كونستريكتور الوحشيّة | ناشونال جيوغرافيك أبوظبي",
           "link": "https://www.youtube.com/watch?v=H4RFcoABpAY",
           "videoId": "H4RFcoABpAY",
           "pubDate": "2026-03-28T19:56:27+00:00"
