@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-29T20:17:51.128741+00:00",
+  "updated": "2026-03-29T21:20:08.312247+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -33,6 +33,12 @@
       "feedTitle": "كل يوم موقع جديد",
       "items": [
         {
+          "title": "أقوى نموذج صوتي من جوجل  وصناعة تطبيق لتعلم الآنجليزية في دقائق!",
+          "link": "https://www.youtube.com/watch?v=kjg9z5I0hyQ",
+          "videoId": "kjg9z5I0hyQ",
+          "pubDate": "2026-03-29T20:59:24+00:00"
+        },
+        {
           "title": "وداعًا للفيديوهات التقليدية! اصنع فيديو احترافي من NotebookLM بسهولة",
           "link": "https://www.youtube.com/watch?v=LL_tL69Os1A",
           "videoId": "LL_tL69Os1A",
@@ -43,12 +49,6 @@
           "link": "https://www.youtube.com/watch?v=SQXTdZ4qidw",
           "videoId": "SQXTdZ4qidw",
           "pubDate": "2026-03-25T16:58:15+00:00"
-        },
-        {
-          "title": "وداعاً بوربوينت : Kimi K2.5 وكيل ذكاء اصطناعي لعرض تقديمي احترافي!",
-          "link": "https://www.youtube.com/watch?v=wU3oin0CzRI",
-          "videoId": "wU3oin0CzRI",
-          "pubDate": "2026-03-24T22:24:47+00:00"
         }
       ],
       "ok": true
@@ -293,7 +293,7 @@
       "feedTitle": "تكنوفلاش – AI & Tech",
       "items": [
         {
-          "title": "الوحش الصيني  مجاني mimo-v2-pro 🔥 هل يكتب نهاية claude opus ؟ (تجربة برمجة صادمة)",
+          "title": "الوحش الصيني  مجاني mimo-v2-pro 🔥 هل يكتب نهاية claude opus ؟ (تجربة برمجة صادمة) | xiaomi mimo",
           "link": "https://www.youtube.com/watch?v=RCzoiuhwrF0",
           "videoId": "RCzoiuhwrF0",
           "pubDate": "2026-03-29T19:39:32+00:00"
