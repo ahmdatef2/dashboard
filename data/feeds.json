@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-29T09:24:57.125823+00:00",
+  "updated": "2026-03-29T10:20:07.313870+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -111,6 +111,12 @@
       "feedTitle": "AMR SALEM _ عمرو سالم",
       "items": [
         {
+          "title": "Xiaomi: MiMo . نموذج جديد مكسر الدنيا | هل اقوي من كلود ؟!",
+          "link": "https://www.youtube.com/watch?v=Zz67SYA9yV4",
+          "videoId": "Zz67SYA9yV4",
+          "pubDate": "2026-03-29T10:09:52+00:00"
+        },
+        {
           "title": "تحديث جديد من جوجل  . خلصني من اكبر مشكلة كانت بتواجهني !",
           "link": "https://www.youtube.com/watch?v=olq0SVulDbg",
           "videoId": "olq0SVulDbg",
@@ -121,12 +127,6 @@
           "link": "https://www.youtube.com/watch?v=Ic-W_KuIcjY",
           "videoId": "Ic-W_KuIcjY",
           "pubDate": "2026-03-27T15:52:37+00:00"
-        },
-        {
-          "title": "طريقة عمل لعبة متعددة اللاعبين علي google ai studio بعد التحديث الاخير",
-          "link": "https://www.youtube.com/watch?v=_JhNEcy7d-A",
-          "videoId": "_JhNEcy7d-A",
-          "pubDate": "2026-03-24T07:50:50+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "اللون الوردي للنحام.. سر غذائي غريب",
+          "link": "https://www.youtube.com/watch?v=1j2ZlcVBnR8",
+          "videoId": "1j2ZlcVBnR8",
+          "pubDate": "2026-03-29T09:30:00+00:00"
+        },
+        {
           "title": "الهيل.. نكهة فاخرة وصراع دامٍ في الظل",
           "link": "https://www.youtube.com/watch?v=YP_TP7F5rn8",
           "videoId": "YP_TP7F5rn8",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=5-PXpmlrKtM",
           "videoId": "5-PXpmlrKtM",
           "pubDate": "2026-03-28T18:00:01+00:00"
-        },
-        {
-          "title": "كيف أسهم الحديد في انهيار الحضارة الكوشية في مروي؟",
-          "link": "https://www.youtube.com/watch?v=bzqcyGbrAyg",
-          "videoId": "bzqcyGbrAyg",
-          "pubDate": "2026-03-28T17:00:00+00:00"
         }
       ],
       "ok": true
