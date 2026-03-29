@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-29T14:22:58.442397+00:00",
+  "updated": "2026-03-29T15:19:01.462057+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "حين داس جندي إسرائيلي المصحف وهزمته طفلة",
+          "link": "https://www.youtube.com/watch?v=kOCxj_ym02M",
+          "videoId": "kOCxj_ym02M",
+          "pubDate": "2026-03-29T14:30:00+00:00"
+        },
+        {
           "title": "الفيلم الذي غيّر نظرتنا للخيال العلمي",
           "link": "https://www.youtube.com/watch?v=l90b7tyu46c",
           "videoId": "l90b7tyu46c",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=1j2ZlcVBnR8",
           "videoId": "1j2ZlcVBnR8",
           "pubDate": "2026-03-29T09:30:00+00:00"
-        },
-        {
-          "title": "الهيل.. نكهة فاخرة وصراع دامٍ في الظل",
-          "link": "https://www.youtube.com/watch?v=YP_TP7F5rn8",
-          "videoId": "YP_TP7F5rn8",
-          "pubDate": "2026-03-28T20:00:01+00:00"
         }
       ],
       "ok": true
