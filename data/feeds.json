@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-29T17:19:41.366918+00:00",
+  "updated": "2026-03-29T18:23:42.020878+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "مدينة تخفي ثروات العالم وتبيعها بكلمة عربية",
+          "link": "https://www.youtube.com/watch?v=b1XU9dHR7R8",
+          "videoId": "b1XU9dHR7R8",
+          "pubDate": "2026-03-29T17:30:00+00:00"
+        },
+        {
           "title": "حين داس جندي إسرائيلي المصحف وهزمته طفلة",
           "link": "https://www.youtube.com/watch?v=kOCxj_ym02M",
           "videoId": "kOCxj_ym02M",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=l90b7tyu46c",
           "videoId": "l90b7tyu46c",
           "pubDate": "2026-03-29T11:06:28+00:00"
-        },
-        {
-          "title": "اللون الوردي للنحام.. سر غذائي غريب",
-          "link": "https://www.youtube.com/watch?v=1j2ZlcVBnR8",
-          "videoId": "1j2ZlcVBnR8",
-          "pubDate": "2026-03-29T09:30:00+00:00"
         }
       ],
       "ok": true
