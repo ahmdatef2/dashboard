@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-29T21:20:08.312247+00:00",
+  "updated": "2026-03-29T22:16:53.599679+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -59,7 +59,7 @@
       "feedTitle": "Infotech4you - مروي سليمان",
       "items": [
         {
-          "title": "تحديث كبير من جوجل: كيف تنقل خبرتك من أي AI إلى Gemini؟",
+          "title": "تحديث كبير من جوجل: كيف تنقل ذاكرتك من أي AI إلى Gemini؟",
           "link": "https://www.youtube.com/watch?v=ZX2fYF0L6yc",
           "videoId": "ZX2fYF0L6yc",
           "pubDate": "2026-03-29T16:14:35+00:00"
@@ -241,6 +241,12 @@
       "feedTitle": "مدرسة الذكاء الاصطناعي",
       "items": [
         {
+          "title": "استخدم Claude احسن من 90% من الناس (الدليل الكامل)",
+          "link": "https://www.youtube.com/watch?v=jdnXYcZmCCE",
+          "videoId": "jdnXYcZmCCE",
+          "pubDate": "2026-03-29T21:21:24+00:00"
+        },
+        {
           "title": "شغل Claude code مجانا وبلا حدود حتى لو جهازك ضعيف",
           "link": "https://www.youtube.com/watch?v=ct8mZ3SPXT8",
           "videoId": "ct8mZ3SPXT8",
@@ -251,12 +257,6 @@
           "link": "https://www.youtube.com/watch?v=g7wlbRuKxls",
           "videoId": "g7wlbRuKxls",
           "pubDate": "2026-03-20T21:22:48+00:00"
-        },
-        {
-          "title": "اعمل مساعد ذكاء اصطناعي تكلمه من موبايلك ويعملك كل حاجة",
-          "link": "https://www.youtube.com/watch?v=W9whm_hl0-0",
-          "videoId": "W9whm_hl0-0",
-          "pubDate": "2026-03-17T20:03:27+00:00"
         }
       ],
       "ok": true
@@ -501,6 +501,12 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "رحلة الإنسان إلى القمر.. أسرار لم تُحكَ من قبل | ما وراء كوكبنا ح2",
+          "link": "https://www.youtube.com/watch?v=J7IoQTkYgEg",
+          "videoId": "J7IoQTkYgEg",
+          "pubDate": "2026-03-29T22:00:00+00:00"
+        },
+        {
           "title": "كيف تحوّل الصراع بين أمريكا والاتحاد السوفيتي إلى تعاون في الفضاء؟ | ما وراء كوكبنا ح1",
           "link": "https://www.youtube.com/watch?v=odfRFiWAkN0",
           "videoId": "odfRFiWAkN0",
@@ -510,12 +516,6 @@
           "title": "لماذا يختفي الشعور بالجوع بعد عدة أيام من الصيام؟",
           "link": "https://www.youtube.com/watch?v=gioJslDFo8k",
           "videoId": "gioJslDFo8k",
-          "pubDate": "2026-03-28T16:22:44+00:00"
-        },
-        {
-          "title": "المذبحة الأشنع في الحرب الصربية-الكرواتية ضد البوسنة",
-          "link": "https://www.youtube.com/watch?v=hKx3UqQDNNs",
-          "videoId": "hKx3UqQDNNs",
           "pubDate": "2026-03-28T16:22:44+00:00"
         }
       ],
