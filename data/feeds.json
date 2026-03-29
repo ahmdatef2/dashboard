@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-29T04:26:22.310676+00:00",
+  "updated": "2026-03-29T06:04:42.029081+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -32,28 +32,9 @@
     "UC81Ks7DR9JFgZc14nmZ07EA": {
       "handle": "AMRSALEM800",
       "name": "عمرو سالم",
-      "feedTitle": "AMR SALEM _ عمرو سالم",
-      "items": [
-        {
-          "title": "تحديث جديد من جوجل  . خلصني من اكبر مشكلة كانت بتواجهني !",
-          "link": "https://www.youtube.com/watch?v=olq0SVulDbg",
-          "videoId": "olq0SVulDbg",
-          "pubDate": "2026-03-28T12:42:40+00:00"
-        },
-        {
-          "title": "وداعاً لبرامج المونتاج المعقدة! 🚀 صناعة فيديوهات احترافية بالذكاء الاصطناعي في دقائق | FlexClip 2026",
-          "link": "https://www.youtube.com/watch?v=Ic-W_KuIcjY",
-          "videoId": "Ic-W_KuIcjY",
-          "pubDate": "2026-03-27T15:52:37+00:00"
-        },
-        {
-          "title": "طريقة عمل لعبة متعددة اللاعبين علي google ai studio بعد التحديث الاخير",
-          "link": "https://www.youtube.com/watch?v=_JhNEcy7d-A",
-          "videoId": "_JhNEcy7d-A",
-          "pubDate": "2026-03-24T07:50:50+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "عمرو سالم",
+      "items": [],
+      "ok": false
     },
     "UC9ocsRoOwj9tkAQNfUt8ZJg": {
       "handle": "PythonArab",
@@ -79,28 +60,9 @@
     "UCSXcmF4Gxl6Hc-m6cHYD_Vg": {
       "handle": "MohamedAnsary",
       "name": "محمد أنصاري",
-      "feedTitle": "Mohamed Ansary",
-      "items": [
-        {
-          "title": "وداعاً للبحث التقليدي! وكيلك الذكي على تليجرام يقوم بالمهمة بدلاً منك | Manus",
-          "link": "https://www.youtube.com/watch?v=-36kgHPtd2Y",
-          "videoId": "-36kgHPtd2Y",
-          "pubDate": "2026-03-27T20:42:57+00:00"
-        },
-        {
-          "title": "تصميم بودكاست مرئي مع تحديثات NotebookLMالرائعة",
-          "link": "https://www.youtube.com/watch?v=j0adCYFafqU",
-          "videoId": "j0adCYFafqU",
-          "pubDate": "2026-03-26T10:33:13+00:00"
-        },
-        {
-          "title": "ثورة الذكاء الاصطناعي التوليدي: دورة احترافية جديدة.",
-          "link": "https://www.youtube.com/watch?v=gLsekZleAWo",
-          "videoId": "gLsekZleAWo",
-          "pubDate": "2026-03-24T16:35:30+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "محمد أنصاري",
+      "items": [],
+      "ok": false
     },
     "UCDqp23rTdCo_tXsuHLYF47Q": {
       "handle": "ArabianAiSchool",
@@ -154,28 +116,9 @@
     "UChbuH4HULlesX_rzlozkT6Q": {
       "handle": "AliMuhammadAli",
       "name": "علي محمد علي",
-      "feedTitle": "Ali Muhammad Ali",
-      "items": [
-        {
-          "title": "اضبط نومك تكسب يومك - أكاديمية الإنجاز",
-          "link": "https://www.youtube.com/watch?v=IqVjqBafhDY",
-          "videoId": "IqVjqBafhDY",
-          "pubDate": "2026-03-27T17:00:31+00:00"
-        },
-        {
-          "title": "ما زلنا هنا..",
-          "link": "https://www.youtube.com/watch?v=gJjoYniRSZc",
-          "videoId": "gJjoYniRSZc",
-          "pubDate": "2026-02-28T13:31:00+00:00"
-        },
-        {
-          "title": "نهاية عصر القراءة!",
-          "link": "https://www.youtube.com/watch?v=JRnEJiLeJZ8",
-          "videoId": "JRnEJiLeJZ8",
-          "pubDate": "2025-09-25T12:08:55+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "علي محمد علي",
+      "items": [],
+      "ok": false
     },
     "UCJlu6BjPWHZhzuCc0zVME0Q": {
       "handle": "Dupamicaffeine",
