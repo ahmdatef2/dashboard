@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-30T10:03:45.976138+00:00",
+  "updated": "2026-03-30T11:44:10.090013+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -59,7 +59,7 @@
       "feedTitle": "Infotech4you - مروي سليمان",
       "items": [
         {
-          "title": "تحديث كبير من جوجل: كيف تنقل ذاكرتك من أي AI إلى Gemini؟",
+          "title": "استيراد الذاكرة وتحديث كبير من جوجل داخل Gemini",
           "link": "https://www.youtube.com/watch?v=ZX2fYF0L6yc",
           "videoId": "ZX2fYF0L6yc",
           "pubDate": "2026-03-29T16:14:35+00:00"
@@ -215,6 +215,12 @@
       "feedTitle": "Mohamed Ansary",
       "items": [
         {
+          "title": "فهم الأوراق البحثية  مع المساعد الذكي Moonlight",
+          "link": "https://www.youtube.com/watch?v=pqtiowLRqQE",
+          "videoId": "pqtiowLRqQE",
+          "pubDate": "2026-03-30T11:35:06+00:00"
+        },
+        {
           "title": "وداعاً للبحث التقليدي! وكيلك الذكي على تليجرام يقوم بالمهمة بدلاً منك | Manus",
           "link": "https://www.youtube.com/watch?v=-36kgHPtd2Y",
           "videoId": "-36kgHPtd2Y",
@@ -225,12 +231,6 @@
           "link": "https://www.youtube.com/watch?v=j0adCYFafqU",
           "videoId": "j0adCYFafqU",
           "pubDate": "2026-03-26T10:33:13+00:00"
-        },
-        {
-          "title": "ثورة الذكاء الاصطناعي التوليدي: دورة احترافية جديدة.",
-          "link": "https://www.youtube.com/watch?v=gLsekZleAWo",
-          "videoId": "gLsekZleAWo",
-          "pubDate": "2026-03-24T16:35:30+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "كيف دعم المدنيون المقاومة المسلحة في فيتنام؟",
+          "link": "https://www.youtube.com/watch?v=rdT-E4LnuX8",
+          "videoId": "rdT-E4LnuX8",
+          "pubDate": "2026-03-30T11:00:02+00:00"
+        },
+        {
           "title": "كاميرات سينمائية تعود إلى ما قبل النكبة من صاحبها؟",
           "link": "https://www.youtube.com/watch?v=ZcxopcljU_U",
           "videoId": "ZcxopcljU_U",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=b1XU9dHR7R8",
           "videoId": "b1XU9dHR7R8",
           "pubDate": "2026-03-29T17:30:00+00:00"
-        },
-        {
-          "title": "حين داس جندي إسرائيلي المصحف وهزمته طفلة",
-          "link": "https://www.youtube.com/watch?v=kOCxj_ym02M",
-          "videoId": "kOCxj_ym02M",
-          "pubDate": "2026-03-29T14:30:00+00:00"
         }
       ],
       "ok": true
@@ -553,6 +553,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "كيف يعمل الاندماج النووي؟",
+          "link": "https://www.youtube.com/watch?v=VrLFj3th2m8",
+          "videoId": "VrLFj3th2m8",
+          "pubDate": "2026-03-30T10:28:01+00:00"
+        },
+        {
           "title": "وثائقي | الأخطبوط مهدد بالانقراض  - البحث عن الأسباب في أنحاء البحر المتوسط | وثائقية دي دبليو",
           "link": "https://www.youtube.com/watch?v=3MNAb84wuF8",
           "videoId": "3MNAb84wuF8",
@@ -563,12 +569,6 @@
           "link": "https://www.youtube.com/watch?v=kXath0zQ2W0",
           "videoId": "kXath0zQ2W0",
           "pubDate": "2026-03-27T17:00:58+00:00"
-        },
-        {
-          "title": "مخاطر العمل الصحفي",
-          "link": "https://www.youtube.com/watch?v=nviSiG13JjQ",
-          "videoId": "nviSiG13JjQ",
-          "pubDate": "2026-03-27T10:45:04+00:00"
         }
       ],
       "ok": true
