@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-30T21:30:49.416209+00:00",
+  "updated": "2026-03-30T22:21:39.671287+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -501,6 +501,12 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "رحلة إلى المريخ: من أول صورة إلى البحث عن الحياة على الكوكب الأحمر | ما وراء كوكبنا ح3",
+          "link": "https://www.youtube.com/watch?v=Vb8WS0tJQOA",
+          "videoId": "Vb8WS0tJQOA",
+          "pubDate": "2026-03-30T22:00:00+00:00"
+        },
+        {
           "title": "رحلة الإنسان إلى القمر.. أسرار لم تُحكَ من قبل | ما وراء كوكبنا ح2",
           "link": "https://www.youtube.com/watch?v=J7IoQTkYgEg",
           "videoId": "J7IoQTkYgEg",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=odfRFiWAkN0",
           "videoId": "odfRFiWAkN0",
           "pubDate": "2026-03-28T22:00:00+00:00"
-        },
-        {
-          "title": "لماذا يختفي الشعور بالجوع بعد عدة أيام من الصيام؟",
-          "link": "https://www.youtube.com/watch?v=gioJslDFo8k",
-          "videoId": "gioJslDFo8k",
-          "pubDate": "2026-03-28T16:22:44+00:00"
         }
       ],
       "ok": true
