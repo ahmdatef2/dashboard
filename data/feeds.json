@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-30T18:42:21.137977+00:00",
+  "updated": "2026-03-30T19:45:14.181026+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -527,6 +527,12 @@
       "feedTitle": "Nat Geo Abu Dhabi",
       "items": [
         {
+          "title": "العودة من الموت | عمليات إنقاذ خطرة | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=p8IFrYa7SJ0",
+          "videoId": "p8IFrYa7SJ0",
+          "pubDate": "2026-03-30T19:19:05+00:00"
+        },
+        {
           "title": "الحلقاة الكاملة | ثعابين كونستريكتور الوحشيّة | ناشونال جيوغرافيك أبوظبي",
           "link": "https://www.youtube.com/watch?v=H4RFcoABpAY",
           "videoId": "H4RFcoABpAY",
@@ -537,12 +543,6 @@
           "link": "https://www.youtube.com/watch?v=PEWDnL5jer0",
           "videoId": "PEWDnL5jer0",
           "pubDate": "2026-03-27T09:04:44+00:00"
-        },
-        {
-          "title": "موسم جديد | كريتر فيكسرز: أطباء في الريف | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=EYIzTTe6284",
-          "videoId": "EYIzTTe6284",
-          "pubDate": "2026-03-27T09:03:36+00:00"
         }
       ],
       "ok": true
