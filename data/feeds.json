@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-30T16:50:44.805824+00:00",
+  "updated": "2026-03-30T17:42:09.309933+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "في جزيرة سواكن السودانية مسجد لكل مذهب فقهي",
+          "link": "https://www.youtube.com/watch?v=VVCKLPzXD8k",
+          "videoId": "VVCKLPzXD8k",
+          "pubDate": "2026-03-30T17:00:01+00:00"
+        },
+        {
           "title": "مشهد أرشيفي يوثق واحدا من أجمل أيام الفخر في تاريخ الجزائر",
           "link": "https://www.youtube.com/watch?v=tlTB4SykTYU",
           "videoId": "tlTB4SykTYU",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=xCIZr57Wv5k",
           "videoId": "xCIZr57Wv5k",
           "pubDate": "2026-03-30T14:30:01+00:00"
-        },
-        {
-          "title": "كيف دعم المدنيون المقاومة المسلحة في فيتنام؟",
-          "link": "https://www.youtube.com/watch?v=rdT-E4LnuX8",
-          "videoId": "rdT-E4LnuX8",
-          "pubDate": "2026-03-30T11:00:02+00:00"
         }
       ],
       "ok": true
