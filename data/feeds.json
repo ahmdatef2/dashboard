@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-30T19:45:14.181026+00:00",
+  "updated": "2026-03-30T20:32:23.847825+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "الدرّاعة الموريتانية.. لباس يقي المناخ ويحفظ الهوية",
+          "link": "https://www.youtube.com/watch?v=QsNlBVooJ1c",
+          "videoId": "QsNlBVooJ1c",
+          "pubDate": "2026-03-30T20:00:01+00:00"
+        },
+        {
           "title": "في جزيرة سواكن السودانية مسجد لكل مذهب فقهي",
           "link": "https://www.youtube.com/watch?v=VVCKLPzXD8k",
           "videoId": "VVCKLPzXD8k",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=tlTB4SykTYU",
           "videoId": "tlTB4SykTYU",
           "pubDate": "2026-03-30T16:00:01+00:00"
-        },
-        {
-          "title": "كيف تطير مئات آلاف الطيور في أسراب ولا تصطدم ببعضها؟",
-          "link": "https://www.youtube.com/watch?v=xCIZr57Wv5k",
-          "videoId": "xCIZr57Wv5k",
-          "pubDate": "2026-03-30T14:30:01+00:00"
         }
       ],
       "ok": true
