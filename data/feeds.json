@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-30T17:42:09.309933+00:00",
+  "updated": "2026-03-30T18:42:21.137977+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -59,6 +59,12 @@
       "feedTitle": "Infotech4you - مروي سليمان",
       "items": [
         {
+          "title": "Claude Plugins : كل ما تحتاج معرفته عن إضافات أنثروبيك واستخدامها",
+          "link": "https://www.youtube.com/watch?v=-WW0KzljwDg",
+          "videoId": "-WW0KzljwDg",
+          "pubDate": "2026-03-30T18:27:51+00:00"
+        },
+        {
           "title": "استيراد الذاكرة وتحديث كبير من جوجل داخل Gemini",
           "link": "https://www.youtube.com/watch?v=ZX2fYF0L6yc",
           "videoId": "ZX2fYF0L6yc",
@@ -69,12 +75,6 @@
           "link": "https://www.youtube.com/watch?v=wHqb9x1HiJs",
           "videoId": "wHqb9x1HiJs",
           "pubDate": "2026-03-28T17:36:22+00:00"
-        },
-        {
-          "title": "عودة كانفا مع تحديث ضخم:  عدل على اي انفوجرافيك أو عرض تقديمي وبالعربي",
-          "link": "https://www.youtube.com/watch?v=nO7nFNpI9sg",
-          "videoId": "nO7nFNpI9sg",
-          "pubDate": "2026-03-26T18:40:13+00:00"
         }
       ],
       "ok": true
