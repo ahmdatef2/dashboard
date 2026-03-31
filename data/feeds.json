@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-31T04:24:41.599128+00:00",
+  "updated": "2026-03-31T06:08:47.655726+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -53,54 +53,16 @@
     "UCGrVvqu8PlVv0wPqA5kgY8A": {
       "handle": "ArabicArtificialIntelligence",
       "name": "الذكاء الاصطناعي العربي",
-      "feedTitle": "ذكاء اصطناعي عربي",
-      "items": [
-        {
-          "title": "بناء مشروع حقيقي بـ OpenCode | سلسلة الذكاء الاصطناعي",
-          "link": "https://www.youtube.com/watch?v=9nR8kVSDNZM",
-          "videoId": "9nR8kVSDNZM",
-          "pubDate": "2026-03-30T16:00:06+00:00"
-        },
-        {
-          "title": "🧠 تدريب Gemma للتحكم بروبوت… النتيجة غير متوقعة!",
-          "link": "https://www.youtube.com/watch?v=AiTufHK-SaA",
-          "videoId": "AiTufHK-SaA",
-          "pubDate": "2026-03-28T19:32:07+00:00"
-        },
-        {
-          "title": "شغال بجد | تجربة صادقة و شرح كامل OpenCode",
-          "link": "https://www.youtube.com/watch?v=VrlMYLTJsTc",
-          "videoId": "VrlMYLTJsTc",
-          "pubDate": "2026-03-27T17:00:06+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "الذكاء الاصطناعي العربي",
+      "items": [],
+      "ok": false
     },
     "UCSXcmF4Gxl6Hc-m6cHYD_Vg": {
       "handle": "MohamedAnsary",
       "name": "محمد أنصاري",
-      "feedTitle": "Mohamed Ansary",
-      "items": [
-        {
-          "title": "فهم الأوراق البحثية  مع المساعد الذكي Moonlight",
-          "link": "https://www.youtube.com/watch?v=pqtiowLRqQE",
-          "videoId": "pqtiowLRqQE",
-          "pubDate": "2026-03-30T11:35:06+00:00"
-        },
-        {
-          "title": "وداعاً للبحث التقليدي! وكيلك الذكي على تليجرام يقوم بالمهمة بدلاً منك | Manus",
-          "link": "https://www.youtube.com/watch?v=-36kgHPtd2Y",
-          "videoId": "-36kgHPtd2Y",
-          "pubDate": "2026-03-27T20:42:57+00:00"
-        },
-        {
-          "title": "تصميم بودكاست مرئي مع تحديثات NotebookLMالرائعة",
-          "link": "https://www.youtube.com/watch?v=j0adCYFafqU",
-          "videoId": "j0adCYFafqU",
-          "pubDate": "2026-03-26T10:33:13+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "محمد أنصاري",
+      "items": [],
+      "ok": false
     },
     "UCDqp23rTdCo_tXsuHLYF47Q": {
       "handle": "ArabianAiSchool",
@@ -147,28 +109,9 @@
     "UCUjRjJ1-h3oUx40gf2tuh3w": {
       "handle": "Sha5bata",
       "name": "شخبطة",
-      "feedTitle": "شخبطة Sha5bata",
-      "items": [
-        {
-          "title": "لماذا يختار الأذكياء عدم النشر على  وسائل التواصل الاجتماعى ؟!",
-          "link": "https://www.youtube.com/watch?v=Aobz3_jEajQ",
-          "videoId": "Aobz3_jEajQ",
-          "pubDate": "2026-03-26T13:00:13+00:00"
-        },
-        {
-          "title": "30 رسالة عشان تحب الصلاة.. الرسالة 5",
-          "link": "https://www.youtube.com/watch?v=XhtqZm56Pss",
-          "videoId": "XhtqZm56Pss",
-          "pubDate": "2026-02-27T13:21:19+00:00"
-        },
-        {
-          "title": "كيف تُنظم وقتك مثل السلف الصالح .. ستتغير حياتك للأبد !",
-          "link": "https://www.youtube.com/watch?v=46h0sA5idsY",
-          "videoId": "46h0sA5idsY",
-          "pubDate": "2026-02-23T14:00:12+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "شخبطة",
+      "items": [],
+      "ok": false
     },
     "UChbuH4HULlesX_rzlozkT6Q": {
       "handle": "AliMuhammadAli",
@@ -208,28 +151,9 @@
     "UCET6sWl4Xcu-U8Ka9PJPrwA": {
       "handle": "dwdocarabia",
       "name": "DW عربية وثائقي",
-      "feedTitle": "DW Documentary وثائقية دي دبليو",
-      "items": [
-        {
-          "title": "كيف يعمل الاندماج النووي؟",
-          "link": "https://www.youtube.com/watch?v=VrLFj3th2m8",
-          "videoId": "VrLFj3th2m8",
-          "pubDate": "2026-03-30T10:28:01+00:00"
-        },
-        {
-          "title": "وثائقي | الأخطبوط مهدد بالانقراض  - البحث عن الأسباب في أنحاء البحر المتوسط | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=3MNAb84wuF8",
-          "videoId": "3MNAb84wuF8",
-          "pubDate": "2026-03-28T17:00:05+00:00"
-        },
-        {
-          "title": "وثائقي | سباق بطاريات السيارات الكهربائية - لماذا تعجز أوروبا عن مواكبة الصين؟| وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=kXath0zQ2W0",
-          "videoId": "kXath0zQ2W0",
-          "pubDate": "2026-03-27T17:00:58+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "DW عربية وثائقي",
+      "items": [],
+      "ok": false
     }
   }
 }
