@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-31T11:38:36.796650+00:00",
+  "updated": "2026-03-31T12:44:30.307286+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "ماذا حدث في الدقائق الأولى من انفجار قنبلة هيروشيما؟",
+          "link": "https://www.youtube.com/watch?v=W98l7KI0d8c",
+          "videoId": "W98l7KI0d8c",
+          "pubDate": "2026-03-31T12:30:01+00:00"
+        },
+        {
           "title": "أسلوب تعذيب إسرائيلي وحشي لكسر إرادة الأسرى الفلسطينيين",
           "link": "https://www.youtube.com/watch?v=Cl0Mm3WJG0c",
           "videoId": "Cl0Mm3WJG0c",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=QsNlBVooJ1c",
           "videoId": "QsNlBVooJ1c",
           "pubDate": "2026-03-30T20:00:01+00:00"
-        },
-        {
-          "title": "في جزيرة سواكن السودانية مسجد لكل مذهب فقهي",
-          "link": "https://www.youtube.com/watch?v=VVCKLPzXD8k",
-          "videoId": "VVCKLPzXD8k",
-          "pubDate": "2026-03-30T17:00:01+00:00"
         }
       ],
       "ok": true
