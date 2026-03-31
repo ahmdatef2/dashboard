@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-31T15:56:15.428270+00:00",
+  "updated": "2026-03-31T16:49:05.338023+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -267,6 +267,12 @@
       "feedTitle": "أكاديمية ريان | Ryan Academy",
       "items": [
         {
+          "title": "شاومي Xiaomi دخلت سباق AI بقوة 🤯 (تجربتي مع MiMo V2 Pro)",
+          "link": "https://www.youtube.com/watch?v=5szmV0CpFe8",
+          "videoId": "5szmV0CpFe8",
+          "pubDate": "2026-03-30T15:00:10+00:00"
+        },
+        {
           "title": "بناء تطبيق موبايل كامل مجانًا بالـ AI وبدون خبرة! (Stitch + Flutter + Antigravity)",
           "link": "https://www.youtube.com/watch?v=D-If7HWOYbE",
           "videoId": "D-If7HWOYbE",
@@ -277,12 +283,6 @@
           "link": "https://www.youtube.com/watch?v=xpGPnOKja9Q",
           "videoId": "xpGPnOKja9Q",
           "pubDate": "2026-03-23T17:01:20+00:00"
-        },
-        {
-          "title": "جرب كل موديلات الذكاء الاصطناعي في مكان واحد مجانًا 🔥 DesignArena AI",
-          "link": "https://www.youtube.com/watch?v=QqSpKP21nDw",
-          "videoId": "QqSpKP21nDw",
-          "pubDate": "2026-03-20T17:00:41+00:00"
         }
       ],
       "ok": true
