@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-31T20:30:39.913572+00:00",
+  "updated": "2026-03-31T21:26:07.934706+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "عصابات الثالوث الصينية كيف تسببت لأمريكا الشمالية بكابوس المخدرات؟",
+          "link": "https://www.youtube.com/watch?v=E27ZtAzbr9s",
+          "videoId": "E27ZtAzbr9s",
+          "pubDate": "2026-03-31T21:00:01+00:00"
+        },
+        {
           "title": "هل عاش الفضائيون في الجزائر قديما؟",
           "link": "https://www.youtube.com/watch?v=z2gukA6AoTw",
           "videoId": "z2gukA6AoTw",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=SmrWzTqQJYk",
           "videoId": "SmrWzTqQJYk",
           "pubDate": "2026-03-31T19:30:06+00:00"
-        },
-        {
-          "title": "\"غوانتانامو إسرائيل\" يضم أسرى من جنسيات عربية مختلفة",
-          "link": "https://www.youtube.com/watch?v=nKs-nTdmBOU",
-          "videoId": "nKs-nTdmBOU",
-          "pubDate": "2026-03-31T17:03:00+00:00"
         }
       ],
       "ok": true
