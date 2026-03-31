@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-31T18:42:42.275708+00:00",
+  "updated": "2026-03-31T19:44:42.959785+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -423,7 +423,7 @@
       "feedTitle": "Ali Muhammad Ali",
       "items": [
         {
-          "title": "اضبط نومك تكسب يومك - أكاديمية الإنجاز",
+          "title": "اضبط نومك تكسب يومك",
           "link": "https://www.youtube.com/watch?v=IqVjqBafhDY",
           "videoId": "IqVjqBafhDY",
           "pubDate": "2026-03-27T17:00:31+00:00"
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "البقاء في عصر الاحتباس الحراري.. المحيطات | عندما تغلي البحار وتختفي الشعاب",
+          "link": "https://www.youtube.com/watch?v=SmrWzTqQJYk",
+          "videoId": "SmrWzTqQJYk",
+          "pubDate": "2026-03-31T19:30:06+00:00"
+        },
+        {
           "title": "\"غوانتانامو إسرائيل\" يضم أسرى من جنسيات عربية مختلفة",
           "link": "https://www.youtube.com/watch?v=nKs-nTdmBOU",
           "videoId": "nKs-nTdmBOU",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=9s85IPAMB0U",
           "videoId": "9s85IPAMB0U",
           "pubDate": "2026-03-31T14:30:02+00:00"
-        },
-        {
-          "title": "ماذا حدث في الدقائق الأولى من انفجار قنبلة هيروشيما؟",
-          "link": "https://www.youtube.com/watch?v=W98l7KI0d8c",
-          "videoId": "W98l7KI0d8c",
-          "pubDate": "2026-03-31T12:30:01+00:00"
         }
       ],
       "ok": true
