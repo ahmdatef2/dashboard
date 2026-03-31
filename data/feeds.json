@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-31T17:44:28.077359+00:00",
+  "updated": "2026-03-31T18:42:42.275708+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -553,6 +553,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "ريبورتاج | انتخابات تاريخية في المجر: أوروبا أم السلطوية؟ | وثائقية دي دبليو",
+          "link": "https://www.youtube.com/watch?v=oq5v_6ULm2I",
+          "videoId": "oq5v_6ULm2I",
+          "pubDate": "2026-03-31T18:00:38+00:00"
+        },
+        {
           "title": "كيف يعمل الاندماج النووي؟",
           "link": "https://www.youtube.com/watch?v=VrLFj3th2m8",
           "videoId": "VrLFj3th2m8",
@@ -563,12 +569,6 @@
           "link": "https://www.youtube.com/watch?v=3MNAb84wuF8",
           "videoId": "3MNAb84wuF8",
           "pubDate": "2026-03-28T17:00:05+00:00"
-        },
-        {
-          "title": "وثائقي | سباق بطاريات السيارات الكهربائية - لماذا تعجز أوروبا عن مواكبة الصين؟| وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=kXath0zQ2W0",
-          "videoId": "kXath0zQ2W0",
-          "pubDate": "2026-03-27T17:00:58+00:00"
         }
       ],
       "ok": true
