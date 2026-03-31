@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-31T14:20:47.911369+00:00",
+  "updated": "2026-03-31T15:56:15.428270+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "قفزة واحدة تفصل أسماك السلمون عن فكي الدببة",
+          "link": "https://www.youtube.com/watch?v=9s85IPAMB0U",
+          "videoId": "9s85IPAMB0U",
+          "pubDate": "2026-03-31T14:30:02+00:00"
+        },
+        {
           "title": "ماذا حدث في الدقائق الأولى من انفجار قنبلة هيروشيما؟",
           "link": "https://www.youtube.com/watch?v=W98l7KI0d8c",
           "videoId": "W98l7KI0d8c",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=Cl0Mm3WJG0c",
           "videoId": "Cl0Mm3WJG0c",
           "pubDate": "2026-03-31T09:47:05+00:00"
-        },
-        {
-          "title": "الدرّاعة الموريتانية.. لباس يقي المناخ ويحفظ الهوية",
-          "link": "https://www.youtube.com/watch?v=QsNlBVooJ1c",
-          "videoId": "QsNlBVooJ1c",
-          "pubDate": "2026-03-30T20:00:01+00:00"
         }
       ],
       "ok": true
