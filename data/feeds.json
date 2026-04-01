@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-01T17:40:08.621385+00:00",
+  "updated": "2026-04-01T18:41:41.435466+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -241,7 +241,7 @@
       "feedTitle": "مدرسة الذكاء الاصطناعي",
       "items": [
         {
-          "title": "أخيرًا بديل Claude Cowork المجاني+ تشغيل OpenClaw بضغطة زر",
+          "title": "أخيرًا بديل Claude Cowork المجاني + تشغيل OpenClaw بضغطة زر",
           "link": "https://www.youtube.com/watch?v=UKfMuuCe4K8",
           "videoId": "UKfMuuCe4K8",
           "pubDate": "2026-04-01T17:26:44+00:00"
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "أكتب بيديها- برومو",
+          "link": "https://www.youtube.com/watch?v=U2phiwToLbc",
+          "videoId": "U2phiwToLbc",
+          "pubDate": "2026-04-01T18:00:00+00:00"
+        },
+        {
+          "title": "عالم يشبهنا.. صراعات الملكية والتحالفات الغامضة في عالم الحيوان | الحلقة الثانية",
+          "link": "https://www.youtube.com/watch?v=ILK2ln31KvI",
+          "videoId": "ILK2ln31KvI",
+          "pubDate": "2026-04-01T17:45:01+00:00"
+        },
+        {
           "title": "العذراء البلورية رفات غامض يكشف جريمة ارتكبت منذ قرون",
           "link": "https://www.youtube.com/watch?v=27YucXQcxow",
           "videoId": "27YucXQcxow",
           "pubDate": "2026-04-01T16:00:01+00:00"
-        },
-        {
-          "title": "غرف تشبه القبور كيف يعيش الأسرى في العزل الانفرادي بسجون الاحتلال؟",
-          "link": "https://www.youtube.com/watch?v=-d5iopzPv9E",
-          "videoId": "-d5iopzPv9E",
-          "pubDate": "2026-04-01T14:30:01+00:00"
-        },
-        {
-          "title": "الاعتداء على الضحية وحماية المعتدي",
-          "link": "https://www.youtube.com/watch?v=zdltAjl59QU",
-          "videoId": "zdltAjl59QU",
-          "pubDate": "2026-04-01T12:30:00+00:00"
         }
       ],
       "ok": true
