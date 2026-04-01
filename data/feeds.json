@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-01T15:59:28.658922+00:00",
+  "updated": "2026-04-01T16:54:26.437421+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -267,6 +267,12 @@
       "feedTitle": "أكاديمية ريان | Ryan Academy",
       "items": [
         {
+          "title": "جربت تحديث Google Stitch الجديد 😳 النتيجة كانت مجنونة! - أسرع تصميم واجهات بالـ AI",
+          "link": "https://www.youtube.com/watch?v=UamvE2JBPac",
+          "videoId": "UamvE2JBPac",
+          "pubDate": "2026-04-01T16:00:39+00:00"
+        },
+        {
           "title": "شاومي Xiaomi دخلت سباق AI بقوة 🤯 (تجربتي مع MiMo V2 Pro)",
           "link": "https://www.youtube.com/watch?v=5szmV0CpFe8",
           "videoId": "5szmV0CpFe8",
@@ -277,12 +283,6 @@
           "link": "https://www.youtube.com/watch?v=D-If7HWOYbE",
           "videoId": "D-If7HWOYbE",
           "pubDate": "2026-03-26T17:00:24+00:00"
-        },
-        {
-          "title": "لو مش عارف تكتب Prompt صح… الأداة دي هتعمله بدالك",
-          "link": "https://www.youtube.com/watch?v=xpGPnOKja9Q",
-          "videoId": "xpGPnOKja9Q",
-          "pubDate": "2026-03-23T17:01:20+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "العذراء البلورية رفات غامض يكشف جريمة ارتكبت منذ قرون",
+          "link": "https://www.youtube.com/watch?v=27YucXQcxow",
+          "videoId": "27YucXQcxow",
+          "pubDate": "2026-04-01T16:00:01+00:00"
+        },
+        {
           "title": "غرف تشبه القبور كيف يعيش الأسرى في العزل الانفرادي بسجون الاحتلال؟",
           "link": "https://www.youtube.com/watch?v=-d5iopzPv9E",
           "videoId": "-d5iopzPv9E",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=zdltAjl59QU",
           "videoId": "zdltAjl59QU",
           "pubDate": "2026-04-01T12:30:00+00:00"
-        },
-        {
-          "title": "عصابات الثالوث الصينية كيف تسببت لأمريكا الشمالية بكابوس المخدرات؟",
-          "link": "https://www.youtube.com/watch?v=E27ZtAzbr9s",
-          "videoId": "E27ZtAzbr9s",
-          "pubDate": "2026-03-31T21:00:01+00:00"
         }
       ],
       "ok": true
