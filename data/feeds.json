@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-01T20:31:51.327042+00:00",
+  "updated": "2026-04-01T21:31:02.991765+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -241,7 +241,7 @@
       "feedTitle": "مدرسة الذكاء الاصطناعي",
       "items": [
         {
-          "title": "أخيرًا بديل Claude Cowork المجاني + تشغيل OpenClaw بضغطة زر",
+          "title": "أخيرًا بديل Claude Cowork المجاني minimax agent desktop",
           "link": "https://www.youtube.com/watch?v=UKfMuuCe4K8",
           "videoId": "UKfMuuCe4K8",
           "pubDate": "2026-04-01T17:26:44+00:00"
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "غابات تضيء ليلا في الهند بدون كهرباء",
+          "link": "https://www.youtube.com/watch?v=wBPPuLWIj4k",
+          "videoId": "wBPPuLWIj4k",
+          "pubDate": "2026-04-01T20:59:01+00:00"
+        },
+        {
           "title": "80 يوما متواصلة في \"وضعية الشبح\" شهادة أسير محرر عن التعذيب في غرف التحقيق الإسرائيلية",
           "link": "https://www.youtube.com/watch?v=AJOz23NfHSE",
           "videoId": "AJOz23NfHSE",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=iZJIjYPrOFc",
           "videoId": "iZJIjYPrOFc",
           "pubDate": "2026-04-01T19:20:01+00:00"
-        },
-        {
-          "title": "عالم يشبهنا.. صراعات الملكية والتحالفات الغامضة في عالم الحيوان | الحلقة الثانية",
-          "link": "https://www.youtube.com/watch?v=ILK2ln31KvI",
-          "videoId": "ILK2ln31KvI",
-          "pubDate": "2026-04-01T17:45:01+00:00"
         }
       ],
       "ok": true
