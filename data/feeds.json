@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-01T12:46:16.882373+00:00",
+  "updated": "2026-04-01T14:22:59.598935+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -59,7 +59,7 @@
       "feedTitle": "Infotech4you - مروي سليمان",
       "items": [
         {
-          "title": "Claude Plugins : كل ما تحتاج معرفته عن إضافات أنثروبيك واستخدامها",
+          "title": "Claude Cowork Plugins: أخطر إضافة من Anthropic",
           "link": "https://www.youtube.com/watch?v=-WW0KzljwDg",
           "videoId": "-WW0KzljwDg",
           "pubDate": "2026-03-30T18:27:51+00:00"
@@ -319,6 +319,12 @@
       "feedTitle": "خير جليس",
       "items": [
         {
+          "title": "كل اختراق يبدأ بحقيقة مخفية  - من  كتاب من صفر إلى الواحد",
+          "link": "https://www.youtube.com/watch?v=mdbhGwWOMe8",
+          "videoId": "mdbhGwWOMe8",
+          "pubDate": "2026-04-01T13:01:02+00:00"
+        },
+        {
           "title": "المنافسة إشارة أنك لست فريدًا - من  كتاب من صفر إلى الواحد",
           "link": "https://www.youtube.com/watch?v=ggSps6Ma3R8",
           "videoId": "ggSps6Ma3R8",
@@ -329,12 +335,6 @@
           "link": "https://www.youtube.com/watch?v=iqbgBxNeH8c",
           "videoId": "iqbgBxNeH8c",
           "pubDate": "2026-03-31T13:00:52+00:00"
-        },
-        {
-          "title": "الانتصارات الصغيرة تعيد تشكيل ثقتك بنفسك - من  كتاب معجزة الصباح",
-          "link": "https://www.youtube.com/watch?v=brmmPqU-jrY",
-          "videoId": "brmmPqU-jrY",
-          "pubDate": "2026-03-30T06:15:01+00:00"
         }
       ],
       "ok": true
@@ -449,6 +449,12 @@
       "feedTitle": "دوباميكافين Dupamicaffeine",
       "items": [
         {
+          "title": "لغة الحب الأهم",
+          "link": "https://www.youtube.com/watch?v=PXa__tZ6SuY",
+          "videoId": "PXa__tZ6SuY",
+          "pubDate": "2026-04-01T13:00:00+00:00"
+        },
+        {
           "title": "الحضور الكامل وتأثيره السحري على قوة علاقتك - لغات الحب الخمس - الجزء الثالث - دوباميكافين",
           "link": "https://www.youtube.com/watch?v=mOQPkWHq0jc",
           "videoId": "mOQPkWHq0jc",
@@ -459,12 +465,6 @@
           "link": "https://www.youtube.com/watch?v=-ZRpvlkCW5M",
           "videoId": "-ZRpvlkCW5M",
           "pubDate": "2026-03-30T13:00:00+00:00"
-        },
-        {
-          "title": "فخ التعويض",
-          "link": "https://www.youtube.com/watch?v=ien4DBMjmZ0",
-          "videoId": "ien4DBMjmZ0",
-          "pubDate": "2026-03-26T18:00:00+00:00"
         }
       ],
       "ok": true
