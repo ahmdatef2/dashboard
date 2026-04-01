@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-01T14:22:59.598935+00:00",
+  "updated": "2026-04-01T15:59:28.658922+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -59,6 +59,12 @@
       "feedTitle": "Infotech4you - مروي سليمان",
       "items": [
         {
+          "title": "من برومبت واحد إلى ملف Excel كامل: تجربة Claude for Excel",
+          "link": "https://www.youtube.com/watch?v=cArGLgu-wHk",
+          "videoId": "cArGLgu-wHk",
+          "pubDate": "2026-04-01T15:28:01+00:00"
+        },
+        {
           "title": "Claude Cowork Plugins: أخطر إضافة من Anthropic",
           "link": "https://www.youtube.com/watch?v=-WW0KzljwDg",
           "videoId": "-WW0KzljwDg",
@@ -69,12 +75,6 @@
           "link": "https://www.youtube.com/watch?v=ZX2fYF0L6yc",
           "videoId": "ZX2fYF0L6yc",
           "pubDate": "2026-03-29T16:14:35+00:00"
-        },
-        {
-          "title": "Gemini 3.1 Flash Live : أفضل ذكاء اصطناعي صوتي من جوجل وصل !",
-          "link": "https://www.youtube.com/watch?v=wHqb9x1HiJs",
-          "videoId": "wHqb9x1HiJs",
-          "pubDate": "2026-03-28T17:36:22+00:00"
         }
       ],
       "ok": true
@@ -423,6 +423,12 @@
       "feedTitle": "Ali Muhammad Ali",
       "items": [
         {
+          "title": "لغز عدد ساعات النوم",
+          "link": "https://www.youtube.com/watch?v=JUwlzWlLrWI",
+          "videoId": "JUwlzWlLrWI",
+          "pubDate": "2026-04-01T15:08:48+00:00"
+        },
+        {
           "title": "اضبط نومك تكسب يومك",
           "link": "https://www.youtube.com/watch?v=IqVjqBafhDY",
           "videoId": "IqVjqBafhDY",
@@ -433,12 +439,6 @@
           "link": "https://www.youtube.com/watch?v=gJjoYniRSZc",
           "videoId": "gJjoYniRSZc",
           "pubDate": "2026-02-28T13:31:00+00:00"
-        },
-        {
-          "title": "نهاية عصر القراءة!",
-          "link": "https://www.youtube.com/watch?v=JRnEJiLeJZ8",
-          "videoId": "JRnEJiLeJZ8",
-          "pubDate": "2025-09-25T12:08:55+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "غرف تشبه القبور كيف يعيش الأسرى في العزل الانفرادي بسجون الاحتلال؟",
+          "link": "https://www.youtube.com/watch?v=-d5iopzPv9E",
+          "videoId": "-d5iopzPv9E",
+          "pubDate": "2026-04-01T14:30:01+00:00"
+        },
+        {
           "title": "الاعتداء على الضحية وحماية المعتدي",
           "link": "https://www.youtube.com/watch?v=zdltAjl59QU",
           "videoId": "zdltAjl59QU",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=E27ZtAzbr9s",
           "videoId": "E27ZtAzbr9s",
           "pubDate": "2026-03-31T21:00:01+00:00"
-        },
-        {
-          "title": "هل عاش الفضائيون في الجزائر قديما؟",
-          "link": "https://www.youtube.com/watch?v=z2gukA6AoTw",
-          "videoId": "z2gukA6AoTw",
-          "pubDate": "2026-03-31T20:00:00+00:00"
         }
       ],
       "ok": true
