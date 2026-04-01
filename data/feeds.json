@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-01T16:54:26.437421+00:00",
+  "updated": "2026-04-01T17:40:08.621385+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -241,6 +241,12 @@
       "feedTitle": "مدرسة الذكاء الاصطناعي",
       "items": [
         {
+          "title": "أخيرًا بديل Claude Cowork المجاني+ تشغيل OpenClaw بضغطة زر",
+          "link": "https://www.youtube.com/watch?v=UKfMuuCe4K8",
+          "videoId": "UKfMuuCe4K8",
+          "pubDate": "2026-04-01T17:26:44+00:00"
+        },
+        {
           "title": "استخدم Claude أفضل من 90% من الناس (الدليل الكامل)",
           "link": "https://www.youtube.com/watch?v=jdnXYcZmCCE",
           "videoId": "jdnXYcZmCCE",
@@ -251,12 +257,6 @@
           "link": "https://www.youtube.com/watch?v=ct8mZ3SPXT8",
           "videoId": "ct8mZ3SPXT8",
           "pubDate": "2026-03-22T23:05:41+00:00"
-        },
-        {
-          "title": "طريقة سرية لعمل المواقع بالذكاء الاصطناعي (اتحداك لو تعرفها)",
-          "link": "https://www.youtube.com/watch?v=g7wlbRuKxls",
-          "videoId": "g7wlbRuKxls",
-          "pubDate": "2026-03-20T21:22:48+00:00"
         }
       ],
       "ok": true
