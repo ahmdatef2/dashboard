@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-01T11:41:09.102523+00:00",
+  "updated": "2026-04-01T12:46:16.882373+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "الاعتداء على الضحية وحماية المعتدي",
+          "link": "https://www.youtube.com/watch?v=zdltAjl59QU",
+          "videoId": "zdltAjl59QU",
+          "pubDate": "2026-04-01T12:30:00+00:00"
+        },
+        {
           "title": "عصابات الثالوث الصينية كيف تسببت لأمريكا الشمالية بكابوس المخدرات؟",
           "link": "https://www.youtube.com/watch?v=E27ZtAzbr9s",
           "videoId": "E27ZtAzbr9s",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=z2gukA6AoTw",
           "videoId": "z2gukA6AoTw",
           "pubDate": "2026-03-31T20:00:00+00:00"
-        },
-        {
-          "title": "البقاء في عصر الاحتباس الحراري.. المحيطات | عندما تغلي البحار وتختفي الشعاب",
-          "link": "https://www.youtube.com/watch?v=SmrWzTqQJYk",
-          "videoId": "SmrWzTqQJYk",
-          "pubDate": "2026-03-31T19:30:06+00:00"
         }
       ],
       "ok": true
