@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-01T18:41:41.435466+00:00",
+  "updated": "2026-04-01T19:49:18.605843+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -137,6 +137,12 @@
       "feedTitle": "Python Arabic Community",
       "items": [
         {
+          "title": "وكيل ذكاء اصطناعي مع ذاكرة! في 10 دقائق بدون Rag و Langchain !",
+          "link": "https://www.youtube.com/watch?v=IKe2H7HBbu4",
+          "videoId": "IKe2H7HBbu4",
+          "pubDate": "2026-04-01T18:41:16+00:00"
+        },
+        {
           "title": "كيف استبدلت نفسي بذكاء اصطناعي يعمل وأنا نائم! (وكيل MaxClaw)🚀",
           "link": "https://www.youtube.com/watch?v=XAW6ygPfN8I",
           "videoId": "XAW6ygPfN8I",
@@ -147,12 +153,6 @@
           "link": "https://www.youtube.com/watch?v=aBM1Y6M3YRE",
           "videoId": "aBM1Y6M3YRE",
           "pubDate": "2026-03-10T21:18:47+00:00"
-        },
-        {
-          "title": "مبادرة رمضان الأثر - مجتمع إتقان (جوائز لا تقدر بثمن تنتظركم🎁)",
-          "link": "https://www.youtube.com/watch?v=TKET-IN0dLo",
-          "videoId": "TKET-IN0dLo",
-          "pubDate": "2026-03-05T21:44:12+00:00"
         }
       ],
       "ok": true
@@ -476,9 +476,9 @@
       "items": [
         {
           "title": "أكتب بيديها- برومو",
-          "link": "https://www.youtube.com/watch?v=U2phiwToLbc",
-          "videoId": "U2phiwToLbc",
-          "pubDate": "2026-04-01T18:00:00+00:00"
+          "link": "https://www.youtube.com/watch?v=iZJIjYPrOFc",
+          "videoId": "iZJIjYPrOFc",
+          "pubDate": "2026-04-01T19:20:01+00:00"
         },
         {
           "title": "عالم يشبهنا.. صراعات الملكية والتحالفات الغامضة في عالم الحيوان | الحلقة الثانية",
