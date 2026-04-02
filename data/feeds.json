@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-02T19:39:49.239378+00:00",
+  "updated": "2026-04-02T20:22:04.436941+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "سياسي هندي يرفض منح ماء الشرب لامرأة لم تصوت له في الانتخابات",
+          "link": "https://www.youtube.com/watch?v=nfgkQz5ZQ8w",
+          "videoId": "nfgkQz5ZQ8w",
+          "pubDate": "2026-04-02T20:00:01+00:00"
+        },
+        {
           "title": "ثالث الرحابنة.. إلياس الرحباني | عبقري اللحن الذي صنع مدرسة موسيقية خاصة",
           "link": "https://www.youtube.com/watch?v=ov-i9M49cy4",
           "videoId": "ov-i9M49cy4",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=h64bk1yL9nk",
           "videoId": "h64bk1yL9nk",
           "pubDate": "2026-04-02T19:00:01+00:00"
-        },
-        {
-          "title": "كيف خطط الاستعمار لاحتلال مصر عام 1956؟",
-          "link": "https://www.youtube.com/watch?v=Fv-yTJ-658U",
-          "videoId": "Fv-yTJ-658U",
-          "pubDate": "2026-04-02T14:30:01+00:00"
         }
       ],
       "ok": true
