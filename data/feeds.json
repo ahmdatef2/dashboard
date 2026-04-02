@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-02T15:46:25.921661+00:00",
+  "updated": "2026-04-02T16:42:04.740126+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -59,6 +59,12 @@
       "feedTitle": "Infotech4you - مروي سليمان",
       "items": [
         {
+          "title": "Claude for excel #claude",
+          "link": "https://www.youtube.com/watch?v=URpmP0H12vQ",
+          "videoId": "URpmP0H12vQ",
+          "pubDate": "2026-04-02T16:01:51+00:00"
+        },
+        {
           "title": "شرح Claude for Excel : من برومبت واحد إلى ملف Excel كامل !",
           "link": "https://www.youtube.com/watch?v=cArGLgu-wHk",
           "videoId": "cArGLgu-wHk",
@@ -69,12 +75,6 @@
           "link": "https://www.youtube.com/watch?v=-WW0KzljwDg",
           "videoId": "-WW0KzljwDg",
           "pubDate": "2026-03-30T18:27:51+00:00"
-        },
-        {
-          "title": "استيراد الذاكرة وتحديث كبير من جوجل داخل Gemini",
-          "link": "https://www.youtube.com/watch?v=ZX2fYF0L6yc",
-          "videoId": "ZX2fYF0L6yc",
-          "pubDate": "2026-03-29T16:14:35+00:00"
         }
       ],
       "ok": true
