@@ -1,12 +1,31 @@
 {
-  "updated": "2026-04-02T12:41:30.929902+00:00",
+  "updated": "2026-04-02T14:13:43.531492+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
       "name": "د. هبة أحمد",
-      "feedTitle": "د. هبة أحمد",
-      "items": [],
-      "ok": false
+      "feedTitle": "Heba Ahmed - هبة احمد",
+      "items": [
+        {
+          "title": "أخيرًا… استخدام OpenClaw بدون تعقيد! 🔥",
+          "link": "https://www.youtube.com/watch?v=-FfcB8Yj2RQ",
+          "videoId": "-FfcB8Yj2RQ",
+          "pubDate": "2026-03-25T14:00:41+00:00"
+        },
+        {
+          "title": "ازاي تفعل عرض 300 دولار مجانًا 🔥 واستخدم Nano Banana Pro و Veo 3.1 براحتك",
+          "link": "https://www.youtube.com/watch?v=LJk1Q6R4lgM",
+          "videoId": "LJk1Q6R4lgM",
+          "pubDate": "2026-03-17T19:55:11+00:00"
+        },
+        {
+          "title": "أسرار Google AI Studio: الفرق بينه وبين Gemini App",
+          "link": "https://www.youtube.com/watch?v=f_buNpmquws",
+          "videoId": "f_buNpmquws",
+          "pubDate": "2026-03-14T20:14:40+00:00"
+        }
+      ],
+      "ok": true
     },
     "UC2jjW7c63dqOPkfMm3P-u3w": {
       "handle": "every_day_a_new_website",
@@ -92,6 +111,12 @@
       "feedTitle": "AMR SALEM _ عمرو سالم",
       "items": [
         {
+          "title": "تجربة النموذج الجديد GLM 5 turbo | صدمني",
+          "link": "https://www.youtube.com/watch?v=XaJ0rfXRsdc",
+          "videoId": "XaJ0rfXRsdc",
+          "pubDate": "2026-04-02T13:04:16+00:00"
+        },
+        {
           "title": "👉 عملت بيزنس كامل بالذكاء الاصطناعي في 10 دقايق 😳 (Atoms AI)",
           "link": "https://www.youtube.com/watch?v=syM8vIlGFjk",
           "videoId": "syM8vIlGFjk",
@@ -102,12 +127,6 @@
           "link": "https://www.youtube.com/watch?v=Zz67SYA9yV4",
           "videoId": "Zz67SYA9yV4",
           "pubDate": "2026-03-29T10:09:52+00:00"
-        },
-        {
-          "title": "تحديث جديد من جوجل  . خلصني من اكبر مشكلة كانت بتواجهني !",
-          "link": "https://www.youtube.com/watch?v=olq0SVulDbg",
-          "videoId": "olq0SVulDbg",
-          "pubDate": "2026-03-28T12:42:40+00:00"
         }
       ],
       "ok": true
@@ -271,15 +290,40 @@
     "UCXVSIaWCZBxqZ5eCxwIqRGw": {
       "handle": "TechnoFlashAITech",
       "name": "TechnoFlash AI",
-      "feedTitle": "TechnoFlash AI",
-      "items": [],
-      "ok": false
+      "feedTitle": "تكنوفلاش – AI & Tech",
+      "items": [
+        {
+          "title": "موديل كسر كل التوقعات mimo-v2-pro 🔥 هل يكتب نهاية claude opus ؟ |   xiaomi mimo شاومي ",
+          "link": "https://www.youtube.com/watch?v=RCzoiuhwrF0",
+          "videoId": "RCzoiuhwrF0",
+          "pubDate": "2026-03-29T19:39:32+00:00"
+        },
+        {
+          "title": "بديل grok مجاني |تطبيق صيني يضرب grok بميزات مجنونه | بديل grok المجاني | Best Free Grok Alternative",
+          "link": "https://www.youtube.com/watch?v=b8s5gcyg53g",
+          "videoId": "b8s5gcyg53g",
+          "pubDate": "2026-03-28T19:14:11+00:00"
+        },
+        {
+          "title": "Stickman بـ Meta AI و NotebookLM | شرح كامل للمبتدئين",
+          "link": "https://www.youtube.com/watch?v=-QKMSWiEo_g",
+          "videoId": "-QKMSWiEo_g",
+          "pubDate": "2026-03-27T15:59:30+00:00"
+        }
+      ],
+      "ok": true
     },
     "UC16aC4Jti6tYAi0LuXmu-9w": {
       "handle": "KhairJaleesBook",
       "name": "خير جليس",
       "feedTitle": "خير جليس",
       "items": [
+        {
+          "title": "التكنولوجيا تحول الفرق الصغيرة إلى عمالقة  - من  كتاب من صفر إلى الواحد",
+          "link": "https://www.youtube.com/watch?v=qlMXnkGJEb0",
+          "videoId": "qlMXnkGJEb0",
+          "pubDate": "2026-04-02T13:01:32+00:00"
+        },
         {
           "title": "التفكير المستقل يكشف الفرص  - من  كتاب من صفر إلى الواحد",
           "link": "https://www.youtube.com/watch?v=n2hyt-70BcM",
@@ -291,12 +335,6 @@
           "link": "https://www.youtube.com/watch?v=mdbhGwWOMe8",
           "videoId": "mdbhGwWOMe8",
           "pubDate": "2026-04-01T13:01:02+00:00"
-        },
-        {
-          "title": "المنافسة إشارة أنك لست فريدًا - من  كتاب من صفر إلى الواحد",
-          "link": "https://www.youtube.com/watch?v=ggSps6Ma3R8",
-          "videoId": "ggSps6Ma3R8",
-          "pubDate": "2026-04-01T06:40:33+00:00"
         }
       ],
       "ok": true
