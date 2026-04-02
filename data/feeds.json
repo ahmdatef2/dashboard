@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-02T09:48:40.967520+00:00",
+  "updated": "2026-04-02T10:39:53.886968+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -215,6 +215,12 @@
       "feedTitle": "Mohamed Ansary",
       "items": [
         {
+          "title": "الأتمتة بالذكاء الاصطناعي Convergence",
+          "link": "https://www.youtube.com/watch?v=EvG-uCpJL94",
+          "videoId": "EvG-uCpJL94",
+          "pubDate": "2026-04-02T10:15:25+00:00"
+        },
+        {
           "title": "فهم الأوراق البحثية  مع المساعد الذكي Moonlight",
           "link": "https://www.youtube.com/watch?v=pqtiowLRqQE",
           "videoId": "pqtiowLRqQE",
@@ -225,12 +231,6 @@
           "link": "https://www.youtube.com/watch?v=-36kgHPtd2Y",
           "videoId": "-36kgHPtd2Y",
           "pubDate": "2026-03-27T20:42:57+00:00"
-        },
-        {
-          "title": "تصميم بودكاست مرئي مع تحديثات NotebookLMالرائعة",
-          "link": "https://www.youtube.com/watch?v=j0adCYFafqU",
-          "videoId": "j0adCYFafqU",
-          "pubDate": "2026-03-26T10:33:13+00:00"
         }
       ],
       "ok": true
