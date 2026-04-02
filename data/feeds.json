@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-02T10:39:53.886968+00:00",
+  "updated": "2026-04-02T11:35:59.820698+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "أسير فلسطيني محرر: \"السجن كله قهر.. لكن أقساه حين تكون أبا\"",
+          "link": "https://www.youtube.com/watch?v=CwoL_V0wUWs",
+          "videoId": "CwoL_V0wUWs",
+          "pubDate": "2026-04-02T11:04:53+00:00"
+        },
+        {
+          "title": "ساطع الحصري.. أبو القومية العربية",
+          "link": "https://www.youtube.com/watch?v=zd-ibLHvPUQ",
+          "videoId": "zd-ibLHvPUQ",
+          "pubDate": "2026-04-02T10:54:00+00:00"
+        },
+        {
           "title": "جبال تايهانغ- الصين",
           "link": "https://www.youtube.com/watch?v=PvwRTesEyCI",
           "videoId": "PvwRTesEyCI",
           "pubDate": "2026-04-02T08:27:19+00:00"
-        },
-        {
-          "title": "غابات تضيء ليلا في الهند بدون كهرباء",
-          "link": "https://www.youtube.com/watch?v=wBPPuLWIj4k",
-          "videoId": "wBPPuLWIj4k",
-          "pubDate": "2026-04-01T20:59:01+00:00"
-        },
-        {
-          "title": "80 يوما متواصلة في \"وضعية الشبح\" شهادة أسير محرر عن التعذيب في غرف التحقيق الإسرائيلية",
-          "link": "https://www.youtube.com/watch?v=AJOz23NfHSE",
-          "videoId": "AJOz23NfHSE",
-          "pubDate": "2026-04-01T20:00:00+00:00"
         }
       ],
       "ok": true
@@ -527,22 +527,22 @@
       "feedTitle": "Nat Geo Abu Dhabi",
       "items": [
         {
-          "title": "العودة من الموت | عمليات إنقاذ خطرة | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=p8IFrYa7SJ0",
-          "videoId": "p8IFrYa7SJ0",
-          "pubDate": "2026-03-30T19:19:05+00:00"
+          "title": "يُعرض 6 أبريل | أسرار النحل | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=0kiIkucS6Js",
+          "videoId": "0kiIkucS6Js",
+          "pubDate": "2026-04-02T11:26:28+00:00"
         },
         {
-          "title": "الحلقاة الكاملة | ثعابين كونستريكتور الوحشيّة | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=H4RFcoABpAY",
-          "videoId": "H4RFcoABpAY",
-          "pubDate": "2026-03-28T19:56:27+00:00"
+          "title": "يُعرض 6 أبريل | أسرار النحل | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=xTntSFhkmZE",
+          "videoId": "xTntSFhkmZE",
+          "pubDate": "2026-04-02T11:25:58+00:00"
         },
         {
-          "title": "موسم جديد | كريتر فيكسرز: أطباء في الريف | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=PEWDnL5jer0",
-          "videoId": "PEWDnL5jer0",
-          "pubDate": "2026-03-27T09:04:44+00:00"
+          "title": "ابتداءً 1 أبريل | فريق إنقاذ الطرق الجليدية | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=odtA9vUJdEM",
+          "videoId": "odtA9vUJdEM",
+          "pubDate": "2026-04-02T11:24:24+00:00"
         }
       ],
       "ok": true
@@ -552,6 +552,12 @@
       "name": "DW عربية وثائقي",
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
+        {
+          "title": "كيف تشكّل القمر؟",
+          "link": "https://www.youtube.com/watch?v=TIEcHkOCv9s",
+          "videoId": "TIEcHkOCv9s",
+          "pubDate": "2026-04-02T10:45:02+00:00"
+        },
         {
           "title": "ملايين الشباب بلا وظائف في الهند",
           "link": "https://www.youtube.com/watch?v=_aHzbjcr3rE",
@@ -563,12 +569,6 @@
           "link": "https://www.youtube.com/watch?v=oq5v_6ULm2I",
           "videoId": "oq5v_6ULm2I",
           "pubDate": "2026-03-31T18:00:38+00:00"
-        },
-        {
-          "title": "كيف يعمل الاندماج النووي؟",
-          "link": "https://www.youtube.com/watch?v=VrLFj3th2m8",
-          "videoId": "VrLFj3th2m8",
-          "pubDate": "2026-03-30T10:28:01+00:00"
         }
       ],
       "ok": true
