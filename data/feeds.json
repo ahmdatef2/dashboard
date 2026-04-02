@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-02T18:38:09.747521+00:00",
+  "updated": "2026-04-02T19:39:49.239378+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "ثالث الرحابنة.. إلياس الرحباني | عبقري اللحن الذي صنع مدرسة موسيقية خاصة",
+          "link": "https://www.youtube.com/watch?v=ov-i9M49cy4",
+          "videoId": "ov-i9M49cy4",
+          "pubDate": "2026-04-02T19:30:05+00:00"
+        },
+        {
+          "title": "المدرسة المستنصرية صرح عباسي جمع المذاهب الفقهية الأربعة",
+          "link": "https://www.youtube.com/watch?v=h64bk1yL9nk",
+          "videoId": "h64bk1yL9nk",
+          "pubDate": "2026-04-02T19:00:01+00:00"
+        },
+        {
           "title": "كيف خطط الاستعمار لاحتلال مصر عام 1956؟",
           "link": "https://www.youtube.com/watch?v=Fv-yTJ-658U",
           "videoId": "Fv-yTJ-658U",
           "pubDate": "2026-04-02T14:30:01+00:00"
-        },
-        {
-          "title": "أسير فلسطيني محرر: \"السجن كله قهر.. لكن أقساه حين تكون أبا\"",
-          "link": "https://www.youtube.com/watch?v=CwoL_V0wUWs",
-          "videoId": "CwoL_V0wUWs",
-          "pubDate": "2026-04-02T11:04:53+00:00"
-        },
-        {
-          "title": "ساطع الحصري.. أبو القومية العربية",
-          "link": "https://www.youtube.com/watch?v=zd-ibLHvPUQ",
-          "videoId": "zd-ibLHvPUQ",
-          "pubDate": "2026-04-02T10:54:00+00:00"
         }
       ],
       "ok": true
