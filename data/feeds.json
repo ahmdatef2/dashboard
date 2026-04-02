@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-02T20:22:04.436941+00:00",
+  "updated": "2026-04-02T21:25:08.160019+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -293,6 +293,12 @@
       "feedTitle": "تكنوفلاش – AI & Tech",
       "items": [
         {
+          "title": "السر المخفي في 2026: الوصول إلى claude opus 4.6 free  و glm 5 و gpt 5.4   مجاناً 🚀",
+          "link": "https://www.youtube.com/watch?v=uZ7K8z5lumE",
+          "videoId": "uZ7K8z5lumE",
+          "pubDate": "2026-04-02T20:40:47+00:00"
+        },
+        {
           "title": "موديل كسر كل التوقعات mimo-v2-pro 🔥 هل يكتب نهاية claude opus ؟ |   xiaomi mimo شاومي ",
           "link": "https://www.youtube.com/watch?v=RCzoiuhwrF0",
           "videoId": "RCzoiuhwrF0",
@@ -303,12 +309,6 @@
           "link": "https://www.youtube.com/watch?v=b8s5gcyg53g",
           "videoId": "b8s5gcyg53g",
           "pubDate": "2026-03-28T19:14:11+00:00"
-        },
-        {
-          "title": "Stickman بـ Meta AI و NotebookLM | شرح كامل للمبتدئين",
-          "link": "https://www.youtube.com/watch?v=-QKMSWiEo_g",
-          "videoId": "-QKMSWiEo_g",
-          "pubDate": "2026-03-27T15:59:30+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "أسيرة فلسطينية محررة: كان جنود الاحتلال يشدّونني من شعري",
+          "link": "https://www.youtube.com/watch?v=cxgF8gUC8VM",
+          "videoId": "cxgF8gUC8VM",
+          "pubDate": "2026-04-02T20:59:01+00:00"
+        },
+        {
           "title": "سياسي هندي يرفض منح ماء الشرب لامرأة لم تصوت له في الانتخابات",
           "link": "https://www.youtube.com/watch?v=nfgkQz5ZQ8w",
           "videoId": "nfgkQz5ZQ8w",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=ov-i9M49cy4",
           "videoId": "ov-i9M49cy4",
           "pubDate": "2026-04-02T19:30:05+00:00"
-        },
-        {
-          "title": "المدرسة المستنصرية صرح عباسي جمع المذاهب الفقهية الأربعة",
-          "link": "https://www.youtube.com/watch?v=h64bk1yL9nk",
-          "videoId": "h64bk1yL9nk",
-          "pubDate": "2026-04-02T19:00:01+00:00"
         }
       ],
       "ok": true
