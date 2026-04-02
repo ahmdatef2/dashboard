@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-02T17:39:33.027551+00:00",
+  "updated": "2026-04-02T18:38:09.747521+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -553,6 +553,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "وثائقي |سلوفاكيا المنقسمة - بين روسيا وأوروبا | وثائقية دي دبليو",
+          "link": "https://www.youtube.com/watch?v=bwf5qX3_aDw",
+          "videoId": "bwf5qX3_aDw",
+          "pubDate": "2026-04-02T18:00:36+00:00"
+        },
+        {
           "title": "كيف تشكّل القمر؟",
           "link": "https://www.youtube.com/watch?v=TIEcHkOCv9s",
           "videoId": "TIEcHkOCv9s",
@@ -563,12 +569,6 @@
           "link": "https://www.youtube.com/watch?v=_aHzbjcr3rE",
           "videoId": "_aHzbjcr3rE",
           "pubDate": "2026-04-01T10:45:08+00:00"
-        },
-        {
-          "title": "ريبورتاج | انتخابات تاريخية في المجر: أوروبا أم السلطوية؟ | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=oq5v_6ULm2I",
-          "videoId": "oq5v_6ULm2I",
-          "pubDate": "2026-03-31T18:00:38+00:00"
         }
       ],
       "ok": true
