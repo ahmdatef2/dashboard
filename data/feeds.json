@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-02T14:13:43.531492+00:00",
+  "updated": "2026-04-02T15:46:25.921661+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "كيف خطط الاستعمار لاحتلال مصر عام 1956؟",
+          "link": "https://www.youtube.com/watch?v=Fv-yTJ-658U",
+          "videoId": "Fv-yTJ-658U",
+          "pubDate": "2026-04-02T14:30:01+00:00"
+        },
+        {
           "title": "أسير فلسطيني محرر: \"السجن كله قهر.. لكن أقساه حين تكون أبا\"",
           "link": "https://www.youtube.com/watch?v=CwoL_V0wUWs",
           "videoId": "CwoL_V0wUWs",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=zd-ibLHvPUQ",
           "videoId": "zd-ibLHvPUQ",
           "pubDate": "2026-04-02T10:54:00+00:00"
-        },
-        {
-          "title": "جبال تايهانغ- الصين",
-          "link": "https://www.youtube.com/watch?v=PvwRTesEyCI",
-          "videoId": "PvwRTesEyCI",
-          "pubDate": "2026-04-02T08:27:19+00:00"
         }
       ],
       "ok": true
