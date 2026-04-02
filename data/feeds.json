@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-02T07:55:58.593084+00:00",
+  "updated": "2026-04-02T08:43:54.212864+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "جبال تايهانغ- الصين",
+          "link": "https://www.youtube.com/watch?v=PvwRTesEyCI",
+          "videoId": "PvwRTesEyCI",
+          "pubDate": "2026-04-02T08:27:19+00:00"
+        },
+        {
           "title": "غابات تضيء ليلا في الهند بدون كهرباء",
           "link": "https://www.youtube.com/watch?v=wBPPuLWIj4k",
           "videoId": "wBPPuLWIj4k",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=AJOz23NfHSE",
           "videoId": "AJOz23NfHSE",
           "pubDate": "2026-04-01T20:00:00+00:00"
-        },
-        {
-          "title": "أكتب بيديها- برومو",
-          "link": "https://www.youtube.com/watch?v=iZJIjYPrOFc",
-          "videoId": "iZJIjYPrOFc",
-          "pubDate": "2026-04-01T19:20:01+00:00"
         }
       ],
       "ok": true
