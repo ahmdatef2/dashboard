@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-03T04:16:21.378557+00:00",
+  "updated": "2026-04-03T06:04:25.870327+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -25,9 +25,28 @@
     "UCSRy-3lglM2QKJ_xF2zuPlQ": {
       "handle": "AbdellatifSaidA",
       "name": "عبداللطيف سعيد",
-      "feedTitle": "عبداللطيف سعيد",
-      "items": [],
-      "ok": false
+      "feedTitle": "عبداللطيف سعيد Abdellatif Said",
+      "items": [
+        {
+          "title": "وداعاً للتعقيد.. تثبيت وكيل الذكاء الاصطناعي OpenClaw بضغطة زر (وربطه بتليجرام)!",
+          "link": "https://www.youtube.com/watch?v=gsqjwaXbnb8",
+          "videoId": "gsqjwaXbnb8",
+          "pubDate": "2026-03-26T17:05:41+00:00"
+        },
+        {
+          "title": "السر اللي محدش هيقولك عليه.. إزاي تكسب من الذكاء الاصطناعي في أرض الواقع؟ ( دردشة )",
+          "link": "https://www.youtube.com/watch?v=kW9-2JFe3bk",
+          "videoId": "kW9-2JFe3bk",
+          "pubDate": "2026-03-25T14:15:05+00:00"
+        },
+        {
+          "title": "جوجل دمرت اللعبة! 🤯 صمم تطبيق أحلامك بمجرد الكلام مع الذكاء الاصطناعي.",
+          "link": "https://www.youtube.com/watch?v=6xEzVck0X0w",
+          "videoId": "6xEzVck0X0w",
+          "pubDate": "2026-03-23T14:15:00+00:00"
+        }
+      ],
+      "ok": true
     },
     "UC81Ks7DR9JFgZc14nmZ07EA": {
       "handle": "AMRSALEM800",
@@ -39,9 +58,28 @@
     "UC9ocsRoOwj9tkAQNfUt8ZJg": {
       "handle": "PythonArab",
       "name": "بايثون عربي",
-      "feedTitle": "بايثون عربي",
-      "items": [],
-      "ok": false
+      "feedTitle": "Python Arabic Community",
+      "items": [
+        {
+          "title": "وكيل ذكاء اصطناعي مع ذاكرة! في 10 دقائق بدون Rag و Langchain !",
+          "link": "https://www.youtube.com/watch?v=IKe2H7HBbu4",
+          "videoId": "IKe2H7HBbu4",
+          "pubDate": "2026-04-01T18:41:16+00:00"
+        },
+        {
+          "title": "كيف استبدلت نفسي بذكاء اصطناعي يعمل وأنا نائم! (وكيل MaxClaw)🚀",
+          "link": "https://www.youtube.com/watch?v=XAW6ygPfN8I",
+          "videoId": "XAW6ygPfN8I",
+          "pubDate": "2026-03-25T17:43:01+00:00"
+        },
+        {
+          "title": "الذكاء الاصطناعي 🚀 | 83 | الكذبة الكبرى لشركات الذكاء الاصطناعي.. وسقوط أقوى تشفير",
+          "link": "https://www.youtube.com/watch?v=aBM1Y6M3YRE",
+          "videoId": "aBM1Y6M3YRE",
+          "pubDate": "2026-03-10T21:18:47+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCSNkfKl4cU-55Nm-ovsvOHQ": {
       "handle": "elzerowebschool",
@@ -60,9 +98,28 @@
     "UCSXcmF4Gxl6Hc-m6cHYD_Vg": {
       "handle": "MohamedAnsary",
       "name": "محمد أنصاري",
-      "feedTitle": "محمد أنصاري",
-      "items": [],
-      "ok": false
+      "feedTitle": "Mohamed Ansary",
+      "items": [
+        {
+          "title": "الأتمتة بالذكاء الاصطناعي Convergence",
+          "link": "https://www.youtube.com/watch?v=EvG-uCpJL94",
+          "videoId": "EvG-uCpJL94",
+          "pubDate": "2026-04-02T10:15:25+00:00"
+        },
+        {
+          "title": "فهم الأوراق البحثية  مع المساعد الذكي Moonlight",
+          "link": "https://www.youtube.com/watch?v=pqtiowLRqQE",
+          "videoId": "pqtiowLRqQE",
+          "pubDate": "2026-03-30T11:35:06+00:00"
+        },
+        {
+          "title": "وداعاً للبحث التقليدي! وكيلك الذكي على تليجرام يقوم بالمهمة بدلاً منك | Manus",
+          "link": "https://www.youtube.com/watch?v=-36kgHPtd2Y",
+          "videoId": "-36kgHPtd2Y",
+          "pubDate": "2026-03-27T20:42:57+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCDqp23rTdCo_tXsuHLYF47Q": {
       "handle": "ArabianAiSchool",
@@ -89,27 +146,8 @@
       "handle": "KhairJaleesBook",
       "name": "خير جليس",
       "feedTitle": "خير جليس",
-      "items": [
-        {
-          "title": "التكنولوجيا تحول الفرق الصغيرة إلى عمالقة  - من  كتاب من صفر إلى الواحد",
-          "link": "https://www.youtube.com/watch?v=qlMXnkGJEb0",
-          "videoId": "qlMXnkGJEb0",
-          "pubDate": "2026-04-02T13:01:32+00:00"
-        },
-        {
-          "title": "التفكير المستقل يكشف الفرص  - من  كتاب من صفر إلى الواحد",
-          "link": "https://www.youtube.com/watch?v=n2hyt-70BcM",
-          "videoId": "n2hyt-70BcM",
-          "pubDate": "2026-04-02T06:00:34+00:00"
-        },
-        {
-          "title": "كل اختراق يبدأ بحقيقة مخفية  - من  كتاب من صفر إلى الواحد",
-          "link": "https://www.youtube.com/watch?v=mdbhGwWOMe8",
-          "videoId": "mdbhGwWOMe8",
-          "pubDate": "2026-04-01T13:01:02+00:00"
-        }
-      ],
-      "ok": true
+      "items": [],
+      "ok": false
     },
     "UCu1NJiJlhrhmF5ZgT-0yWdA": {
       "handle": "Jeelyaqraa",
@@ -161,9 +199,28 @@
     "UCJlu6BjPWHZhzuCc0zVME0Q": {
       "handle": "Dupamicaffeine",
       "name": "دوباميكافيين",
-      "feedTitle": "دوباميكافيين",
-      "items": [],
-      "ok": false
+      "feedTitle": "دوباميكافين Dupamicaffeine",
+      "items": [
+        {
+          "title": "لغة الحب الأهم",
+          "link": "https://www.youtube.com/watch?v=PXa__tZ6SuY",
+          "videoId": "PXa__tZ6SuY",
+          "pubDate": "2026-04-01T13:00:00+00:00"
+        },
+        {
+          "title": "الحضور الكامل وتأثيره السحري على قوة علاقتك - لغات الحب الخمس - الجزء الثالث - دوباميكافين",
+          "link": "https://www.youtube.com/watch?v=mOQPkWHq0jc",
+          "videoId": "mOQPkWHq0jc",
+          "pubDate": "2026-03-31T11:18:39+00:00"
+        },
+        {
+          "title": "ترميم المودّة",
+          "link": "https://www.youtube.com/watch?v=-ZRpvlkCW5M",
+          "videoId": "-ZRpvlkCW5M",
+          "pubDate": "2026-03-30T13:00:00+00:00"
+        }
+      ],
+      "ok": true
     },
     "UC0LSnqrwqtMwl2YwfUpO66g": {
       "handle": "aljazeeradocumentary",
