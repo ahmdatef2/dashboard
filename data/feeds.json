@@ -1,11 +1,17 @@
 {
-  "updated": "2026-04-03T21:21:29.931025+00:00",
+  "updated": "2026-04-03T22:19:55.706855+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
       "name": "د. هبة أحمد",
       "feedTitle": "Heba Ahmed - هبة احمد",
       "items": [
+        {
+          "title": "Claude Skills: السر اللي هيغير شغلك بالكامل (كورس مجاني)",
+          "link": "https://www.youtube.com/watch?v=5Uv8ooxFXLY",
+          "videoId": "5Uv8ooxFXLY",
+          "pubDate": "2026-04-03T21:53:24+00:00"
+        },
         {
           "title": "Claude Skills: السر اللي هيغير شغلك بالكامل (كورس مجاني)",
           "link": "https://www.youtube.com/watch?v=vqzjA_f-GZg",
@@ -17,12 +23,6 @@
           "link": "https://www.youtube.com/watch?v=-FfcB8Yj2RQ",
           "videoId": "-FfcB8Yj2RQ",
           "pubDate": "2026-03-25T14:00:41+00:00"
-        },
-        {
-          "title": "ازاي تفعل عرض 300 دولار مجانًا 🔥 واستخدم Nano Banana Pro و Veo 3.1 براحتك",
-          "link": "https://www.youtube.com/watch?v=LJk1Q6R4lgM",
-          "videoId": "LJk1Q6R4lgM",
-          "pubDate": "2026-03-17T19:55:11+00:00"
         }
       ],
       "ok": true
@@ -501,6 +501,12 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "مليار وحدة من الطاقة: مغامرة جريئة لالتقاط صور البرق في سنغافورة | الشرق الوثائقية",
+          "link": "https://www.youtube.com/watch?v=RFiHhRT4K30",
+          "videoId": "RFiHhRT4K30",
+          "pubDate": "2026-04-03T22:00:34+00:00"
+        },
+        {
           "title": "رحلة عبر الزمن الكوني مع تلسكوب هابل | ما وراء كوكبنا ح5",
           "link": "https://www.youtube.com/watch?v=THVEaJvCyqo",
           "videoId": "THVEaJvCyqo",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=LOPfGyRVAds",
           "videoId": "LOPfGyRVAds",
           "pubDate": "2026-03-31T22:00:00+00:00"
-        },
-        {
-          "title": "رحلة إلى المريخ: من أول صورة إلى البحث عن الحياة على الكوكب الأحمر | ما وراء كوكبنا ح3",
-          "link": "https://www.youtube.com/watch?v=Vb8WS0tJQOA",
-          "videoId": "Vb8WS0tJQOA",
-          "pubDate": "2026-03-30T22:00:00+00:00"
         }
       ],
       "ok": true
