@@ -1,11 +1,17 @@
 {
-  "updated": "2026-04-03T18:29:06.312452+00:00",
+  "updated": "2026-04-03T19:30:20.246532+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
       "name": "د. هبة أحمد",
       "feedTitle": "Heba Ahmed - هبة احمد",
       "items": [
+        {
+          "title": "Claude Skills: السر اللي هيغير شغلك بالكامل (كورس مجاني)",
+          "link": "https://www.youtube.com/watch?v=vqzjA_f-GZg",
+          "videoId": "vqzjA_f-GZg",
+          "pubDate": "2026-04-03T19:04:56+00:00"
+        },
         {
           "title": "أخيرًا… استخدام OpenClaw بدون تعقيد! 🔥",
           "link": "https://www.youtube.com/watch?v=-FfcB8Yj2RQ",
@@ -17,12 +23,6 @@
           "link": "https://www.youtube.com/watch?v=LJk1Q6R4lgM",
           "videoId": "LJk1Q6R4lgM",
           "pubDate": "2026-03-17T19:55:11+00:00"
-        },
-        {
-          "title": "أسرار Google AI Studio: الفرق بينه وبين Gemini App",
-          "link": "https://www.youtube.com/watch?v=f_buNpmquws",
-          "videoId": "f_buNpmquws",
-          "pubDate": "2026-03-14T20:14:40+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "عندما تصبح غسالة الملابس حلما",
+          "link": "https://www.youtube.com/watch?v=PEGDCVVb6Qc",
+          "videoId": "PEGDCVVb6Qc",
+          "pubDate": "2026-04-03T19:00:01+00:00"
+        },
+        {
           "title": "دليل هاتف قديم يقود إلى أرشيف مخرج فلسطيني قبل عام 1948",
           "link": "https://www.youtube.com/watch?v=VYhQ-g_kq-4",
           "videoId": "VYhQ-g_kq-4",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=Pt3XBdv12MI",
           "videoId": "Pt3XBdv12MI",
           "pubDate": "2026-04-03T16:00:00+00:00"
-        },
-        {
-          "title": "\"الزنزانة أشبه بمقبرة مؤقتة\" شهادات صادمة لأسرى فلسطينيين في جحيم سجن 1391 الإسرائيلي",
-          "link": "https://www.youtube.com/watch?v=SAHXsv_JJl8",
-          "videoId": "SAHXsv_JJl8",
-          "pubDate": "2026-04-03T15:00:02+00:00"
         }
       ],
       "ok": true
