@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-03T07:53:08.307172+00:00",
+  "updated": "2026-04-03T08:38:42.356629+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "\"توشك الكارثة أن تحل على الأقصى\"",
+          "link": "https://www.youtube.com/watch?v=8inuWogBzNQ",
+          "videoId": "8inuWogBzNQ",
+          "pubDate": "2026-04-03T08:15:01+00:00"
+        },
+        {
+          "title": "من فلسطين.. صباحكم حياة. الفيديو بواسطة: hanadiii@",
+          "link": "https://www.youtube.com/watch?v=iQTcjSOtpx4",
+          "videoId": "iQTcjSOtpx4",
+          "pubDate": "2026-04-03T08:00:01+00:00"
+        },
+        {
           "title": "أسيرة فلسطينية محررة: كان جنود الاحتلال يشدّونني من شعري",
           "link": "https://www.youtube.com/watch?v=cxgF8gUC8VM",
           "videoId": "cxgF8gUC8VM",
           "pubDate": "2026-04-02T20:59:01+00:00"
-        },
-        {
-          "title": "سياسي هندي يرفض منح ماء الشرب لامرأة لم تصوت له في الانتخابات",
-          "link": "https://www.youtube.com/watch?v=nfgkQz5ZQ8w",
-          "videoId": "nfgkQz5ZQ8w",
-          "pubDate": "2026-04-02T20:00:01+00:00"
-        },
-        {
-          "title": "ثالث الرحابنة.. إلياس الرحباني | عبقري اللحن الذي صنع مدرسة موسيقية خاصة",
-          "link": "https://www.youtube.com/watch?v=ov-i9M49cy4",
-          "videoId": "ov-i9M49cy4",
-          "pubDate": "2026-04-02T19:30:05+00:00"
         }
       ],
       "ok": true
