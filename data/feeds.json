@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-03T15:30:44.506742+00:00",
+  "updated": "2026-04-03T16:25:31.266635+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -215,6 +215,12 @@
       "feedTitle": "Mohamed Ansary",
       "items": [
         {
+          "title": "أهم 3 مواقع لترجمة الملفات بالذكاء الاصطناعي مع الحفاظ على التنسيق",
+          "link": "https://www.youtube.com/watch?v=vGfwNZRnAkI",
+          "videoId": "vGfwNZRnAkI",
+          "pubDate": "2026-04-03T15:40:13+00:00"
+        },
+        {
           "title": "الأتمتة بالذكاء الاصطناعي Convergence",
           "link": "https://www.youtube.com/watch?v=EvG-uCpJL94",
           "videoId": "EvG-uCpJL94",
@@ -225,12 +231,6 @@
           "link": "https://www.youtube.com/watch?v=pqtiowLRqQE",
           "videoId": "pqtiowLRqQE",
           "pubDate": "2026-03-30T11:35:06+00:00"
-        },
-        {
-          "title": "وداعاً للبحث التقليدي! وكيلك الذكي على تليجرام يقوم بالمهمة بدلاً منك | Manus",
-          "link": "https://www.youtube.com/watch?v=-36kgHPtd2Y",
-          "videoId": "-36kgHPtd2Y",
-          "pubDate": "2026-03-27T20:42:57+00:00"
         }
       ],
       "ok": true
@@ -240,6 +240,12 @@
       "name": "Arabian AI School",
       "feedTitle": "مدرسة الذكاء الاصطناعي",
       "items": [
+        {
+          "title": "اتكلم بس وأداة الذكاء الاصطناعي دي هتعمل مهامك وشغلك",
+          "link": "https://www.youtube.com/watch?v=_eMrleFkWp4",
+          "videoId": "_eMrleFkWp4",
+          "pubDate": "2026-04-03T15:51:22+00:00"
+        },
         {
           "title": "أخيرًا بديل Claude Cowork المجاني وبنفس المميزات تقريبا",
           "link": "https://www.youtube.com/watch?v=UKfMuuCe4K8",
@@ -251,12 +257,6 @@
           "link": "https://www.youtube.com/watch?v=jdnXYcZmCCE",
           "videoId": "jdnXYcZmCCE",
           "pubDate": "2026-03-29T21:21:24+00:00"
-        },
-        {
-          "title": "شغل Claude code مجانا وبلا حدود حتى لو جهازك ضعيف",
-          "link": "https://www.youtube.com/watch?v=ct8mZ3SPXT8",
-          "videoId": "ct8mZ3SPXT8",
-          "pubDate": "2026-03-22T23:05:41+00:00"
         }
       ],
       "ok": true
@@ -266,6 +266,12 @@
       "name": "Ryan Academy",
       "feedTitle": "أكاديمية ريان | Ryan Academy",
       "items": [
+        {
+          "title": "تثبيت وكيل الذكاء الاصطناعي OpenClaw على VPS بضغطة زر (وربطه بتليجرام) بدون أخطاء",
+          "link": "https://www.youtube.com/watch?v=9oKK8S1CZ10",
+          "videoId": "9oKK8S1CZ10",
+          "pubDate": "2026-04-03T16:00:28+00:00"
+        },
         {
           "title": "جربت تحديث Google Stitch الجديد 😳 النتيجة كانت مجنونة! - أسرع تصميم واجهات بالـ AI",
           "link": "https://www.youtube.com/watch?v=UamvE2JBPac",
@@ -277,12 +283,6 @@
           "link": "https://www.youtube.com/watch?v=5szmV0CpFe8",
           "videoId": "5szmV0CpFe8",
           "pubDate": "2026-03-30T15:00:10+00:00"
-        },
-        {
-          "title": "بناء تطبيق موبايل كامل مجانًا بالـ AI وبدون خبرة! (Stitch + Flutter + Antigravity)",
-          "link": "https://www.youtube.com/watch?v=D-If7HWOYbE",
-          "videoId": "D-If7HWOYbE",
-          "pubDate": "2026-03-26T17:00:24+00:00"
         }
       ],
       "ok": true
@@ -371,6 +371,12 @@
       "feedTitle": "أخضر",
       "items": [
         {
+          "title": "وهم الإنجاز🚨 - كتاب: مجتمع الاحتراق النفسي🔥 #أخضر",
+          "link": "https://www.youtube.com/watch?v=LvJrtIpVoTk",
+          "videoId": "LvJrtIpVoTk",
+          "pubDate": "2026-04-03T16:00:29+00:00"
+        },
+        {
           "title": "الوجه المظلم من جائزة نوبل🏅",
           "link": "https://www.youtube.com/watch?v=5_Gzletl2Pc",
           "videoId": "5_Gzletl2Pc",
@@ -381,12 +387,6 @@
           "link": "https://www.youtube.com/watch?v=FThJNbYonjA",
           "videoId": "FThJNbYonjA",
           "pubDate": "2026-03-27T16:00:00+00:00"
-        },
-        {
-          "title": "تحديثات تطبيق أخضر الجديد!",
-          "link": "https://www.youtube.com/watch?v=Qx7s1sp91YM",
-          "videoId": "Qx7s1sp91YM",
-          "pubDate": "2026-03-26T13:51:59+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "585 تجربة زراعية عبقرية ابن العوام في علم النبات",
+          "link": "https://www.youtube.com/watch?v=Pt3XBdv12MI",
+          "videoId": "Pt3XBdv12MI",
+          "pubDate": "2026-04-03T16:00:00+00:00"
+        },
+        {
           "title": "\"الزنزانة أشبه بمقبرة مؤقتة\" شهادات صادمة لأسرى فلسطينيين في جحيم سجن 1391 الإسرائيلي",
           "link": "https://www.youtube.com/watch?v=SAHXsv_JJl8",
           "videoId": "SAHXsv_JJl8",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=XmikusykPpg",
           "videoId": "XmikusykPpg",
           "pubDate": "2026-04-03T14:00:01+00:00"
-        },
-        {
-          "title": "هل تتحول المحيطات إلى جاكوزي؟",
-          "link": "https://www.youtube.com/watch?v=ALGSFS5hAEE",
-          "videoId": "ALGSFS5hAEE",
-          "pubDate": "2026-04-03T13:00:00+00:00"
         }
       ],
       "ok": true
