@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-03T20:21:39.415537+00:00",
+  "updated": "2026-04-03T21:21:29.931025+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "أول مقرئ للمسيرة الرمضانية في المغرب",
+          "link": "https://www.youtube.com/watch?v=Q7-LesHRIko",
+          "videoId": "Q7-LesHRIko",
+          "pubDate": "2026-04-03T20:59:01+00:00"
+        },
+        {
           "title": "أسرار في قلب الأدغال.. هياكل غامضة ومدن مخفية واكتشافات تحير العلماء| الحلقة الثالثة",
           "link": "https://www.youtube.com/watch?v=SU8JpLAkNHM",
           "videoId": "SU8JpLAkNHM",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=jRhQgxZNOL8",
           "videoId": "jRhQgxZNOL8",
           "pubDate": "2026-04-03T20:00:01+00:00"
-        },
-        {
-          "title": "عندما تصبح غسالة الملابس حلما",
-          "link": "https://www.youtube.com/watch?v=PEGDCVVb6Qc",
-          "videoId": "PEGDCVVb6Qc",
-          "pubDate": "2026-04-03T19:00:01+00:00"
         }
       ],
       "ok": true
