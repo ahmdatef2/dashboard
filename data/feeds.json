@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-03T10:32:02.728562+00:00",
+  "updated": "2026-04-03T11:28:28.748908+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "قصة فرقة خاصة خططت لتحرير الأسرى على رأسهم الشيخ أحمد ياسين",
+          "link": "https://www.youtube.com/watch?v=r3WrTO6IbTU",
+          "videoId": "r3WrTO6IbTU",
+          "pubDate": "2026-04-03T11:00:01+00:00"
+        },
+        {
           "title": "\"يصفدون رجله مع يديه\" هكذا تُعامل إسرائيل الأسرى مبتوري الأطراف داخل سجونها",
           "link": "https://www.youtube.com/watch?v=EiM0KJweui8",
           "videoId": "EiM0KJweui8",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=8inuWogBzNQ",
           "videoId": "8inuWogBzNQ",
           "pubDate": "2026-04-03T08:15:01+00:00"
-        },
-        {
-          "title": "من فلسطين.. صباحكم حياة. الفيديو بواسطة: hanadiii@",
-          "link": "https://www.youtube.com/watch?v=iQTcjSOtpx4",
-          "videoId": "iQTcjSOtpx4",
-          "pubDate": "2026-04-03T08:00:01+00:00"
         }
       ],
       "ok": true
