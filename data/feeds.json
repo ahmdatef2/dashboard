@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-03T12:34:13.329015+00:00",
+  "updated": "2026-04-03T13:54:23.601138+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "هل تتحول المحيطات إلى جاكوزي؟",
+          "link": "https://www.youtube.com/watch?v=ALGSFS5hAEE",
+          "videoId": "ALGSFS5hAEE",
+          "pubDate": "2026-04-03T13:00:00+00:00"
+        },
+        {
           "title": "قصة فرقة خاصة خططت لتحرير الأسرى على رأسهم الشيخ أحمد ياسين",
           "link": "https://www.youtube.com/watch?v=r3WrTO6IbTU",
           "videoId": "r3WrTO6IbTU",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=EiM0KJweui8",
           "videoId": "EiM0KJweui8",
           "pubDate": "2026-04-03T10:00:00+00:00"
-        },
-        {
-          "title": "\"توشك الكارثة أن تحل على الأقصى\"",
-          "link": "https://www.youtube.com/watch?v=8inuWogBzNQ",
-          "videoId": "8inuWogBzNQ",
-          "pubDate": "2026-04-03T08:15:01+00:00"
         }
       ],
       "ok": true
