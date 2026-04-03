@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-03T13:54:23.601138+00:00",
+  "updated": "2026-04-03T14:33:57.809302+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -85,6 +85,12 @@
       "feedTitle": "عبداللطيف سعيد Abdellatif Said",
       "items": [
         {
+          "title": "ضربة جوجل القاضية بـ Gemma 4: أقوى ذكاء اصطناعي مفتوح المصدر (إزاي تشغله على جهازك بدون نت؟)",
+          "link": "https://www.youtube.com/watch?v=ahNmcjcakZg",
+          "videoId": "ahNmcjcakZg",
+          "pubDate": "2026-04-03T14:15:00+00:00"
+        },
+        {
           "title": "وداعاً للتعقيد.. تثبيت وكيل الذكاء الاصطناعي OpenClaw بضغطة زر (وربطه بتليجرام)!",
           "link": "https://www.youtube.com/watch?v=gsqjwaXbnb8",
           "videoId": "gsqjwaXbnb8",
@@ -95,12 +101,6 @@
           "link": "https://www.youtube.com/watch?v=kW9-2JFe3bk",
           "videoId": "kW9-2JFe3bk",
           "pubDate": "2026-03-25T14:15:05+00:00"
-        },
-        {
-          "title": "جوجل دمرت اللعبة! 🤯 صمم تطبيق أحلامك بمجرد الكلام مع الذكاء الاصطناعي.",
-          "link": "https://www.youtube.com/watch?v=6xEzVck0X0w",
-          "videoId": "6xEzVck0X0w",
-          "pubDate": "2026-03-23T14:15:00+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "الشعب الفيتنامي.. عزيمة حديدية لم يكسرها القصف الأميركي",
+          "link": "https://www.youtube.com/watch?v=XmikusykPpg",
+          "videoId": "XmikusykPpg",
+          "pubDate": "2026-04-03T14:00:01+00:00"
+        },
+        {
           "title": "هل تتحول المحيطات إلى جاكوزي؟",
           "link": "https://www.youtube.com/watch?v=ALGSFS5hAEE",
           "videoId": "ALGSFS5hAEE",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=r3WrTO6IbTU",
           "videoId": "r3WrTO6IbTU",
           "pubDate": "2026-04-03T11:00:01+00:00"
-        },
-        {
-          "title": "\"يصفدون رجله مع يديه\" هكذا تُعامل إسرائيل الأسرى مبتوري الأطراف داخل سجونها",
-          "link": "https://www.youtube.com/watch?v=EiM0KJweui8",
-          "videoId": "EiM0KJweui8",
-          "pubDate": "2026-04-03T10:00:00+00:00"
         }
       ],
       "ok": true
