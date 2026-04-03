@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-03T17:23:26.703918+00:00",
+  "updated": "2026-04-03T18:29:06.312452+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -189,6 +189,12 @@
       "feedTitle": "ذكاء اصطناعي عربي",
       "items": [
         {
+          "title": "هل يمكن تدريب AI بدون كود؟ الإجابة هنا!",
+          "link": "https://www.youtube.com/watch?v=xoDUakHtis4",
+          "videoId": "xoDUakHtis4",
+          "pubDate": "2026-04-03T18:00:06+00:00"
+        },
+        {
           "title": "بناء مشروع حقيقي بـ OpenCode | سلسلة الذكاء الاصطناعي",
           "link": "https://www.youtube.com/watch?v=9nR8kVSDNZM",
           "videoId": "9nR8kVSDNZM",
@@ -199,12 +205,6 @@
           "link": "https://www.youtube.com/watch?v=AiTufHK-SaA",
           "videoId": "AiTufHK-SaA",
           "pubDate": "2026-03-28T19:32:07+00:00"
-        },
-        {
-          "title": "شغال بجد | تجربة صادقة و شرح كامل OpenCode",
-          "link": "https://www.youtube.com/watch?v=VrlMYLTJsTc",
-          "videoId": "VrlMYLTJsTc",
-          "pubDate": "2026-03-27T17:00:06+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "دليل هاتف قديم يقود إلى أرشيف مخرج فلسطيني قبل عام 1948",
+          "link": "https://www.youtube.com/watch?v=VYhQ-g_kq-4",
+          "videoId": "VYhQ-g_kq-4",
+          "pubDate": "2026-04-03T18:00:01+00:00"
+        },
+        {
           "title": "585 تجربة زراعية عبقرية ابن العوام في علم النبات",
           "link": "https://www.youtube.com/watch?v=Pt3XBdv12MI",
           "videoId": "Pt3XBdv12MI",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=SAHXsv_JJl8",
           "videoId": "SAHXsv_JJl8",
           "pubDate": "2026-04-03T15:00:02+00:00"
-        },
-        {
-          "title": "الشعب الفيتنامي.. عزيمة حديدية لم يكسرها القصف الأميركي",
-          "link": "https://www.youtube.com/watch?v=XmikusykPpg",
-          "videoId": "XmikusykPpg",
-          "pubDate": "2026-04-03T14:00:01+00:00"
         }
       ],
       "ok": true
