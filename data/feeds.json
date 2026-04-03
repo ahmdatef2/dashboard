@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-03T14:33:57.809302+00:00",
+  "updated": "2026-04-03T15:30:44.506742+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "\"الزنزانة أشبه بمقبرة مؤقتة\" شهادات صادمة لأسرى فلسطينيين في جحيم سجن 1391 الإسرائيلي",
+          "link": "https://www.youtube.com/watch?v=SAHXsv_JJl8",
+          "videoId": "SAHXsv_JJl8",
+          "pubDate": "2026-04-03T15:00:02+00:00"
+        },
+        {
           "title": "الشعب الفيتنامي.. عزيمة حديدية لم يكسرها القصف الأميركي",
           "link": "https://www.youtube.com/watch?v=XmikusykPpg",
           "videoId": "XmikusykPpg",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=ALGSFS5hAEE",
           "videoId": "ALGSFS5hAEE",
           "pubDate": "2026-04-03T13:00:00+00:00"
-        },
-        {
-          "title": "قصة فرقة خاصة خططت لتحرير الأسرى على رأسهم الشيخ أحمد ياسين",
-          "link": "https://www.youtube.com/watch?v=r3WrTO6IbTU",
-          "videoId": "r3WrTO6IbTU",
-          "pubDate": "2026-04-03T11:00:01+00:00"
         }
       ],
       "ok": true
