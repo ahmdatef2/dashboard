@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-03T11:28:28.748908+00:00",
+  "updated": "2026-04-03T12:34:13.329015+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -527,6 +527,12 @@
       "feedTitle": "Nat Geo Abu Dhabi",
       "items": [
         {
+          "title": "الحلقة الأولى | الهند من أعلى | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=lzJ3RI-klhU",
+          "videoId": "lzJ3RI-klhU",
+          "pubDate": "2026-04-03T11:56:49+00:00"
+        },
+        {
           "title": "يُعرض 6 أبريل | أسرار النحل | ناشونال جيوغرافيك أبوظبي",
           "link": "https://www.youtube.com/watch?v=0kiIkucS6Js",
           "videoId": "0kiIkucS6Js",
@@ -537,12 +543,6 @@
           "link": "https://www.youtube.com/watch?v=xTntSFhkmZE",
           "videoId": "xTntSFhkmZE",
           "pubDate": "2026-04-02T11:25:58+00:00"
-        },
-        {
-          "title": "ابتداءً 1 أبريل | فريق إنقاذ الطرق الجليدية | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=odtA9vUJdEM",
-          "videoId": "odtA9vUJdEM",
-          "pubDate": "2026-04-02T11:24:24+00:00"
         }
       ],
       "ok": true
