@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-03T16:25:31.266635+00:00",
+  "updated": "2026-04-03T17:23:26.703918+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -59,6 +59,12 @@
       "feedTitle": "Infotech4you - مروي سليمان",
       "items": [
         {
+          "title": "ذكاء اصطناعي في جيبك من جوجل! كل ما تريد معرفته عن Gemma 4",
+          "link": "https://www.youtube.com/watch?v=itFCDbhY3Ek",
+          "videoId": "itFCDbhY3Ek",
+          "pubDate": "2026-04-03T17:19:27+00:00"
+        },
+        {
           "title": "Claude for excel #claude",
           "link": "https://www.youtube.com/watch?v=URpmP0H12vQ",
           "videoId": "URpmP0H12vQ",
@@ -69,12 +75,6 @@
           "link": "https://www.youtube.com/watch?v=cArGLgu-wHk",
           "videoId": "cArGLgu-wHk",
           "pubDate": "2026-04-01T15:28:01+00:00"
-        },
-        {
-          "title": "Claude Cowork Plugins: أخطر إضافة من Anthropic",
-          "link": "https://www.youtube.com/watch?v=-WW0KzljwDg",
-          "videoId": "-WW0KzljwDg",
-          "pubDate": "2026-03-30T18:27:51+00:00"
         }
       ],
       "ok": true
@@ -553,6 +553,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "وثائقي | إلغاء السجون؟ ما هو أكثر فاعلية من الحبس | وثائقية دي دبليو",
+          "link": "https://www.youtube.com/watch?v=EcsXN75fKTs",
+          "videoId": "EcsXN75fKTs",
+          "pubDate": "2026-04-03T17:00:30+00:00"
+        },
+        {
           "title": "وثائقي |سلوفاكيا المنقسمة - بين روسيا وأوروبا | وثائقية دي دبليو",
           "link": "https://www.youtube.com/watch?v=bwf5qX3_aDw",
           "videoId": "bwf5qX3_aDw",
@@ -563,12 +569,6 @@
           "link": "https://www.youtube.com/watch?v=TIEcHkOCv9s",
           "videoId": "TIEcHkOCv9s",
           "pubDate": "2026-04-02T10:45:02+00:00"
-        },
-        {
-          "title": "ملايين الشباب بلا وظائف في الهند",
-          "link": "https://www.youtube.com/watch?v=_aHzbjcr3rE",
-          "videoId": "_aHzbjcr3rE",
-          "pubDate": "2026-04-01T10:45:08+00:00"
         }
       ],
       "ok": true
