@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-04T19:22:36.881092+00:00",
+  "updated": "2026-04-04T20:16:33.231906+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "بعد 7 قرون من الحظر.. كيف عادت مؤلفات ابن رشد إلى جامعة باريس في 1991؟",
+          "link": "https://www.youtube.com/watch?v=QTwUVz240sw",
+          "videoId": "QTwUVz240sw",
+          "pubDate": "2026-04-04T20:00:01+00:00"
+        },
+        {
           "title": "من أرشيف ما قبل النكبة: تذاكر سينما الخضراء بنابلس تتبدل تصاميمها مع الأعياد",
           "link": "https://www.youtube.com/watch?v=Z-dTycAnofc",
           "videoId": "Z-dTycAnofc",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=sqnxZJKY1Gg",
           "videoId": "sqnxZJKY1Gg",
           "pubDate": "2026-04-04T17:00:01+00:00"
-        },
-        {
-          "title": "السراديب ملجأ الموصليين في أوقات الأزمات",
-          "link": "https://www.youtube.com/watch?v=6J-yr64Xo7M",
-          "videoId": "6J-yr64Xo7M",
-          "pubDate": "2026-04-04T16:00:00+00:00"
         }
       ],
       "ok": true
@@ -527,22 +527,22 @@
       "feedTitle": "Nat Geo Abu Dhabi",
       "items": [
         {
+          "title": "يُعرض 6 أبريل | أسرار النحل | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=dQ1RV9OHvBg",
+          "videoId": "dQ1RV9OHvBg",
+          "pubDate": "2026-04-04T19:44:57+00:00"
+        },
+        {
+          "title": "يُعرض 6 أبريل | أسرار النحل | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=y1GzGp6iKOs",
+          "videoId": "y1GzGp6iKOs",
+          "pubDate": "2026-04-04T19:44:50+00:00"
+        },
+        {
           "title": "الحلقة الأولى | الهند من أعلى | ناشونال جيوغرافيك أبوظبي",
           "link": "https://www.youtube.com/watch?v=lzJ3RI-klhU",
           "videoId": "lzJ3RI-klhU",
           "pubDate": "2026-04-03T11:56:49+00:00"
-        },
-        {
-          "title": "يُعرض 6 أبريل | أسرار النحل | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=0kiIkucS6Js",
-          "videoId": "0kiIkucS6Js",
-          "pubDate": "2026-04-02T11:26:28+00:00"
-        },
-        {
-          "title": "يُعرض 6 أبريل | أسرار النحل | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=xTntSFhkmZE",
-          "videoId": "xTntSFhkmZE",
-          "pubDate": "2026-04-02T11:25:58+00:00"
         }
       ],
       "ok": true
