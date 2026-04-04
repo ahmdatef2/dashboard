@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-04T07:39:54.123057+00:00",
+  "updated": "2026-04-04T08:26:23.598583+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "\"النحشون\" وحدة القمع داخل السجون الإسرائيلية",
+          "link": "https://www.youtube.com/watch?v=lgBD4lCTmKA",
+          "videoId": "lgBD4lCTmKA",
+          "pubDate": "2026-04-04T08:00:00+00:00"
+        },
+        {
           "title": "مهرجان إسطنبول للتوليب",
           "link": "https://www.youtube.com/watch?v=_lwWyPO9JGw",
           "videoId": "_lwWyPO9JGw",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=SU8JpLAkNHM",
           "videoId": "SU8JpLAkNHM",
           "pubDate": "2026-04-03T20:00:30+00:00"
-        },
-        {
-          "title": "لماذا تعد مدينة مكسيكو من أكثر مدن العالم عرضة للزلازل؟",
-          "link": "https://www.youtube.com/watch?v=jRhQgxZNOL8",
-          "videoId": "jRhQgxZNOL8",
-          "pubDate": "2026-04-03T20:00:01+00:00"
         }
       ],
       "ok": true
