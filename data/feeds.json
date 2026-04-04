@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-04T15:19:02.496645+00:00",
+  "updated": "2026-04-04T16:20:10.681345+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -111,6 +111,12 @@
       "feedTitle": "AMR SALEM _ عمرو سالم",
       "items": [
         {
+          "title": "عملاق البرمجة الجديد المجاني Qwen 3.6 Plus | نموذج رهيب بمعني الكلمة",
+          "link": "https://www.youtube.com/watch?v=cliMCyvexk8",
+          "videoId": "cliMCyvexk8",
+          "pubDate": "2026-04-04T16:18:39+00:00"
+        },
+        {
           "title": "تجربة النموذج الجديد GLM 5 turbo | صدمني",
           "link": "https://www.youtube.com/watch?v=XaJ0rfXRsdc",
           "videoId": "XaJ0rfXRsdc",
@@ -121,12 +127,6 @@
           "link": "https://www.youtube.com/watch?v=syM8vIlGFjk",
           "videoId": "syM8vIlGFjk",
           "pubDate": "2026-03-31T11:07:47+00:00"
-        },
-        {
-          "title": "Xiaomi: MiMo . نموذج جديد مكسر الدنيا | هل اقوي من كلود ؟!",
-          "link": "https://www.youtube.com/watch?v=Zz67SYA9yV4",
-          "videoId": "Zz67SYA9yV4",
-          "pubDate": "2026-03-29T10:09:52+00:00"
         }
       ],
       "ok": true
@@ -345,6 +345,12 @@
       "feedTitle": "ReadTube - جيل يقرأ",
       "items": [
         {
+          "title": "احذر قبل فوات الأوان- كامل الصورة - أحمد السيد ",
+          "link": "https://www.youtube.com/watch?v=n9YW0Liz3rs",
+          "videoId": "n9YW0Liz3rs",
+          "pubDate": "2026-04-04T16:04:47+00:00"
+        },
+        {
           "title": "الذين ضحكوا حتى البكاء -ملخص لكتاب د. مصطفى محمود",
           "link": "https://www.youtube.com/watch?v=bSbrMABmf4E",
           "videoId": "bSbrMABmf4E",
@@ -355,12 +361,6 @@
           "link": "https://www.youtube.com/watch?v=N2hD24PnJQ4",
           "videoId": "N2hD24PnJQ4",
           "pubDate": "2026-03-01T20:56:54+00:00"
-        },
-        {
-          "title": "المسيري يفضح الفكر الابستيني - كتاب :الفلسفة المادية وتفكيك الإنسان",
-          "link": "https://www.youtube.com/watch?v=A9FEkTJhvfU",
-          "videoId": "A9FEkTJhvfU",
-          "pubDate": "2026-02-22T19:01:53+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "السراديب ملجأ الموصليين في أوقات الأزمات",
+          "link": "https://www.youtube.com/watch?v=6J-yr64Xo7M",
+          "videoId": "6J-yr64Xo7M",
+          "pubDate": "2026-04-04T16:00:00+00:00"
+        },
+        {
           "title": "هل سمعت صوت من قبل صوت رفرفة أجنحة الإوز وهي تطير؟",
           "link": "https://www.youtube.com/watch?v=NjpnIprAISQ",
           "videoId": "NjpnIprAISQ",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=No8nZ64AOpE",
           "videoId": "No8nZ64AOpE",
           "pubDate": "2026-04-04T13:00:00+00:00"
-        },
-        {
-          "title": "حي ميا شيريام بالقدس المحتلة.. حيث لا يمكن للنساء إلا ارتداء لباس محدد",
-          "link": "https://www.youtube.com/watch?v=dU35iUq-YIA",
-          "videoId": "dU35iUq-YIA",
-          "pubDate": "2026-04-04T12:00:01+00:00"
         }
       ],
       "ok": true
