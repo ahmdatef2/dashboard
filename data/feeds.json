@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-04T13:43:12.155743+00:00",
+  "updated": "2026-04-04T14:22:38.966330+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -33,6 +33,12 @@
       "feedTitle": "كل يوم موقع جديد",
       "items": [
         {
+          "title": "Veo 3.1 Lite وصل مجانًا! تجربة عملية ونتائج مذهلة!",
+          "link": "https://www.youtube.com/watch?v=rcrM4WlEkmI",
+          "videoId": "rcrM4WlEkmI",
+          "pubDate": "2026-04-04T14:01:24+00:00"
+        },
+        {
           "title": "أسهل طريقة لعمل Isometric Infographic بالذكاء الاصطناعي",
           "link": "https://www.youtube.com/watch?v=qQZBRI4E388",
           "videoId": "qQZBRI4E388",
@@ -43,12 +49,6 @@
           "link": "https://www.youtube.com/watch?v=9P2HASFn3pY",
           "videoId": "9P2HASFn3pY",
           "pubDate": "2026-04-01T09:00:17+00:00"
-        },
-        {
-          "title": "اصنع تطبيق لتعلم المحادثة بالانجليزية مع أقوى نموذج صوتي من جوجل!",
-          "link": "https://www.youtube.com/watch?v=kjg9z5I0hyQ",
-          "videoId": "kjg9z5I0hyQ",
-          "pubDate": "2026-03-29T20:59:24+00:00"
         }
       ],
       "ok": true
@@ -85,6 +85,12 @@
       "feedTitle": "عبداللطيف سعيد Abdellatif Said",
       "items": [
         {
+          "title": "وداعاً للمبرمجين والمصممين! 🤯 فريق كامل من الـ AI هيبني مشروعك بضغطة زر | Atoms",
+          "link": "https://www.youtube.com/watch?v=_Syty-0g7Rw",
+          "videoId": "_Syty-0g7Rw",
+          "pubDate": "2026-04-04T14:15:07+00:00"
+        },
+        {
           "title": "ضربة جوجل القاضية بـ Gemma 4: أقوى ذكاء اصطناعي مفتوح المصدر (إزاي تشغله على جهازك بدون نت؟)",
           "link": "https://www.youtube.com/watch?v=ahNmcjcakZg",
           "videoId": "ahNmcjcakZg",
@@ -95,12 +101,6 @@
           "link": "https://www.youtube.com/watch?v=gsqjwaXbnb8",
           "videoId": "gsqjwaXbnb8",
           "pubDate": "2026-03-26T17:05:41+00:00"
-        },
-        {
-          "title": "السر اللي محدش هيقولك عليه.. إزاي تكسب من الذكاء الاصطناعي في أرض الواقع؟ ( دردشة )",
-          "link": "https://www.youtube.com/watch?v=kW9-2JFe3bk",
-          "videoId": "kW9-2JFe3bk",
-          "pubDate": "2026-03-25T14:15:05+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "هل سمعت صوت من قبل صوت رفرفة أجنحة الإوز وهي تطير؟",
+          "link": "https://www.youtube.com/watch?v=NjpnIprAISQ",
+          "videoId": "NjpnIprAISQ",
+          "pubDate": "2026-04-04T14:00:01+00:00"
+        },
+        {
           "title": "كهف في الجزائر احتمى به مقاتلو جيش التحرير",
           "link": "https://www.youtube.com/watch?v=No8nZ64AOpE",
           "videoId": "No8nZ64AOpE",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=dU35iUq-YIA",
           "videoId": "dU35iUq-YIA",
           "pubDate": "2026-04-04T12:00:01+00:00"
-        },
-        {
-          "title": "كيف أعاد مصور عُماني الناس إلى ماضيهم؟",
-          "link": "https://www.youtube.com/watch?v=F7n3su16FaQ",
-          "videoId": "F7n3su16FaQ",
-          "pubDate": "2026-04-04T11:00:02+00:00"
         }
       ],
       "ok": true
