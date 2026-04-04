@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-04T16:20:10.681345+00:00",
+  "updated": "2026-04-04T17:20:20.504038+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "الأسماك تختفي عاما بعد عام من بحر العرب",
+          "link": "https://www.youtube.com/watch?v=sqnxZJKY1Gg",
+          "videoId": "sqnxZJKY1Gg",
+          "pubDate": "2026-04-04T17:00:01+00:00"
+        },
+        {
           "title": "السراديب ملجأ الموصليين في أوقات الأزمات",
           "link": "https://www.youtube.com/watch?v=6J-yr64Xo7M",
           "videoId": "6J-yr64Xo7M",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=NjpnIprAISQ",
           "videoId": "NjpnIprAISQ",
           "pubDate": "2026-04-04T14:00:01+00:00"
-        },
-        {
-          "title": "كهف في الجزائر احتمى به مقاتلو جيش التحرير",
-          "link": "https://www.youtube.com/watch?v=No8nZ64AOpE",
-          "videoId": "No8nZ64AOpE",
-          "pubDate": "2026-04-04T13:00:00+00:00"
         }
       ],
       "ok": true
@@ -553,6 +553,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "وثائقي | من سوريا إلى ألمانيا – كيف شقت نور طريقها إلى دراسة الطب | وثائقية دي دبليو",
+          "link": "https://www.youtube.com/watch?v=qX3HnE3DQZE",
+          "videoId": "qX3HnE3DQZE",
+          "pubDate": "2026-04-04T17:00:58+00:00"
+        },
+        {
           "title": "وثائقي | إلغاء السجون؟ ما هو أكثر فاعلية من الحبس | وثائقية دي دبليو",
           "link": "https://www.youtube.com/watch?v=EcsXN75fKTs",
           "videoId": "EcsXN75fKTs",
@@ -563,12 +569,6 @@
           "link": "https://www.youtube.com/watch?v=bwf5qX3_aDw",
           "videoId": "bwf5qX3_aDw",
           "pubDate": "2026-04-02T18:00:36+00:00"
-        },
-        {
-          "title": "كيف تشكّل القمر؟",
-          "link": "https://www.youtube.com/watch?v=TIEcHkOCv9s",
-          "videoId": "TIEcHkOCv9s",
-          "pubDate": "2026-04-02T10:45:02+00:00"
         }
       ],
       "ok": true
