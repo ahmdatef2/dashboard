@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-04T17:20:20.504038+00:00",
+  "updated": "2026-04-04T18:23:18.587388+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -501,6 +501,12 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "الخطوط الجوية السنغافورية",
+          "link": "https://www.youtube.com/watch?v=bCztX_axKRM",
+          "videoId": "bCztX_axKRM",
+          "pubDate": "2026-04-04T17:24:18+00:00"
+        },
+        {
           "title": "مليار وحدة من الطاقة: مغامرة جريئة لالتقاط صور البرق في سنغافورة | الشرق الوثائقية",
           "link": "https://www.youtube.com/watch?v=RFiHhRT4K30",
           "videoId": "RFiHhRT4K30",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=THVEaJvCyqo",
           "videoId": "THVEaJvCyqo",
           "pubDate": "2026-04-01T22:00:00+00:00"
-        },
-        {
-          "title": "أقمار غامضة وعوالم محتملة للحياة خارج الأرض | ما وراء كوكبنا ح4",
-          "link": "https://www.youtube.com/watch?v=LOPfGyRVAds",
-          "videoId": "LOPfGyRVAds",
-          "pubDate": "2026-03-31T22:00:00+00:00"
         }
       ],
       "ok": true
