@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-04T11:18:54.921100+00:00",
+  "updated": "2026-04-04T12:26:16.779335+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "حي ميا شيريام بالقدس المحتلة.. حيث لا يمكن للنساء إلا ارتداء لباس محدد",
+          "link": "https://www.youtube.com/watch?v=dU35iUq-YIA",
+          "videoId": "dU35iUq-YIA",
+          "pubDate": "2026-04-04T12:00:01+00:00"
+        },
+        {
+          "title": "كيف أعاد مصور عُماني الناس إلى ماضيهم؟",
+          "link": "https://www.youtube.com/watch?v=F7n3su16FaQ",
+          "videoId": "F7n3su16FaQ",
+          "pubDate": "2026-04-04T11:00:02+00:00"
+        },
+        {
           "title": "\"سيأكلوننا\".. نظرات المرابطين أرعبت مستوطنين اقتحما الأقصى",
           "link": "https://www.youtube.com/watch?v=7RCUYqeWfBE",
           "videoId": "7RCUYqeWfBE",
           "pubDate": "2026-04-04T10:00:00+00:00"
-        },
-        {
-          "title": "\"النحشون\" وحدة القمع داخل السجون الإسرائيلية",
-          "link": "https://www.youtube.com/watch?v=lgBD4lCTmKA",
-          "videoId": "lgBD4lCTmKA",
-          "pubDate": "2026-04-04T08:00:00+00:00"
-        },
-        {
-          "title": "مهرجان إسطنبول للتوليب",
-          "link": "https://www.youtube.com/watch?v=_lwWyPO9JGw",
-          "videoId": "_lwWyPO9JGw",
-          "pubDate": "2026-04-04T07:00:01+00:00"
         }
       ],
       "ok": true
