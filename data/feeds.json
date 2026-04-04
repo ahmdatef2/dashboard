@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-04T18:23:18.587388+00:00",
+  "updated": "2026-04-04T19:22:36.881092+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -293,7 +293,7 @@
       "feedTitle": "تكنوفلاش – AI & Tech",
       "items": [
         {
-          "title": "السر المخفي في 2026: الوصول إلى claude opus 4.6 free  و glm 5 و gpt 5.4   مجاناً 🚀",
+          "title": "Claude Opus 4.6 Free مجاناً | بديل ChatGPT الأقوى لم تسمع عنه",
           "link": "https://www.youtube.com/watch?v=uZ7K8z5lumE",
           "videoId": "uZ7K8z5lumE",
           "pubDate": "2026-04-02T20:40:47+00:00"
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "من أرشيف ما قبل النكبة: تذاكر سينما الخضراء بنابلس تتبدل تصاميمها مع الأعياد",
+          "link": "https://www.youtube.com/watch?v=Z-dTycAnofc",
+          "videoId": "Z-dTycAnofc",
+          "pubDate": "2026-04-04T19:00:00+00:00"
+        },
+        {
           "title": "الأسماك تختفي عاما بعد عام من بحر العرب",
           "link": "https://www.youtube.com/watch?v=sqnxZJKY1Gg",
           "videoId": "sqnxZJKY1Gg",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=6J-yr64Xo7M",
           "videoId": "6J-yr64Xo7M",
           "pubDate": "2026-04-04T16:00:00+00:00"
-        },
-        {
-          "title": "هل سمعت صوت من قبل صوت رفرفة أجنحة الإوز وهي تطير؟",
-          "link": "https://www.youtube.com/watch?v=NjpnIprAISQ",
-          "videoId": "NjpnIprAISQ",
-          "pubDate": "2026-04-04T14:00:01+00:00"
         }
       ],
       "ok": true
