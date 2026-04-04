@@ -1,12 +1,31 @@
 {
-  "updated": "2026-04-04T05:47:01.005458+00:00",
+  "updated": "2026-04-04T06:43:44.312103+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
       "name": "د. هبة أحمد",
-      "feedTitle": "د. هبة أحمد",
-      "items": [],
-      "ok": false
+      "feedTitle": "Heba Ahmed - هبة احمد",
+      "items": [
+        {
+          "title": "Claude Skills: السر اللي هيغير شغلك بالكامل (كورس مجاني)",
+          "link": "https://www.youtube.com/watch?v=5Uv8ooxFXLY",
+          "videoId": "5Uv8ooxFXLY",
+          "pubDate": "2026-04-03T21:53:24+00:00"
+        },
+        {
+          "title": "Claude Skills: السر اللي هيغير شغلك بالكامل (كورس مجاني)",
+          "link": "https://www.youtube.com/watch?v=vqzjA_f-GZg",
+          "videoId": "vqzjA_f-GZg",
+          "pubDate": "2026-04-03T19:04:56+00:00"
+        },
+        {
+          "title": "أخيرًا… استخدام OpenClaw بدون تعقيد! 🔥",
+          "link": "https://www.youtube.com/watch?v=-FfcB8Yj2RQ",
+          "videoId": "-FfcB8Yj2RQ",
+          "pubDate": "2026-03-25T14:00:41+00:00"
+        }
+      ],
+      "ok": true
     },
     "UC2jjW7c63dqOPkfMm3P-u3w": {
       "handle": "every_day_a_new_website",
@@ -32,28 +51,9 @@
     "UC81Ks7DR9JFgZc14nmZ07EA": {
       "handle": "AMRSALEM800",
       "name": "عمرو سالم",
-      "feedTitle": "AMR SALEM _ عمرو سالم",
-      "items": [
-        {
-          "title": "تجربة النموذج الجديد GLM 5 turbo | صدمني",
-          "link": "https://www.youtube.com/watch?v=XaJ0rfXRsdc",
-          "videoId": "XaJ0rfXRsdc",
-          "pubDate": "2026-04-02T13:04:16+00:00"
-        },
-        {
-          "title": "👉 عملت بيزنس كامل بالذكاء الاصطناعي في 10 دقايق 😳 (Atoms AI)",
-          "link": "https://www.youtube.com/watch?v=syM8vIlGFjk",
-          "videoId": "syM8vIlGFjk",
-          "pubDate": "2026-03-31T11:07:47+00:00"
-        },
-        {
-          "title": "Xiaomi: MiMo . نموذج جديد مكسر الدنيا | هل اقوي من كلود ؟!",
-          "link": "https://www.youtube.com/watch?v=Zz67SYA9yV4",
-          "videoId": "Zz67SYA9yV4",
-          "pubDate": "2026-03-29T10:09:52+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "عمرو سالم",
+      "items": [],
+      "ok": false
     },
     "UC9ocsRoOwj9tkAQNfUt8ZJg": {
       "handle": "PythonArab",
@@ -66,27 +66,8 @@
       "handle": "elzerowebschool",
       "name": "Elzero Web School",
       "feedTitle": "Elzero Web School",
-      "items": [
-        {
-          "title": "عشر حاجات لو سمعتهم وانت بتتفق على شغل اهرب فورا",
-          "link": "https://www.youtube.com/watch?v=ER_CzhR6JVQ",
-          "videoId": "ER_CzhR6JVQ",
-          "pubDate": "2026-03-26T20:11:50+00:00"
-        },
-        {
-          "title": "مبادرة هتطورك في البرمجة وتاخد ثواب وفرصة لرحلة عمرة",
-          "link": "https://www.youtube.com/watch?v=1n4AJdviibs",
-          "videoId": "1n4AJdviibs",
-          "pubDate": "2026-03-03T19:47:57+00:00"
-        },
-        {
-          "title": "توظيف البشر لصالح الذكاء الاصطناعي",
-          "link": "https://www.youtube.com/watch?v=4XBhqzlYJGY",
-          "videoId": "4XBhqzlYJGY",
-          "pubDate": "2026-02-16T10:47:19+00:00"
-        }
-      ],
-      "ok": true
+      "items": [],
+      "ok": false
     },
     "UCGrVvqu8PlVv0wPqA5kgY8A": {
       "handle": "ArabicArtificialIntelligence",
@@ -98,35 +79,35 @@
     "UCSXcmF4Gxl6Hc-m6cHYD_Vg": {
       "handle": "MohamedAnsary",
       "name": "محمد أنصاري",
-      "feedTitle": "محمد أنصاري",
-      "items": [],
-      "ok": false
+      "feedTitle": "Mohamed Ansary",
+      "items": [
+        {
+          "title": "أهم 3 مواقع لترجمة الملفات بالذكاء الاصطناعي مع الحفاظ على التنسيق",
+          "link": "https://www.youtube.com/watch?v=vGfwNZRnAkI",
+          "videoId": "vGfwNZRnAkI",
+          "pubDate": "2026-04-03T15:40:13+00:00"
+        },
+        {
+          "title": "الأتمتة بالذكاء الاصطناعي Convergence",
+          "link": "https://www.youtube.com/watch?v=EvG-uCpJL94",
+          "videoId": "EvG-uCpJL94",
+          "pubDate": "2026-04-02T10:15:25+00:00"
+        },
+        {
+          "title": "فهم الأوراق البحثية  مع المساعد الذكي Moonlight",
+          "link": "https://www.youtube.com/watch?v=pqtiowLRqQE",
+          "videoId": "pqtiowLRqQE",
+          "pubDate": "2026-03-30T11:35:06+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCDqp23rTdCo_tXsuHLYF47Q": {
       "handle": "ArabianAiSchool",
       "name": "Arabian AI School",
-      "feedTitle": "مدرسة الذكاء الاصطناعي",
-      "items": [
-        {
-          "title": "بدل ما تكتب… اتكلم وخلّي الذكاء الاصطناعي يعمل الباقي",
-          "link": "https://www.youtube.com/watch?v=_eMrleFkWp4",
-          "videoId": "_eMrleFkWp4",
-          "pubDate": "2026-04-03T15:51:22+00:00"
-        },
-        {
-          "title": "أخيرًا بديل Claude Cowork المجاني وبنفس المميزات تقريبا",
-          "link": "https://www.youtube.com/watch?v=UKfMuuCe4K8",
-          "videoId": "UKfMuuCe4K8",
-          "pubDate": "2026-04-01T17:26:44+00:00"
-        },
-        {
-          "title": "استخدم Claude أفضل من 90% من الناس (الدليل الكامل)",
-          "link": "https://www.youtube.com/watch?v=jdnXYcZmCCE",
-          "videoId": "jdnXYcZmCCE",
-          "pubDate": "2026-03-29T21:21:24+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "Arabian AI School",
+      "items": [],
+      "ok": false
     },
     "UCz0N3nKrJiDhNdKQvM6r93w": {
       "handle": "ryan.academy",
@@ -138,28 +119,9 @@
     "UCXVSIaWCZBxqZ5eCxwIqRGw": {
       "handle": "TechnoFlashAITech",
       "name": "TechnoFlash AI",
-      "feedTitle": "تكنوفلاش – AI & Tech",
-      "items": [
-        {
-          "title": "السر المخفي في 2026: الوصول إلى claude opus 4.6 free  و glm 5 و gpt 5.4   مجاناً 🚀",
-          "link": "https://www.youtube.com/watch?v=uZ7K8z5lumE",
-          "videoId": "uZ7K8z5lumE",
-          "pubDate": "2026-04-02T20:40:47+00:00"
-        },
-        {
-          "title": "موديل كسر كل التوقعات mimo-v2-pro 🔥 هل يكتب نهاية claude opus ؟ |   xiaomi mimo شاومي ",
-          "link": "https://www.youtube.com/watch?v=RCzoiuhwrF0",
-          "videoId": "RCzoiuhwrF0",
-          "pubDate": "2026-03-29T19:39:32+00:00"
-        },
-        {
-          "title": "بديل grok مجاني |تطبيق صيني يضرب grok بميزات مجنونه | بديل grok المجاني | Best Free Grok Alternative",
-          "link": "https://www.youtube.com/watch?v=b8s5gcyg53g",
-          "videoId": "b8s5gcyg53g",
-          "pubDate": "2026-03-28T19:14:11+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "TechnoFlash AI",
+      "items": [],
+      "ok": false
     },
     "UC16aC4Jti6tYAi0LuXmu-9w": {
       "handle": "KhairJaleesBook",
@@ -206,9 +168,28 @@
     "UC0LSnqrwqtMwl2YwfUpO66g": {
       "handle": "aljazeeradocumentary",
       "name": "الجزيرة الوثائقية",
-      "feedTitle": "الجزيرة الوثائقية",
-      "items": [],
-      "ok": false
+      "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
+      "items": [
+        {
+          "title": "أول مقرئ للمسيرة الرمضانية في المغرب",
+          "link": "https://www.youtube.com/watch?v=Q7-LesHRIko",
+          "videoId": "Q7-LesHRIko",
+          "pubDate": "2026-04-03T20:59:01+00:00"
+        },
+        {
+          "title": "أسرار في قلب الأدغال.. هياكل غامضة ومدن مخفية واكتشافات تحير العلماء| الحلقة الثالثة",
+          "link": "https://www.youtube.com/watch?v=SU8JpLAkNHM",
+          "videoId": "SU8JpLAkNHM",
+          "pubDate": "2026-04-03T20:00:30+00:00"
+        },
+        {
+          "title": "لماذا تعد مدينة مكسيكو من أكثر مدن العالم عرضة للزلازل؟",
+          "link": "https://www.youtube.com/watch?v=jRhQgxZNOL8",
+          "videoId": "jRhQgxZNOL8",
+          "pubDate": "2026-04-03T20:00:01+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCArK7aSQ68vRCiJY2m7spkA": {
       "handle": "AsharqDoc",
@@ -220,54 +201,16 @@
     "UCLiTe0aOHShx7hXGyqZ9UIw": {
       "handle": "natgeoabudhabime",
       "name": "ناشيونال جيوغرافيك",
-      "feedTitle": "Nat Geo Abu Dhabi",
-      "items": [
-        {
-          "title": "الحلقة الأولى | الهند من أعلى | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=lzJ3RI-klhU",
-          "videoId": "lzJ3RI-klhU",
-          "pubDate": "2026-04-03T11:56:49+00:00"
-        },
-        {
-          "title": "يُعرض 6 أبريل | أسرار النحل | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=0kiIkucS6Js",
-          "videoId": "0kiIkucS6Js",
-          "pubDate": "2026-04-02T11:26:28+00:00"
-        },
-        {
-          "title": "يُعرض 6 أبريل | أسرار النحل | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=xTntSFhkmZE",
-          "videoId": "xTntSFhkmZE",
-          "pubDate": "2026-04-02T11:25:58+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "ناشيونال جيوغرافيك",
+      "items": [],
+      "ok": false
     },
     "UCET6sWl4Xcu-U8Ka9PJPrwA": {
       "handle": "dwdocarabia",
       "name": "DW عربية وثائقي",
-      "feedTitle": "DW Documentary وثائقية دي دبليو",
-      "items": [
-        {
-          "title": "وثائقي | إلغاء السجون؟ ما هو أكثر فاعلية من الحبس | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=EcsXN75fKTs",
-          "videoId": "EcsXN75fKTs",
-          "pubDate": "2026-04-03T17:00:30+00:00"
-        },
-        {
-          "title": "وثائقي |سلوفاكيا المنقسمة - بين روسيا وأوروبا | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=bwf5qX3_aDw",
-          "videoId": "bwf5qX3_aDw",
-          "pubDate": "2026-04-02T18:00:36+00:00"
-        },
-        {
-          "title": "كيف تشكّل القمر؟",
-          "link": "https://www.youtube.com/watch?v=TIEcHkOCv9s",
-          "videoId": "TIEcHkOCv9s",
-          "pubDate": "2026-04-02T10:45:02+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "DW عربية وثائقي",
+      "items": [],
+      "ok": false
     }
   }
 }
