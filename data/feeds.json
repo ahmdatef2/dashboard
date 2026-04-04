@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-04T21:19:51.244914+00:00",
+  "updated": "2026-04-04T22:15:18.713612+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -501,6 +501,12 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "تونس.. فن الوشم البربري | الشرق الوثائقية",
+          "link": "https://www.youtube.com/watch?v=FchMWKHSBQs",
+          "videoId": "FchMWKHSBQs",
+          "pubDate": "2026-04-04T22:00:21+00:00"
+        },
+        {
           "title": "الخطوط الجوية السنغافورية",
           "link": "https://www.youtube.com/watch?v=bCztX_axKRM",
           "videoId": "bCztX_axKRM",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=RFiHhRT4K30",
           "videoId": "RFiHhRT4K30",
           "pubDate": "2026-04-03T22:00:34+00:00"
-        },
-        {
-          "title": "رحلة عبر الزمن الكوني مع تلسكوب هابل | ما وراء كوكبنا ح5",
-          "link": "https://www.youtube.com/watch?v=THVEaJvCyqo",
-          "videoId": "THVEaJvCyqo",
-          "pubDate": "2026-04-01T22:00:00+00:00"
         }
       ],
       "ok": true
