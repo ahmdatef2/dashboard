@@ -1,11 +1,17 @@
 {
-  "updated": "2026-04-05T15:19:55.797627+00:00",
+  "updated": "2026-04-05T16:21:44.940293+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
       "name": "د. هبة أحمد",
       "feedTitle": "Heba Ahmed - هبة احمد",
       "items": [
+        {
+          "title": "300$ مجانًا مع Gemini… الحل في Vertex AI Studio",
+          "link": "https://www.youtube.com/watch?v=E-14TwoW-84",
+          "videoId": "E-14TwoW-84",
+          "pubDate": "2026-04-05T16:08:06+00:00"
+        },
         {
           "title": "اقوى استخدامات Canvas feature داخل Gemini",
           "link": "https://www.youtube.com/watch?v=Clhl4qNZroc",
@@ -17,12 +23,6 @@
           "link": "https://www.youtube.com/watch?v=5Uv8ooxFXLY",
           "videoId": "5Uv8ooxFXLY",
           "pubDate": "2026-04-03T21:53:24+00:00"
-        },
-        {
-          "title": "Claude Skills: السر اللي هيغير شغلك بالكامل (كورس مجاني)",
-          "link": "https://www.youtube.com/watch?v=vqzjA_f-GZg",
-          "videoId": "vqzjA_f-GZg",
-          "pubDate": "2026-04-03T19:04:56+00:00"
         }
       ],
       "ok": true
@@ -267,6 +267,12 @@
       "feedTitle": "أكاديمية ريان | Ryan Academy",
       "items": [
         {
+          "title": "نشر وتحديث مشاريع Google AI Studio لحظيًا بدون خبرة تقنية",
+          "link": "https://www.youtube.com/watch?v=3QPdi9ZMx2M",
+          "videoId": "3QPdi9ZMx2M",
+          "pubDate": "2026-04-05T16:00:04+00:00"
+        },
+        {
           "title": "تثبيت وكيل الذكاء الاصطناعي OpenClaw على VPS بضغطة زر (وربطه بتليجرام) بدون أخطاء",
           "link": "https://www.youtube.com/watch?v=9oKK8S1CZ10",
           "videoId": "9oKK8S1CZ10",
@@ -277,12 +283,6 @@
           "link": "https://www.youtube.com/watch?v=UamvE2JBPac",
           "videoId": "UamvE2JBPac",
           "pubDate": "2026-04-01T16:00:39+00:00"
-        },
-        {
-          "title": "شاومي Xiaomi دخلت سباق AI بقوة 🤯 (تجربتي مع MiMo V2 Pro)",
-          "link": "https://www.youtube.com/watch?v=5szmV0CpFe8",
-          "videoId": "5szmV0CpFe8",
-          "pubDate": "2026-03-30T15:00:10+00:00"
         }
       ],
       "ok": true
@@ -449,7 +449,7 @@
       "feedTitle": "دوباميكافين Dupamicaffeine",
       "items": [
         {
-          "title": "اللغة الرابعة .. قريبًا",
+          "title": "اللغة الثالثة .. قريبًا",
           "link": "https://www.youtube.com/watch?v=MghBvnwilt4",
           "videoId": "MghBvnwilt4",
           "pubDate": "2026-04-05T14:07:51+00:00"
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "حين تصبح الرياضة مساحة للصراع على الهوية",
+          "link": "https://www.youtube.com/watch?v=5EkZhsI4W-8",
+          "videoId": "5EkZhsI4W-8",
+          "pubDate": "2026-04-05T16:00:01+00:00"
+        },
+        {
           "title": "لماذا أرادت إسرائيل إجبار الأسرى الفلسطينيين على لبس الزي البرتقالي عام 2009؟",
           "link": "https://www.youtube.com/watch?v=zh079drdbt0",
           "videoId": "zh079drdbt0",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=atNzzhUcmik",
           "videoId": "atNzzhUcmik",
           "pubDate": "2026-04-05T13:00:02+00:00"
-        },
-        {
-          "title": "سر المنازل الملونة وسط الجليد",
-          "link": "https://www.youtube.com/watch?v=w2_0ruMPYBQ",
-          "videoId": "w2_0ruMPYBQ",
-          "pubDate": "2026-04-05T12:00:01+00:00"
         }
       ],
       "ok": true
