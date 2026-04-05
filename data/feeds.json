@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-05T10:21:14.418554+00:00",
+  "updated": "2026-04-05T11:18:39.810436+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "من الأرشيف.. ياسر عرفات يصف أطفال الحجارة بالجنرالات الجدد",
+          "link": "https://www.youtube.com/watch?v=kvaJ_gbGLRg",
+          "videoId": "kvaJ_gbGLRg",
+          "pubDate": "2026-04-05T11:00:01+00:00"
+        },
+        {
           "title": "كيف ظلم التحكيم مصر في أول مشاركة عربية بكأس العالم؟",
           "link": "https://www.youtube.com/watch?v=I-41AfP3byk",
           "videoId": "I-41AfP3byk",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=3WBGnHztExA",
           "videoId": "3WBGnHztExA",
           "pubDate": "2026-04-04T20:59:01+00:00"
-        },
-        {
-          "title": "بعد 7 قرون من الحظر.. كيف عادت مؤلفات ابن رشد إلى جامعة باريس في 1991؟",
-          "link": "https://www.youtube.com/watch?v=QTwUVz240sw",
-          "videoId": "QTwUVz240sw",
-          "pubDate": "2026-04-04T20:00:01+00:00"
         }
       ],
       "ok": true
