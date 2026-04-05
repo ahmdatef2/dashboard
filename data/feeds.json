@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-05T21:19:49.079393+00:00",
+  "updated": "2026-04-05T22:17:11.276451+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -501,6 +501,12 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "أزمة الصواريخ الكوبية بداية أزمة أميركا مع الاتحاد السوفيتي | كواليس التاريخ",
+          "link": "https://www.youtube.com/watch?v=Us0wQ05wAGI",
+          "videoId": "Us0wQ05wAGI",
+          "pubDate": "2026-04-05T22:00:35+00:00"
+        },
+        {
           "title": "خليج الخنازير",
           "link": "https://www.youtube.com/watch?v=ET5w7kDUErA",
           "videoId": "ET5w7kDUErA",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=FchMWKHSBQs",
           "videoId": "FchMWKHSBQs",
           "pubDate": "2026-04-04T22:00:21+00:00"
-        },
-        {
-          "title": "الخطوط الجوية السنغافورية",
-          "link": "https://www.youtube.com/watch?v=bCztX_axKRM",
-          "videoId": "bCztX_axKRM",
-          "pubDate": "2026-04-04T17:24:18+00:00"
         }
       ],
       "ok": true
