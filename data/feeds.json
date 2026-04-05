@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-05T20:18:33.908797+00:00",
+  "updated": "2026-04-05T21:19:49.079393+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "الحلويات نقطة ضعف أضخم مخلوق",
+          "link": "https://www.youtube.com/watch?v=ZBVz2aopEsY",
+          "videoId": "ZBVz2aopEsY",
+          "pubDate": "2026-04-05T20:59:00+00:00"
+        },
+        {
           "title": "مخطوطة نادرة تكشف عن رحلة طبق مغربي وجد طريقه إلى مصر",
           "link": "https://www.youtube.com/watch?v=IK1NEXncGow",
           "videoId": "IK1NEXncGow",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=10zK8Qlt4sI",
           "videoId": "10zK8Qlt4sI",
           "pubDate": "2026-04-05T18:57:11+00:00"
-        },
-        {
-          "title": "عندما أطاحت الجزائر بألمانيا في أول مباراة مونديالية لها",
-          "link": "https://www.youtube.com/watch?v=63_7NX-P1xM",
-          "videoId": "63_7NX-P1xM",
-          "pubDate": "2026-04-05T17:00:01+00:00"
         }
       ],
       "ok": true
