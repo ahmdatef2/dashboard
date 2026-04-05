@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-05T13:44:10.563240+00:00",
+  "updated": "2026-04-05T14:24:42.692301+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -85,6 +85,12 @@
       "feedTitle": "عبداللطيف سعيد Abdellatif Said",
       "items": [
         {
+          "title": "جوجل قلبت الموازين! شرح تثبيت Gemma 4 وتجربته في البرمجة والتحليل ضد Gemini Flash 🔥",
+          "link": "https://www.youtube.com/watch?v=UcQUs8wur8w",
+          "videoId": "UcQUs8wur8w",
+          "pubDate": "2026-04-05T14:15:08+00:00"
+        },
+        {
           "title": "وداعاً للمبرمجين والمصممين! 🤯 فريق كامل من الـ AI هيبني مشروعك بضغطة زر | Atoms",
           "link": "https://www.youtube.com/watch?v=_Syty-0g7Rw",
           "videoId": "_Syty-0g7Rw",
@@ -95,12 +101,6 @@
           "link": "https://www.youtube.com/watch?v=ahNmcjcakZg",
           "videoId": "ahNmcjcakZg",
           "pubDate": "2026-04-03T14:15:00+00:00"
-        },
-        {
-          "title": "وداعاً للتعقيد.. تثبيت وكيل الذكاء الاصطناعي OpenClaw بضغطة زر (وربطه بتليجرام)!",
-          "link": "https://www.youtube.com/watch?v=gsqjwaXbnb8",
-          "videoId": "gsqjwaXbnb8",
-          "pubDate": "2026-03-26T17:05:41+00:00"
         }
       ],
       "ok": true
@@ -449,6 +449,12 @@
       "feedTitle": "دوباميكافين Dupamicaffeine",
       "items": [
         {
+          "title": "اللغة الرابعة .. قريبًا",
+          "link": "https://www.youtube.com/watch?v=MghBvnwilt4",
+          "videoId": "MghBvnwilt4",
+          "pubDate": "2026-04-05T14:07:51+00:00"
+        },
+        {
           "title": "لغة الحب الأهم",
           "link": "https://www.youtube.com/watch?v=PXa__tZ6SuY",
           "videoId": "PXa__tZ6SuY",
@@ -459,12 +465,6 @@
           "link": "https://www.youtube.com/watch?v=mOQPkWHq0jc",
           "videoId": "mOQPkWHq0jc",
           "pubDate": "2026-03-31T11:18:39+00:00"
-        },
-        {
-          "title": "ترميم المودّة",
-          "link": "https://www.youtube.com/watch?v=-ZRpvlkCW5M",
-          "videoId": "-ZRpvlkCW5M",
-          "pubDate": "2026-03-30T13:00:00+00:00"
         }
       ],
       "ok": true
