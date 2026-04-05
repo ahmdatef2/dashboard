@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-05T11:18:39.810436+00:00",
+  "updated": "2026-04-05T12:28:07.903960+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -221,16 +221,16 @@
           "pubDate": "2026-04-05T10:02:39+00:00"
         },
         {
-          "title": "أهم 3 مواقع لترجمة الملفات بالذكاء الاصطناعي مع الحفاظ على التنسيق",
-          "link": "https://www.youtube.com/watch?v=vGfwNZRnAkI",
-          "videoId": "vGfwNZRnAkI",
-          "pubDate": "2026-04-03T15:40:13+00:00"
-        },
-        {
           "title": "الأتمتة بالذكاء الاصطناعي Convergence",
           "link": "https://www.youtube.com/watch?v=EvG-uCpJL94",
           "videoId": "EvG-uCpJL94",
           "pubDate": "2026-04-02T10:15:25+00:00"
+        },
+        {
+          "title": "فهم الأوراق البحثية  مع المساعد الذكي Moonlight",
+          "link": "https://www.youtube.com/watch?v=pqtiowLRqQE",
+          "videoId": "pqtiowLRqQE",
+          "pubDate": "2026-03-30T11:35:06+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "سر المنازل الملونة وسط الجليد",
+          "link": "https://www.youtube.com/watch?v=w2_0ruMPYBQ",
+          "videoId": "w2_0ruMPYBQ",
+          "pubDate": "2026-04-05T12:00:01+00:00"
+        },
+        {
           "title": "من الأرشيف.. ياسر عرفات يصف أطفال الحجارة بالجنرالات الجدد",
           "link": "https://www.youtube.com/watch?v=kvaJ_gbGLRg",
           "videoId": "kvaJ_gbGLRg",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=I-41AfP3byk",
           "videoId": "I-41AfP3byk",
           "pubDate": "2026-04-05T09:00:00+00:00"
-        },
-        {
-          "title": "وادي الحيتان بمصر.. شاهد على انتقال الثدييات من البر إلى البحر",
-          "link": "https://www.youtube.com/watch?v=3WBGnHztExA",
-          "videoId": "3WBGnHztExA",
-          "pubDate": "2026-04-04T20:59:01+00:00"
         }
       ],
       "ok": true
