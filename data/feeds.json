@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-05T09:27:07.886259+00:00",
+  "updated": "2026-04-05T10:21:14.418554+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -215,6 +215,12 @@
       "feedTitle": "Mohamed Ansary",
       "items": [
         {
+          "title": "أفضل الأدوات المجانية للترجمة الاحترافية",
+          "link": "https://www.youtube.com/watch?v=nFiHvPqu4es",
+          "videoId": "nFiHvPqu4es",
+          "pubDate": "2026-04-05T10:02:39+00:00"
+        },
+        {
           "title": "أهم 3 مواقع لترجمة الملفات بالذكاء الاصطناعي مع الحفاظ على التنسيق",
           "link": "https://www.youtube.com/watch?v=vGfwNZRnAkI",
           "videoId": "vGfwNZRnAkI",
@@ -225,12 +231,6 @@
           "link": "https://www.youtube.com/watch?v=EvG-uCpJL94",
           "videoId": "EvG-uCpJL94",
           "pubDate": "2026-04-02T10:15:25+00:00"
-        },
-        {
-          "title": "فهم الأوراق البحثية  مع المساعد الذكي Moonlight",
-          "link": "https://www.youtube.com/watch?v=pqtiowLRqQE",
-          "videoId": "pqtiowLRqQE",
-          "pubDate": "2026-03-30T11:35:06+00:00"
         }
       ],
       "ok": true
