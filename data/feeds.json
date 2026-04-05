@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-05T14:24:42.692301+00:00",
+  "updated": "2026-04-05T15:19:55.797627+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -423,6 +423,12 @@
       "feedTitle": "Ali Muhammad Ali",
       "items": [
         {
+          "title": "تقليل ساعات النوم",
+          "link": "https://www.youtube.com/watch?v=lbLogVmkNWo",
+          "videoId": "lbLogVmkNWo",
+          "pubDate": "2026-04-05T15:01:21+00:00"
+        },
+        {
           "title": "لغز عدد ساعات النوم",
           "link": "https://www.youtube.com/watch?v=JUwlzWlLrWI",
           "videoId": "JUwlzWlLrWI",
@@ -433,12 +439,6 @@
           "link": "https://www.youtube.com/watch?v=IqVjqBafhDY",
           "videoId": "IqVjqBafhDY",
           "pubDate": "2026-03-27T17:00:31+00:00"
-        },
-        {
-          "title": "ما زلنا هنا..",
-          "link": "https://www.youtube.com/watch?v=gJjoYniRSZc",
-          "videoId": "gJjoYniRSZc",
-          "pubDate": "2026-02-28T13:31:00+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "لماذا أرادت إسرائيل إجبار الأسرى الفلسطينيين على لبس الزي البرتقالي عام 2009؟",
+          "link": "https://www.youtube.com/watch?v=zh079drdbt0",
+          "videoId": "zh079drdbt0",
+          "pubDate": "2026-04-05T14:30:01+00:00"
+        },
+        {
           "title": "شاب يعاني اضطرابا في النطق يتحدى مخاوفه وينزل إلى الشارع",
           "link": "https://www.youtube.com/watch?v=atNzzhUcmik",
           "videoId": "atNzzhUcmik",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=w2_0ruMPYBQ",
           "videoId": "w2_0ruMPYBQ",
           "pubDate": "2026-04-05T12:00:01+00:00"
-        },
-        {
-          "title": "من الأرشيف.. ياسر عرفات يصف أطفال الحجارة بالجنرالات الجدد",
-          "link": "https://www.youtube.com/watch?v=kvaJ_gbGLRg",
-          "videoId": "kvaJ_gbGLRg",
-          "pubDate": "2026-04-05T11:00:01+00:00"
         }
       ],
       "ok": true
