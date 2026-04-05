@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-05T12:28:07.903960+00:00",
+  "updated": "2026-04-05T13:44:10.563240+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "شاب يعاني اضطرابا في النطق يتحدى مخاوفه وينزل إلى الشارع",
+          "link": "https://www.youtube.com/watch?v=atNzzhUcmik",
+          "videoId": "atNzzhUcmik",
+          "pubDate": "2026-04-05T13:00:02+00:00"
+        },
+        {
           "title": "سر المنازل الملونة وسط الجليد",
           "link": "https://www.youtube.com/watch?v=w2_0ruMPYBQ",
           "videoId": "w2_0ruMPYBQ",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=kvaJ_gbGLRg",
           "videoId": "kvaJ_gbGLRg",
           "pubDate": "2026-04-05T11:00:01+00:00"
-        },
-        {
-          "title": "كيف ظلم التحكيم مصر في أول مشاركة عربية بكأس العالم؟",
-          "link": "https://www.youtube.com/watch?v=I-41AfP3byk",
-          "videoId": "I-41AfP3byk",
-          "pubDate": "2026-04-05T09:00:00+00:00"
         }
       ],
       "ok": true
