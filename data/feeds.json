@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-05T08:29:23.660212+00:00",
+  "updated": "2026-04-05T09:27:07.886259+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "كيف ظلم التحكيم مصر في أول مشاركة عربية بكأس العالم؟",
+          "link": "https://www.youtube.com/watch?v=I-41AfP3byk",
+          "videoId": "I-41AfP3byk",
+          "pubDate": "2026-04-05T09:00:00+00:00"
+        },
+        {
           "title": "وادي الحيتان بمصر.. شاهد على انتقال الثدييات من البر إلى البحر",
           "link": "https://www.youtube.com/watch?v=3WBGnHztExA",
           "videoId": "3WBGnHztExA",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=QTwUVz240sw",
           "videoId": "QTwUVz240sw",
           "pubDate": "2026-04-04T20:00:01+00:00"
-        },
-        {
-          "title": "من أرشيف ما قبل النكبة: تذاكر سينما الخضراء بنابلس تتبدل تصاميمها مع الأعياد",
-          "link": "https://www.youtube.com/watch?v=Z-dTycAnofc",
-          "videoId": "Z-dTycAnofc",
-          "pubDate": "2026-04-04T19:00:00+00:00"
         }
       ],
       "ok": true
