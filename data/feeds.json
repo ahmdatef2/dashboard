@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-05T16:21:44.940293+00:00",
+  "updated": "2026-04-05T17:19:42.421298+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "عندما أطاحت الجزائر بألمانيا في أول مباراة مونديالية لها",
+          "link": "https://www.youtube.com/watch?v=63_7NX-P1xM",
+          "videoId": "63_7NX-P1xM",
+          "pubDate": "2026-04-05T17:00:01+00:00"
+        },
+        {
           "title": "حين تصبح الرياضة مساحة للصراع على الهوية",
           "link": "https://www.youtube.com/watch?v=5EkZhsI4W-8",
           "videoId": "5EkZhsI4W-8",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=zh079drdbt0",
           "videoId": "zh079drdbt0",
           "pubDate": "2026-04-05T14:30:01+00:00"
-        },
-        {
-          "title": "شاب يعاني اضطرابا في النطق يتحدى مخاوفه وينزل إلى الشارع",
-          "link": "https://www.youtube.com/watch?v=atNzzhUcmik",
-          "videoId": "atNzzhUcmik",
-          "pubDate": "2026-04-05T13:00:02+00:00"
         }
       ],
       "ok": true
