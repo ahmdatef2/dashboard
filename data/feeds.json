@@ -1,12 +1,31 @@
 {
-  "updated": "2026-04-06T19:42:59.218117+00:00",
+  "updated": "2026-04-06T20:26:07.426036+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
       "name": "د. هبة أحمد",
-      "feedTitle": "د. هبة أحمد",
-      "items": [],
-      "ok": false
+      "feedTitle": "Heba Ahmed - هبة احمد",
+      "items": [
+        {
+          "title": "300$ مجانًا مع Gemini… الحل في Vertex AI Studio",
+          "link": "https://www.youtube.com/watch?v=E-14TwoW-84",
+          "videoId": "E-14TwoW-84",
+          "pubDate": "2026-04-05T16:08:06+00:00"
+        },
+        {
+          "title": "اقوى استخدامات Canvas feature داخل Gemini",
+          "link": "https://www.youtube.com/watch?v=Clhl4qNZroc",
+          "videoId": "Clhl4qNZroc",
+          "pubDate": "2026-04-04T12:43:22+00:00"
+        },
+        {
+          "title": "Claude Skills: السر اللي هيغير شغلك بالكامل (كورس مجاني)",
+          "link": "https://www.youtube.com/watch?v=5Uv8ooxFXLY",
+          "videoId": "5Uv8ooxFXLY",
+          "pubDate": "2026-04-03T21:53:24+00:00"
+        }
+      ],
+      "ok": true
     },
     "UC2jjW7c63dqOPkfMm3P-u3w": {
       "handle": "every_day_a_new_website",
@@ -456,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "تجاوزات وظلم تحكيمي لم يمنع الكويت من التألق في مونديال 1982",
+          "link": "https://www.youtube.com/watch?v=giSpXmReioU",
+          "videoId": "giSpXmReioU",
+          "pubDate": "2026-04-06T20:00:01+00:00"
+        },
+        {
           "title": "تشاهدون المزيد في فيلم \"الكابيتانا\" على قناة الجزيرة الوثائقية الثلاثاء 8 مساء بتوقيت مكة المكرمة.",
           "link": "https://www.youtube.com/watch?v=GzgmSZ4xJoE",
           "videoId": "GzgmSZ4xJoE",
@@ -466,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=LX7bXtISZps",
           "videoId": "LX7bXtISZps",
           "pubDate": "2026-04-06T17:30:06+00:00"
-        },
-        {
-          "title": "رحلة أسير كفيف مع المرض داخل سجون الاحتلال",
-          "link": "https://www.youtube.com/watch?v=oxf7NRzNZsM",
-          "videoId": "oxf7NRzNZsM",
-          "pubDate": "2026-04-06T17:00:01+00:00"
         }
       ],
       "ok": true
