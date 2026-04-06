@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-06T14:02:53.287968+00:00",
+  "updated": "2026-04-06T15:35:08.891795+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -59,6 +59,12 @@
       "feedTitle": "Infotech4you - مروي سليمان",
       "items": [
         {
+          "title": "Qwen 3.6 Plus تحت الاختبار | ذكاء اصطناعي متعدد القدرات",
+          "link": "https://www.youtube.com/watch?v=-Avyltky4HY",
+          "videoId": "-Avyltky4HY",
+          "pubDate": "2026-04-06T15:34:51+00:00"
+        },
+        {
           "title": "ذكاء اصطناعي في جيبك من جوجل! كل ما تريد معرفته عن Gemma 4",
           "link": "https://www.youtube.com/watch?v=itFCDbhY3Ek",
           "videoId": "itFCDbhY3Ek",
@@ -69,12 +75,6 @@
           "link": "https://www.youtube.com/watch?v=URpmP0H12vQ",
           "videoId": "URpmP0H12vQ",
           "pubDate": "2026-04-02T16:01:51+00:00"
-        },
-        {
-          "title": "شرح Claude for Excel : من برومبت واحد إلى ملف Excel كامل !",
-          "link": "https://www.youtube.com/watch?v=cArGLgu-wHk",
-          "videoId": "cArGLgu-wHk",
-          "pubDate": "2026-04-01T15:28:01+00:00"
         }
       ],
       "ok": true
@@ -84,6 +84,12 @@
       "name": "عبداللطيف سعيد",
       "feedTitle": "عبداللطيف سعيد Abdellatif Said",
       "items": [
+        {
+          "title": "وداعاً للنت.. حوّل موبايلك لعملاق ذكاء اصطناعي! شرح تشغيل Gemma 4 أوفلاين 🚀",
+          "link": "https://www.youtube.com/watch?v=ZYz0n9ROUDk",
+          "videoId": "ZYz0n9ROUDk",
+          "pubDate": "2026-04-06T14:15:04+00:00"
+        },
         {
           "title": "جوجل قلبت الموازين! شرح تثبيت Gemma 4 وتجربته في البرمجة والتحليل ضد Gemini Flash 🔥",
           "link": "https://www.youtube.com/watch?v=UcQUs8wur8w",
@@ -95,12 +101,6 @@
           "link": "https://www.youtube.com/watch?v=_Syty-0g7Rw",
           "videoId": "_Syty-0g7Rw",
           "pubDate": "2026-04-04T14:15:07+00:00"
-        },
-        {
-          "title": "ضربة جوجل القاضية بـ Gemma 4: أقوى ذكاء اصطناعي مفتوح المصدر (إزاي تشغله على جهازك بدون نت؟)",
-          "link": "https://www.youtube.com/watch?v=ahNmcjcakZg",
-          "videoId": "ahNmcjcakZg",
-          "pubDate": "2026-04-03T14:15:00+00:00"
         }
       ],
       "ok": true
@@ -215,6 +215,12 @@
       "feedTitle": "Mohamed Ansary",
       "items": [
         {
+          "title": "أهم أداة لتخطي اكتشاف الكتابة بالذكاء الاصطناعي",
+          "link": "https://www.youtube.com/watch?v=HrVXEL5o1l0",
+          "videoId": "HrVXEL5o1l0",
+          "pubDate": "2026-04-06T14:55:09+00:00"
+        },
+        {
           "title": "وكيل ذكي ينافس العمالقة من خلال MINIMAX AGENT",
           "link": "https://www.youtube.com/watch?v=WGsK1hJtVus",
           "videoId": "WGsK1hJtVus",
@@ -225,12 +231,6 @@
           "link": "https://www.youtube.com/watch?v=nFiHvPqu4es",
           "videoId": "nFiHvPqu4es",
           "pubDate": "2026-04-05T10:02:39+00:00"
-        },
-        {
-          "title": "الأتمتة بالذكاء الاصطناعي Convergence",
-          "link": "https://www.youtube.com/watch?v=EvG-uCpJL94",
-          "videoId": "EvG-uCpJL94",
-          "pubDate": "2026-04-02T10:15:25+00:00"
         }
       ],
       "ok": true
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "كيف أثر سقوط الأندلس على أزمة الهوية وأبعاد التاريخ في إسبانيا؟",
+          "link": "https://www.youtube.com/watch?v=6sFQ8Eo15Hg",
+          "videoId": "6sFQ8Eo15Hg",
+          "pubDate": "2026-04-06T15:11:13+00:00"
+        },
+        {
+          "title": "نهر الليطاني في لبنان من هدف للصراع إلى شريان تنمية",
+          "link": "https://www.youtube.com/watch?v=M6cZ-sCMFJM",
+          "videoId": "M6cZ-sCMFJM",
+          "pubDate": "2026-04-06T15:00:02+00:00"
+        },
+        {
           "title": "\"الوطنية والقومية فوق الحرية\"",
           "link": "https://www.youtube.com/watch?v=3Jb1uCyW9x4",
           "videoId": "3Jb1uCyW9x4",
           "pubDate": "2026-04-06T12:00:43+00:00"
-        },
-        {
-          "title": "الأزهر في العهد العثماني مؤسسة تعليمية حرة سبقت عصرها",
-          "link": "https://www.youtube.com/watch?v=Tye5uMZg6P8",
-          "videoId": "Tye5uMZg6P8",
-          "pubDate": "2026-04-06T11:00:01+00:00"
-        },
-        {
-          "title": "كيف أثّرت سوزان الفرنسية على زوجها طه حسين في حياته المبكرة؟",
-          "link": "https://www.youtube.com/watch?v=SrfM5EZSkNA",
-          "videoId": "SrfM5EZSkNA",
-          "pubDate": "2026-04-06T10:00:01+00:00"
         }
       ],
       "ok": true
