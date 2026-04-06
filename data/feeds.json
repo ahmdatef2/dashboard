@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-06T16:33:04.580849+00:00",
+  "updated": "2026-04-06T17:34:54.161183+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -33,6 +33,12 @@
       "feedTitle": "كل يوم موقع جديد",
       "items": [
         {
+          "title": "شغّل نموذج جوجل الجديد على جهازك مجاناً وبدون إنترنت نهائيًا !",
+          "link": "https://www.youtube.com/watch?v=rH716ZrvBlk",
+          "videoId": "rH716ZrvBlk",
+          "pubDate": "2026-04-06T17:10:11+00:00"
+        },
+        {
           "title": "نموذج جوجل الجديد للفيديوهات وكمان حتستخدمه مجانا كل يوم  #جوجل",
           "link": "https://www.youtube.com/watch?v=CJ_G4zuGdR0",
           "videoId": "CJ_G4zuGdR0",
@@ -43,12 +49,6 @@
           "link": "https://www.youtube.com/watch?v=rcrM4WlEkmI",
           "videoId": "rcrM4WlEkmI",
           "pubDate": "2026-04-04T14:01:24+00:00"
-        },
-        {
-          "title": "أسهل طريقة لعمل Isometric Infographic بالذكاء الاصطناعي",
-          "link": "https://www.youtube.com/watch?v=qQZBRI4E388",
-          "videoId": "qQZBRI4E388",
-          "pubDate": "2026-04-02T12:07:42+00:00"
         }
       ],
       "ok": true
@@ -59,7 +59,7 @@
       "feedTitle": "Infotech4you - مروي سليمان",
       "items": [
         {
-          "title": "Qwen 3.6 Plus تحت الاختبار | ذكاء اصطناعي متعدد القدرات",
+          "title": "Qwen 3.6 Plus نموذج علي بابا الجديد ينافس الكبار",
           "link": "https://www.youtube.com/watch?v=-Avyltky4HY",
           "videoId": "-Avyltky4HY",
           "pubDate": "2026-04-06T15:34:51+00:00"
@@ -241,7 +241,7 @@
       "feedTitle": "مدرسة الذكاء الاصطناعي",
       "items": [
         {
-          "title": "شغل Gemma 4 مجانا على اللابتوب والموبايل مع OpenClaw",
+          "title": "شغل Gemma 4 على اللابتوب والموبايل مع OpenClaw مجانا",
           "link": "https://www.youtube.com/watch?v=vvwMl8krGyY",
           "videoId": "vvwMl8krGyY",
           "pubDate": "2026-04-05T23:29:40+00:00"
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "رحلة أسير كفيف مع المرض داخل سجون الاحتلال",
+          "link": "https://www.youtube.com/watch?v=oxf7NRzNZsM",
+          "videoId": "oxf7NRzNZsM",
+          "pubDate": "2026-04-06T17:00:01+00:00"
+        },
+        {
           "title": "كيف أثر سقوط الأندلس على أزمة الهوية وأبعاد التاريخ في إسبانيا؟",
           "link": "https://www.youtube.com/watch?v=6sFQ8Eo15Hg",
           "videoId": "6sFQ8Eo15Hg",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=M6cZ-sCMFJM",
           "videoId": "M6cZ-sCMFJM",
           "pubDate": "2026-04-06T15:00:02+00:00"
-        },
-        {
-          "title": "\"الوطنية والقومية فوق الحرية\"",
-          "link": "https://www.youtube.com/watch?v=3Jb1uCyW9x4",
-          "videoId": "3Jb1uCyW9x4",
-          "pubDate": "2026-04-06T12:00:43+00:00"
         }
       ],
       "ok": true
