@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-06T09:56:56.242903+00:00",
+  "updated": "2026-04-06T10:49:16.790208+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -215,6 +215,12 @@
       "feedTitle": "Mohamed Ansary",
       "items": [
         {
+          "title": "وكيل ذكي ينافس العمالقة من خلال MINIMAX AGENT",
+          "link": "https://www.youtube.com/watch?v=WGsK1hJtVus",
+          "videoId": "WGsK1hJtVus",
+          "pubDate": "2026-04-06T09:49:07+00:00"
+        },
+        {
           "title": "أفضل الأدوات المجانية للترجمة الاحترافية",
           "link": "https://www.youtube.com/watch?v=nFiHvPqu4es",
           "videoId": "nFiHvPqu4es",
@@ -225,12 +231,6 @@
           "link": "https://www.youtube.com/watch?v=EvG-uCpJL94",
           "videoId": "EvG-uCpJL94",
           "pubDate": "2026-04-02T10:15:25+00:00"
-        },
-        {
-          "title": "فهم الأوراق البحثية  مع المساعد الذكي Moonlight",
-          "link": "https://www.youtube.com/watch?v=pqtiowLRqQE",
-          "videoId": "pqtiowLRqQE",
-          "pubDate": "2026-03-30T11:35:06+00:00"
         }
       ],
       "ok": true
@@ -475,16 +475,16 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "كيف أثّرت سوزان الفرنسية على زوجها طه حسين في حياته المبكرة؟",
+          "link": "https://www.youtube.com/watch?v=SrfM5EZSkNA",
+          "videoId": "SrfM5EZSkNA",
+          "pubDate": "2026-04-06T10:00:01+00:00"
+        },
+        {
           "title": "الخزائن.. أسلوب تعذيب وحشي في سجون الاحتلال",
           "link": "https://www.youtube.com/watch?v=KVWW191OS5A",
           "videoId": "KVWW191OS5A",
           "pubDate": "2026-04-06T08:00:01+00:00"
-        },
-        {
-          "title": "تاج محل- الهند",
-          "link": "https://www.youtube.com/watch?v=zt2zUx6iZN0",
-          "videoId": "zt2zUx6iZN0",
-          "pubDate": "2026-04-06T07:00:01+00:00"
         },
         {
           "title": "الحلويات نقطة ضعف أضخم مخلوق",
