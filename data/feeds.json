@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-06T20:26:07.426036+00:00",
+  "updated": "2026-04-06T21:26:39.786438+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "كيف يواجه عيساوة المغاربة أخطر أنواع الأفاعي؟",
+          "link": "https://www.youtube.com/watch?v=E3su__jVYYQ",
+          "videoId": "E3su__jVYYQ",
+          "pubDate": "2026-04-06T21:00:01+00:00"
+        },
+        {
           "title": "تجاوزات وظلم تحكيمي لم يمنع الكويت من التألق في مونديال 1982",
           "link": "https://www.youtube.com/watch?v=giSpXmReioU",
           "videoId": "giSpXmReioU",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=GzgmSZ4xJoE",
           "videoId": "GzgmSZ4xJoE",
           "pubDate": "2026-04-06T18:00:01+00:00"
-        },
-        {
-          "title": "ثالث الرحابنة.. إلياس الرحباني.. كيف خرج من ظل \"عاصي ومنصور\" ليصبح مدرسة عالمية؟ | الجزء التاني",
-          "link": "https://www.youtube.com/watch?v=LX7bXtISZps",
-          "videoId": "LX7bXtISZps",
-          "pubDate": "2026-04-06T17:30:06+00:00"
         }
       ],
       "ok": true
