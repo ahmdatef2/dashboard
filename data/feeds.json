@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-06T11:38:47.267784+00:00",
+  "updated": "2026-04-06T12:40:52.485657+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -371,6 +371,12 @@
       "feedTitle": "أخضر",
       "items": [
         {
+          "title": "أخضر ..بشكل جديد #أخضر",
+          "link": "https://www.youtube.com/watch?v=E87ojkdm3eA",
+          "videoId": "E87ojkdm3eA",
+          "pubDate": "2026-04-06T11:50:33+00:00"
+        },
+        {
           "title": "شئ جديد قادم! #أخضر",
           "link": "https://www.youtube.com/watch?v=6obWW0bucME",
           "videoId": "6obWW0bucME",
@@ -381,12 +387,6 @@
           "link": "https://www.youtube.com/watch?v=LvJrtIpVoTk",
           "videoId": "LvJrtIpVoTk",
           "pubDate": "2026-04-03T16:00:29+00:00"
-        },
-        {
-          "title": "الوجه المظلم من جائزة نوبل🏅",
-          "link": "https://www.youtube.com/watch?v=5_Gzletl2Pc",
-          "videoId": "5_Gzletl2Pc",
-          "pubDate": "2026-03-29T19:00:00+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "\"الوطنية والقومية فوق الحرية\"",
+          "link": "https://www.youtube.com/watch?v=3Jb1uCyW9x4",
+          "videoId": "3Jb1uCyW9x4",
+          "pubDate": "2026-04-06T12:00:43+00:00"
+        },
+        {
           "title": "الأزهر في العهد العثماني مؤسسة تعليمية حرة سبقت عصرها",
           "link": "https://www.youtube.com/watch?v=Tye5uMZg6P8",
           "videoId": "Tye5uMZg6P8",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=SrfM5EZSkNA",
           "videoId": "SrfM5EZSkNA",
           "pubDate": "2026-04-06T10:00:01+00:00"
-        },
-        {
-          "title": "الخزائن.. أسلوب تعذيب وحشي في سجون الاحتلال",
-          "link": "https://www.youtube.com/watch?v=KVWW191OS5A",
-          "videoId": "KVWW191OS5A",
-          "pubDate": "2026-04-06T08:00:01+00:00"
         }
       ],
       "ok": true
