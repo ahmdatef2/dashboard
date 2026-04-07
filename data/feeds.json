@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-07T14:23:30.889959+00:00",
+  "updated": "2026-04-07T16:02:18.656235+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -59,6 +59,12 @@
       "feedTitle": "Infotech4you - مروي سليمان",
       "items": [
         {
+          "title": "أسهل طريقة لتشغيل gemma 4 على جهازك بدون انترنت!",
+          "link": "https://www.youtube.com/watch?v=85x_tR1QzrM",
+          "videoId": "85x_tR1QzrM",
+          "pubDate": "2026-04-07T14:53:07+00:00"
+        },
+        {
           "title": "Qwen 3.6 Plus نموذج علي بابا الجديد ينافس الكبار",
           "link": "https://www.youtube.com/watch?v=-Avyltky4HY",
           "videoId": "-Avyltky4HY",
@@ -69,12 +75,6 @@
           "link": "https://www.youtube.com/watch?v=itFCDbhY3Ek",
           "videoId": "itFCDbhY3Ek",
           "pubDate": "2026-04-03T17:19:27+00:00"
-        },
-        {
-          "title": "Claude for excel #claude",
-          "link": "https://www.youtube.com/watch?v=URpmP0H12vQ",
-          "videoId": "URpmP0H12vQ",
-          "pubDate": "2026-04-02T16:01:51+00:00"
         }
       ],
       "ok": true
@@ -371,6 +371,12 @@
       "feedTitle": "أخضر",
       "items": [
         {
+          "title": "اليوم، أخضر يتجدد عشانكم 💚",
+          "link": "https://www.youtube.com/watch?v=Bq_y2yhRflQ",
+          "videoId": "Bq_y2yhRflQ",
+          "pubDate": "2026-04-07T15:05:08+00:00"
+        },
+        {
           "title": "أخضر ..بشكل جديد #أخضر",
           "link": "https://www.youtube.com/watch?v=E87ojkdm3eA",
           "videoId": "E87ojkdm3eA",
@@ -381,12 +387,6 @@
           "link": "https://www.youtube.com/watch?v=6obWW0bucME",
           "videoId": "6obWW0bucME",
           "pubDate": "2026-04-04T20:53:12+00:00"
-        },
-        {
-          "title": "وهم الإنجاز🚨 - كتاب: مجتمع الاحتراق النفسي🔥 #أخضر",
-          "link": "https://www.youtube.com/watch?v=LvJrtIpVoTk",
-          "videoId": "LvJrtIpVoTk",
-          "pubDate": "2026-04-03T16:00:29+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "\"كانت أعظم من لندن\" أسرار المدينة المفقودة في جبال كمبوديا",
+          "link": "https://www.youtube.com/watch?v=HcLuq5Ugusk",
+          "videoId": "HcLuq5Ugusk",
+          "pubDate": "2026-04-07T15:00:01+00:00"
+        },
+        {
           "title": "كيف تقام الانتخابات بين القرود؟",
           "link": "https://www.youtube.com/watch?v=9QHf1da8HpA",
           "videoId": "9QHf1da8HpA",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=9KaZ1okzlxU",
           "videoId": "9KaZ1okzlxU",
           "pubDate": "2026-04-07T13:00:01+00:00"
-        },
-        {
-          "title": "مفاجأة مدوية كاد أن يفجرها المغرب في أول مشاركة مونديالية عام 1970",
-          "link": "https://www.youtube.com/watch?v=0t623uOIotM",
-          "videoId": "0t623uOIotM",
-          "pubDate": "2026-04-07T12:00:02+00:00"
         }
       ],
       "ok": true
