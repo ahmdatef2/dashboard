@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-07T17:45:22.796014+00:00",
+  "updated": "2026-04-07T18:42:48.710230+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -371,12 +371,6 @@
       "feedTitle": "أخضر",
       "items": [
         {
-          "title": "اليوم، أخضر يتجدد عشانكم 💚",
-          "link": "https://www.youtube.com/watch?v=Bq_y2yhRflQ",
-          "videoId": "Bq_y2yhRflQ",
-          "pubDate": "2026-04-07T15:05:08+00:00"
-        },
-        {
           "title": "أخضر ..بشكل جديد #أخضر",
           "link": "https://www.youtube.com/watch?v=E87ojkdm3eA",
           "videoId": "E87ojkdm3eA",
@@ -387,6 +381,12 @@
           "link": "https://www.youtube.com/watch?v=6obWW0bucME",
           "videoId": "6obWW0bucME",
           "pubDate": "2026-04-04T20:53:12+00:00"
+        },
+        {
+          "title": "وهم الإنجاز🚨 - كتاب: مجتمع الاحتراق النفسي🔥 #أخضر",
+          "link": "https://www.youtube.com/watch?v=LvJrtIpVoTk",
+          "videoId": "LvJrtIpVoTk",
+          "pubDate": "2026-04-03T16:00:29+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "بلطجية الماء والاعتداء على من يحاول فضح الفساد",
+          "link": "https://www.youtube.com/watch?v=lx1XrFoa5-U",
+          "videoId": "lx1XrFoa5-U",
+          "pubDate": "2026-04-07T18:00:00+00:00"
+        },
+        {
           "title": "\"كانت أعظم من لندن\" أسرار المدينة المفقودة في جبال كمبوديا",
           "link": "https://www.youtube.com/watch?v=HcLuq5Ugusk",
           "videoId": "HcLuq5Ugusk",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=9QHf1da8HpA",
           "videoId": "9QHf1da8HpA",
           "pubDate": "2026-04-07T14:00:00+00:00"
-        },
-        {
-          "title": "ثورة الأجهزة المنزلية في الخمسينيات كيف ضاعفت أعباء العمل المنزلي؟",
-          "link": "https://www.youtube.com/watch?v=9KaZ1okzlxU",
-          "videoId": "9KaZ1okzlxU",
-          "pubDate": "2026-04-07T13:00:01+00:00"
         }
       ],
       "ok": true
