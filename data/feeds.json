@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-07T09:55:31.249902+00:00",
+  "updated": "2026-04-07T10:45:03.002845+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "من هم \"داوية الإسلام\" الذين قلبوا موازين الحروب الصليبية؟",
+          "link": "https://www.youtube.com/watch?v=kTgLX9e8NOg",
+          "videoId": "kTgLX9e8NOg",
+          "pubDate": "2026-04-07T10:00:02+00:00"
+        },
+        {
           "title": "تونس تحقق أول فوز للعرب في كأس العالم خلال مونديال 1978",
           "link": "https://www.youtube.com/watch?v=QSFK92a65E4",
           "videoId": "QSFK92a65E4",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=E3su__jVYYQ",
           "videoId": "E3su__jVYYQ",
           "pubDate": "2026-04-06T21:00:01+00:00"
-        },
-        {
-          "title": "تجاوزات وظلم تحكيمي لم يمنع الكويت من التألق في مونديال 1982",
-          "link": "https://www.youtube.com/watch?v=giSpXmReioU",
-          "videoId": "giSpXmReioU",
-          "pubDate": "2026-04-06T20:00:01+00:00"
         }
       ],
       "ok": true
