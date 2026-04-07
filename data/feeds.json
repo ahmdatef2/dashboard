@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-07T20:32:50.981802+00:00",
+  "updated": "2026-04-07T21:32:43.869056+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -33,6 +33,12 @@
       "feedTitle": "كل يوم موقع جديد",
       "items": [
         {
+          "title": "هل Wan 2.7 أفضل نموذج  لتوليد الفيديو ومقارنته ب Veo 3.1 Lite؟",
+          "link": "https://www.youtube.com/watch?v=dypEwBX0Frw",
+          "videoId": "dypEwBX0Frw",
+          "pubDate": "2026-04-07T20:41:41+00:00"
+        },
+        {
           "title": "شغّل نموذج جوجل الجديد على جهازك مجاناً وبدون إنترنت نهائيًا !",
           "link": "https://www.youtube.com/watch?v=rH716ZrvBlk",
           "videoId": "rH716ZrvBlk",
@@ -43,12 +49,6 @@
           "link": "https://www.youtube.com/watch?v=CJ_G4zuGdR0",
           "videoId": "CJ_G4zuGdR0",
           "pubDate": "2026-04-05T17:42:44+00:00"
-        },
-        {
-          "title": "Veo 3.1 Lite وصل مجانًا! تجربة عملية ونتائج مذهلة!",
-          "link": "https://www.youtube.com/watch?v=rcrM4WlEkmI",
-          "videoId": "rcrM4WlEkmI",
-          "pubDate": "2026-04-04T14:01:24+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "نفس الحجر الكريم يقفز من 5500 إلى 35 ألف دولار",
+          "link": "https://www.youtube.com/watch?v=MHCq0xiRi44",
+          "videoId": "MHCq0xiRi44",
+          "pubDate": "2026-04-07T21:00:01+00:00"
+        },
+        {
           "title": "البقاء في عصر الاحتباس الحراري.. النباتات والحيوانات.. هل مستقبل الأرض في خطر؟",
           "link": "https://www.youtube.com/watch?v=bUC4K0ZPMJY",
           "videoId": "bUC4K0ZPMJY",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=NEw88lV24Bo",
           "videoId": "NEw88lV24Bo",
           "pubDate": "2026-04-07T20:00:01+00:00"
-        },
-        {
-          "title": "بلطجية الماء والاعتداء على من يحاول فضح الفساد",
-          "link": "https://www.youtube.com/watch?v=lx1XrFoa5-U",
-          "videoId": "lx1XrFoa5-U",
-          "pubDate": "2026-04-07T18:00:00+00:00"
         }
       ],
       "ok": true
