@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-07T11:42:21.412389+00:00",
+  "updated": "2026-04-07T12:50:02.640398+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -319,6 +319,12 @@
       "feedTitle": "خير جليس",
       "items": [
         {
+          "title": "التوقيت يصنع الفرصة  - من  كتاب المتميزون",
+          "link": "https://www.youtube.com/watch?v=avtHZUGCQX4",
+          "videoId": "avtHZUGCQX4",
+          "pubDate": "2026-04-07T12:16:51+00:00"
+        },
+        {
           "title": "ملخص كتاب المتميزون بقلم مالكوم جلادويل",
           "link": "https://www.youtube.com/watch?v=ZitMuDfK-RQ",
           "videoId": "ZitMuDfK-RQ",
@@ -329,12 +335,6 @@
           "link": "https://www.youtube.com/watch?v=oukJ2h8vSFA",
           "videoId": "oukJ2h8vSFA",
           "pubDate": "2026-04-05T06:00:39+00:00"
-        },
-        {
-          "title": "الأسس القوية تشكل النجاح طويل المدى  - من  كتاب من صفر إلى الواحد",
-          "link": "https://www.youtube.com/watch?v=6ff4gc1MkFs",
-          "videoId": "6ff4gc1MkFs",
-          "pubDate": "2026-04-04T06:00:05+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "مفاجأة مدوية كاد أن يفجرها المغرب في أول مشاركة مونديالية عام 1970",
+          "link": "https://www.youtube.com/watch?v=0t623uOIotM",
+          "videoId": "0t623uOIotM",
+          "pubDate": "2026-04-07T12:00:02+00:00"
+        },
+        {
           "title": "أيهما أقوى تسونامي أم قنبلة هيروشيما؟",
           "link": "https://www.youtube.com/watch?v=m60E8b1vZPI",
           "videoId": "m60E8b1vZPI",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=kTgLX9e8NOg",
           "videoId": "kTgLX9e8NOg",
           "pubDate": "2026-04-07T10:00:02+00:00"
-        },
-        {
-          "title": "تونس تحقق أول فوز للعرب في كأس العالم خلال مونديال 1978",
-          "link": "https://www.youtube.com/watch?v=QSFK92a65E4",
-          "videoId": "QSFK92a65E4",
-          "pubDate": "2026-04-07T08:00:01+00:00"
         }
       ],
       "ok": true
