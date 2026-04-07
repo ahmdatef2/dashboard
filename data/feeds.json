@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-07T10:45:03.002845+00:00",
+  "updated": "2026-04-07T11:42:21.412389+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -397,6 +397,12 @@
       "feedTitle": "شخبطة Sha5bata",
       "items": [
         {
+          "title": "هل الزواج ضرورة ؟! فيديو هيغير نظرتك للعلاقات!",
+          "link": "https://www.youtube.com/watch?v=iUYBa2fVEmM",
+          "videoId": "iUYBa2fVEmM",
+          "pubDate": "2026-04-07T11:01:12+00:00"
+        },
+        {
           "title": "لماذا يختار الأذكياء عدم النشر على  وسائل التواصل الاجتماعى ؟!",
           "link": "https://www.youtube.com/watch?v=Aobz3_jEajQ",
           "videoId": "Aobz3_jEajQ",
@@ -407,12 +413,6 @@
           "link": "https://www.youtube.com/watch?v=XhtqZm56Pss",
           "videoId": "XhtqZm56Pss",
           "pubDate": "2026-02-27T13:21:19+00:00"
-        },
-        {
-          "title": "كيف تُنظم وقتك مثل السلف الصالح .. ستتغير حياتك للأبد !",
-          "link": "https://www.youtube.com/watch?v=46h0sA5idsY",
-          "videoId": "46h0sA5idsY",
-          "pubDate": "2026-02-23T14:00:12+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "أيهما أقوى تسونامي أم قنبلة هيروشيما؟",
+          "link": "https://www.youtube.com/watch?v=m60E8b1vZPI",
+          "videoId": "m60E8b1vZPI",
+          "pubDate": "2026-04-07T11:00:01+00:00"
+        },
+        {
           "title": "من هم \"داوية الإسلام\" الذين قلبوا موازين الحروب الصليبية؟",
           "link": "https://www.youtube.com/watch?v=kTgLX9e8NOg",
           "videoId": "kTgLX9e8NOg",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=QSFK92a65E4",
           "videoId": "QSFK92a65E4",
           "pubDate": "2026-04-07T08:00:01+00:00"
-        },
-        {
-          "title": "كيف يواجه عيساوة المغاربة أخطر أنواع الأفاعي؟",
-          "link": "https://www.youtube.com/watch?v=E3su__jVYYQ",
-          "videoId": "E3su__jVYYQ",
-          "pubDate": "2026-04-06T21:00:01+00:00"
         }
       ],
       "ok": true
