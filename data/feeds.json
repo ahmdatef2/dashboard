@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-07T08:03:10.840713+00:00",
+  "updated": "2026-04-07T09:55:31.249902+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "تونس تحقق أول فوز للعرب في كأس العالم خلال مونديال 1978",
+          "link": "https://www.youtube.com/watch?v=QSFK92a65E4",
+          "videoId": "QSFK92a65E4",
+          "pubDate": "2026-04-07T08:00:01+00:00"
+        },
+        {
           "title": "كيف يواجه عيساوة المغاربة أخطر أنواع الأفاعي؟",
           "link": "https://www.youtube.com/watch?v=E3su__jVYYQ",
           "videoId": "E3su__jVYYQ",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=giSpXmReioU",
           "videoId": "giSpXmReioU",
           "pubDate": "2026-04-06T20:00:01+00:00"
-        },
-        {
-          "title": "تشاهدون المزيد في فيلم \"الكابيتانا\" على قناة الجزيرة الوثائقية الثلاثاء 8 مساء بتوقيت مكة المكرمة.",
-          "link": "https://www.youtube.com/watch?v=GzgmSZ4xJoE",
-          "videoId": "GzgmSZ4xJoE",
-          "pubDate": "2026-04-06T18:00:01+00:00"
         }
       ],
       "ok": true
