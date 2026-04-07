@@ -1,31 +1,12 @@
 {
-  "updated": "2026-04-06T23:24:06.310379+00:00",
+  "updated": "2026-04-07T01:08:56.344405+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
       "name": "د. هبة أحمد",
-      "feedTitle": "Heba Ahmed - هبة احمد",
-      "items": [
-        {
-          "title": "300$ مجانًا مع Gemini… الحل في Vertex AI Studio",
-          "link": "https://www.youtube.com/watch?v=E-14TwoW-84",
-          "videoId": "E-14TwoW-84",
-          "pubDate": "2026-04-05T16:08:06+00:00"
-        },
-        {
-          "title": "اقوى استخدامات Canvas feature داخل Gemini",
-          "link": "https://www.youtube.com/watch?v=Clhl4qNZroc",
-          "videoId": "Clhl4qNZroc",
-          "pubDate": "2026-04-04T12:43:22+00:00"
-        },
-        {
-          "title": "Claude Skills: السر اللي هيغير شغلك بالكامل (كورس مجاني)",
-          "link": "https://www.youtube.com/watch?v=5Uv8ooxFXLY",
-          "videoId": "5Uv8ooxFXLY",
-          "pubDate": "2026-04-03T21:53:24+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "د. هبة أحمد",
+      "items": [],
+      "ok": false
     },
     "UC2jjW7c63dqOPkfMm3P-u3w": {
       "handle": "every_day_a_new_website",
@@ -212,28 +193,9 @@
     "UCSXcmF4Gxl6Hc-m6cHYD_Vg": {
       "handle": "MohamedAnsary",
       "name": "محمد أنصاري",
-      "feedTitle": "Mohamed Ansary",
-      "items": [
-        {
-          "title": "أهم أداة لتخطي اكتشاف الكتابة بالذكاء الاصطناعي",
-          "link": "https://www.youtube.com/watch?v=HrVXEL5o1l0",
-          "videoId": "HrVXEL5o1l0",
-          "pubDate": "2026-04-06T14:55:09+00:00"
-        },
-        {
-          "title": "وكيل ذكي ينافس العمالقة من خلال MINIMAX AGENT",
-          "link": "https://www.youtube.com/watch?v=WGsK1hJtVus",
-          "videoId": "WGsK1hJtVus",
-          "pubDate": "2026-04-06T09:49:07+00:00"
-        },
-        {
-          "title": "أفضل الأدوات المجانية للترجمة الاحترافية",
-          "link": "https://www.youtube.com/watch?v=nFiHvPqu4es",
-          "videoId": "nFiHvPqu4es",
-          "pubDate": "2026-04-05T10:02:39+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "محمد أنصاري",
+      "items": [],
+      "ok": false
     },
     "UCDqp23rTdCo_tXsuHLYF47Q": {
       "handle": "ArabianAiSchool",
@@ -317,53 +279,15 @@
       "handle": "KhairJaleesBook",
       "name": "خير جليس",
       "feedTitle": "خير جليس",
-      "items": [
-        {
-          "title": "الفرق الصغيرة تتحرك أسرع من الكبيرة  - من  كتاب من صفر إلى الواحد",
-          "link": "https://www.youtube.com/watch?v=oukJ2h8vSFA",
-          "videoId": "oukJ2h8vSFA",
-          "pubDate": "2026-04-05T06:00:39+00:00"
-        },
-        {
-          "title": "الأسس القوية تشكل النجاح طويل المدى  - من  كتاب من صفر إلى الواحد",
-          "link": "https://www.youtube.com/watch?v=6ff4gc1MkFs",
-          "videoId": "6ff4gc1MkFs",
-          "pubDate": "2026-04-04T06:00:05+00:00"
-        },
-        {
-          "title": "المستقبل يجب أن يُبنى عن قصد  - من  كتاب من صفر إلى الواحد",
-          "link": "https://www.youtube.com/watch?v=Ep3NgQT20Pk",
-          "videoId": "Ep3NgQT20Pk",
-          "pubDate": "2026-04-03T06:00:17+00:00"
-        }
-      ],
-      "ok": true
+      "items": [],
+      "ok": false
     },
     "UCu1NJiJlhrhmF5ZgT-0yWdA": {
       "handle": "Jeelyaqraa",
       "name": "جيل يقرأ",
-      "feedTitle": "ReadTube - جيل يقرأ",
-      "items": [
-        {
-          "title": "احذر قبل فوات الأوان- كامل الصورة - أحمد السيد ",
-          "link": "https://www.youtube.com/watch?v=n9YW0Liz3rs",
-          "videoId": "n9YW0Liz3rs",
-          "pubDate": "2026-04-04T16:04:47+00:00"
-        },
-        {
-          "title": "الذين ضحكوا حتى البكاء -ملخص لكتاب د. مصطفى محمود",
-          "link": "https://www.youtube.com/watch?v=bSbrMABmf4E",
-          "videoId": "bSbrMABmf4E",
-          "pubDate": "2026-03-03T20:46:03+00:00"
-        },
-        {
-          "title": "المسيري يتنبأ بالمستقبل",
-          "link": "https://www.youtube.com/watch?v=N2hD24PnJQ4",
-          "videoId": "N2hD24PnJQ4",
-          "pubDate": "2026-03-01T20:56:54+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "جيل يقرأ",
+      "items": [],
+      "ok": false
     },
     "UCtUor2SqesPS3b_SMFtLT_w": {
       "handle": "a5drcom",
