@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-07T04:21:47.871841+00:00",
+  "updated": "2026-04-07T06:11:08.134807+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -67,28 +67,9 @@
     "UCDqp23rTdCo_tXsuHLYF47Q": {
       "handle": "ArabianAiSchool",
       "name": "Arabian AI School",
-      "feedTitle": "مدرسة الذكاء الاصطناعي",
-      "items": [
-        {
-          "title": "شغل Gemma 4 على اللابتوب والموبايل مع OpenClaw مجانا",
-          "link": "https://www.youtube.com/watch?v=vvwMl8krGyY",
-          "videoId": "vvwMl8krGyY",
-          "pubDate": "2026-04-05T23:29:40+00:00"
-        },
-        {
-          "title": "ودع الكتابة… تكلم وخلّي الذكاء الاصطناعي يشتغل مكانك",
-          "link": "https://www.youtube.com/watch?v=_eMrleFkWp4",
-          "videoId": "_eMrleFkWp4",
-          "pubDate": "2026-04-03T15:51:22+00:00"
-        },
-        {
-          "title": "بديل Claude Cowork المجاني + تشغيل OpenClaw بضغطة زر",
-          "link": "https://www.youtube.com/watch?v=UKfMuuCe4K8",
-          "videoId": "UKfMuuCe4K8",
-          "pubDate": "2026-04-01T17:26:44+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "Arabian AI School",
+      "items": [],
+      "ok": false
     },
     "UCz0N3nKrJiDhNdKQvM6r93w": {
       "handle": "ryan.academy",
@@ -100,28 +81,9 @@
     "UCXVSIaWCZBxqZ5eCxwIqRGw": {
       "handle": "TechnoFlashAITech",
       "name": "TechnoFlash AI",
-      "feedTitle": "تكنوفلاش – AI & Tech",
-      "items": [
-        {
-          "title": "Claude Opus 4.6 Free مجاناً | بديل ChatGPT الأقوى لم تسمع عنه",
-          "link": "https://www.youtube.com/watch?v=uZ7K8z5lumE",
-          "videoId": "uZ7K8z5lumE",
-          "pubDate": "2026-04-02T20:40:47+00:00"
-        },
-        {
-          "title": "موديل كسر كل التوقعات mimo-v2-pro 🔥 هل يكتب نهاية claude opus ؟ |   xiaomi mimo شاومي ",
-          "link": "https://www.youtube.com/watch?v=RCzoiuhwrF0",
-          "videoId": "RCzoiuhwrF0",
-          "pubDate": "2026-03-29T19:39:32+00:00"
-        },
-        {
-          "title": "بديل grok مجاني |تطبيق صيني يضرب grok بميزات مجنونه | بديل grok المجاني | Best Free Grok Alternative",
-          "link": "https://www.youtube.com/watch?v=b8s5gcyg53g",
-          "videoId": "b8s5gcyg53g",
-          "pubDate": "2026-03-28T19:14:11+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "TechnoFlash AI",
+      "items": [],
+      "ok": false
     },
     "UC16aC4Jti6tYAi0LuXmu-9w": {
       "handle": "KhairJaleesBook",
@@ -161,28 +123,9 @@
     "UCJlu6BjPWHZhzuCc0zVME0Q": {
       "handle": "Dupamicaffeine",
       "name": "دوباميكافيين",
-      "feedTitle": "دوباميكافين Dupamicaffeine",
-      "items": [
-        {
-          "title": "اللغة الثالثة .. قريبًا",
-          "link": "https://www.youtube.com/watch?v=MghBvnwilt4",
-          "videoId": "MghBvnwilt4",
-          "pubDate": "2026-04-05T14:07:51+00:00"
-        },
-        {
-          "title": "لغة الحب الأهم",
-          "link": "https://www.youtube.com/watch?v=PXa__tZ6SuY",
-          "videoId": "PXa__tZ6SuY",
-          "pubDate": "2026-04-01T13:00:00+00:00"
-        },
-        {
-          "title": "الحضور الكامل وتأثيره السحري على قوة علاقتك - لغات الحب الخمس - الجزء الثالث - دوباميكافين",
-          "link": "https://www.youtube.com/watch?v=mOQPkWHq0jc",
-          "videoId": "mOQPkWHq0jc",
-          "pubDate": "2026-03-31T11:18:39+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "دوباميكافيين",
+      "items": [],
+      "ok": false
     },
     "UC0LSnqrwqtMwl2YwfUpO66g": {
       "handle": "aljazeeradocumentary",
@@ -201,54 +144,16 @@
     "UCLiTe0aOHShx7hXGyqZ9UIw": {
       "handle": "natgeoabudhabime",
       "name": "ناشيونال جيوغرافيك",
-      "feedTitle": "Nat Geo Abu Dhabi",
-      "items": [
-        {
-          "title": "الحلقة الكاملة | مذكرات نمر في العاشرة من عمره | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=g2Su6so8LVQ",
-          "videoId": "g2Su6so8LVQ",
-          "pubDate": "2026-04-05T19:50:25+00:00"
-        },
-        {
-          "title": "يُعرض 6 أبريل | أسرار النحل | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=dQ1RV9OHvBg",
-          "videoId": "dQ1RV9OHvBg",
-          "pubDate": "2026-04-04T19:44:57+00:00"
-        },
-        {
-          "title": "يُعرض 6 أبريل | أسرار النحل | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=y1GzGp6iKOs",
-          "videoId": "y1GzGp6iKOs",
-          "pubDate": "2026-04-04T19:44:50+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "ناشيونال جيوغرافيك",
+      "items": [],
+      "ok": false
     },
     "UCET6sWl4Xcu-U8Ka9PJPrwA": {
       "handle": "dwdocarabia",
       "name": "DW عربية وثائقي",
-      "feedTitle": "DW Documentary وثائقية دي دبليو",
-      "items": [
-        {
-          "title": "وثائقي | العمارة القوطية – عندما ارتفعت الكاتدرائيات نحو السماء | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=iJ9UonblY0U",
-          "videoId": "iJ9UonblY0U",
-          "pubDate": "2026-04-05T18:00:46+00:00"
-        },
-        {
-          "title": "وثائقي | من سوريا إلى ألمانيا – كيف شقت نور طريقها إلى دراسة الطب | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=qX3HnE3DQZE",
-          "videoId": "qX3HnE3DQZE",
-          "pubDate": "2026-04-04T17:00:58+00:00"
-        },
-        {
-          "title": "وثائقي | إلغاء السجون؟ ما هو أكثر فاعلية من الحبس | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=EcsXN75fKTs",
-          "videoId": "EcsXN75fKTs",
-          "pubDate": "2026-04-03T17:00:30+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "DW عربية وثائقي",
+      "items": [],
+      "ok": false
     }
   }
 }
