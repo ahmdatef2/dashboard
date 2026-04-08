@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-08T09:55:48.700890+00:00",
+  "updated": "2026-04-08T10:47:18.545953+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "بغداد مغارة الذهب التي لا غنى عن سرقتها",
+          "link": "https://www.youtube.com/watch?v=VBrHC_XMQYk",
+          "videoId": "VBrHC_XMQYk",
+          "pubDate": "2026-04-08T10:00:01+00:00"
+        },
+        {
           "title": "8 سنوات من العزلة في قناة السويس",
           "link": "https://www.youtube.com/watch?v=fzTixF-GbdM",
           "videoId": "fzTixF-GbdM",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=MHCq0xiRi44",
           "videoId": "MHCq0xiRi44",
           "pubDate": "2026-04-07T21:00:01+00:00"
-        },
-        {
-          "title": "البقاء في عصر الاحتباس الحراري.. النباتات والحيوانات.. هل مستقبل الأرض في خطر؟",
-          "link": "https://www.youtube.com/watch?v=bUC4K0ZPMJY",
-          "videoId": "bUC4K0ZPMJY",
-          "pubDate": "2026-04-07T20:00:34+00:00"
         }
       ],
       "ok": true
