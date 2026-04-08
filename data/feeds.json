@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-08T14:25:31.581990+00:00",
+  "updated": "2026-04-08T16:05:50.284401+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -215,6 +215,12 @@
       "feedTitle": "Mohamed Ansary",
       "items": [
         {
+          "title": "أداة رائعة للمساعدة في الكتابة الأكاديمية Jenni AI",
+          "link": "https://www.youtube.com/watch?v=gF2ZFsDn934",
+          "videoId": "gF2ZFsDn934",
+          "pubDate": "2026-04-08T14:34:38+00:00"
+        },
+        {
           "title": "تخطي اكتشاف الكتابة بالذكاء الاصطناعي AI DETECTION",
           "link": "https://www.youtube.com/watch?v=leGTkMm04u4",
           "videoId": "leGTkMm04u4",
@@ -225,12 +231,6 @@
           "link": "https://www.youtube.com/watch?v=HrVXEL5o1l0",
           "videoId": "HrVXEL5o1l0",
           "pubDate": "2026-04-06T14:55:09+00:00"
-        },
-        {
-          "title": "وكيل ذكي ينافس العمالقة من خلال MINIMAX AGENT",
-          "link": "https://www.youtube.com/watch?v=WGsK1hJtVus",
-          "videoId": "WGsK1hJtVus",
-          "pubDate": "2026-04-06T09:49:07+00:00"
         }
       ],
       "ok": true
@@ -267,6 +267,12 @@
       "feedTitle": "أكاديمية ريان | Ryan Academy",
       "items": [
         {
+          "title": "افضل قالب ووردبريس مجاني Astra مع استضافة ووردبريس مجانية لمدة 3 أيام Cloudways",
+          "link": "https://www.youtube.com/watch?v=PNm4I1J_U8I",
+          "videoId": "PNm4I1J_U8I",
+          "pubDate": "2026-04-08T16:00:47+00:00"
+        },
+        {
           "title": "نشر وتحديث مشاريع Google AI Studio لحظيًا بدون خبرة تقنية",
           "link": "https://www.youtube.com/watch?v=3QPdi9ZMx2M",
           "videoId": "3QPdi9ZMx2M",
@@ -277,12 +283,6 @@
           "link": "https://www.youtube.com/watch?v=9oKK8S1CZ10",
           "videoId": "9oKK8S1CZ10",
           "pubDate": "2026-04-03T16:00:28+00:00"
-        },
-        {
-          "title": "جربت تحديث Google Stitch الجديد 😳 النتيجة كانت مجنونة! - أسرع تصميم واجهات بالـ AI",
-          "link": "https://www.youtube.com/watch?v=UamvE2JBPac",
-          "videoId": "UamvE2JBPac",
-          "pubDate": "2026-04-01T16:00:39+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "كيف عبّر الإقطاع في إسبانيا الحديثة عن جرائم \"الاستعادة\" في الأندلس؟",
+          "link": "https://www.youtube.com/watch?v=fM83URx50bE",
+          "videoId": "fM83URx50bE",
+          "pubDate": "2026-04-08T16:00:01+00:00"
+        },
+        {
           "title": "\"النفخ في الشمعة\" تمرين بسيط يخفي معاناة قاسية مع النطق",
           "link": "https://www.youtube.com/watch?v=A1WDO1mMnCA",
           "videoId": "A1WDO1mMnCA",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=oUAdyMnCM1c",
           "videoId": "oUAdyMnCM1c",
           "pubDate": "2026-04-08T11:00:01+00:00"
-        },
-        {
-          "title": "بغداد مغارة الذهب التي لا غنى عن سرقتها",
-          "link": "https://www.youtube.com/watch?v=VBrHC_XMQYk",
-          "videoId": "VBrHC_XMQYk",
-          "pubDate": "2026-04-08T10:00:01+00:00"
         }
       ],
       "ok": true
