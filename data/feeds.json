@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-08T17:55:45.998032+00:00",
+  "updated": "2026-04-08T19:00:07.605631+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "عالم يشبهنا.. ذكاء فطري أم مهارة مكتسبة؟ رحلة في عقول الحيوانات | الحلقة الثالثة",
+          "link": "https://www.youtube.com/watch?v=iNng7lSpcNE",
+          "videoId": "iNng7lSpcNE",
+          "pubDate": "2026-04-08T18:30:59+00:00"
+        },
+        {
           "title": "كيف مولت شركات التبغ أبحاثا علمية مضللة؟",
           "link": "https://www.youtube.com/watch?v=Ze3zq8wM8Uk",
           "videoId": "Ze3zq8wM8Uk",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=fM83URx50bE",
           "videoId": "fM83URx50bE",
           "pubDate": "2026-04-08T16:00:01+00:00"
-        },
-        {
-          "title": "\"النفخ في الشمعة\" تمرين بسيط يخفي معاناة قاسية مع النطق",
-          "link": "https://www.youtube.com/watch?v=A1WDO1mMnCA",
-          "videoId": "A1WDO1mMnCA",
-          "pubDate": "2026-04-08T14:00:01+00:00"
         }
       ],
       "ok": true
@@ -553,6 +553,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "وثائقي | أحجار لتخليد ذكرى ضحايا النازية | وثائقية دي دبليو",
+          "link": "https://www.youtube.com/watch?v=c0qLjGHDW2E",
+          "videoId": "c0qLjGHDW2E",
+          "pubDate": "2026-04-08T18:00:40+00:00"
+        },
+        {
           "title": "كيف يشتغل مفاعل الاندماج النووي؟",
           "link": "https://www.youtube.com/watch?v=0ZgRMC9yh74",
           "videoId": "0ZgRMC9yh74",
@@ -563,12 +569,6 @@
           "link": "https://www.youtube.com/watch?v=iJ9UonblY0U",
           "videoId": "iJ9UonblY0U",
           "pubDate": "2026-04-05T18:00:46+00:00"
-        },
-        {
-          "title": "وثائقي | من سوريا إلى ألمانيا – كيف شقت نور طريقها إلى دراسة الطب | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=qX3HnE3DQZE",
-          "videoId": "qX3HnE3DQZE",
-          "pubDate": "2026-04-04T17:00:58+00:00"
         }
       ],
       "ok": true
