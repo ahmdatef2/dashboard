@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-08T21:32:20.453167+00:00",
+  "updated": "2026-04-08T22:27:23.293074+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -501,6 +501,12 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "يو بوت التهديد الوهمي - أسطول هتـ لر البحري | كواليس التاريخ",
+          "link": "https://www.youtube.com/watch?v=FDWcYtEFp8E",
+          "videoId": "FDWcYtEFp8E",
+          "pubDate": "2026-04-08T22:00:13+00:00"
+        },
+        {
           "title": "رونالد ريغان",
           "link": "https://www.youtube.com/watch?v=4voJpk5z4Vs",
           "videoId": "4voJpk5z4Vs",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=Ne7d3mxpz0w",
           "videoId": "Ne7d3mxpz0w",
           "pubDate": "2026-04-08T11:21:37+00:00"
-        },
-        {
-          "title": "أفريقيا في الحرب الباردة  | كواليس التاريخ",
-          "link": "https://www.youtube.com/watch?v=lgQmFI_rW-o",
-          "videoId": "lgQmFI_rW-o",
-          "pubDate": "2026-04-07T22:00:54+00:00"
         }
       ],
       "ok": true
