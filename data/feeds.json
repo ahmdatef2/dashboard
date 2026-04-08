@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-08T12:49:28.055009+00:00",
+  "updated": "2026-04-08T14:25:31.581990+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -85,6 +85,12 @@
       "feedTitle": "عبداللطيف سعيد Abdellatif Said",
       "items": [
         {
+          "title": "جوجل عملتها! تقنية TurboQuant السحرية اللي هترخص أسعار الرامات والذكاء الاصطناعي",
+          "link": "https://www.youtube.com/watch?v=Qc1cF-vmYlo",
+          "videoId": "Qc1cF-vmYlo",
+          "pubDate": "2026-04-08T14:15:04+00:00"
+        },
+        {
           "title": "وداعاً للنت.. حوّل موبايلك لعملاق ذكاء اصطناعي! شرح تشغيل Gemma 4 أوفلاين 🚀",
           "link": "https://www.youtube.com/watch?v=ZYz0n9ROUDk",
           "videoId": "ZYz0n9ROUDk",
@@ -95,12 +101,6 @@
           "link": "https://www.youtube.com/watch?v=UcQUs8wur8w",
           "videoId": "UcQUs8wur8w",
           "pubDate": "2026-04-05T14:15:08+00:00"
-        },
-        {
-          "title": "وداعاً للمبرمجين والمصممين! 🤯 فريق كامل من الـ AI هيبني مشروعك بضغطة زر | Atoms",
-          "link": "https://www.youtube.com/watch?v=_Syty-0g7Rw",
-          "videoId": "_Syty-0g7Rw",
-          "pubDate": "2026-04-04T14:15:07+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "\"النفخ في الشمعة\" تمرين بسيط يخفي معاناة قاسية مع النطق",
+          "link": "https://www.youtube.com/watch?v=A1WDO1mMnCA",
+          "videoId": "A1WDO1mMnCA",
+          "pubDate": "2026-04-08T14:00:01+00:00"
+        },
+        {
           "title": "غابة برقش بالأردن.. طيور وزواحف وحيوانات تزين الطبيعة الخلابة",
           "link": "https://www.youtube.com/watch?v=oUAdyMnCM1c",
           "videoId": "oUAdyMnCM1c",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=VBrHC_XMQYk",
           "videoId": "VBrHC_XMQYk",
           "pubDate": "2026-04-08T10:00:01+00:00"
-        },
-        {
-          "title": "8 سنوات من العزلة في قناة السويس",
-          "link": "https://www.youtube.com/watch?v=fzTixF-GbdM",
-          "videoId": "fzTixF-GbdM",
-          "pubDate": "2026-04-08T07:56:43+00:00"
         }
       ],
       "ok": true
