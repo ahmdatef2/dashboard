@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-08T19:58:44.527027+00:00",
+  "updated": "2026-04-08T20:39:18.167700+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -33,7 +33,7 @@
       "feedTitle": "كل يوم موقع جديد",
       "items": [
         {
-          "title": "مين يكسب في المجاني؟ Wan 2.7 أم Veo 3.1 Lite",
+          "title": "الحقيقة الكاملة: Wan 2.7 vs Veo 3.1 Lite في النسخة المجانية",
           "link": "https://www.youtube.com/watch?v=dypEwBX0Frw",
           "videoId": "dypEwBX0Frw",
           "pubDate": "2026-04-07T20:41:41+00:00"
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "معركة القسطل عام 1948 النصر الذي كسره استشهاد عبد القادر الحسيني",
+          "link": "https://www.youtube.com/watch?v=t_hmkIuFkEQ",
+          "videoId": "t_hmkIuFkEQ",
+          "pubDate": "2026-04-08T20:00:02+00:00"
+        },
+        {
           "title": "كرنفال \"بوست\" طقس غامض يجمع سكان قرية \"دريزنيتسا\" السلوفينية",
           "link": "https://www.youtube.com/watch?v=nGFuthjil9s",
           "videoId": "nGFuthjil9s",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=iNng7lSpcNE",
           "videoId": "iNng7lSpcNE",
           "pubDate": "2026-04-08T18:30:59+00:00"
-        },
-        {
-          "title": "كيف مولت شركات التبغ أبحاثا علمية مضللة؟",
-          "link": "https://www.youtube.com/watch?v=Ze3zq8wM8Uk",
-          "videoId": "Ze3zq8wM8Uk",
-          "pubDate": "2026-04-08T17:00:01+00:00"
         }
       ],
       "ok": true
