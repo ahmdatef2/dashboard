@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-08T16:05:50.284401+00:00",
+  "updated": "2026-04-08T17:55:45.998032+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -59,6 +59,12 @@
       "feedTitle": "Infotech4you - مروي سليمان",
       "items": [
         {
+          "title": "أقوى طريقة لاستخدام NotebookLM مع Claude في الأتمتة 🤯",
+          "link": "https://www.youtube.com/watch?v=2MwH3L4pNxU",
+          "videoId": "2MwH3L4pNxU",
+          "pubDate": "2026-04-08T17:43:47+00:00"
+        },
+        {
           "title": "أسهل طريقة لتشغيل gemma 4 على جهازك بدون انترنت!",
           "link": "https://www.youtube.com/watch?v=85x_tR1QzrM",
           "videoId": "85x_tR1QzrM",
@@ -69,12 +75,6 @@
           "link": "https://www.youtube.com/watch?v=-Avyltky4HY",
           "videoId": "-Avyltky4HY",
           "pubDate": "2026-04-06T15:34:51+00:00"
-        },
-        {
-          "title": "ذكاء اصطناعي في جيبك من جوجل! كل ما تريد معرفته عن Gemma 4",
-          "link": "https://www.youtube.com/watch?v=itFCDbhY3Ek",
-          "videoId": "itFCDbhY3Ek",
-          "pubDate": "2026-04-03T17:19:27+00:00"
         }
       ],
       "ok": true
@@ -111,6 +111,12 @@
       "feedTitle": "AMR SALEM _ عمرو سالم",
       "items": [
         {
+          "title": "gemma 4 افضل نموذج مفتوح المصدر من جوجل بدون انترنت",
+          "link": "https://www.youtube.com/watch?v=wTo3Lpx43yc",
+          "videoId": "wTo3Lpx43yc",
+          "pubDate": "2026-04-08T16:31:08+00:00"
+        },
+        {
           "title": "طريقة رفع موقعك على استضافة عالمية مجانية ومقبولة في أدسنس (دليل شامل 2026) 🚀",
           "link": "https://www.youtube.com/watch?v=NQ4HaFiGffY",
           "videoId": "NQ4HaFiGffY",
@@ -121,12 +127,6 @@
           "link": "https://www.youtube.com/watch?v=cliMCyvexk8",
           "videoId": "cliMCyvexk8",
           "pubDate": "2026-04-04T16:18:39+00:00"
-        },
-        {
-          "title": "تجربة النموذج الجديد GLM 5 turbo | صدمني",
-          "link": "https://www.youtube.com/watch?v=XaJ0rfXRsdc",
-          "videoId": "XaJ0rfXRsdc",
-          "pubDate": "2026-04-02T13:04:16+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "كيف مولت شركات التبغ أبحاثا علمية مضللة؟",
+          "link": "https://www.youtube.com/watch?v=Ze3zq8wM8Uk",
+          "videoId": "Ze3zq8wM8Uk",
+          "pubDate": "2026-04-08T17:00:01+00:00"
+        },
+        {
           "title": "كيف عبّر الإقطاع في إسبانيا الحديثة عن جرائم \"الاستعادة\" في الأندلس؟",
           "link": "https://www.youtube.com/watch?v=fM83URx50bE",
           "videoId": "fM83URx50bE",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=A1WDO1mMnCA",
           "videoId": "A1WDO1mMnCA",
           "pubDate": "2026-04-08T14:00:01+00:00"
-        },
-        {
-          "title": "غابة برقش بالأردن.. طيور وزواحف وحيوانات تزين الطبيعة الخلابة",
-          "link": "https://www.youtube.com/watch?v=oUAdyMnCM1c",
-          "videoId": "oUAdyMnCM1c",
-          "pubDate": "2026-04-08T11:00:01+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "رونالد ريغان",
+          "link": "https://www.youtube.com/watch?v=4voJpk5z4Vs",
+          "videoId": "4voJpk5z4Vs",
+          "pubDate": "2026-04-08T16:15:00+00:00"
+        },
         {
           "title": "عملية إنقاذ الطيار الأميركي داخل الأراضي الإيرانية",
           "link": "https://www.youtube.com/watch?v=Ne7d3mxpz0w",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=lgQmFI_rW-o",
           "videoId": "lgQmFI_rW-o",
           "pubDate": "2026-04-07T22:00:54+00:00"
-        },
-        {
-          "title": "المرأة الحديدية… أم نجمة سوشيال ميديا؟",
-          "link": "https://www.youtube.com/watch?v=DNGoMCEO5jQ",
-          "videoId": "DNGoMCEO5jQ",
-          "pubDate": "2026-04-07T14:00:19+00:00"
         }
       ],
       "ok": true
