@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-08T11:43:17.310282+00:00",
+  "updated": "2026-04-08T12:49:28.055009+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -553,6 +553,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "كيف يشتغل مفاعل الاندماج النووي؟",
+          "link": "https://www.youtube.com/watch?v=0ZgRMC9yh74",
+          "videoId": "0ZgRMC9yh74",
+          "pubDate": "2026-04-08T11:40:31+00:00"
+        },
+        {
           "title": "وثائقي | العمارة القوطية – عندما ارتفعت الكاتدرائيات نحو السماء | وثائقية دي دبليو",
           "link": "https://www.youtube.com/watch?v=iJ9UonblY0U",
           "videoId": "iJ9UonblY0U",
@@ -563,12 +569,6 @@
           "link": "https://www.youtube.com/watch?v=qX3HnE3DQZE",
           "videoId": "qX3HnE3DQZE",
           "pubDate": "2026-04-04T17:00:58+00:00"
-        },
-        {
-          "title": "وثائقي | إلغاء السجون؟ ما هو أكثر فاعلية من الحبس | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=EcsXN75fKTs",
-          "videoId": "EcsXN75fKTs",
-          "pubDate": "2026-04-03T17:00:30+00:00"
         }
       ],
       "ok": true
