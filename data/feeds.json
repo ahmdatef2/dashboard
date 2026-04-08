@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-08T19:00:07.605631+00:00",
+  "updated": "2026-04-08T19:58:44.527027+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -33,7 +33,7 @@
       "feedTitle": "كل يوم موقع جديد",
       "items": [
         {
-          "title": "هل Wan 2.7 أفضل نموذج  لتوليد الفيديو ومقارنته ب Veo 3.1 Lite؟",
+          "title": "مين يكسب في المجاني؟ Wan 2.7 أم Veo 3.1 Lite",
           "link": "https://www.youtube.com/watch?v=dypEwBX0Frw",
           "videoId": "dypEwBX0Frw",
           "pubDate": "2026-04-07T20:41:41+00:00"
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "كرنفال \"بوست\" طقس غامض يجمع سكان قرية \"دريزنيتسا\" السلوفينية",
+          "link": "https://www.youtube.com/watch?v=nGFuthjil9s",
+          "videoId": "nGFuthjil9s",
+          "pubDate": "2026-04-08T19:00:02+00:00"
+        },
+        {
           "title": "عالم يشبهنا.. ذكاء فطري أم مهارة مكتسبة؟ رحلة في عقول الحيوانات | الحلقة الثالثة",
           "link": "https://www.youtube.com/watch?v=iNng7lSpcNE",
           "videoId": "iNng7lSpcNE",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=Ze3zq8wM8Uk",
           "videoId": "Ze3zq8wM8Uk",
           "pubDate": "2026-04-08T17:00:01+00:00"
-        },
-        {
-          "title": "كيف عبّر الإقطاع في إسبانيا الحديثة عن جرائم \"الاستعادة\" في الأندلس؟",
-          "link": "https://www.youtube.com/watch?v=fM83URx50bE",
-          "videoId": "fM83URx50bE",
-          "pubDate": "2026-04-08T16:00:01+00:00"
         }
       ],
       "ok": true
