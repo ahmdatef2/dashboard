@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-09T14:47:45.458846+00:00",
+  "updated": "2026-04-09T16:09:31.348072+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -33,6 +33,12 @@
       "feedTitle": "كل يوم موقع جديد",
       "items": [
         {
+          "title": "كيف تصنع إعلان منتج بالذكاء الاصطناعي بدون مونتاج وبدون تكلفة",
+          "link": "https://www.youtube.com/watch?v=MReyhdRXeYY",
+          "videoId": "MReyhdRXeYY",
+          "pubDate": "2026-04-09T15:19:45+00:00"
+        },
+        {
           "title": "الحقيقة الكاملة: Wan 2.7 vs Veo 3.1 Lite في النسخة المجانية",
           "link": "https://www.youtube.com/watch?v=dypEwBX0Frw",
           "videoId": "dypEwBX0Frw",
@@ -43,12 +49,6 @@
           "link": "https://www.youtube.com/watch?v=rH716ZrvBlk",
           "videoId": "rH716ZrvBlk",
           "pubDate": "2026-04-06T17:10:11+00:00"
-        },
-        {
-          "title": "نموذج جوجل الجديد للفيديوهات وكمان حتستخدمه مجانا كل يوم  #جوجل",
-          "link": "https://www.youtube.com/watch?v=CJ_G4zuGdR0",
-          "videoId": "CJ_G4zuGdR0",
-          "pubDate": "2026-04-05T17:42:44+00:00"
         }
       ],
       "ok": true
@@ -501,6 +501,12 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "مراحيض ضد القوات الجوية الألمانية؟",
+          "link": "https://www.youtube.com/watch?v=myEoSyd8f3o",
+          "videoId": "myEoSyd8f3o",
+          "pubDate": "2026-04-09T15:39:17+00:00"
+        },
+        {
           "title": "يو بوت التهديد الوهمي - أسطول هتـ لر البحري | كواليس التاريخ",
           "link": "https://www.youtube.com/watch?v=FDWcYtEFp8E",
           "videoId": "FDWcYtEFp8E",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=4voJpk5z4Vs",
           "videoId": "4voJpk5z4Vs",
           "pubDate": "2026-04-08T16:15:00+00:00"
-        },
-        {
-          "title": "عملية إنقاذ الطيار الأميركي داخل الأراضي الإيرانية",
-          "link": "https://www.youtube.com/watch?v=Ne7d3mxpz0w",
-          "videoId": "Ne7d3mxpz0w",
-          "pubDate": "2026-04-08T11:21:37+00:00"
         }
       ],
       "ok": true
