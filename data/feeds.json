@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-09T20:38:18.325979+00:00",
+  "updated": "2026-04-09T21:36:09.459530+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -267,6 +267,12 @@
       "feedTitle": "أكاديمية ريان | Ryan Academy",
       "items": [
         {
+          "title": "ازاي تقدر توصل لـ API key مجاني لاشهر الموديلات بضغطة زرار واحده",
+          "link": "https://www.youtube.com/watch?v=but1RdrxLtc",
+          "videoId": "but1RdrxLtc",
+          "pubDate": "2026-04-09T21:06:01+00:00"
+        },
+        {
           "title": "افضل قالب ووردبريس مجاني Astra مع استضافة ووردبريس مجانية لمدة 3 أيام Cloudways",
           "link": "https://www.youtube.com/watch?v=PNm4I1J_U8I",
           "videoId": "PNm4I1J_U8I",
@@ -277,12 +283,6 @@
           "link": "https://www.youtube.com/watch?v=3QPdi9ZMx2M",
           "videoId": "3QPdi9ZMx2M",
           "pubDate": "2026-04-05T16:00:04+00:00"
-        },
-        {
-          "title": "تثبيت وكيل الذكاء الاصطناعي OpenClaw على VPS بضغطة زر (وربطه بتليجرام) بدون أخطاء",
-          "link": "https://www.youtube.com/watch?v=9oKK8S1CZ10",
-          "videoId": "9oKK8S1CZ10",
-          "pubDate": "2026-04-03T16:00:28+00:00"
         }
       ],
       "ok": true
@@ -293,7 +293,7 @@
       "feedTitle": "تكنوفلاش – AI & Tech",
       "items": [
         {
-          "title": "صنعت برنامج محاسبة بـ claude opus 4.6 free مجاناً (بدون كود!) وحولته لـ EXE | antigravity google",
+          "title": "صنعت برنامج محاسبة بـ claude opus 4.6 free مجاناً (بدون كود!)  Claude ai | antigravity google",
           "link": "https://www.youtube.com/watch?v=u5mZRFGCs8Y",
           "videoId": "u5mZRFGCs8Y",
           "pubDate": "2026-04-09T18:06:02+00:00"
