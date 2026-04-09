@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-09T18:42:57.249159+00:00",
+  "updated": "2026-04-09T19:55:18.259562+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -59,6 +59,12 @@
       "feedTitle": "Infotech4you - مروي سليمان",
       "items": [
         {
+          "title": "قوة ثنائية خارقة NotebookLM + Claude  1 #الذكاء_الاصطناعي #ai",
+          "link": "https://www.youtube.com/watch?v=47KIurn14u8",
+          "videoId": "47KIurn14u8",
+          "pubDate": "2026-04-09T18:52:07+00:00"
+        },
+        {
           "title": "أقوى طريقة لاستخدام NotebookLM مع Claude في الأتمتة 🤯",
           "link": "https://www.youtube.com/watch?v=2MwH3L4pNxU",
           "videoId": "2MwH3L4pNxU",
@@ -69,12 +75,6 @@
           "link": "https://www.youtube.com/watch?v=85x_tR1QzrM",
           "videoId": "85x_tR1QzrM",
           "pubDate": "2026-04-07T14:53:07+00:00"
-        },
-        {
-          "title": "Qwen 3.6 Plus نموذج علي بابا الجديد ينافس الكبار",
-          "link": "https://www.youtube.com/watch?v=-Avyltky4HY",
-          "videoId": "-Avyltky4HY",
-          "pubDate": "2026-04-06T15:34:51+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "آخر أسرار البشرية..كيف غيرت الاكتشافات الصينية مفهومنا عن تاريخ البشر؟",
+          "link": "https://www.youtube.com/watch?v=_xgxtWB9fUc",
+          "videoId": "_xgxtWB9fUc",
+          "pubDate": "2026-04-09T19:00:28+00:00"
+        },
+        {
           "title": "أسسها الملا العاقل ماذا نعرف عن مدينة تلِح في شمال الصومال؟",
           "link": "https://www.youtube.com/watch?v=i6rt-DppmaM",
           "videoId": "i6rt-DppmaM",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=PctAtLYsQLU",
           "videoId": "PctAtLYsQLU",
           "pubDate": "2026-04-09T17:00:00+00:00"
-        },
-        {
-          "title": "العودة إلى الطبيعة الحل الذي أنقذ مزرعة من الانهيار",
-          "link": "https://www.youtube.com/watch?v=hyUBvs8Klm4",
-          "videoId": "hyUBvs8Klm4",
-          "pubDate": "2026-04-09T14:00:01+00:00"
         }
       ],
       "ok": true
