@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-09T21:36:09.459530+00:00",
+  "updated": "2026-04-09T22:28:35.643842+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -501,6 +501,12 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "مزارعو الفضاء.. كيف نزرع غذاء المستقبل خارج الأرض؟ | الشرق الوثائقية",
+          "link": "https://www.youtube.com/watch?v=QJlM7EvyGQM",
+          "videoId": "QJlM7EvyGQM",
+          "pubDate": "2026-04-09T22:00:29+00:00"
+        },
+        {
           "title": "مراحيض ضد القوات الجوية الألمانية؟",
           "link": "https://www.youtube.com/watch?v=myEoSyd8f3o",
           "videoId": "myEoSyd8f3o",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=FDWcYtEFp8E",
           "videoId": "FDWcYtEFp8E",
           "pubDate": "2026-04-08T22:00:13+00:00"
-        },
-        {
-          "title": "رونالد ريغان",
-          "link": "https://www.youtube.com/watch?v=4voJpk5z4Vs",
-          "videoId": "4voJpk5z4Vs",
-          "pubDate": "2026-04-08T16:15:00+00:00"
         }
       ],
       "ok": true
