@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-09T12:53:14.487392+00:00",
+  "updated": "2026-04-09T14:47:45.458846+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -85,6 +85,12 @@
       "feedTitle": "عبداللطيف سعيد Abdellatif Said",
       "items": [
         {
+          "title": "أخطر تسريب في تاريخ الذكاء الاصطناعي: حكاية Claude Mythos اللي أرعب المبرمجين وليه ممنوع نستخدمه؟",
+          "link": "https://www.youtube.com/watch?v=CDlBkMQO_U0",
+          "videoId": "CDlBkMQO_U0",
+          "pubDate": "2026-04-09T14:15:04+00:00"
+        },
+        {
           "title": "جوجل عملتها! تقنية TurboQuant السحرية اللي هترخص أسعار الرامات والذكاء الاصطناعي",
           "link": "https://www.youtube.com/watch?v=Qc1cF-vmYlo",
           "videoId": "Qc1cF-vmYlo",
@@ -95,12 +101,6 @@
           "link": "https://www.youtube.com/watch?v=ZYz0n9ROUDk",
           "videoId": "ZYz0n9ROUDk",
           "pubDate": "2026-04-06T14:15:04+00:00"
-        },
-        {
-          "title": "جوجل قلبت الموازين! شرح تثبيت Gemma 4 وتجربته في البرمجة والتحليل ضد Gemini Flash 🔥",
-          "link": "https://www.youtube.com/watch?v=UcQUs8wur8w",
-          "videoId": "UcQUs8wur8w",
-          "pubDate": "2026-04-05T14:15:08+00:00"
         }
       ],
       "ok": true
@@ -110,6 +110,12 @@
       "name": "عمرو سالم",
       "feedTitle": "AMR SALEM _ عمرو سالم",
       "items": [
+        {
+          "title": "Meta ai تضرب Google و Claude باقوي نموذج Muse Spark",
+          "link": "https://www.youtube.com/watch?v=wfKN6_rH8EQ",
+          "videoId": "wfKN6_rH8EQ",
+          "pubDate": "2026-04-09T14:29:12+00:00"
+        },
         {
           "title": "gemma 4 افضل نموذج مفتوح المصدر من جوجل بدون انترنت",
           "link": "https://www.youtube.com/watch?v=wTo3Lpx43yc",
@@ -121,12 +127,6 @@
           "link": "https://www.youtube.com/watch?v=NQ4HaFiGffY",
           "videoId": "NQ4HaFiGffY",
           "pubDate": "2026-04-05T17:36:07+00:00"
-        },
-        {
-          "title": "عملاق البرمجة الجديد المجاني Qwen 3.6 Plus | نموذج رهيب بمعني الكلمة",
-          "link": "https://www.youtube.com/watch?v=cliMCyvexk8",
-          "videoId": "cliMCyvexk8",
-          "pubDate": "2026-04-04T16:18:39+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "العودة إلى الطبيعة الحل الذي أنقذ مزرعة من الانهيار",
+          "link": "https://www.youtube.com/watch?v=hyUBvs8Klm4",
+          "videoId": "hyUBvs8Klm4",
+          "pubDate": "2026-04-09T14:00:01+00:00"
+        },
+        {
           "title": "9 أبريل عام 1948مذبحة دير ياسينيوم أبيدت قرية فلسطينية بالكامل",
           "link": "https://www.youtube.com/watch?v=8isRsBzSrkI",
           "videoId": "8isRsBzSrkI",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=Yqo7ZnrarUY",
           "videoId": "Yqo7ZnrarUY",
           "pubDate": "2026-04-09T11:00:01+00:00"
-        },
-        {
-          "title": "\"سأعمل في الجبل بكل طاقتي\" أم تونسية تكافح لتأمين نفقات عملية جراحية لابنتها",
-          "link": "https://www.youtube.com/watch?v=PgX0gsaelUk",
-          "videoId": "PgX0gsaelUk",
-          "pubDate": "2026-04-09T10:00:01+00:00"
         }
       ],
       "ok": true
