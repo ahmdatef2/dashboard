@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-09T09:59:54.053838+00:00",
+  "updated": "2026-04-09T10:59:02.974557+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -215,6 +215,12 @@
       "feedTitle": "Mohamed Ansary",
       "items": [
         {
+          "title": "تحديث هام من جوجل تحويل الصورة إلى فيديو Veo3",
+          "link": "https://www.youtube.com/watch?v=gFDaMZRWYEI",
+          "videoId": "gFDaMZRWYEI",
+          "pubDate": "2026-04-09T10:53:37+00:00"
+        },
+        {
           "title": "أداة رائعة للمساعدة في الكتابة الأكاديمية Jenni AI",
           "link": "https://www.youtube.com/watch?v=gF2ZFsDn934",
           "videoId": "gF2ZFsDn934",
@@ -225,12 +231,6 @@
           "link": "https://www.youtube.com/watch?v=leGTkMm04u4",
           "videoId": "leGTkMm04u4",
           "pubDate": "2026-04-07T13:43:56+00:00"
-        },
-        {
-          "title": "أهم أداة لتخطي اكتشاف الكتابة بالذكاء الاصطناعي",
-          "link": "https://www.youtube.com/watch?v=HrVXEL5o1l0",
-          "videoId": "HrVXEL5o1l0",
-          "pubDate": "2026-04-06T14:55:09+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "\"سأعمل في الجبل بكل طاقتي\" أم تونسية تكافح لتأمين نفقات عملية جراحية لابنتها",
+          "link": "https://www.youtube.com/watch?v=PgX0gsaelUk",
+          "videoId": "PgX0gsaelUk",
+          "pubDate": "2026-04-09T10:00:01+00:00"
+        },
+        {
           "title": "لافتة كبيرة في نيويورك مكتوب عليها \"هنا بغداد العالم\"",
           "link": "https://www.youtube.com/watch?v=sNkdvQcYAUM",
           "videoId": "sNkdvQcYAUM",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=ff5p_chVKSI",
           "videoId": "ff5p_chVKSI",
           "pubDate": "2026-04-08T21:00:01+00:00"
-        },
-        {
-          "title": "معركة القسطل عام 1948 النصر الذي كسره استشهاد عبد القادر الحسيني",
-          "link": "https://www.youtube.com/watch?v=t_hmkIuFkEQ",
-          "videoId": "t_hmkIuFkEQ",
-          "pubDate": "2026-04-08T20:00:02+00:00"
         }
       ],
       "ok": true
