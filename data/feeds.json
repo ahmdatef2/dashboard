@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-09T11:53:53.228531+00:00",
+  "updated": "2026-04-09T12:53:14.487392+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "9 أبريل عام 1948مذبحة دير ياسينيوم أبيدت قرية فلسطينية بالكامل",
+          "link": "https://www.youtube.com/watch?v=8isRsBzSrkI",
+          "videoId": "8isRsBzSrkI",
+          "pubDate": "2026-04-09T12:06:46+00:00"
+        },
+        {
           "title": "نظام \"الري بالتنقيط\" ابتكار يعود للعالم الأندلسي ابن العوام",
           "link": "https://www.youtube.com/watch?v=Yqo7ZnrarUY",
           "videoId": "Yqo7ZnrarUY",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=PgX0gsaelUk",
           "videoId": "PgX0gsaelUk",
           "pubDate": "2026-04-09T10:00:01+00:00"
-        },
-        {
-          "title": "لافتة كبيرة في نيويورك مكتوب عليها \"هنا بغداد العالم\"",
-          "link": "https://www.youtube.com/watch?v=sNkdvQcYAUM",
-          "videoId": "sNkdvQcYAUM",
-          "pubDate": "2026-04-09T08:00:01+00:00"
         }
       ],
       "ok": true
@@ -553,6 +553,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "العمل في مجال التمريض في ألمانيا",
+          "link": "https://www.youtube.com/watch?v=KUS0YIvq3Kw",
+          "videoId": "KUS0YIvq3Kw",
+          "pubDate": "2026-04-09T12:00:36+00:00"
+        },
+        {
           "title": "وثائقي | أحجار لتخليد ذكرى ضحايا النازية | وثائقية دي دبليو",
           "link": "https://www.youtube.com/watch?v=c0qLjGHDW2E",
           "videoId": "c0qLjGHDW2E",
@@ -563,12 +569,6 @@
           "link": "https://www.youtube.com/watch?v=0ZgRMC9yh74",
           "videoId": "0ZgRMC9yh74",
           "pubDate": "2026-04-08T11:40:31+00:00"
-        },
-        {
-          "title": "وثائقي | العمارة القوطية – عندما ارتفعت الكاتدرائيات نحو السماء | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=iJ9UonblY0U",
-          "videoId": "iJ9UonblY0U",
-          "pubDate": "2026-04-05T18:00:46+00:00"
         }
       ],
       "ok": true
