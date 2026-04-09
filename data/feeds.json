@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-09T17:50:49.143610+00:00",
+  "updated": "2026-04-09T18:42:57.249159+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -293,6 +293,12 @@
       "feedTitle": "تكنوفلاش – AI & Tech",
       "items": [
         {
+          "title": "صنعت برنامج محاسبة بـ claude opus 4.6 free مجاناً (بدون كود!) وحولته لـ EXE | antigravity google",
+          "link": "https://www.youtube.com/watch?v=u5mZRFGCs8Y",
+          "videoId": "u5mZRFGCs8Y",
+          "pubDate": "2026-04-09T18:06:02+00:00"
+        },
+        {
           "title": "Claude Opus 4.6 Free مجاناً | بديل ChatGPT الأقوى لم تسمع عنه",
           "link": "https://www.youtube.com/watch?v=uZ7K8z5lumE",
           "videoId": "uZ7K8z5lumE",
@@ -303,12 +309,6 @@
           "link": "https://www.youtube.com/watch?v=RCzoiuhwrF0",
           "videoId": "RCzoiuhwrF0",
           "pubDate": "2026-03-29T19:39:32+00:00"
-        },
-        {
-          "title": "بديل grok مجاني |تطبيق صيني يضرب grok بميزات مجنونه | بديل grok المجاني | Best Free Grok Alternative",
-          "link": "https://www.youtube.com/watch?v=b8s5gcyg53g",
-          "videoId": "b8s5gcyg53g",
-          "pubDate": "2026-03-28T19:14:11+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "أسسها الملا العاقل ماذا نعرف عن مدينة تلِح في شمال الصومال؟",
+          "link": "https://www.youtube.com/watch?v=i6rt-DppmaM",
+          "videoId": "i6rt-DppmaM",
+          "pubDate": "2026-04-09T18:00:01+00:00"
+        },
+        {
           "title": "عام 1998.. رصاص الاحتلال يلاحق الكاميرات ولا يعترف بالسترات الصحفية",
           "link": "https://www.youtube.com/watch?v=PctAtLYsQLU",
           "videoId": "PctAtLYsQLU",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=hyUBvs8Klm4",
           "videoId": "hyUBvs8Klm4",
           "pubDate": "2026-04-09T14:00:01+00:00"
-        },
-        {
-          "title": "9 أبريل عام 1948مذبحة دير ياسينيوم أبيدت قرية فلسطينية بالكامل",
-          "link": "https://www.youtube.com/watch?v=8isRsBzSrkI",
-          "videoId": "8isRsBzSrkI",
-          "pubDate": "2026-04-09T12:06:46+00:00"
         }
       ],
       "ok": true
