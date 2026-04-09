@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-09T19:55:18.259562+00:00",
+  "updated": "2026-04-09T20:38:18.325979+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "لحظة افتراس القرش الدوّار لأسراب السردين",
+          "link": "https://www.youtube.com/watch?v=uBJsIuleYDs",
+          "videoId": "uBJsIuleYDs",
+          "pubDate": "2026-04-09T20:00:01+00:00"
+        },
+        {
           "title": "آخر أسرار البشرية..كيف غيرت الاكتشافات الصينية مفهومنا عن تاريخ البشر؟",
           "link": "https://www.youtube.com/watch?v=_xgxtWB9fUc",
           "videoId": "_xgxtWB9fUc",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=i6rt-DppmaM",
           "videoId": "i6rt-DppmaM",
           "pubDate": "2026-04-09T18:00:01+00:00"
-        },
-        {
-          "title": "عام 1998.. رصاص الاحتلال يلاحق الكاميرات ولا يعترف بالسترات الصحفية",
-          "link": "https://www.youtube.com/watch?v=PctAtLYsQLU",
-          "videoId": "PctAtLYsQLU",
-          "pubDate": "2026-04-09T17:00:00+00:00"
         }
       ],
       "ok": true
