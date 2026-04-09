@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-09T16:09:31.348072+00:00",
+  "updated": "2026-04-09T17:50:49.143610+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "عام 1998.. رصاص الاحتلال يلاحق الكاميرات ولا يعترف بالسترات الصحفية",
+          "link": "https://www.youtube.com/watch?v=PctAtLYsQLU",
+          "videoId": "PctAtLYsQLU",
+          "pubDate": "2026-04-09T17:00:00+00:00"
+        },
+        {
           "title": "العودة إلى الطبيعة الحل الذي أنقذ مزرعة من الانهيار",
           "link": "https://www.youtube.com/watch?v=hyUBvs8Klm4",
           "videoId": "hyUBvs8Klm4",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=8isRsBzSrkI",
           "videoId": "8isRsBzSrkI",
           "pubDate": "2026-04-09T12:06:46+00:00"
-        },
-        {
-          "title": "نظام \"الري بالتنقيط\" ابتكار يعود للعالم الأندلسي ابن العوام",
-          "link": "https://www.youtube.com/watch?v=Yqo7ZnrarUY",
-          "videoId": "Yqo7ZnrarUY",
-          "pubDate": "2026-04-09T11:00:01+00:00"
         }
       ],
       "ok": true
@@ -553,6 +553,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "وثائقي | هجمات سيبرانية واختراق أنظمة: كيف تعمل عصابات الابتزاز الرقمي؟ | وثائقية دي دبليو",
+          "link": "https://www.youtube.com/watch?v=OvDIHb5UlX0",
+          "videoId": "OvDIHb5UlX0",
+          "pubDate": "2026-04-09T17:00:37+00:00"
+        },
+        {
           "title": "العمل في مجال التمريض في ألمانيا",
           "link": "https://www.youtube.com/watch?v=KUS0YIvq3Kw",
           "videoId": "KUS0YIvq3Kw",
@@ -563,12 +569,6 @@
           "link": "https://www.youtube.com/watch?v=c0qLjGHDW2E",
           "videoId": "c0qLjGHDW2E",
           "pubDate": "2026-04-08T18:00:40+00:00"
-        },
-        {
-          "title": "كيف يشتغل مفاعل الاندماج النووي؟",
-          "link": "https://www.youtube.com/watch?v=0ZgRMC9yh74",
-          "videoId": "0ZgRMC9yh74",
-          "pubDate": "2026-04-08T11:40:31+00:00"
         }
       ],
       "ok": true
