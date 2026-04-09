@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-09T10:59:02.974557+00:00",
+  "updated": "2026-04-09T11:53:53.228531+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "نظام \"الري بالتنقيط\" ابتكار يعود للعالم الأندلسي ابن العوام",
+          "link": "https://www.youtube.com/watch?v=Yqo7ZnrarUY",
+          "videoId": "Yqo7ZnrarUY",
+          "pubDate": "2026-04-09T11:00:01+00:00"
+        },
+        {
           "title": "\"سأعمل في الجبل بكل طاقتي\" أم تونسية تكافح لتأمين نفقات عملية جراحية لابنتها",
           "link": "https://www.youtube.com/watch?v=PgX0gsaelUk",
           "videoId": "PgX0gsaelUk",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=sNkdvQcYAUM",
           "videoId": "sNkdvQcYAUM",
           "pubDate": "2026-04-09T08:00:01+00:00"
-        },
-        {
-          "title": "\"الحلقة والقوال\" بصمة عبد القادر علولة في قلب المسرح الجزائري",
-          "link": "https://www.youtube.com/watch?v=ff5p_chVKSI",
-          "videoId": "ff5p_chVKSI",
-          "pubDate": "2026-04-08T21:00:01+00:00"
         }
       ],
       "ok": true
