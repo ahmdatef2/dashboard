@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-10T15:38:43.546568+00:00",
+  "updated": "2026-04-10T16:37:53.231638+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -371,6 +371,12 @@
       "feedTitle": "أخضر",
       "items": [
         {
+          "title": "كيف توقف صوتك الداخلي؟🤫  كتاب (الجلاد تحت جلدي) د. عماد رشاد عثمان #أخضر",
+          "link": "https://www.youtube.com/watch?v=-D714MCDHwk",
+          "videoId": "-D714MCDHwk",
+          "pubDate": "2026-04-10T16:00:00+00:00"
+        },
+        {
           "title": "نفس واحد ممكن يكون الأخير.. الاستروكس 🚫| على الماشي #أخضر",
           "link": "https://www.youtube.com/watch?v=NCNOYkECmOU",
           "videoId": "NCNOYkECmOU",
@@ -381,12 +387,6 @@
           "link": "https://www.youtube.com/watch?v=E87ojkdm3eA",
           "videoId": "E87ojkdm3eA",
           "pubDate": "2026-04-06T11:50:33+00:00"
-        },
-        {
-          "title": "شئ جديد قادم! #أخضر",
-          "link": "https://www.youtube.com/watch?v=6obWW0bucME",
-          "videoId": "6obWW0bucME",
-          "pubDate": "2026-04-04T20:53:12+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "الرسالة وصلت والصحفيون يواصلون نقل الحقيقة",
+          "link": "https://www.youtube.com/watch?v=7GFUzK5d_8o",
+          "videoId": "7GFUzK5d_8o",
+          "pubDate": "2026-04-10T16:00:01+00:00"
+        },
+        {
           "title": "في 25 ديسمبر 1889.. لماذا اختار عبد الله كويليام هذا التاريخ لافتتاح مسجد ليفربول؟",
           "link": "https://www.youtube.com/watch?v=gG2S--N2L88",
           "videoId": "gG2S--N2L88",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=l9mQro-lK1Q",
           "videoId": "l9mQro-lK1Q",
           "pubDate": "2026-04-10T13:00:01+00:00"
-        },
-        {
-          "title": "صدام حسين.. بين الأسطورة والواقع | الجزء الأول",
-          "link": "https://www.youtube.com/watch?v=FncOGim7um8",
-          "videoId": "FncOGim7um8",
-          "pubDate": "2026-04-10T11:59:31+00:00"
         }
       ],
       "ok": true
