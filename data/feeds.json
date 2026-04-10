@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-10T16:37:53.231638+00:00",
+  "updated": "2026-04-10T17:38:24.232149+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -59,6 +59,12 @@
       "feedTitle": "Infotech4you - مروي سليمان",
       "items": [
         {
+          "title": "جوجل عملت عظمة في Gemini | تحديث ضخم لازم تشوفه",
+          "link": "https://www.youtube.com/watch?v=WhLviFguvN0",
+          "videoId": "WhLviFguvN0",
+          "pubDate": "2026-04-10T17:13:45+00:00"
+        },
+        {
           "title": "قوة ثنائية خارقة NotebookLM + Claude  1 #الذكاء_الاصطناعي #ai",
           "link": "https://www.youtube.com/watch?v=47KIurn14u8",
           "videoId": "47KIurn14u8",
@@ -69,12 +75,6 @@
           "link": "https://www.youtube.com/watch?v=2MwH3L4pNxU",
           "videoId": "2MwH3L4pNxU",
           "pubDate": "2026-04-08T17:43:47+00:00"
-        },
-        {
-          "title": "أسهل طريقة لتشغيل gemma 4 على جهازك بدون انترنت!",
-          "link": "https://www.youtube.com/watch?v=85x_tR1QzrM",
-          "videoId": "85x_tR1QzrM",
-          "pubDate": "2026-04-07T14:53:07+00:00"
         }
       ],
       "ok": true
@@ -267,6 +267,12 @@
       "feedTitle": "أكاديمية ريان | Ryan Academy",
       "items": [
         {
+          "title": "وداعًا للمبرمجين؟ 😳 فريق كامل بيبني موقع كامل لوحده! (Atoms) بضغطة زرار",
+          "link": "https://www.youtube.com/watch?v=6TqOCOzJCFw",
+          "videoId": "6TqOCOzJCFw",
+          "pubDate": "2026-04-10T17:00:07+00:00"
+        },
+        {
           "title": "ازاي تقدر توصل لـ API key مجاني لاشهر الموديلات بضغطة زرار واحده",
           "link": "https://www.youtube.com/watch?v=but1RdrxLtc",
           "videoId": "but1RdrxLtc",
@@ -277,12 +283,6 @@
           "link": "https://www.youtube.com/watch?v=PNm4I1J_U8I",
           "videoId": "PNm4I1J_U8I",
           "pubDate": "2026-04-08T16:00:47+00:00"
-        },
-        {
-          "title": "نشر وتحديث مشاريع Google AI Studio لحظيًا بدون خبرة تقنية",
-          "link": "https://www.youtube.com/watch?v=3QPdi9ZMx2M",
-          "videoId": "3QPdi9ZMx2M",
-          "pubDate": "2026-04-05T16:00:04+00:00"
         }
       ],
       "ok": true
@@ -501,6 +501,12 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "أردوغان وبوتين شريكان لا يثقان ببعضهما",
+          "link": "https://www.youtube.com/watch?v=S5-dQncRGTM",
+          "videoId": "S5-dQncRGTM",
+          "pubDate": "2026-04-10T16:53:32+00:00"
+        },
+        {
           "title": "كيف سيزرع البشر الطعام خارج الأرض؟ | الزراعة في الفضاء | الشرق الوثائقية",
           "link": "https://www.youtube.com/watch?v=QJlM7EvyGQM",
           "videoId": "QJlM7EvyGQM",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=FDWcYtEFp8E",
           "videoId": "FDWcYtEFp8E",
           "pubDate": "2026-04-08T22:00:13+00:00"
-        },
-        {
-          "title": "رونالد ريغان",
-          "link": "https://www.youtube.com/watch?v=4voJpk5z4Vs",
-          "videoId": "4voJpk5z4Vs",
-          "pubDate": "2026-04-08T16:15:00+00:00"
         }
       ],
       "ok": true
@@ -553,6 +553,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "وثائقي | لماذا يعشق الألمان السيارات؟ | وثائقية دي دبليو",
+          "link": "https://www.youtube.com/watch?v=AJUyO2tswDI",
+          "videoId": "AJUyO2tswDI",
+          "pubDate": "2026-04-10T17:00:16+00:00"
+        },
+        {
           "title": "هل للأخطبوط تسعة أدمغة؟",
           "link": "https://www.youtube.com/watch?v=6o-FeQvD-dc",
           "videoId": "6o-FeQvD-dc",
@@ -563,12 +569,6 @@
           "link": "https://www.youtube.com/watch?v=OvDIHb5UlX0",
           "videoId": "OvDIHb5UlX0",
           "pubDate": "2026-04-09T17:00:37+00:00"
-        },
-        {
-          "title": "العمل في مجال التمريض في ألمانيا",
-          "link": "https://www.youtube.com/watch?v=KUS0YIvq3Kw",
-          "videoId": "KUS0YIvq3Kw",
-          "pubDate": "2026-04-09T12:00:36+00:00"
         }
       ],
       "ok": true
