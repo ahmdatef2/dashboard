@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-10T11:37:45.022256+00:00",
+  "updated": "2026-04-10T12:39:18.677022+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "صدام حسين.. بين الأسطورة والواقع | الجزء الأول",
+          "link": "https://www.youtube.com/watch?v=FncOGim7um8",
+          "videoId": "FncOGim7um8",
+          "pubDate": "2026-04-10T11:59:31+00:00"
+        },
+        {
           "title": "مقابل 5 دولارات في اليوم.. نساء تونسيات في مواجهة الخطر يوميا",
           "link": "https://www.youtube.com/watch?v=SkTFBovwU6U",
           "videoId": "SkTFBovwU6U",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=r5YK2HXH1v4",
           "videoId": "r5YK2HXH1v4",
           "pubDate": "2026-04-10T08:00:01+00:00"
-        },
-        {
-          "title": "لحظة افتراس القرش الدوّار لأسراب السردين",
-          "link": "https://www.youtube.com/watch?v=uBJsIuleYDs",
-          "videoId": "uBJsIuleYDs",
-          "pubDate": "2026-04-09T20:00:01+00:00"
         }
       ],
       "ok": true
