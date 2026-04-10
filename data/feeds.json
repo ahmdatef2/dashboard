@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-10T17:38:24.232149+00:00",
+  "updated": "2026-04-10T18:36:05.895657+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -111,6 +111,12 @@
       "feedTitle": "AMR SALEM _ عمرو سالم",
       "items": [
         {
+          "title": "API مجاني للنموذج الجديد الرهيب GLM 5.1",
+          "link": "https://www.youtube.com/watch?v=PVzydNLDpyY",
+          "videoId": "PVzydNLDpyY",
+          "pubDate": "2026-04-10T17:34:24+00:00"
+        },
+        {
           "title": "Meta ai تضرب Google و Claude باقوي نموذج Muse Spark",
           "link": "https://www.youtube.com/watch?v=wfKN6_rH8EQ",
           "videoId": "wfKN6_rH8EQ",
@@ -121,12 +127,6 @@
           "link": "https://www.youtube.com/watch?v=wTo3Lpx43yc",
           "videoId": "wTo3Lpx43yc",
           "pubDate": "2026-04-08T16:31:08+00:00"
-        },
-        {
-          "title": "طريقة رفع موقعك على استضافة عالمية مجانية ومقبولة في أدسنس (دليل شامل 2026) 🚀",
-          "link": "https://www.youtube.com/watch?v=NQ4HaFiGffY",
-          "videoId": "NQ4HaFiGffY",
-          "pubDate": "2026-04-05T17:36:07+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "أول تجربة لصدام حسين خلف القضبان",
+          "link": "https://www.youtube.com/watch?v=gVI7zdu2tDY",
+          "videoId": "gVI7zdu2tDY",
+          "pubDate": "2026-04-10T18:00:01+00:00"
+        },
+        {
           "title": "الرسالة وصلت والصحفيون يواصلون نقل الحقيقة",
           "link": "https://www.youtube.com/watch?v=7GFUzK5d_8o",
           "videoId": "7GFUzK5d_8o",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=gG2S--N2L88",
           "videoId": "gG2S--N2L88",
           "pubDate": "2026-04-10T15:00:00+00:00"
-        },
-        {
-          "title": "ساطع الحصري فصل مهدي الجواهري.. لماذا؟",
-          "link": "https://www.youtube.com/watch?v=l9mQro-lK1Q",
-          "videoId": "l9mQro-lK1Q",
-          "pubDate": "2026-04-10T13:00:01+00:00"
         }
       ],
       "ok": true
