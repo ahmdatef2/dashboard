@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-10T10:45:52.541310+00:00",
+  "updated": "2026-04-10T11:37:45.022256+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -33,7 +33,7 @@
       "feedTitle": "كل يوم موقع جديد",
       "items": [
         {
-          "title": "كيف تصنع إعلان منتج بالذكاء الاصطناعي بدون مونتاج وبدون تكلفة",
+          "title": "اصنع إعلان منتج بالذكاء الاصطناعي بدون مونتاج وبدون تكلفة",
           "link": "https://www.youtube.com/watch?v=MReyhdRXeYY",
           "videoId": "MReyhdRXeYY",
           "pubDate": "2026-04-09T15:19:45+00:00"
@@ -189,7 +189,7 @@
       "feedTitle": "ذكاء اصطناعي عربي",
       "items": [
         {
-          "title": "هل يمكن تدريب AI بدون كود؟ الإجابة هنا!",
+          "title": "أسهل طريقة لتدريب نماذج LLM بدون خبرة برمجية!",
           "link": "https://www.youtube.com/watch?v=xoDUakHtis4",
           "videoId": "xoDUakHtis4",
           "pubDate": "2026-04-03T18:00:06+00:00"
@@ -397,6 +397,12 @@
       "feedTitle": "شخبطة Sha5bata",
       "items": [
         {
+          "title": "حرر نفسك من التفكير في اللي ظلمك؟ (آية هتغير حياتك) #شخبطة",
+          "link": "https://www.youtube.com/watch?v=iUJI5T94jbc",
+          "videoId": "iUJI5T94jbc",
+          "pubDate": "2026-04-10T11:15:05+00:00"
+        },
+        {
           "title": "هل الزواج ضرورة ؟! فيديو هيغير نظرتك للعلاقات!",
           "link": "https://www.youtube.com/watch?v=iUYBa2fVEmM",
           "videoId": "iUYBa2fVEmM",
@@ -407,12 +413,6 @@
           "link": "https://www.youtube.com/watch?v=Aobz3_jEajQ",
           "videoId": "Aobz3_jEajQ",
           "pubDate": "2026-03-26T13:00:13+00:00"
-        },
-        {
-          "title": "30 رسالة عشان تحب الصلاة.. الرسالة 5",
-          "link": "https://www.youtube.com/watch?v=XhtqZm56Pss",
-          "videoId": "XhtqZm56Pss",
-          "pubDate": "2026-02-27T13:21:19+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "مقابل 5 دولارات في اليوم.. نساء تونسيات في مواجهة الخطر يوميا",
+          "link": "https://www.youtube.com/watch?v=SkTFBovwU6U",
+          "videoId": "SkTFBovwU6U",
+          "pubDate": "2026-04-10T11:00:01+00:00"
+        },
+        {
           "title": "أم أسير تدعو الله أن يطيل عمرها لترى ابنها",
           "link": "https://www.youtube.com/watch?v=r5YK2HXH1v4",
           "videoId": "r5YK2HXH1v4",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=uBJsIuleYDs",
           "videoId": "uBJsIuleYDs",
           "pubDate": "2026-04-09T20:00:01+00:00"
-        },
-        {
-          "title": "آخر أسرار البشرية..كيف غيرت الاكتشافات الصينية مفهومنا عن تاريخ البشر؟",
-          "link": "https://www.youtube.com/watch?v=_xgxtWB9fUc",
-          "videoId": "_xgxtWB9fUc",
-          "pubDate": "2026-04-09T19:00:28+00:00"
         }
       ],
       "ok": true
