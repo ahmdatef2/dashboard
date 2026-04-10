@@ -1,11 +1,17 @@
 {
-  "updated": "2026-04-10T19:34:54.927066+00:00",
+  "updated": "2026-04-10T20:22:40.118860+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
       "name": "د. هبة أحمد",
       "feedTitle": "Heba Ahmed - هبة احمد",
       "items": [
+        {
+          "title": "الفيديو الوحيد اللي محتاجه عشان تفهم Claude Cowork",
+          "link": "https://www.youtube.com/watch?v=k-LXConhxi0",
+          "videoId": "k-LXConhxi0",
+          "pubDate": "2026-04-10T19:44:29+00:00"
+        },
         {
           "title": "300$ مجانًا مع Gemini… الحل في Vertex AI Studio",
           "link": "https://www.youtube.com/watch?v=E-14TwoW-84",
@@ -17,12 +23,6 @@
           "link": "https://www.youtube.com/watch?v=Clhl4qNZroc",
           "videoId": "Clhl4qNZroc",
           "pubDate": "2026-04-04T12:43:22+00:00"
-        },
-        {
-          "title": "Claude Skills: السر اللي هيغير شغلك بالكامل (كورس مجاني)",
-          "link": "https://www.youtube.com/watch?v=5Uv8ooxFXLY",
-          "videoId": "5Uv8ooxFXLY",
-          "pubDate": "2026-04-03T21:53:24+00:00"
         }
       ],
       "ok": true
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "باريس في الخمسينيات كيف غيّرت هجمات الثوار الجزائريين المجتمع الفرنسي؟",
+          "link": "https://www.youtube.com/watch?v=Dmy0QLW3FOo",
+          "videoId": "Dmy0QLW3FOo",
+          "pubDate": "2026-04-10T20:00:01+00:00"
+        },
+        {
+          "title": "أسرار في قلب الأدغال.. اكتشافات صادمة من حضارات مفقودة إلى ظواهر غريبة | الحلقة الرابعة",
+          "link": "https://www.youtube.com/watch?v=rHofZMfTEmM",
+          "videoId": "rHofZMfTEmM",
+          "pubDate": "2026-04-10T19:45:02+00:00"
+        },
+        {
           "title": "مقطع أذان حصد 300 مليون مشاهدة",
           "link": "https://www.youtube.com/watch?v=UT91KhTk-GE",
           "videoId": "UT91KhTk-GE",
           "pubDate": "2026-04-10T19:00:01+00:00"
-        },
-        {
-          "title": "أول تجربة لصدام حسين خلف القضبان",
-          "link": "https://www.youtube.com/watch?v=gVI7zdu2tDY",
-          "videoId": "gVI7zdu2tDY",
-          "pubDate": "2026-04-10T18:00:01+00:00"
-        },
-        {
-          "title": "الرسالة وصلت والصحفيون يواصلون نقل الحقيقة",
-          "link": "https://www.youtube.com/watch?v=7GFUzK5d_8o",
-          "videoId": "7GFUzK5d_8o",
-          "pubDate": "2026-04-10T16:00:01+00:00"
         }
       ],
       "ok": true
@@ -527,6 +527,12 @@
       "feedTitle": "Nat Geo Abu Dhabi",
       "items": [
         {
+          "title": "الحلقة الأولى | الجزر المتجمدة | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=4nnWZw-OoUE",
+          "videoId": "4nnWZw-OoUE",
+          "pubDate": "2026-04-10T19:54:57+00:00"
+        },
+        {
           "title": "ابتداءً 13 أبريل | إخفاقات البناء | ناشونال جيوغرافيك أبوظبي",
           "link": "https://www.youtube.com/watch?v=pgNxbFDp6i0",
           "videoId": "pgNxbFDp6i0",
@@ -537,12 +543,6 @@
           "link": "https://www.youtube.com/watch?v=wiQINXmk6b8",
           "videoId": "wiQINXmk6b8",
           "pubDate": "2026-04-10T13:57:35+00:00"
-        },
-        {
-          "title": "موسم جديد | فريق إنقاذ الطرق الجليدية | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=5i6wQEEkpck",
-          "videoId": "5i6wQEEkpck",
-          "pubDate": "2026-04-10T13:54:30+00:00"
         }
       ],
       "ok": true
