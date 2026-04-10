@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-10T09:57:28.805317+00:00",
+  "updated": "2026-04-10T10:45:52.541310+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -527,6 +527,12 @@
       "feedTitle": "Nat Geo Abu Dhabi",
       "items": [
         {
+          "title": "موسم جديد | فريق إنقاذ الطرق الجليدية | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=CNL9wBvNd9Y",
+          "videoId": "CNL9wBvNd9Y",
+          "pubDate": "2026-04-10T10:07:49+00:00"
+        },
+        {
           "title": "الأحذية الرياضية | صنع في يوم واحد | ناشونال جيوغرافيك أبوظبي",
           "link": "https://www.youtube.com/watch?v=E_TvTDpxIUA",
           "videoId": "E_TvTDpxIUA",
@@ -537,12 +543,6 @@
           "link": "https://www.youtube.com/watch?v=g2Su6so8LVQ",
           "videoId": "g2Su6so8LVQ",
           "pubDate": "2026-04-05T19:50:25+00:00"
-        },
-        {
-          "title": "يُعرض 6 أبريل | أسرار النحل | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=dQ1RV9OHvBg",
-          "videoId": "dQ1RV9OHvBg",
-          "pubDate": "2026-04-04T19:44:57+00:00"
         }
       ],
       "ok": true
@@ -552,6 +552,12 @@
       "name": "DW عربية وثائقي",
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
+        {
+          "title": "هل للأخطبوط تسعة أدمغة؟",
+          "link": "https://www.youtube.com/watch?v=6o-FeQvD-dc",
+          "videoId": "6o-FeQvD-dc",
+          "pubDate": "2026-04-10T10:45:00+00:00"
+        },
         {
           "title": "وثائقي | هجمات سيبرانية واختراق أنظمة: كيف تعمل عصابات الابتزاز الرقمي؟ | وثائقية دي دبليو",
           "link": "https://www.youtube.com/watch?v=OvDIHb5UlX0",
@@ -563,12 +569,6 @@
           "link": "https://www.youtube.com/watch?v=KUS0YIvq3Kw",
           "videoId": "KUS0YIvq3Kw",
           "pubDate": "2026-04-09T12:00:36+00:00"
-        },
-        {
-          "title": "وثائقي | أحجار لتخليد ذكرى ضحايا النازية | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=c0qLjGHDW2E",
-          "videoId": "c0qLjGHDW2E",
-          "pubDate": "2026-04-08T18:00:40+00:00"
         }
       ],
       "ok": true
