@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-10T18:36:05.895657+00:00",
+  "updated": "2026-04-10T19:34:54.927066+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "مقطع أذان حصد 300 مليون مشاهدة",
+          "link": "https://www.youtube.com/watch?v=UT91KhTk-GE",
+          "videoId": "UT91KhTk-GE",
+          "pubDate": "2026-04-10T19:00:01+00:00"
+        },
+        {
           "title": "أول تجربة لصدام حسين خلف القضبان",
           "link": "https://www.youtube.com/watch?v=gVI7zdu2tDY",
           "videoId": "gVI7zdu2tDY",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=7GFUzK5d_8o",
           "videoId": "7GFUzK5d_8o",
           "pubDate": "2026-04-10T16:00:01+00:00"
-        },
-        {
-          "title": "في 25 ديسمبر 1889.. لماذا اختار عبد الله كويليام هذا التاريخ لافتتاح مسجد ليفربول؟",
-          "link": "https://www.youtube.com/watch?v=gG2S--N2L88",
-          "videoId": "gG2S--N2L88",
-          "pubDate": "2026-04-10T15:00:00+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "إتفاقية أوسلو للسلام",
+          "link": "https://www.youtube.com/watch?v=sFkDEO7bFoE",
+          "videoId": "sFkDEO7bFoE",
+          "pubDate": "2026-04-10T19:00:51+00:00"
+        },
         {
           "title": "أردوغان وبوتين شريكان لا يثقان ببعضهما",
           "link": "https://www.youtube.com/watch?v=S5-dQncRGTM",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=QJlM7EvyGQM",
           "videoId": "QJlM7EvyGQM",
           "pubDate": "2026-04-09T22:00:29+00:00"
-        },
-        {
-          "title": "هل خدع هتلر العالم بأسطوله البحري؟ | كواليس التاريخ",
-          "link": "https://www.youtube.com/watch?v=FDWcYtEFp8E",
-          "videoId": "FDWcYtEFp8E",
-          "pubDate": "2026-04-08T22:00:13+00:00"
         }
       ],
       "ok": true
