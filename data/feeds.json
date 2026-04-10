@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-10T20:22:40.118860+00:00",
+  "updated": "2026-04-10T21:24:40.840854+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "كيف عامل صدام حسين أقرب الناس إليه من قيادات حزب البعث؟",
+          "link": "https://www.youtube.com/watch?v=jsOLPx4zsYo",
+          "videoId": "jsOLPx4zsYo",
+          "pubDate": "2026-04-10T21:00:01+00:00"
+        },
+        {
           "title": "باريس في الخمسينيات كيف غيّرت هجمات الثوار الجزائريين المجتمع الفرنسي؟",
           "link": "https://www.youtube.com/watch?v=Dmy0QLW3FOo",
           "videoId": "Dmy0QLW3FOo",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=rHofZMfTEmM",
           "videoId": "rHofZMfTEmM",
           "pubDate": "2026-04-10T19:45:02+00:00"
-        },
-        {
-          "title": "مقطع أذان حصد 300 مليون مشاهدة",
-          "link": "https://www.youtube.com/watch?v=UT91KhTk-GE",
-          "videoId": "UT91KhTk-GE",
-          "pubDate": "2026-04-10T19:00:01+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "الحياة في الفضاء.. أسرار محطة الفضاء الدولية وروادها فوق الأرض | الشرق الوثائقية",
+          "link": "https://www.youtube.com/watch?v=6xQoOds_2hc",
+          "videoId": "6xQoOds_2hc",
+          "pubDate": "2026-04-10T21:00:11+00:00"
+        },
         {
           "title": "إتفاقية أوسلو للسلام",
           "link": "https://www.youtube.com/watch?v=sFkDEO7bFoE",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=S5-dQncRGTM",
           "videoId": "S5-dQncRGTM",
           "pubDate": "2026-04-10T16:53:32+00:00"
-        },
-        {
-          "title": "كيف سيزرع البشر الطعام خارج الأرض؟ | الزراعة في الفضاء | الشرق الوثائقية",
-          "link": "https://www.youtube.com/watch?v=QJlM7EvyGQM",
-          "videoId": "QJlM7EvyGQM",
-          "pubDate": "2026-04-09T22:00:29+00:00"
         }
       ],
       "ok": true
