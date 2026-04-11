@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-11T19:26:50.852755+00:00",
+  "updated": "2026-04-11T20:18:00.883331+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "خدمة خاصة تقدّمها لكم الجزيرة.. قريبًا",
+          "link": "https://www.youtube.com/watch?v=Lqq07_MRaSQ",
+          "videoId": "Lqq07_MRaSQ",
+          "pubDate": "2026-04-11T19:43:35+00:00"
+        },
+        {
           "title": "صدام حسين.. بين الأسطورة والواقع | الجزء الثاني",
           "link": "https://www.youtube.com/watch?v=XOoQMQ-N_KI",
           "videoId": "XOoQMQ-N_KI",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=NkHIQAo2Co4",
           "videoId": "NkHIQAo2Co4",
           "pubDate": "2026-04-11T18:00:01+00:00"
-        },
-        {
-          "title": "لماذا أصرّ عبد القادر الحسيني على مشاركة أبيه في انتفاضة يافا 1933؟",
-          "link": "https://www.youtube.com/watch?v=P7S5V2BA8Sc",
-          "videoId": "P7S5V2BA8Sc",
-          "pubDate": "2026-04-11T17:00:01+00:00"
         }
       ],
       "ok": true
