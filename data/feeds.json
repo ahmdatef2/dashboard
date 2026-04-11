@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-11T09:28:48.112767+00:00",
+  "updated": "2026-04-11T10:21:12.708606+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "اعتراف بخط يد جندي إسرائيلي: \"هذا هو المتجر الذي صودرت منه هذه الصور\"",
+          "link": "https://www.youtube.com/watch?v=ptVUKFBMWBc",
+          "videoId": "ptVUKFBMWBc",
+          "pubDate": "2026-04-11T10:00:01+00:00"
+        },
+        {
           "title": "كنيسة القيامة في القدس.. لماذا مفتاحها بيد عائلة مقدسية مسلمة؟",
           "link": "https://www.youtube.com/watch?v=VMeTGwZzx9I",
           "videoId": "VMeTGwZzx9I",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=jsOLPx4zsYo",
           "videoId": "jsOLPx4zsYo",
           "pubDate": "2026-04-10T21:00:01+00:00"
-        },
-        {
-          "title": "باريس في الخمسينيات كيف غيّرت هجمات الثوار الجزائريين المجتمع الفرنسي؟",
-          "link": "https://www.youtube.com/watch?v=Dmy0QLW3FOo",
-          "videoId": "Dmy0QLW3FOo",
-          "pubDate": "2026-04-10T20:00:01+00:00"
         }
       ],
       "ok": true
