@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-11T21:20:58.418142+00:00",
+  "updated": "2026-04-11T22:18:16.719342+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -293,6 +293,12 @@
       "feedTitle": "تكنوفلاش – AI & Tech",
       "items": [
         {
+          "title": "وداعاً كانفا؟ جوجل تطلق Google Vids رسمياً منصه للفيديوهات.. والخطة المجانية \"صدمة\"!",
+          "link": "https://www.youtube.com/watch?v=qAvXYz2ywyk",
+          "videoId": "qAvXYz2ywyk",
+          "pubDate": "2026-04-11T21:47:29+00:00"
+        },
+        {
           "title": "صنعت برنامج محاسبة بـ claude opus 4.6 free مجاناً (بدون كود!)  Claude ai | antigravity google",
           "link": "https://www.youtube.com/watch?v=u5mZRFGCs8Y",
           "videoId": "u5mZRFGCs8Y",
@@ -303,12 +309,6 @@
           "link": "https://www.youtube.com/watch?v=uZ7K8z5lumE",
           "videoId": "uZ7K8z5lumE",
           "pubDate": "2026-04-02T20:40:47+00:00"
-        },
-        {
-          "title": "موديل كسر كل التوقعات mimo-v2-pro 🔥 هل يكتب نهاية claude opus ؟ |   xiaomi mimo شاومي ",
-          "link": "https://www.youtube.com/watch?v=RCzoiuhwrF0",
-          "videoId": "RCzoiuhwrF0",
-          "pubDate": "2026-03-29T19:39:32+00:00"
         }
       ],
       "ok": true
