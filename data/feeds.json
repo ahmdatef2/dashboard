@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-11T18:25:06.431796+00:00",
+  "updated": "2026-04-11T19:26:50.852755+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -299,7 +299,7 @@
           "pubDate": "2026-04-09T18:06:02+00:00"
         },
         {
-          "title": "Claude Opus 4.6 Free مجاناً | بديل ChatGPT الأقوى لم تسمع عنه",
+          "title": "استخدام نماذج الذكاء الاصطناعي المتقدمة مثل  claude opus 4.6 free  GPT 5.4 FREE",
           "link": "https://www.youtube.com/watch?v=uZ7K8z5lumE",
           "videoId": "uZ7K8z5lumE",
           "pubDate": "2026-04-02T20:40:47+00:00"
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "صدام حسين.. بين الأسطورة والواقع | الجزء الثاني",
+          "link": "https://www.youtube.com/watch?v=XOoQMQ-N_KI",
+          "videoId": "XOoQMQ-N_KI",
+          "pubDate": "2026-04-11T18:45:02+00:00"
+        },
+        {
           "title": "بعد أن كبرن وافترقن.. نساء يؤسسن فرقة غنائية في قابس",
           "link": "https://www.youtube.com/watch?v=NkHIQAo2Co4",
           "videoId": "NkHIQAo2Co4",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=P7S5V2BA8Sc",
           "videoId": "P7S5V2BA8Sc",
           "pubDate": "2026-04-11T17:00:01+00:00"
-        },
-        {
-          "title": "قتال من أجل الإناث على سواحل باتاغونيا",
-          "link": "https://www.youtube.com/watch?v=FuXY_aw0QNs",
-          "videoId": "FuXY_aw0QNs",
-          "pubDate": "2026-04-11T15:00:00+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "سويسرا.. شغف الكريستال | الشرق الوثائقية",
+          "link": "https://www.youtube.com/watch?v=rd5Rebs-5oQ",
+          "videoId": "rd5Rebs-5oQ",
+          "pubDate": "2026-04-11T19:00:44+00:00"
+        },
         {
           "title": "المهاجم هو زوجها السابق..",
           "link": "https://www.youtube.com/watch?v=RpWWAGIIS48",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=iCmDiTsw8Qw",
           "videoId": "iCmDiTsw8Qw",
           "pubDate": "2026-04-11T12:46:07+00:00"
-        },
-        {
-          "title": "الحياة في الفضاء.. أسرار محطة الفضاء الدولية وروادها فوق الأرض | الشرق الوثائقية",
-          "link": "https://www.youtube.com/watch?v=6xQoOds_2hc",
-          "videoId": "6xQoOds_2hc",
-          "pubDate": "2026-04-10T21:00:11+00:00"
         }
       ],
       "ok": true
