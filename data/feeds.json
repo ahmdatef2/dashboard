@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-11T11:20:13.238254+00:00",
+  "updated": "2026-04-11T12:28:14.852628+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "سجين الآلة.. الرجل الذي عاش 70 عاما داخل أنبوب حديدي",
+          "link": "https://www.youtube.com/watch?v=jGRb6uG7VMc",
+          "videoId": "jGRb6uG7VMc",
+          "pubDate": "2026-04-11T11:30:01+00:00"
+        },
+        {
           "title": "اعتراف بخط يد جندي إسرائيلي: \"هذا هو المتجر الذي صودرت منه هذه الصور\"",
           "link": "https://www.youtube.com/watch?v=ptVUKFBMWBc",
           "videoId": "ptVUKFBMWBc",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=VMeTGwZzx9I",
           "videoId": "VMeTGwZzx9I",
           "pubDate": "2026-04-11T08:00:01+00:00"
-        },
-        {
-          "title": "كيف عامل صدام حسين أقرب الناس إليه من قيادات حزب البعث؟",
-          "link": "https://www.youtube.com/watch?v=jsOLPx4zsYo",
-          "videoId": "jsOLPx4zsYo",
-          "pubDate": "2026-04-10T21:00:01+00:00"
         }
       ],
       "ok": true
