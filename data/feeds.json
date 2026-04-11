@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-11T16:21:05.195490+00:00",
+  "updated": "2026-04-11T17:21:22.561362+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "لماذا أصرّ عبد القادر الحسيني على مشاركة أبيه في انتفاضة يافا 1933؟",
+          "link": "https://www.youtube.com/watch?v=P7S5V2BA8Sc",
+          "videoId": "P7S5V2BA8Sc",
+          "pubDate": "2026-04-11T17:00:01+00:00"
+        },
+        {
           "title": "قتال من أجل الإناث على سواحل باتاغونيا",
           "link": "https://www.youtube.com/watch?v=FuXY_aw0QNs",
           "videoId": "FuXY_aw0QNs",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=OSw6zU8NYBM",
           "videoId": "OSw6zU8NYBM",
           "pubDate": "2026-04-11T13:00:02+00:00"
-        },
-        {
-          "title": "سجين الآلة.. الرجل الذي عاش 70 عاما داخل أنبوب حديدي",
-          "link": "https://www.youtube.com/watch?v=jGRb6uG7VMc",
-          "videoId": "jGRb6uG7VMc",
-          "pubDate": "2026-04-11T11:30:01+00:00"
         }
       ],
       "ok": true
@@ -553,6 +553,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "وثائقي | السودان: أكبر أزمة إنسانية في العالم | وثائقية دي دبليو",
+          "link": "https://www.youtube.com/watch?v=m3LgO1heveQ",
+          "videoId": "m3LgO1heveQ",
+          "pubDate": "2026-04-11T17:00:54+00:00"
+        },
+        {
           "title": "وثائقي | لماذا يعشق الألمان السيارات؟ | وثائقية دي دبليو",
           "link": "https://www.youtube.com/watch?v=AJUyO2tswDI",
           "videoId": "AJUyO2tswDI",
@@ -563,12 +569,6 @@
           "link": "https://www.youtube.com/watch?v=6o-FeQvD-dc",
           "videoId": "6o-FeQvD-dc",
           "pubDate": "2026-04-10T10:45:00+00:00"
-        },
-        {
-          "title": "وثائقي | هجمات سيبرانية واختراق أنظمة: كيف تعمل عصابات الابتزاز الرقمي؟ | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=OvDIHb5UlX0",
-          "videoId": "OvDIHb5UlX0",
-          "pubDate": "2026-04-09T17:00:37+00:00"
         }
       ],
       "ok": true
