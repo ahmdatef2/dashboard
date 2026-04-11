@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-11T15:21:21.501907+00:00",
+  "updated": "2026-04-11T16:21:05.195490+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -33,6 +33,12 @@
       "feedTitle": "كل يوم موقع جديد",
       "items": [
         {
+          "title": "Google Vids: منصة جوجل لصناعة الفيديو… ومفاجأة في الخطة المجانية",
+          "link": "https://www.youtube.com/watch?v=j_h9k1DKZmc",
+          "videoId": "j_h9k1DKZmc",
+          "pubDate": "2026-04-11T16:01:38+00:00"
+        },
+        {
           "title": "بشكل مجاني 100% حتقدر تعمل إعلان لمنتجك بالذكاء الإصطناعي!",
           "link": "https://www.youtube.com/watch?v=MReyhdRXeYY",
           "videoId": "MReyhdRXeYY",
@@ -43,12 +49,6 @@
           "link": "https://www.youtube.com/watch?v=dypEwBX0Frw",
           "videoId": "dypEwBX0Frw",
           "pubDate": "2026-04-07T20:41:41+00:00"
-        },
-        {
-          "title": "شغّل نموذج جوجل الجديد على جهازك مجاناً وبدون إنترنت نهائيًا !",
-          "link": "https://www.youtube.com/watch?v=rH716ZrvBlk",
-          "videoId": "rH716ZrvBlk",
-          "pubDate": "2026-04-06T17:10:11+00:00"
         }
       ],
       "ok": true
@@ -215,6 +215,12 @@
       "feedTitle": "Mohamed Ansary",
       "items": [
         {
+          "title": "الدردشة مع الصور وتحويل ملف pdf إلى خريطة ذهنية مجاناً وبإحترافية",
+          "link": "https://www.youtube.com/watch?v=rndbgHg2Zg8",
+          "videoId": "rndbgHg2Zg8",
+          "pubDate": "2026-04-11T16:07:40+00:00"
+        },
+        {
           "title": "تحديث هام من جوجل تحويل الصورة إلى فيديو Veo3",
           "link": "https://www.youtube.com/watch?v=gFDaMZRWYEI",
           "videoId": "gFDaMZRWYEI",
@@ -225,12 +231,6 @@
           "link": "https://www.youtube.com/watch?v=gF2ZFsDn934",
           "videoId": "gF2ZFsDn934",
           "pubDate": "2026-04-08T14:34:38+00:00"
-        },
-        {
-          "title": "تخطي اكتشاف الكتابة بالذكاء الاصطناعي AI DETECTION",
-          "link": "https://www.youtube.com/watch?v=leGTkMm04u4",
-          "videoId": "leGTkMm04u4",
-          "pubDate": "2026-04-07T13:43:56+00:00"
         }
       ],
       "ok": true
@@ -501,6 +501,12 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "المهاجم هو زوجها السابق..",
+          "link": "https://www.youtube.com/watch?v=RpWWAGIIS48",
+          "videoId": "RpWWAGIIS48",
+          "pubDate": "2026-04-11T15:30:14+00:00"
+        },
+        {
           "title": "نهاية الحرب العالمية الثانية",
           "link": "https://www.youtube.com/watch?v=iCmDiTsw8Qw",
           "videoId": "iCmDiTsw8Qw",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=6xQoOds_2hc",
           "videoId": "6xQoOds_2hc",
           "pubDate": "2026-04-10T21:00:11+00:00"
-        },
-        {
-          "title": "إتفاقية أوسلو للسلام",
-          "link": "https://www.youtube.com/watch?v=sFkDEO7bFoE",
-          "videoId": "sFkDEO7bFoE",
-          "pubDate": "2026-04-10T19:00:51+00:00"
         }
       ],
       "ok": true
