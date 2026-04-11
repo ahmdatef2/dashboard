@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-11T17:21:22.561362+00:00",
+  "updated": "2026-04-11T18:25:06.431796+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -189,6 +189,12 @@
       "feedTitle": "ذكاء اصطناعي عربي",
       "items": [
         {
+          "title": "تفاصيل Gemma 4 التي لم يخبرك بها أحد!",
+          "link": "https://www.youtube.com/watch?v=MDgsrf6TnU0",
+          "videoId": "MDgsrf6TnU0",
+          "pubDate": "2026-04-11T18:15:06+00:00"
+        },
+        {
           "title": "أسهل طريقة لتدريب نماذج LLM بدون خبرة برمجية!",
           "link": "https://www.youtube.com/watch?v=xoDUakHtis4",
           "videoId": "xoDUakHtis4",
@@ -199,12 +205,6 @@
           "link": "https://www.youtube.com/watch?v=9nR8kVSDNZM",
           "videoId": "9nR8kVSDNZM",
           "pubDate": "2026-03-30T16:00:06+00:00"
-        },
-        {
-          "title": "🧠 تدريب Gemma للتحكم بروبوت… النتيجة غير متوقعة!",
-          "link": "https://www.youtube.com/watch?v=AiTufHK-SaA",
-          "videoId": "AiTufHK-SaA",
-          "pubDate": "2026-03-28T19:32:07+00:00"
         }
       ],
       "ok": true
@@ -214,6 +214,12 @@
       "name": "محمد أنصاري",
       "feedTitle": "Mohamed Ansary",
       "items": [
+        {
+          "title": "المصدر المتكامل لطلاب الدراسات العليا والباحثين",
+          "link": "https://www.youtube.com/watch?v=5T2c_FxT8rw",
+          "videoId": "5T2c_FxT8rw",
+          "pubDate": "2026-04-11T17:43:51+00:00"
+        },
         {
           "title": "الدردشة مع الصور وتحويل ملف pdf إلى خريطة ذهنية مجاناً وبإحترافية",
           "link": "https://www.youtube.com/watch?v=rndbgHg2Zg8",
@@ -225,12 +231,6 @@
           "link": "https://www.youtube.com/watch?v=gFDaMZRWYEI",
           "videoId": "gFDaMZRWYEI",
           "pubDate": "2026-04-09T10:53:37+00:00"
-        },
-        {
-          "title": "أداة رائعة للمساعدة في الكتابة الأكاديمية Jenni AI",
-          "link": "https://www.youtube.com/watch?v=gF2ZFsDn934",
-          "videoId": "gF2ZFsDn934",
-          "pubDate": "2026-04-08T14:34:38+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "بعد أن كبرن وافترقن.. نساء يؤسسن فرقة غنائية في قابس",
+          "link": "https://www.youtube.com/watch?v=NkHIQAo2Co4",
+          "videoId": "NkHIQAo2Co4",
+          "pubDate": "2026-04-11T18:00:01+00:00"
+        },
+        {
           "title": "لماذا أصرّ عبد القادر الحسيني على مشاركة أبيه في انتفاضة يافا 1933؟",
           "link": "https://www.youtube.com/watch?v=P7S5V2BA8Sc",
           "videoId": "P7S5V2BA8Sc",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=FuXY_aw0QNs",
           "videoId": "FuXY_aw0QNs",
           "pubDate": "2026-04-11T15:00:00+00:00"
-        },
-        {
-          "title": "سلالة نادرة من السلاحف كادت تندثر بسبب تسونامي 2004",
-          "link": "https://www.youtube.com/watch?v=OSw6zU8NYBM",
-          "videoId": "OSw6zU8NYBM",
-          "pubDate": "2026-04-11T13:00:02+00:00"
         }
       ],
       "ok": true
