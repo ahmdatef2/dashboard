@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-11T12:28:14.852628+00:00",
+  "updated": "2026-04-11T13:45:08.293301+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "سلالة نادرة من السلاحف كادت تندثر بسبب تسونامي 2004",
+          "link": "https://www.youtube.com/watch?v=OSw6zU8NYBM",
+          "videoId": "OSw6zU8NYBM",
+          "pubDate": "2026-04-11T13:00:02+00:00"
+        },
+        {
           "title": "سجين الآلة.. الرجل الذي عاش 70 عاما داخل أنبوب حديدي",
           "link": "https://www.youtube.com/watch?v=jGRb6uG7VMc",
           "videoId": "jGRb6uG7VMc",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=ptVUKFBMWBc",
           "videoId": "ptVUKFBMWBc",
           "pubDate": "2026-04-11T10:00:01+00:00"
-        },
-        {
-          "title": "كنيسة القيامة في القدس.. لماذا مفتاحها بيد عائلة مقدسية مسلمة؟",
-          "link": "https://www.youtube.com/watch?v=VMeTGwZzx9I",
-          "videoId": "VMeTGwZzx9I",
-          "pubDate": "2026-04-11T08:00:01+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "نهاية الحرب العالمية الثانية",
+          "link": "https://www.youtube.com/watch?v=iCmDiTsw8Qw",
+          "videoId": "iCmDiTsw8Qw",
+          "pubDate": "2026-04-11T12:46:07+00:00"
+        },
         {
           "title": "الحياة في الفضاء.. أسرار محطة الفضاء الدولية وروادها فوق الأرض | الشرق الوثائقية",
           "link": "https://www.youtube.com/watch?v=6xQoOds_2hc",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=sFkDEO7bFoE",
           "videoId": "sFkDEO7bFoE",
           "pubDate": "2026-04-10T19:00:51+00:00"
-        },
-        {
-          "title": "أردوغان وبوتين شريكان لا يثقان ببعضهما",
-          "link": "https://www.youtube.com/watch?v=S5-dQncRGTM",
-          "videoId": "S5-dQncRGTM",
-          "pubDate": "2026-04-10T16:53:32+00:00"
         }
       ],
       "ok": true
