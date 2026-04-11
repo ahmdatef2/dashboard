@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-11T07:40:52.924946+00:00",
+  "updated": "2026-04-11T08:28:23.248591+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "كنيسة القيامة في القدس.. لماذا مفتاحها بيد عائلة مقدسية مسلمة؟",
+          "link": "https://www.youtube.com/watch?v=VMeTGwZzx9I",
+          "videoId": "VMeTGwZzx9I",
+          "pubDate": "2026-04-11T08:00:01+00:00"
+        },
+        {
           "title": "كيف عامل صدام حسين أقرب الناس إليه من قيادات حزب البعث؟",
           "link": "https://www.youtube.com/watch?v=jsOLPx4zsYo",
           "videoId": "jsOLPx4zsYo",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=Dmy0QLW3FOo",
           "videoId": "Dmy0QLW3FOo",
           "pubDate": "2026-04-10T20:00:01+00:00"
-        },
-        {
-          "title": "أسرار في قلب الأدغال.. اكتشافات صادمة من حضارات مفقودة إلى ظواهر غريبة | الحلقة الرابعة",
-          "link": "https://www.youtube.com/watch?v=rHofZMfTEmM",
-          "videoId": "rHofZMfTEmM",
-          "pubDate": "2026-04-10T19:45:02+00:00"
         }
       ],
       "ok": true
