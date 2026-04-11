@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-11T14:25:47.858739+00:00",
+  "updated": "2026-04-11T15:21:21.501907+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "قتال من أجل الإناث على سواحل باتاغونيا",
+          "link": "https://www.youtube.com/watch?v=FuXY_aw0QNs",
+          "videoId": "FuXY_aw0QNs",
+          "pubDate": "2026-04-11T15:00:00+00:00"
+        },
+        {
           "title": "سلالة نادرة من السلاحف كادت تندثر بسبب تسونامي 2004",
           "link": "https://www.youtube.com/watch?v=OSw6zU8NYBM",
           "videoId": "OSw6zU8NYBM",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=jGRb6uG7VMc",
           "videoId": "jGRb6uG7VMc",
           "pubDate": "2026-04-11T11:30:01+00:00"
-        },
-        {
-          "title": "اعتراف بخط يد جندي إسرائيلي: \"هذا هو المتجر الذي صودرت منه هذه الصور\"",
-          "link": "https://www.youtube.com/watch?v=ptVUKFBMWBc",
-          "videoId": "ptVUKFBMWBc",
-          "pubDate": "2026-04-11T10:00:01+00:00"
         }
       ],
       "ok": true
