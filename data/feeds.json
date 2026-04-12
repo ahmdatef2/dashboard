@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-12T20:21:16.918135+00:00",
+  "updated": "2026-04-12T21:21:49.281819+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "خطة الأضواء الوامضة هل تحمي الأبقار من هجمات الأسود في كينيا؟",
+          "link": "https://www.youtube.com/watch?v=rvmrKATeuTI",
+          "videoId": "rvmrKATeuTI",
+          "pubDate": "2026-04-12T21:00:00+00:00"
+        },
+        {
           "title": "وراء كل قطعة فاخرة.. غوص في الوحل",
           "link": "https://www.youtube.com/watch?v=7-RMy5oEkDw",
           "videoId": "7-RMy5oEkDw",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=ZTLquudN_nw",
           "videoId": "ZTLquudN_nw",
           "pubDate": "2026-04-12T18:00:01+00:00"
-        },
-        {
-          "title": "\"رفعتُ الأذان عندما كان عمري 6 سنوات\"",
-          "link": "https://www.youtube.com/watch?v=lDwecBgP6mM",
-          "videoId": "lDwecBgP6mM",
-          "pubDate": "2026-04-12T16:00:00+00:00"
         }
       ],
       "ok": true
@@ -501,6 +501,12 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "المرأة التي أربكت أوروبا.. صعود جورجيا ميلوني إلى قمة الحكم في إيطاليا - الجذور | الشرق الوثائقية",
+          "link": "https://www.youtube.com/watch?v=9ozMMoKmoOM",
+          "videoId": "9ozMMoKmoOM",
+          "pubDate": "2026-04-12T21:00:07+00:00"
+        },
+        {
           "title": "حصان يعود إلى الحياة من حقبة الستينات",
           "link": "https://www.youtube.com/watch?v=-uPjKB3uu_M",
           "videoId": "-uPjKB3uu_M",
@@ -510,12 +516,6 @@
           "title": "الحرب و كمال الأجسام",
           "link": "https://www.youtube.com/watch?v=0ototaIrnx4",
           "videoId": "0ototaIrnx4",
-          "pubDate": "2026-04-12T16:54:19+00:00"
-        },
-        {
-          "title": "أشهر حبيبين في تاريخ الإمبراطورية النمساوية",
-          "link": "https://www.youtube.com/watch?v=7ox6TOxEuWM",
-          "videoId": "7ox6TOxEuWM",
           "pubDate": "2026-04-12T16:54:19+00:00"
         }
       ],
