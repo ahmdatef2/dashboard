@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-12T07:55:19.792379+00:00",
+  "updated": "2026-04-12T08:35:07.472627+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "\"مصر رأس الحية\" الخطة التي أعادت رسم الحروب الصليبية",
+          "link": "https://www.youtube.com/watch?v=BYKNhptH0e0",
+          "videoId": "BYKNhptH0e0",
+          "pubDate": "2026-04-12T08:00:01+00:00"
+        },
+        {
           "title": "ماذا تفعل حارسات البراري في كينيا عندما يهاجمهن ثور هائج؟",
           "link": "https://www.youtube.com/watch?v=YpTaURQ-6SQ",
           "videoId": "YpTaURQ-6SQ",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=CdQGAz3EC38",
           "videoId": "CdQGAz3EC38",
           "pubDate": "2026-04-11T20:00:01+00:00"
-        },
-        {
-          "title": "خدمة خاصة تقدّمها لكم الجزيرة.. قريبًا",
-          "link": "https://www.youtube.com/watch?v=Lqq07_MRaSQ",
-          "videoId": "Lqq07_MRaSQ",
-          "pubDate": "2026-04-11T19:43:35+00:00"
         }
       ],
       "ok": true
