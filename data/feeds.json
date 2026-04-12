@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-12T14:30:50.732596+00:00",
+  "updated": "2026-04-12T15:24:52.461002+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "كيف وُلد منصب شيخ الأزهر؟",
+          "link": "https://www.youtube.com/watch?v=rcjXQmyegAQ",
+          "videoId": "rcjXQmyegAQ",
+          "pubDate": "2026-04-12T15:00:02+00:00"
+        },
+        {
           "title": "بنتها ملكة صليبية وتأثرت بالعرب.. حكاية معمار كنيسة القيامة في القدس",
           "link": "https://www.youtube.com/watch?v=HrhmfMA5apo",
           "videoId": "HrhmfMA5apo",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=EqsjhUoIrAc",
           "videoId": "EqsjhUoIrAc",
           "pubDate": "2026-04-12T11:00:01+00:00"
-        },
-        {
-          "title": "صدام حسين يطالب بمحاسبة مدير ومدرسين في إحدى مدارس العراق",
-          "link": "https://www.youtube.com/watch?v=dfHXH8lE5QQ",
-          "videoId": "dfHXH8lE5QQ",
-          "pubDate": "2026-04-12T09:00:00+00:00"
         }
       ],
       "ok": true
