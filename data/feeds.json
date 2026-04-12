@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-12T08:35:07.472627+00:00",
+  "updated": "2026-04-12T09:34:34.467960+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -33,6 +33,12 @@
       "feedTitle": "كل يوم موقع جديد",
       "items": [
         {
+          "title": "مجاني الآن Google vids   #صناعة_المحتوى  #googleai",
+          "link": "https://www.youtube.com/watch?v=TOTcGgOGcsI",
+          "videoId": "TOTcGgOGcsI",
+          "pubDate": "2026-04-12T09:00:40+00:00"
+        },
+        {
           "title": "Google Vids: منصة جوجل لصناعة الفيديو… ومفاجأة في الخطة المجانية",
           "link": "https://www.youtube.com/watch?v=j_h9k1DKZmc",
           "videoId": "j_h9k1DKZmc",
@@ -43,12 +49,6 @@
           "link": "https://www.youtube.com/watch?v=MReyhdRXeYY",
           "videoId": "MReyhdRXeYY",
           "pubDate": "2026-04-09T15:19:45+00:00"
-        },
-        {
-          "title": "الحقيقة الكاملة: Wan 2.7 vs Veo 3.1 Lite في النسخة المجانية",
-          "link": "https://www.youtube.com/watch?v=dypEwBX0Frw",
-          "videoId": "dypEwBX0Frw",
-          "pubDate": "2026-04-07T20:41:41+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "صدام حسين يطالب بمحاسبة مدير ومدرسين في إحدى مدارس العراق",
+          "link": "https://www.youtube.com/watch?v=dfHXH8lE5QQ",
+          "videoId": "dfHXH8lE5QQ",
+          "pubDate": "2026-04-12T09:00:00+00:00"
+        },
+        {
           "title": "\"مصر رأس الحية\" الخطة التي أعادت رسم الحروب الصليبية",
           "link": "https://www.youtube.com/watch?v=BYKNhptH0e0",
           "videoId": "BYKNhptH0e0",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=YpTaURQ-6SQ",
           "videoId": "YpTaURQ-6SQ",
           "pubDate": "2026-04-11T21:00:01+00:00"
-        },
-        {
-          "title": "هل غزا العرب الأندلس؟",
-          "link": "https://www.youtube.com/watch?v=CdQGAz3EC38",
-          "videoId": "CdQGAz3EC38",
-          "pubDate": "2026-04-11T20:00:01+00:00"
         }
       ],
       "ok": true
