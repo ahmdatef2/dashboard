@@ -1,11 +1,17 @@
 {
-  "updated": "2026-04-12T15:24:52.461002+00:00",
+  "updated": "2026-04-12T16:23:39.540323+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
       "name": "د. هبة أحمد",
       "feedTitle": "Heba Ahmed - هبة احمد",
       "items": [
+        {
+          "title": "اهم اداة موجودة حاليا... ايه هو claude cowork و ازاي تشغله",
+          "link": "https://www.youtube.com/watch?v=vVrE11tHEFg",
+          "videoId": "vVrE11tHEFg",
+          "pubDate": "2026-04-12T15:49:59+00:00"
+        },
         {
           "title": "الفيديو الوحيد اللي محتاجه عشان تفهم Claude Cowork",
           "link": "https://www.youtube.com/watch?v=k-LXConhxi0",
@@ -17,12 +23,6 @@
           "link": "https://www.youtube.com/watch?v=E-14TwoW-84",
           "videoId": "E-14TwoW-84",
           "pubDate": "2026-04-05T16:08:06+00:00"
-        },
-        {
-          "title": "اقوى استخدامات Canvas feature داخل Gemini",
-          "link": "https://www.youtube.com/watch?v=Clhl4qNZroc",
-          "videoId": "Clhl4qNZroc",
-          "pubDate": "2026-04-04T12:43:22+00:00"
         }
       ],
       "ok": true
@@ -449,7 +449,7 @@
       "feedTitle": "دوباميكافين Dupamicaffeine",
       "items": [
         {
-          "title": "لغة الهدايا | هل هي مادية أم حب؟ - لغات الحب الخمس - الجزء الرابع - دوباميكافين",
+          "title": "كيف تعيد إحياء علاقة على وشك الموت - لغات الحب الخمس - الجزء الرابع - دوباميكافين",
           "link": "https://www.youtube.com/watch?v=nJqLEmmTvzk",
           "videoId": "nJqLEmmTvzk",
           "pubDate": "2026-04-12T13:00:04+00:00"
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "\"رفعتُ الأذان عندما كان عمري 6 سنوات\"",
+          "link": "https://www.youtube.com/watch?v=lDwecBgP6mM",
+          "videoId": "lDwecBgP6mM",
+          "pubDate": "2026-04-12T16:00:00+00:00"
+        },
+        {
           "title": "كيف وُلد منصب شيخ الأزهر؟",
           "link": "https://www.youtube.com/watch?v=rcjXQmyegAQ",
           "videoId": "rcjXQmyegAQ",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=HrhmfMA5apo",
           "videoId": "HrhmfMA5apo",
           "pubDate": "2026-04-12T12:00:01+00:00"
-        },
-        {
-          "title": "عندما يصبح استشهاد زميلي الصحفي هو الخبر",
-          "link": "https://www.youtube.com/watch?v=EqsjhUoIrAc",
-          "videoId": "EqsjhUoIrAc",
-          "pubDate": "2026-04-12T11:00:01+00:00"
         }
       ],
       "ok": true
