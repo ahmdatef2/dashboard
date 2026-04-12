@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-12T10:26:24.909246+00:00",
+  "updated": "2026-04-12T11:24:25.655279+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "عندما يصبح استشهاد زميلي الصحفي هو الخبر",
+          "link": "https://www.youtube.com/watch?v=EqsjhUoIrAc",
+          "videoId": "EqsjhUoIrAc",
+          "pubDate": "2026-04-12T11:00:01+00:00"
+        },
+        {
           "title": "صدام حسين يطالب بمحاسبة مدير ومدرسين في إحدى مدارس العراق",
           "link": "https://www.youtube.com/watch?v=dfHXH8lE5QQ",
           "videoId": "dfHXH8lE5QQ",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=BYKNhptH0e0",
           "videoId": "BYKNhptH0e0",
           "pubDate": "2026-04-12T08:00:01+00:00"
-        },
-        {
-          "title": "ماذا تفعل حارسات البراري في كينيا عندما يهاجمهن ثور هائج؟",
-          "link": "https://www.youtube.com/watch?v=YpTaURQ-6SQ",
-          "videoId": "YpTaURQ-6SQ",
-          "pubDate": "2026-04-11T21:00:01+00:00"
         }
       ],
       "ok": true
