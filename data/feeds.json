@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-12T17:23:57.268167+00:00",
+  "updated": "2026-04-12T18:29:09.902226+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "الحاجة الحمداوية فخر فن العيطة في المغرب",
+          "link": "https://www.youtube.com/watch?v=ZTLquudN_nw",
+          "videoId": "ZTLquudN_nw",
+          "pubDate": "2026-04-12T18:00:01+00:00"
+        },
+        {
           "title": "\"رفعتُ الأذان عندما كان عمري 6 سنوات\"",
           "link": "https://www.youtube.com/watch?v=lDwecBgP6mM",
           "videoId": "lDwecBgP6mM",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=rcjXQmyegAQ",
           "videoId": "rcjXQmyegAQ",
           "pubDate": "2026-04-12T15:00:02+00:00"
-        },
-        {
-          "title": "بنتها ملكة صليبية وتأثرت بالعرب.. حكاية معمار كنيسة القيامة في القدس",
-          "link": "https://www.youtube.com/watch?v=HrhmfMA5apo",
-          "videoId": "HrhmfMA5apo",
-          "pubDate": "2026-04-12T12:00:01+00:00"
         }
       ],
       "ok": true
