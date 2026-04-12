@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-12T16:23:39.540323+00:00",
+  "updated": "2026-04-12T17:23:57.268167+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -267,6 +267,12 @@
       "feedTitle": "أكاديمية ريان | Ryan Academy",
       "items": [
         {
+          "title": "شغل ChatGPT الخاص بك على VPS 🤯 باستخدام Ollama",
+          "link": "https://www.youtube.com/watch?v=kSQ-kCE5GyU",
+          "videoId": "kSQ-kCE5GyU",
+          "pubDate": "2026-04-12T17:00:54+00:00"
+        },
+        {
           "title": "وداعًا للمبرمجين؟ 😳 فريق كامل بيبني موقع كامل لوحده! (Atoms) بضغطة زرار",
           "link": "https://www.youtube.com/watch?v=6TqOCOzJCFw",
           "videoId": "6TqOCOzJCFw",
@@ -277,12 +283,6 @@
           "link": "https://www.youtube.com/watch?v=but1RdrxLtc",
           "videoId": "but1RdrxLtc",
           "pubDate": "2026-04-09T21:06:01+00:00"
-        },
-        {
-          "title": "افضل قالب ووردبريس مجاني Astra مع استضافة ووردبريس مجانية لمدة 3 أيام Cloudways",
-          "link": "https://www.youtube.com/watch?v=PNm4I1J_U8I",
-          "videoId": "PNm4I1J_U8I",
-          "pubDate": "2026-04-08T16:00:47+00:00"
         }
       ],
       "ok": true
@@ -501,22 +501,22 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
-          "title": "سويسرا.. شغف الكريستال | الشرق الوثائقية",
-          "link": "https://www.youtube.com/watch?v=rd5Rebs-5oQ",
-          "videoId": "rd5Rebs-5oQ",
-          "pubDate": "2026-04-11T19:00:44+00:00"
+          "title": "حصان يعود إلى الحياة من حقبة الستينات",
+          "link": "https://www.youtube.com/watch?v=-uPjKB3uu_M",
+          "videoId": "-uPjKB3uu_M",
+          "pubDate": "2026-04-12T16:54:19+00:00"
         },
         {
-          "title": "المهاجم هو زوجها السابق..",
-          "link": "https://www.youtube.com/watch?v=RpWWAGIIS48",
-          "videoId": "RpWWAGIIS48",
-          "pubDate": "2026-04-11T15:30:14+00:00"
+          "title": "الحرب و كمال الأجسام",
+          "link": "https://www.youtube.com/watch?v=0ototaIrnx4",
+          "videoId": "0ototaIrnx4",
+          "pubDate": "2026-04-12T16:54:19+00:00"
         },
         {
-          "title": "نهاية الحرب العالمية الثانية",
-          "link": "https://www.youtube.com/watch?v=iCmDiTsw8Qw",
-          "videoId": "iCmDiTsw8Qw",
-          "pubDate": "2026-04-11T12:46:07+00:00"
+          "title": "أشهر حبيبين في تاريخ الإمبراطورية النمساوية",
+          "link": "https://www.youtube.com/watch?v=7ox6TOxEuWM",
+          "videoId": "7ox6TOxEuWM",
+          "pubDate": "2026-04-12T16:54:19+00:00"
         }
       ],
       "ok": true
@@ -553,6 +553,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "وثائقي | النرويج تحت الضغط – موجة سياح مفرطة في الشمال | وثائقية دي دبليو",
+          "link": "https://www.youtube.com/watch?v=jgsnhXYT7yM",
+          "videoId": "jgsnhXYT7yM",
+          "pubDate": "2026-04-12T17:01:01+00:00"
+        },
+        {
           "title": "وثائقي | السودان: أكبر أزمة إنسانية في العالم | وثائقية دي دبليو",
           "link": "https://www.youtube.com/watch?v=m3LgO1heveQ",
           "videoId": "m3LgO1heveQ",
@@ -563,12 +569,6 @@
           "link": "https://www.youtube.com/watch?v=AJUyO2tswDI",
           "videoId": "AJUyO2tswDI",
           "pubDate": "2026-04-10T17:00:16+00:00"
-        },
-        {
-          "title": "هل للأخطبوط تسعة أدمغة؟",
-          "link": "https://www.youtube.com/watch?v=6o-FeQvD-dc",
-          "videoId": "6o-FeQvD-dc",
-          "pubDate": "2026-04-10T10:45:00+00:00"
         }
       ],
       "ok": true
