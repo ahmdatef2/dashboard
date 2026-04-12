@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-12T19:30:40.075057+00:00",
+  "updated": "2026-04-12T20:21:16.918135+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "وراء كل قطعة فاخرة.. غوص في الوحل",
+          "link": "https://www.youtube.com/watch?v=7-RMy5oEkDw",
+          "videoId": "7-RMy5oEkDw",
+          "pubDate": "2026-04-12T20:00:01+00:00"
+        },
+        {
           "title": "الحاجة الحمداوية فخر فن العيطة في المغرب",
           "link": "https://www.youtube.com/watch?v=ZTLquudN_nw",
           "videoId": "ZTLquudN_nw",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=lDwecBgP6mM",
           "videoId": "lDwecBgP6mM",
           "pubDate": "2026-04-12T16:00:00+00:00"
-        },
-        {
-          "title": "كيف وُلد منصب شيخ الأزهر؟",
-          "link": "https://www.youtube.com/watch?v=rcjXQmyegAQ",
-          "videoId": "rcjXQmyegAQ",
-          "pubDate": "2026-04-12T15:00:02+00:00"
         }
       ],
       "ok": true
@@ -527,6 +527,12 @@
       "feedTitle": "Nat Geo Abu Dhabi",
       "items": [
         {
+          "title": "لعنة ولاية فرجينيا الغربية | أطلس الأماكن المشؤومة | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=k7hqHpmoXRU",
+          "videoId": "k7hqHpmoXRU",
+          "pubDate": "2026-04-12T19:50:00+00:00"
+        },
+        {
           "title": "الحلقة الأولى | الجزر المتجمدة | ناشونال جيوغرافيك أبوظبي",
           "link": "https://www.youtube.com/watch?v=4nnWZw-OoUE",
           "videoId": "4nnWZw-OoUE",
@@ -537,12 +543,6 @@
           "link": "https://www.youtube.com/watch?v=pgNxbFDp6i0",
           "videoId": "pgNxbFDp6i0",
           "pubDate": "2026-04-10T13:57:49+00:00"
-        },
-        {
-          "title": "ابتداءً 13 أبريل | إخفاقات البناء | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=wiQINXmk6b8",
-          "videoId": "wiQINXmk6b8",
-          "pubDate": "2026-04-10T13:57:35+00:00"
         }
       ],
       "ok": true
