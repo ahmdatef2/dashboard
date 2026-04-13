@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-13T11:06:23.509446+00:00",
+  "updated": "2026-04-13T12:54:21.257285+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "العلاج بالفن هل يمكن للألوان أن تهزم الاكتئاب؟",
+          "link": "https://www.youtube.com/watch?v=haaFW4bEfU0",
+          "videoId": "haaFW4bEfU0",
+          "pubDate": "2026-04-13T12:10:05+00:00"
+        },
+        {
           "title": "قيادي سابق: لولا نظرة صدام لما كنت على قيد الحياة اليوم",
           "link": "https://www.youtube.com/watch?v=7pvSrwwxWLo",
           "videoId": "7pvSrwwxWLo",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=SuEAdBBHwvc",
           "videoId": "SuEAdBBHwvc",
           "pubDate": "2026-04-13T10:02:01+00:00"
-        },
-        {
-          "title": "لماذا كان أجدادنا أكثر صحة؟",
-          "link": "https://www.youtube.com/watch?v=Pr9ZkXLbY7M",
-          "videoId": "Pr9ZkXLbY7M",
-          "pubDate": "2026-04-13T08:00:01+00:00"
         }
       ],
       "ok": true
@@ -501,7 +501,7 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
-          "title": "المرأة التي أربكت أوروبا.. صعود جورجيا ميلوني إلى قمة الحكم في إيطاليا - الجذور | الشرق الوثائقية",
+          "title": "جورجيا ميلوني… المرأة التي أربكت أوروبا | الشرق الوثائقية",
           "link": "https://www.youtube.com/watch?v=9ozMMoKmoOM",
           "videoId": "9ozMMoKmoOM",
           "pubDate": "2026-04-12T21:00:07+00:00"
