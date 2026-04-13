@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-13T19:59:18.839435+00:00",
+  "updated": "2026-04-13T20:54:05.250173+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -33,6 +33,12 @@
       "feedTitle": "كل يوم موقع جديد",
       "items": [
         {
+          "title": "فتح NotebookLM من Gemini أخيرًا | حنطبق عملي ونشوف القوة الثنائية!",
+          "link": "https://www.youtube.com/watch?v=Pfh-tQO72XA",
+          "videoId": "Pfh-tQO72XA",
+          "pubDate": "2026-04-13T20:50:55+00:00"
+        },
+        {
           "title": "مجاني الآن Google vids   #صناعة_المحتوى  #googleai",
           "link": "https://www.youtube.com/watch?v=TOTcGgOGcsI",
           "videoId": "TOTcGgOGcsI",
@@ -43,12 +49,6 @@
           "link": "https://www.youtube.com/watch?v=j_h9k1DKZmc",
           "videoId": "j_h9k1DKZmc",
           "pubDate": "2026-04-11T16:01:38+00:00"
-        },
-        {
-          "title": "بشكل مجاني 100% حتقدر تعمل إعلان لمنتجك بالذكاء الإصطناعي!",
-          "link": "https://www.youtube.com/watch?v=MReyhdRXeYY",
-          "videoId": "MReyhdRXeYY",
-          "pubDate": "2026-04-09T15:19:45+00:00"
         }
       ],
       "ok": true
@@ -371,6 +371,12 @@
       "feedTitle": "أخضر",
       "items": [
         {
+          "title": "يوم واحد يفصلنا عن بداية فصل جديد #أخضر",
+          "link": "https://www.youtube.com/watch?v=rDV00ZyTKWQ",
+          "videoId": "rDV00ZyTKWQ",
+          "pubDate": "2026-04-13T19:55:09+00:00"
+        },
+        {
           "title": "كيف توقف صوتك الداخلي؟🤫  كتاب (الجلاد تحت جلدي) د. عماد رشاد عثمان #أخضر",
           "link": "https://www.youtube.com/watch?v=-D714MCDHwk",
           "videoId": "-D714MCDHwk",
@@ -381,12 +387,6 @@
           "link": "https://www.youtube.com/watch?v=NCNOYkECmOU",
           "videoId": "NCNOYkECmOU",
           "pubDate": "2026-04-07T19:30:05+00:00"
-        },
-        {
-          "title": "أخضر ..بشكل جديد #أخضر",
-          "link": "https://www.youtube.com/watch?v=E87ojkdm3eA",
-          "videoId": "E87ojkdm3eA",
-          "pubDate": "2026-04-06T11:50:33+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "من يقود قطيع الفيلة؟",
+          "link": "https://www.youtube.com/watch?v=Y0dCmj-b0eU",
+          "videoId": "Y0dCmj-b0eU",
+          "pubDate": "2026-04-13T20:30:01+00:00"
+        },
+        {
           "title": "كيف حاول مصطفى مشرفة فهم الموسيقى الشرقية بالفيزياء؟",
           "link": "https://www.youtube.com/watch?v=lR_CWN2A5UU",
           "videoId": "lR_CWN2A5UU",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=S-ePcBNdtIk",
           "videoId": "S-ePcBNdtIk",
           "pubDate": "2026-04-13T18:30:29+00:00"
-        },
-        {
-          "title": "انشقت الأرض من تحتها وهي في حمام الفندق",
-          "link": "https://www.youtube.com/watch?v=2-IHgVujg-w",
-          "videoId": "2-IHgVujg-w",
-          "pubDate": "2026-04-13T17:00:00+00:00"
         }
       ],
       "ok": true
