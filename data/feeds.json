@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-13T17:48:23.693285+00:00",
+  "updated": "2026-04-13T18:56:23.557556+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "المحطة التالية.. رحلة العمر عبر القارات: استكشاف بيرو وتشيلي وماليزيا وجنوب أفريقيا | الحلقة الأولى",
+          "link": "https://www.youtube.com/watch?v=S-ePcBNdtIk",
+          "videoId": "S-ePcBNdtIk",
+          "pubDate": "2026-04-13T18:30:29+00:00"
+        },
+        {
           "title": "انشقت الأرض من تحتها وهي في حمام الفندق",
           "link": "https://www.youtube.com/watch?v=2-IHgVujg-w",
           "videoId": "2-IHgVujg-w",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=HLsbfuetJ6U",
           "videoId": "HLsbfuetJ6U",
           "pubDate": "2026-04-13T16:00:13+00:00"
-        },
-        {
-          "title": "العلاج بالفن هل يمكن للألوان أن تهزم الاكتئاب؟",
-          "link": "https://www.youtube.com/watch?v=haaFW4bEfU0",
-          "videoId": "haaFW4bEfU0",
-          "pubDate": "2026-04-13T12:10:05+00:00"
         }
       ],
       "ok": true
