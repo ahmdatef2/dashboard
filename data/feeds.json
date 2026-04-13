@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-13T07:05:48.919029+00:00",
+  "updated": "2026-04-13T09:23:27.057450+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "لماذا كان أجدادنا أكثر صحة؟",
+          "link": "https://www.youtube.com/watch?v=Pr9ZkXLbY7M",
+          "videoId": "Pr9ZkXLbY7M",
+          "pubDate": "2026-04-13T08:00:01+00:00"
+        },
+        {
+          "title": "محافظة ظفار.. سلطنة عمان",
+          "link": "https://www.youtube.com/watch?v=afjmmyXIIYE",
+          "videoId": "afjmmyXIIYE",
+          "pubDate": "2026-04-13T07:00:01+00:00"
+        },
+        {
           "title": "خطة الأضواء الوامضة هل تحمي الأبقار من هجمات الأسود في كينيا؟",
           "link": "https://www.youtube.com/watch?v=rvmrKATeuTI",
           "videoId": "rvmrKATeuTI",
           "pubDate": "2026-04-12T21:00:00+00:00"
-        },
-        {
-          "title": "وراء كل قطعة فاخرة.. غوص في الوحل",
-          "link": "https://www.youtube.com/watch?v=7-RMy5oEkDw",
-          "videoId": "7-RMy5oEkDw",
-          "pubDate": "2026-04-12T20:00:01+00:00"
-        },
-        {
-          "title": "محمد باقر الصدر.. الفقيه السياسي | بين الفكر الديني والصراع السياسي",
-          "link": "https://www.youtube.com/watch?v=IX7oDd5U5vI",
-          "videoId": "IX7oDd5U5vI",
-          "pubDate": "2026-04-12T19:30:02+00:00"
         }
       ],
       "ok": true
