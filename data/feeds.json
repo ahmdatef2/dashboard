@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-13T12:54:21.257285+00:00",
+  "updated": "2026-04-13T14:25:47.536924+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -85,6 +85,12 @@
       "feedTitle": "عبداللطيف سعيد Abdellatif Said",
       "items": [
         {
+          "title": "المواجهة الشرسة: Ollama ضد LM Studio.. مين أفضل برنامج لتشغيل الذكاء الاصطناعي على جهازك؟",
+          "link": "https://www.youtube.com/watch?v=OwVeqp1GerQ",
+          "videoId": "OwVeqp1GerQ",
+          "pubDate": "2026-04-13T14:15:04+00:00"
+        },
+        {
           "title": "أخطر تسريب في تاريخ الذكاء الاصطناعي: حكاية Claude Mythos اللي أرعب المبرمجين وليه ممنوع نستخدمه؟",
           "link": "https://www.youtube.com/watch?v=CDlBkMQO_U0",
           "videoId": "CDlBkMQO_U0",
@@ -95,12 +101,6 @@
           "link": "https://www.youtube.com/watch?v=Qc1cF-vmYlo",
           "videoId": "Qc1cF-vmYlo",
           "pubDate": "2026-04-08T14:15:04+00:00"
-        },
-        {
-          "title": "وداعاً للنت.. حوّل موبايلك لعملاق ذكاء اصطناعي! شرح تشغيل Gemma 4 أوفلاين 🚀",
-          "link": "https://www.youtube.com/watch?v=ZYz0n9ROUDk",
-          "videoId": "ZYz0n9ROUDk",
-          "pubDate": "2026-04-06T14:15:04+00:00"
         }
       ],
       "ok": true
@@ -319,6 +319,12 @@
       "feedTitle": "خير جليس",
       "items": [
         {
+          "title": "ملخص كتاب الجوهر الذي لا يتغير بقلم مورجان هاوسل",
+          "link": "https://www.youtube.com/watch?v=lKRGUwZgWEM",
+          "videoId": "lKRGUwZgWEM",
+          "pubDate": "2026-04-13T13:01:32+00:00"
+        },
+        {
           "title": "البيئة المناسبة تصنع المتميزين  - من  كتاب المتميزون",
           "link": "https://www.youtube.com/watch?v=lv3RYZ5hx6c",
           "videoId": "lv3RYZ5hx6c",
@@ -329,12 +335,6 @@
           "link": "https://www.youtube.com/watch?v=iTNuL7-RMik",
           "videoId": "iTNuL7-RMik",
           "pubDate": "2026-04-11T06:00:39+00:00"
-        },
-        {
-          "title": "الخلفية تشكّل أخلاقيات العمل  - من  كتاب المتميزون",
-          "link": "https://www.youtube.com/watch?v=G_1bXMpJ4Kw",
-          "videoId": "G_1bXMpJ4Kw",
-          "pubDate": "2026-04-10T06:27:48+00:00"
         }
       ],
       "ok": true
@@ -449,7 +449,13 @@
       "feedTitle": "دوباميكافين Dupamicaffeine",
       "items": [
         {
-          "title": "كيف تعيد إحياء علاقة على وشك الموت - لغات الحب الخمس - الجزء الرابع - دوباميكافين",
+          "title": "سر تجدد المشاعر في العلاقات الطويلة",
+          "link": "https://www.youtube.com/watch?v=AWWViWGKhdk",
+          "videoId": "AWWViWGKhdk",
+          "pubDate": "2026-04-13T13:00:27+00:00"
+        },
+        {
+          "title": "عودة العلاقات - لغات الحب الخمس - الجزء الرابع - دوباميكافين",
           "link": "https://www.youtube.com/watch?v=nJqLEmmTvzk",
           "videoId": "nJqLEmmTvzk",
           "pubDate": "2026-04-12T13:00:04+00:00"
@@ -459,12 +465,6 @@
           "link": "https://www.youtube.com/watch?v=MghBvnwilt4",
           "videoId": "MghBvnwilt4",
           "pubDate": "2026-04-05T14:07:51+00:00"
-        },
-        {
-          "title": "لغة الحب الأهم",
-          "link": "https://www.youtube.com/watch?v=PXa__tZ6SuY",
-          "videoId": "PXa__tZ6SuY",
-          "pubDate": "2026-04-01T13:00:00+00:00"
         }
       ],
       "ok": true
