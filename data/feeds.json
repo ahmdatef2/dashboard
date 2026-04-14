@@ -1,213 +1,61 @@
 {
-  "updated": "2026-04-14T21:39:23.166712+00:00",
+  "updated": "2026-04-14T22:33:58.716951+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
       "name": "د. هبة أحمد",
-      "feedTitle": "Heba Ahmed - هبة احمد",
-      "items": [
-        {
-          "title": "اهم اداة موجودة حاليا... ايه هو claude cowork و ازاي تشغله",
-          "link": "https://www.youtube.com/watch?v=vVrE11tHEFg",
-          "videoId": "vVrE11tHEFg",
-          "pubDate": "2026-04-12T15:49:59+00:00"
-        },
-        {
-          "title": "الفيديو الوحيد اللي محتاجه عشان تفهم Claude Cowork",
-          "link": "https://www.youtube.com/watch?v=k-LXConhxi0",
-          "videoId": "k-LXConhxi0",
-          "pubDate": "2026-04-10T19:44:29+00:00"
-        },
-        {
-          "title": "300$ مجانًا مع Gemini… الحل في Vertex AI Studio",
-          "link": "https://www.youtube.com/watch?v=E-14TwoW-84",
-          "videoId": "E-14TwoW-84",
-          "pubDate": "2026-04-05T16:08:06+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "د. هبة أحمد",
+      "items": [],
+      "ok": false
     },
     "UC2jjW7c63dqOPkfMm3P-u3w": {
       "handle": "every_day_a_new_website",
       "name": "موقع كل يوم",
-      "feedTitle": "كل يوم موقع جديد",
-      "items": [
-        {
-          "title": "فتح NotebookLM من Gemini أخيرًا | حنطبق عملي ونشوف القوة الثنائية!",
-          "link": "https://www.youtube.com/watch?v=Pfh-tQO72XA",
-          "videoId": "Pfh-tQO72XA",
-          "pubDate": "2026-04-13T20:50:55+00:00"
-        },
-        {
-          "title": "مجاني الآن Google vids   #صناعة_المحتوى  #googleai",
-          "link": "https://www.youtube.com/watch?v=TOTcGgOGcsI",
-          "videoId": "TOTcGgOGcsI",
-          "pubDate": "2026-04-12T09:00:40+00:00"
-        },
-        {
-          "title": "Google Vids: منصة جوجل لصناعة الفيديو… ومفاجأة في الخطة المجانية",
-          "link": "https://www.youtube.com/watch?v=j_h9k1DKZmc",
-          "videoId": "j_h9k1DKZmc",
-          "pubDate": "2026-04-11T16:01:38+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "موقع كل يوم",
+      "items": [],
+      "ok": false
     },
     "UCKD8vOz3maRPyLAbMXhr-Pw": {
       "handle": "infotech4you_Marwasoliman",
       "name": "مروة سليمان",
-      "feedTitle": "Infotech4you - مروي سليمان",
-      "items": [
-        {
-          "title": "الآن  Claude داخل PowerPoint  إزاي تستخدمه خطوة بخطوة!",
-          "link": "https://www.youtube.com/watch?v=bVXk55JPTkQ",
-          "videoId": "bVXk55JPTkQ",
-          "pubDate": "2026-04-14T14:58:37+00:00"
-        },
-        {
-          "title": "صادم! Claude Mythos Preview من Anthropic دخل عالم الأمن السيبراني بقوة",
-          "link": "https://www.youtube.com/watch?v=ipPOBt7cUk4",
-          "videoId": "ipPOBt7cUk4",
-          "pubDate": "2026-04-12T12:01:16+00:00"
-        },
-        {
-          "title": "جوجل عملت عظمة في Gemini | تحديث ضخم لازم تشوفه",
-          "link": "https://www.youtube.com/watch?v=WhLviFguvN0",
-          "videoId": "WhLviFguvN0",
-          "pubDate": "2026-04-10T17:13:45+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "مروة سليمان",
+      "items": [],
+      "ok": false
     },
     "UCSRy-3lglM2QKJ_xF2zuPlQ": {
       "handle": "AbdellatifSaidA",
       "name": "عبداللطيف سعيد",
-      "feedTitle": "عبداللطيف سعيد Abdellatif Said",
-      "items": [
-        {
-          "title": "سيبك من Grok! 🛑 أسهل طرق مجانية لتحويل صورك لفيديو بالذكاء الاصطناعي 🤯",
-          "link": "https://www.youtube.com/watch?v=8t3XYECOUCI",
-          "videoId": "8t3XYECOUCI",
-          "pubDate": "2026-04-14T14:15:04+00:00"
-        },
-        {
-          "title": "المواجهة الشرسة: Ollama ضد LM Studio.. مين أفضل برنامج لتشغيل الذكاء الاصطناعي على جهازك؟",
-          "link": "https://www.youtube.com/watch?v=OwVeqp1GerQ",
-          "videoId": "OwVeqp1GerQ",
-          "pubDate": "2026-04-13T14:15:04+00:00"
-        },
-        {
-          "title": "أخطر تسريب في تاريخ الذكاء الاصطناعي: حكاية Claude Mythos اللي أرعب المبرمجين وليه ممنوع نستخدمه؟",
-          "link": "https://www.youtube.com/watch?v=CDlBkMQO_U0",
-          "videoId": "CDlBkMQO_U0",
-          "pubDate": "2026-04-09T14:15:04+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "عبداللطيف سعيد",
+      "items": [],
+      "ok": false
     },
     "UC81Ks7DR9JFgZc14nmZ07EA": {
       "handle": "AMRSALEM800",
       "name": "عمرو سالم",
-      "feedTitle": "AMR SALEM _ عمرو سالم",
-      "items": [
-        {
-          "title": "MINIMAX M2.7 الخارق مفتوح المصدر واستخدامه مجانا",
-          "link": "https://www.youtube.com/watch?v=_sa-1LcJ2ZU",
-          "videoId": "_sa-1LcJ2ZU",
-          "pubDate": "2026-04-12T21:29:39+00:00"
-        },
-        {
-          "title": "API مجاني للنموذج الجديد الرهيب GLM 5.1",
-          "link": "https://www.youtube.com/watch?v=PVzydNLDpyY",
-          "videoId": "PVzydNLDpyY",
-          "pubDate": "2026-04-10T17:34:24+00:00"
-        },
-        {
-          "title": "Meta ai تضرب Google و Claude باقوي نموذج Muse Spark",
-          "link": "https://www.youtube.com/watch?v=wfKN6_rH8EQ",
-          "videoId": "wfKN6_rH8EQ",
-          "pubDate": "2026-04-09T14:29:12+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "عمرو سالم",
+      "items": [],
+      "ok": false
     },
     "UC9ocsRoOwj9tkAQNfUt8ZJg": {
       "handle": "PythonArab",
       "name": "بايثون عربي",
-      "feedTitle": "Python Arabic Community",
-      "items": [
-        {
-          "title": "وكيل ذكاء اصطناعي مع ذاكرة! في 10 دقائق بدون Rag و Langchain !",
-          "link": "https://www.youtube.com/watch?v=IKe2H7HBbu4",
-          "videoId": "IKe2H7HBbu4",
-          "pubDate": "2026-04-01T18:41:16+00:00"
-        },
-        {
-          "title": "كيف استبدلت نفسي بذكاء اصطناعي يعمل وأنا نائم! (وكيل MaxClaw)🚀",
-          "link": "https://www.youtube.com/watch?v=XAW6ygPfN8I",
-          "videoId": "XAW6ygPfN8I",
-          "pubDate": "2026-03-25T17:43:01+00:00"
-        },
-        {
-          "title": "الذكاء الاصطناعي 🚀 | 83 | الكذبة الكبرى لشركات الذكاء الاصطناعي.. وسقوط أقوى تشفير",
-          "link": "https://www.youtube.com/watch?v=aBM1Y6M3YRE",
-          "videoId": "aBM1Y6M3YRE",
-          "pubDate": "2026-03-10T21:18:47+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "بايثون عربي",
+      "items": [],
+      "ok": false
     },
     "UCSNkfKl4cU-55Nm-ovsvOHQ": {
       "handle": "elzerowebschool",
       "name": "Elzero Web School",
       "feedTitle": "Elzero Web School",
-      "items": [
-        {
-          "title": "عشر حاجات لو سمعتهم وانت بتتفق على شغل اهرب فورا",
-          "link": "https://www.youtube.com/watch?v=ER_CzhR6JVQ",
-          "videoId": "ER_CzhR6JVQ",
-          "pubDate": "2026-03-26T20:11:50+00:00"
-        },
-        {
-          "title": "مبادرة هتطورك في البرمجة وتاخد ثواب وفرصة لرحلة عمرة",
-          "link": "https://www.youtube.com/watch?v=1n4AJdviibs",
-          "videoId": "1n4AJdviibs",
-          "pubDate": "2026-03-03T19:47:57+00:00"
-        },
-        {
-          "title": "توظيف البشر لصالح الذكاء الاصطناعي",
-          "link": "https://www.youtube.com/watch?v=4XBhqzlYJGY",
-          "videoId": "4XBhqzlYJGY",
-          "pubDate": "2026-02-16T10:47:19+00:00"
-        }
-      ],
-      "ok": true
+      "items": [],
+      "ok": false
     },
     "UCGrVvqu8PlVv0wPqA5kgY8A": {
       "handle": "ArabicArtificialIntelligence",
       "name": "الذكاء الاصطناعي العربي",
-      "feedTitle": "ذكاء اصطناعي عربي",
-      "items": [
-        {
-          "title": "تفاصيل Gemma 4 التي لم يخبرك بها أحد!",
-          "link": "https://www.youtube.com/watch?v=MDgsrf6TnU0",
-          "videoId": "MDgsrf6TnU0",
-          "pubDate": "2026-04-11T18:15:06+00:00"
-        },
-        {
-          "title": "أسهل طريقة لتدريب نماذج LLM بدون خبرة برمجية!",
-          "link": "https://www.youtube.com/watch?v=xoDUakHtis4",
-          "videoId": "xoDUakHtis4",
-          "pubDate": "2026-04-03T18:00:06+00:00"
-        },
-        {
-          "title": "بناء مشروع حقيقي بـ OpenCode | سلسلة الذكاء الاصطناعي",
-          "link": "https://www.youtube.com/watch?v=9nR8kVSDNZM",
-          "videoId": "9nR8kVSDNZM",
-          "pubDate": "2026-03-30T16:00:06+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "الذكاء الاصطناعي العربي",
+      "items": [],
+      "ok": false
     },
     "UCSXcmF4Gxl6Hc-m6cHYD_Vg": {
       "handle": "MohamedAnsary",
@@ -238,106 +86,30 @@
     "UCDqp23rTdCo_tXsuHLYF47Q": {
       "handle": "ArabianAiSchool",
       "name": "Arabian AI School",
-      "feedTitle": "مدرسة الذكاء الاصطناعي",
-      "items": [
-        {
-          "title": "وداعًا للاشتراكات… أداة ذكاء اصطناعي بتعمل صور وفيديوهات وصوت مجانا",
-          "link": "https://www.youtube.com/watch?v=SzWzjrIDEHM",
-          "videoId": "SzWzjrIDEHM",
-          "pubDate": "2026-04-11T21:02:46+00:00"
-        },
-        {
-          "title": "شغل Gemma 4 على اللابتوب والموبايل مع OpenClaw مجانا",
-          "link": "https://www.youtube.com/watch?v=vvwMl8krGyY",
-          "videoId": "vvwMl8krGyY",
-          "pubDate": "2026-04-05T23:29:40+00:00"
-        },
-        {
-          "title": "ودع الكتابة… تكلم وخلّي الذكاء الاصطناعي يشتغل مكانك",
-          "link": "https://www.youtube.com/watch?v=_eMrleFkWp4",
-          "videoId": "_eMrleFkWp4",
-          "pubDate": "2026-04-03T15:51:22+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "Arabian AI School",
+      "items": [],
+      "ok": false
     },
     "UCz0N3nKrJiDhNdKQvM6r93w": {
       "handle": "ryan.academy",
       "name": "Ryan Academy",
-      "feedTitle": "أكاديمية ريان | Ryan Academy",
-      "items": [
-        {
-          "title": "الترند كله في موقعك 🤯 انشئ موقع جامع لكل موديلات الذكاء الاصطناعي 🔥 سكربت الاسبوع #10",
-          "link": "https://www.youtube.com/watch?v=LL3_QCgoq9I",
-          "videoId": "LL3_QCgoq9I",
-          "pubDate": "2026-04-14T15:00:41+00:00"
-        },
-        {
-          "title": "شغل ChatGPT الخاص بك على VPS 🤯 باستخدام Ollama",
-          "link": "https://www.youtube.com/watch?v=kSQ-kCE5GyU",
-          "videoId": "kSQ-kCE5GyU",
-          "pubDate": "2026-04-12T17:00:54+00:00"
-        },
-        {
-          "title": "وداعًا للمبرمجين؟ 😳 فريق كامل بيبني موقع كامل لوحده! (Atoms) بضغطة زرار",
-          "link": "https://www.youtube.com/watch?v=6TqOCOzJCFw",
-          "videoId": "6TqOCOzJCFw",
-          "pubDate": "2026-04-10T17:00:07+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "Ryan Academy",
+      "items": [],
+      "ok": false
     },
     "UCXVSIaWCZBxqZ5eCxwIqRGw": {
       "handle": "TechnoFlashAITech",
       "name": "TechnoFlash AI",
-      "feedTitle": "تكنوفلاش – AI & Tech",
-      "items": [
-        {
-          "title": "وداعاً Canva؟ تجربة Google Vids لصناعة الفيديوهات بالذكاء الاصطناعي | أفضل ai video generator",
-          "link": "https://www.youtube.com/watch?v=qAvXYz2ywyk",
-          "videoId": "qAvXYz2ywyk",
-          "pubDate": "2026-04-11T21:47:29+00:00"
-        },
-        {
-          "title": "صنعت برنامج محاسبة بـ claude opus 4.6 free مجاناً (بدون كود!)  Claude ai | antigravity google",
-          "link": "https://www.youtube.com/watch?v=u5mZRFGCs8Y",
-          "videoId": "u5mZRFGCs8Y",
-          "pubDate": "2026-04-09T18:06:02+00:00"
-        },
-        {
-          "title": "استخدام نماذج الذكاء الاصطناعي المتقدمة مثل  claude opus 4.6 free  GPT 5.4 FREE",
-          "link": "https://www.youtube.com/watch?v=uZ7K8z5lumE",
-          "videoId": "uZ7K8z5lumE",
-          "pubDate": "2026-04-02T20:40:47+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "TechnoFlash AI",
+      "items": [],
+      "ok": false
     },
     "UC16aC4Jti6tYAi0LuXmu-9w": {
       "handle": "KhairJaleesBook",
       "name": "خير جليس",
       "feedTitle": "خير جليس",
-      "items": [
-        {
-          "title": "ملخص كتاب الجوهر الذي لا يتغير بقلم مورجان هاوسل",
-          "link": "https://www.youtube.com/watch?v=lKRGUwZgWEM",
-          "videoId": "lKRGUwZgWEM",
-          "pubDate": "2026-04-13T13:01:32+00:00"
-        },
-        {
-          "title": "البيئة المناسبة تصنع المتميزين  - من  كتاب المتميزون",
-          "link": "https://www.youtube.com/watch?v=lv3RYZ5hx6c",
-          "videoId": "lv3RYZ5hx6c",
-          "pubDate": "2026-04-12T06:00:27+00:00"
-        },
-        {
-          "title": "لا أحد ينجح وحده  - من  كتاب المتميزون",
-          "link": "https://www.youtube.com/watch?v=iTNuL7-RMik",
-          "videoId": "iTNuL7-RMik",
-          "pubDate": "2026-04-11T06:00:39+00:00"
-        }
-      ],
-      "ok": true
+      "items": [],
+      "ok": false
     },
     "UCu1NJiJlhrhmF5ZgT-0yWdA": {
       "handle": "Jeelyaqraa",
@@ -369,209 +141,57 @@
       "handle": "a5drcom",
       "name": "أخضر",
       "feedTitle": "أخضر",
-      "items": [
-        {
-          "title": "فصل جديد بدأ! ضاعف تطورك وتعلم من تجارب حقيقية علي أخضر 💡",
-          "link": "https://www.youtube.com/watch?v=0e3p8TTdHzg",
-          "videoId": "0e3p8TTdHzg",
-          "pubDate": "2026-04-14T20:55:39+00:00"
-        },
-        {
-          "title": "فصل جديد بدأ.! ضاغف تطورك وتعلم من تجارب حقيقية علي أخضر 💡",
-          "link": "https://www.youtube.com/watch?v=zmqKMMfJ3eo",
-          "videoId": "zmqKMMfJ3eo",
-          "pubDate": "2026-04-14T18:44:02+00:00"
-        },
-        {
-          "title": "يوم واحد يفصلنا عن بداية فصل جديد #أخضر",
-          "link": "https://www.youtube.com/watch?v=rDV00ZyTKWQ",
-          "videoId": "rDV00ZyTKWQ",
-          "pubDate": "2026-04-13T19:55:09+00:00"
-        }
-      ],
-      "ok": true
+      "items": [],
+      "ok": false
     },
     "UCUjRjJ1-h3oUx40gf2tuh3w": {
       "handle": "Sha5bata",
       "name": "شخبطة",
-      "feedTitle": "شخبطة Sha5bata",
-      "items": [
-        {
-          "title": "حرر نفسك من التفكير في اللي ظلمك؟ (آية هتغير حياتك) #شخبطة",
-          "link": "https://www.youtube.com/watch?v=iUJI5T94jbc",
-          "videoId": "iUJI5T94jbc",
-          "pubDate": "2026-04-10T11:15:05+00:00"
-        },
-        {
-          "title": "هل الزواج ضرورة ؟! فيديو هيغير نظرتك للعلاقات!",
-          "link": "https://www.youtube.com/watch?v=iUYBa2fVEmM",
-          "videoId": "iUYBa2fVEmM",
-          "pubDate": "2026-04-07T11:01:12+00:00"
-        },
-        {
-          "title": "لماذا يختار الأذكياء عدم النشر على  وسائل التواصل الاجتماعى ؟!",
-          "link": "https://www.youtube.com/watch?v=Aobz3_jEajQ",
-          "videoId": "Aobz3_jEajQ",
-          "pubDate": "2026-03-26T13:00:13+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "شخبطة",
+      "items": [],
+      "ok": false
     },
     "UChbuH4HULlesX_rzlozkT6Q": {
       "handle": "AliMuhammadAli",
       "name": "علي محمد علي",
-      "feedTitle": "Ali Muhammad Ali",
-      "items": [
-        {
-          "title": "تقليل ساعات النوم",
-          "link": "https://www.youtube.com/watch?v=lbLogVmkNWo",
-          "videoId": "lbLogVmkNWo",
-          "pubDate": "2026-04-05T15:01:21+00:00"
-        },
-        {
-          "title": "لغز عدد ساعات النوم",
-          "link": "https://www.youtube.com/watch?v=JUwlzWlLrWI",
-          "videoId": "JUwlzWlLrWI",
-          "pubDate": "2026-04-01T15:08:48+00:00"
-        },
-        {
-          "title": "اضبط نومك تكسب يومك",
-          "link": "https://www.youtube.com/watch?v=IqVjqBafhDY",
-          "videoId": "IqVjqBafhDY",
-          "pubDate": "2026-03-27T17:00:31+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "علي محمد علي",
+      "items": [],
+      "ok": false
     },
     "UCJlu6BjPWHZhzuCc0zVME0Q": {
       "handle": "Dupamicaffeine",
       "name": "دوباميكافيين",
-      "feedTitle": "دوباميكافين Dupamicaffeine",
-      "items": [
-        {
-          "title": "سر تجدد المشاعر في العلاقات الطويلة",
-          "link": "https://www.youtube.com/watch?v=AWWViWGKhdk",
-          "videoId": "AWWViWGKhdk",
-          "pubDate": "2026-04-13T13:00:27+00:00"
-        },
-        {
-          "title": "عودة العلاقات - لغات الحب الخمس - الجزء الرابع - دوباميكافين",
-          "link": "https://www.youtube.com/watch?v=nJqLEmmTvzk",
-          "videoId": "nJqLEmmTvzk",
-          "pubDate": "2026-04-12T13:00:04+00:00"
-        },
-        {
-          "title": "اللغة الثالثة .. قريبًا",
-          "link": "https://www.youtube.com/watch?v=MghBvnwilt4",
-          "videoId": "MghBvnwilt4",
-          "pubDate": "2026-04-05T14:07:51+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "دوباميكافيين",
+      "items": [],
+      "ok": false
     },
     "UC0LSnqrwqtMwl2YwfUpO66g": {
       "handle": "aljazeeradocumentary",
       "name": "الجزيرة الوثائقية",
-      "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
-      "items": [
-        {
-          "title": "العمامة الأزهرية هوية تشكلت في العصر العثماني",
-          "link": "https://www.youtube.com/watch?v=_B6Uw9kkAGs",
-          "videoId": "_B6Uw9kkAGs",
-          "pubDate": "2026-04-14T21:00:01+00:00"
-        },
-        {
-          "title": "كيف ساهمت النظرية النسبية في اكتشاف ما لا يمكن رؤيته؟",
-          "link": "https://www.youtube.com/watch?v=-rDBgorxEiA",
-          "videoId": "-rDBgorxEiA",
-          "pubDate": "2026-04-14T20:00:00+00:00"
-        },
-        {
-          "title": "إنقاذ فقمة سايما.. سباق مع الزمن لحماية أندر فقمة في العالم",
-          "link": "https://www.youtube.com/watch?v=v1Y6Bir8RtQ",
-          "videoId": "v1Y6Bir8RtQ",
-          "pubDate": "2026-04-14T19:45:00+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "الجزيرة الوثائقية",
+      "items": [],
+      "ok": false
     },
     "UCArK7aSQ68vRCiJY2m7spkA": {
       "handle": "AsharqDoc",
       "name": "الشرق الوثائقية",
-      "feedTitle": "Asharq Documentary الشرق الوثائقية",
-      "items": [
-        {
-          "title": "جورجيا ميلوني",
-          "link": "https://www.youtube.com/watch?v=7YnxliNt0uM",
-          "videoId": "7YnxliNt0uM",
-          "pubDate": "2026-04-14T19:00:20+00:00"
-        },
-        {
-          "title": "جورجيا ميلوني… كيف تمارس السلطة في إيطاليا؟ | الشرق الوثائقية",
-          "link": "https://www.youtube.com/watch?v=vDwQGes-CSM",
-          "videoId": "vDwQGes-CSM",
-          "pubDate": "2026-04-13T21:01:04+00:00"
-        },
-        {
-          "title": "جورجيا ميلوني… المرأة التي أربكت أوروبا | الشرق الوثائقية",
-          "link": "https://www.youtube.com/watch?v=9ozMMoKmoOM",
-          "videoId": "9ozMMoKmoOM",
-          "pubDate": "2026-04-12T21:00:07+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "الشرق الوثائقية",
+      "items": [],
+      "ok": false
     },
     "UCLiTe0aOHShx7hXGyqZ9UIw": {
       "handle": "natgeoabudhabime",
       "name": "ناشيونال جيوغرافيك",
-      "feedTitle": "Nat Geo Abu Dhabi",
-      "items": [
-        {
-          "title": "متاعب بالجملة | فريق إنقاذ الطرق الجليدية | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=HvQoi_Po1II",
-          "videoId": "HvQoi_Po1II",
-          "pubDate": "2026-04-14T19:52:33+00:00"
-        },
-        {
-          "title": "لعنة ولاية فرجينيا الغربية | أطلس الأماكن المشؤومة | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=k7hqHpmoXRU",
-          "videoId": "k7hqHpmoXRU",
-          "pubDate": "2026-04-12T19:50:00+00:00"
-        },
-        {
-          "title": "الحلقة الأولى | الجزر المتجمدة | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=4nnWZw-OoUE",
-          "videoId": "4nnWZw-OoUE",
-          "pubDate": "2026-04-10T19:54:57+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "ناشيونال جيوغرافيك",
+      "items": [],
+      "ok": false
     },
     "UCET6sWl4Xcu-U8Ka9PJPrwA": {
       "handle": "dwdocarabia",
       "name": "DW عربية وثائقي",
-      "feedTitle": "DW Documentary وثائقية دي دبليو",
-      "items": [
-        {
-          "title": "ما علاقة جسدك بالغبار الكوني؟",
-          "link": "https://www.youtube.com/watch?v=j7NOTF2W4yg",
-          "videoId": "j7NOTF2W4yg",
-          "pubDate": "2026-04-14T10:45:06+00:00"
-        },
-        {
-          "title": "ريبورتاج | صناعة الاحتيال في كمبوديا | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=jwOq6I50JwY",
-          "videoId": "jwOq6I50JwY",
-          "pubDate": "2026-04-13T17:00:58+00:00"
-        },
-        {
-          "title": "وثائقي | النرويج تحت الضغط – موجة سياح مفرطة في الشمال | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=jgsnhXYT7yM",
-          "videoId": "jgsnhXYT7yM",
-          "pubDate": "2026-04-12T17:01:01+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "DW عربية وثائقي",
+      "items": [],
+      "ok": false
     }
   }
 }
