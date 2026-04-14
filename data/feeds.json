@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-14T17:03:12.987617+00:00",
+  "updated": "2026-04-14T18:54:19.901042+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "كراوس.. الرومانسي الأخير | قصة ألفريدو كراوس بين الأوبرا والحب الخالد",
+          "link": "https://www.youtube.com/watch?v=rtKA7ZUGiJ0",
+          "videoId": "rtKA7ZUGiJ0",
+          "pubDate": "2026-04-14T18:15:05+00:00"
+        },
+        {
+          "title": "سألناه عن حلمه فضحك..",
+          "link": "https://www.youtube.com/watch?v=QAEPNxqwuQc",
+          "videoId": "QAEPNxqwuQc",
+          "pubDate": "2026-04-14T17:00:01+00:00"
+        },
+        {
           "title": "فتاة أدمنت منصات التواصل: في النهاية تخلى عني أصدقائي",
           "link": "https://www.youtube.com/watch?v=wLCyqxQs4v0",
           "videoId": "wLCyqxQs4v0",
           "pubDate": "2026-04-14T15:00:01+00:00"
-        },
-        {
-          "title": "في عالم الأسود، تتولى اللبؤة قيادة الصيد، فتكيف ذلك؟",
-          "link": "https://www.youtube.com/watch?v=JEMGTuxdEvQ",
-          "videoId": "JEMGTuxdEvQ",
-          "pubDate": "2026-04-14T14:00:01+00:00"
-        },
-        {
-          "title": "وحدة مقاومة خاصة لتحرير الشيخ أحمد ياسين",
-          "link": "https://www.youtube.com/watch?v=IkhWq2ndImg",
-          "videoId": "IkhWq2ndImg",
-          "pubDate": "2026-04-14T12:00:01+00:00"
         }
       ],
       "ok": true
