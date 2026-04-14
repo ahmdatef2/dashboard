@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-14T20:46:42.965875+00:00",
+  "updated": "2026-04-14T21:39:23.166712+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -371,6 +371,12 @@
       "feedTitle": "أخضر",
       "items": [
         {
+          "title": "فصل جديد بدأ! ضاعف تطورك وتعلم من تجارب حقيقية علي أخضر 💡",
+          "link": "https://www.youtube.com/watch?v=0e3p8TTdHzg",
+          "videoId": "0e3p8TTdHzg",
+          "pubDate": "2026-04-14T20:55:39+00:00"
+        },
+        {
           "title": "فصل جديد بدأ.! ضاغف تطورك وتعلم من تجارب حقيقية علي أخضر 💡",
           "link": "https://www.youtube.com/watch?v=zmqKMMfJ3eo",
           "videoId": "zmqKMMfJ3eo",
@@ -381,12 +387,6 @@
           "link": "https://www.youtube.com/watch?v=rDV00ZyTKWQ",
           "videoId": "rDV00ZyTKWQ",
           "pubDate": "2026-04-13T19:55:09+00:00"
-        },
-        {
-          "title": "كيف توقف صوتك الداخلي؟🤫  كتاب (الجلاد تحت جلدي) د. عماد رشاد عثمان #أخضر",
-          "link": "https://www.youtube.com/watch?v=-D714MCDHwk",
-          "videoId": "-D714MCDHwk",
-          "pubDate": "2026-04-10T16:00:00+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "العمامة الأزهرية هوية تشكلت في العصر العثماني",
+          "link": "https://www.youtube.com/watch?v=_B6Uw9kkAGs",
+          "videoId": "_B6Uw9kkAGs",
+          "pubDate": "2026-04-14T21:00:01+00:00"
+        },
+        {
           "title": "كيف ساهمت النظرية النسبية في اكتشاف ما لا يمكن رؤيته؟",
           "link": "https://www.youtube.com/watch?v=-rDBgorxEiA",
           "videoId": "-rDBgorxEiA",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=v1Y6Bir8RtQ",
           "videoId": "v1Y6Bir8RtQ",
           "pubDate": "2026-04-14T19:45:00+00:00"
-        },
-        {
-          "title": "الفيلم الذي غيّر نظرتنا للخيال العلمي",
-          "link": "https://www.youtube.com/watch?v=bSexIV1NHE4",
-          "videoId": "bSexIV1NHE4",
-          "pubDate": "2026-04-14T19:00:01+00:00"
         }
       ],
       "ok": true
