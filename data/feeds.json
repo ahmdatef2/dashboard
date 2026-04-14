@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-14T06:23:28.810303+00:00",
+  "updated": "2026-04-14T08:18:08.358749+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "كيف حُرّف تاريخ الأندلس لخدمة رواية المنتصرين؟",
+          "link": "https://www.youtube.com/watch?v=GTbu9KzXKXE",
+          "videoId": "GTbu9KzXKXE",
+          "pubDate": "2026-04-14T08:00:01+00:00"
+        },
+        {
           "title": "من يقود قطيع الفيلة؟",
           "link": "https://www.youtube.com/watch?v=Y0dCmj-b0eU",
           "videoId": "Y0dCmj-b0eU",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=lR_CWN2A5UU",
           "videoId": "lR_CWN2A5UU",
           "pubDate": "2026-04-13T19:00:01+00:00"
-        },
-        {
-          "title": "المحطة التالية.. رحلة العمر عبر القارات: استكشاف بيرو وتشيلي وماليزيا وجنوب أفريقيا | الحلقة الأولى",
-          "link": "https://www.youtube.com/watch?v=S-ePcBNdtIk",
-          "videoId": "S-ePcBNdtIk",
-          "pubDate": "2026-04-13T18:30:29+00:00"
         }
       ],
       "ok": true
