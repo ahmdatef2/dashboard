@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-14T14:44:01.283169+00:00",
+  "updated": "2026-04-14T15:58:48.921362+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -59,6 +59,12 @@
       "feedTitle": "Infotech4you - مروي سليمان",
       "items": [
         {
+          "title": "كيف تستخدم Claude داخل PowerPoint خطوة بخطوة!",
+          "link": "https://www.youtube.com/watch?v=bVXk55JPTkQ",
+          "videoId": "bVXk55JPTkQ",
+          "pubDate": "2026-04-14T14:58:37+00:00"
+        },
+        {
           "title": "صادم! Claude Mythos Preview من Anthropic دخل عالم الأمن السيبراني بقوة",
           "link": "https://www.youtube.com/watch?v=ipPOBt7cUk4",
           "videoId": "ipPOBt7cUk4",
@@ -69,12 +75,6 @@
           "link": "https://www.youtube.com/watch?v=WhLviFguvN0",
           "videoId": "WhLviFguvN0",
           "pubDate": "2026-04-10T17:13:45+00:00"
-        },
-        {
-          "title": "قوة ثنائية خارقة NotebookLM + Claude  1 #الذكاء_الاصطناعي #ai",
-          "link": "https://www.youtube.com/watch?v=47KIurn14u8",
-          "videoId": "47KIurn14u8",
-          "pubDate": "2026-04-09T18:52:07+00:00"
         }
       ],
       "ok": true
@@ -267,6 +267,12 @@
       "feedTitle": "أكاديمية ريان | Ryan Academy",
       "items": [
         {
+          "title": "الترند كله في موقعك 🤯 انشئ موقع جامع لكل موديلات الذكاء الاصطناعي 🔥 سكربت الاسبوع #10",
+          "link": "https://www.youtube.com/watch?v=LL3_QCgoq9I",
+          "videoId": "LL3_QCgoq9I",
+          "pubDate": "2026-04-14T15:00:41+00:00"
+        },
+        {
           "title": "شغل ChatGPT الخاص بك على VPS 🤯 باستخدام Ollama",
           "link": "https://www.youtube.com/watch?v=kSQ-kCE5GyU",
           "videoId": "kSQ-kCE5GyU",
@@ -277,12 +283,6 @@
           "link": "https://www.youtube.com/watch?v=6TqOCOzJCFw",
           "videoId": "6TqOCOzJCFw",
           "pubDate": "2026-04-10T17:00:07+00:00"
-        },
-        {
-          "title": "ازاي تقدر توصل لـ API key مجاني لاشهر الموديلات بضغطة زرار واحده",
-          "link": "https://www.youtube.com/watch?v=but1RdrxLtc",
-          "videoId": "but1RdrxLtc",
-          "pubDate": "2026-04-09T21:06:01+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "فتاة أدمنت منصات التواصل: في النهاية تخلى عني أصدقائي",
+          "link": "https://www.youtube.com/watch?v=wLCyqxQs4v0",
+          "videoId": "wLCyqxQs4v0",
+          "pubDate": "2026-04-14T15:00:01+00:00"
+        },
+        {
           "title": "في عالم الأسود، تتولى اللبؤة قيادة الصيد، فتكيف ذلك؟",
           "link": "https://www.youtube.com/watch?v=JEMGTuxdEvQ",
           "videoId": "JEMGTuxdEvQ",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=IkhWq2ndImg",
           "videoId": "IkhWq2ndImg",
           "pubDate": "2026-04-14T12:00:01+00:00"
-        },
-        {
-          "title": "طالب من غزة بمعدل 99٪ كاد يتخلى عن الطب لسبب لم يكن بالحسبان",
-          "link": "https://www.youtube.com/watch?v=ZmZvfBxoSjI",
-          "videoId": "ZmZvfBxoSjI",
-          "pubDate": "2026-04-14T11:00:01+00:00"
         }
       ],
       "ok": true
