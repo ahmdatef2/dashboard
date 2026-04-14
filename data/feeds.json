@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-14T12:53:47.007045+00:00",
+  "updated": "2026-04-14T14:44:01.283169+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -85,6 +85,12 @@
       "feedTitle": "عبداللطيف سعيد Abdellatif Said",
       "items": [
         {
+          "title": "سيبك من Grok! 🛑 أسهل طرق مجانية لتحويل صورك لفيديو بالذكاء الاصطناعي 🤯",
+          "link": "https://www.youtube.com/watch?v=8t3XYECOUCI",
+          "videoId": "8t3XYECOUCI",
+          "pubDate": "2026-04-14T14:15:04+00:00"
+        },
+        {
           "title": "المواجهة الشرسة: Ollama ضد LM Studio.. مين أفضل برنامج لتشغيل الذكاء الاصطناعي على جهازك؟",
           "link": "https://www.youtube.com/watch?v=OwVeqp1GerQ",
           "videoId": "OwVeqp1GerQ",
@@ -95,12 +101,6 @@
           "link": "https://www.youtube.com/watch?v=CDlBkMQO_U0",
           "videoId": "CDlBkMQO_U0",
           "pubDate": "2026-04-09T14:15:04+00:00"
-        },
-        {
-          "title": "جوجل عملتها! تقنية TurboQuant السحرية اللي هترخص أسعار الرامات والذكاء الاصطناعي",
-          "link": "https://www.youtube.com/watch?v=Qc1cF-vmYlo",
-          "videoId": "Qc1cF-vmYlo",
-          "pubDate": "2026-04-08T14:15:04+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "في عالم الأسود، تتولى اللبؤة قيادة الصيد، فتكيف ذلك؟",
+          "link": "https://www.youtube.com/watch?v=JEMGTuxdEvQ",
+          "videoId": "JEMGTuxdEvQ",
+          "pubDate": "2026-04-14T14:00:01+00:00"
+        },
+        {
           "title": "وحدة مقاومة خاصة لتحرير الشيخ أحمد ياسين",
           "link": "https://www.youtube.com/watch?v=IkhWq2ndImg",
           "videoId": "IkhWq2ndImg",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=ZmZvfBxoSjI",
           "videoId": "ZmZvfBxoSjI",
           "pubDate": "2026-04-14T11:00:01+00:00"
-        },
-        {
-          "title": "كيف حُرّف تاريخ الأندلس لخدمة رواية المنتصرين؟",
-          "link": "https://www.youtube.com/watch?v=GTbu9KzXKXE",
-          "videoId": "GTbu9KzXKXE",
-          "pubDate": "2026-04-14T08:00:01+00:00"
         }
       ],
       "ok": true
