@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-14T18:54:19.901042+00:00",
+  "updated": "2026-04-14T19:57:50.673763+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -371,6 +371,12 @@
       "feedTitle": "أخضر",
       "items": [
         {
+          "title": "فصل جديد بدأ.! ضاغف تطورك وتعلم من تجارب حقيقية علي أخضر 💡",
+          "link": "https://www.youtube.com/watch?v=zmqKMMfJ3eo",
+          "videoId": "zmqKMMfJ3eo",
+          "pubDate": "2026-04-14T18:44:02+00:00"
+        },
+        {
           "title": "يوم واحد يفصلنا عن بداية فصل جديد #أخضر",
           "link": "https://www.youtube.com/watch?v=rDV00ZyTKWQ",
           "videoId": "rDV00ZyTKWQ",
@@ -381,12 +387,6 @@
           "link": "https://www.youtube.com/watch?v=-D714MCDHwk",
           "videoId": "-D714MCDHwk",
           "pubDate": "2026-04-10T16:00:00+00:00"
-        },
-        {
-          "title": "نفس واحد ممكن يكون الأخير.. الاستروكس 🚫| على الماشي #أخضر",
-          "link": "https://www.youtube.com/watch?v=NCNOYkECmOU",
-          "videoId": "NCNOYkECmOU",
-          "pubDate": "2026-04-07T19:30:05+00:00"
         }
       ],
       "ok": true
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "إنقاذ فقمة سايما.. سباق مع الزمن لحماية أندر فقمة في العالم",
+          "link": "https://www.youtube.com/watch?v=v1Y6Bir8RtQ",
+          "videoId": "v1Y6Bir8RtQ",
+          "pubDate": "2026-04-14T19:45:00+00:00"
+        },
+        {
+          "title": "الفيلم الذي غيّر نظرتنا للخيال العلمي",
+          "link": "https://www.youtube.com/watch?v=bSexIV1NHE4",
+          "videoId": "bSexIV1NHE4",
+          "pubDate": "2026-04-14T19:00:01+00:00"
+        },
+        {
           "title": "كراوس.. الرومانسي الأخير | قصة ألفريدو كراوس بين الأوبرا والحب الخالد",
           "link": "https://www.youtube.com/watch?v=rtKA7ZUGiJ0",
           "videoId": "rtKA7ZUGiJ0",
           "pubDate": "2026-04-14T18:15:05+00:00"
-        },
-        {
-          "title": "سألناه عن حلمه فضحك..",
-          "link": "https://www.youtube.com/watch?v=QAEPNxqwuQc",
-          "videoId": "QAEPNxqwuQc",
-          "pubDate": "2026-04-14T17:00:01+00:00"
-        },
-        {
-          "title": "فتاة أدمنت منصات التواصل: في النهاية تخلى عني أصدقائي",
-          "link": "https://www.youtube.com/watch?v=wLCyqxQs4v0",
-          "videoId": "wLCyqxQs4v0",
-          "pubDate": "2026-04-14T15:00:01+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "جورجيا ميلوني",
+          "link": "https://www.youtube.com/watch?v=7YnxliNt0uM",
+          "videoId": "7YnxliNt0uM",
+          "pubDate": "2026-04-14T19:00:20+00:00"
+        },
         {
           "title": "جورجيا ميلوني… كيف تمارس السلطة في إيطاليا؟ | الشرق الوثائقية",
           "link": "https://www.youtube.com/watch?v=vDwQGes-CSM",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=9ozMMoKmoOM",
           "videoId": "9ozMMoKmoOM",
           "pubDate": "2026-04-12T21:00:07+00:00"
-        },
-        {
-          "title": "حصان يعود إلى الحياة من حقبة الستينات",
-          "link": "https://www.youtube.com/watch?v=-uPjKB3uu_M",
-          "videoId": "-uPjKB3uu_M",
-          "pubDate": "2026-04-12T16:54:19+00:00"
         }
       ],
       "ok": true
