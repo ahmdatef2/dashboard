@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-14T11:47:51.507616+00:00",
+  "updated": "2026-04-14T12:53:47.007045+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "وحدة مقاومة خاصة لتحرير الشيخ أحمد ياسين",
+          "link": "https://www.youtube.com/watch?v=IkhWq2ndImg",
+          "videoId": "IkhWq2ndImg",
+          "pubDate": "2026-04-14T12:00:01+00:00"
+        },
+        {
           "title": "طالب من غزة بمعدل 99٪ كاد يتخلى عن الطب لسبب لم يكن بالحسبان",
           "link": "https://www.youtube.com/watch?v=ZmZvfBxoSjI",
           "videoId": "ZmZvfBxoSjI",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=GTbu9KzXKXE",
           "videoId": "GTbu9KzXKXE",
           "pubDate": "2026-04-14T08:00:01+00:00"
-        },
-        {
-          "title": "من يقود قطيع الفيلة؟",
-          "link": "https://www.youtube.com/watch?v=Y0dCmj-b0eU",
-          "videoId": "Y0dCmj-b0eU",
-          "pubDate": "2026-04-13T20:30:01+00:00"
         }
       ],
       "ok": true
