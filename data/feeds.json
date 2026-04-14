@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-14T10:04:02.570212+00:00",
+  "updated": "2026-04-14T11:47:51.507616+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "طالب من غزة بمعدل 99٪ كاد يتخلى عن الطب لسبب لم يكن بالحسبان",
+          "link": "https://www.youtube.com/watch?v=ZmZvfBxoSjI",
+          "videoId": "ZmZvfBxoSjI",
+          "pubDate": "2026-04-14T11:00:01+00:00"
+        },
+        {
           "title": "كيف حُرّف تاريخ الأندلس لخدمة رواية المنتصرين؟",
           "link": "https://www.youtube.com/watch?v=GTbu9KzXKXE",
           "videoId": "GTbu9KzXKXE",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=Y0dCmj-b0eU",
           "videoId": "Y0dCmj-b0eU",
           "pubDate": "2026-04-13T20:30:01+00:00"
-        },
-        {
-          "title": "كيف حاول مصطفى مشرفة فهم الموسيقى الشرقية بالفيزياء؟",
-          "link": "https://www.youtube.com/watch?v=lR_CWN2A5UU",
-          "videoId": "lR_CWN2A5UU",
-          "pubDate": "2026-04-13T19:00:01+00:00"
         }
       ],
       "ok": true
@@ -501,7 +501,7 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
-          "title": "داخل كواليس الحكم.. كيف تدير ميلوني السلطة في إيطاليا؟ - ممارسة السلطة | الشرق الوثائقية",
+          "title": "جورجيا ميلوني… كيف تمارس السلطة في إيطاليا؟ | الشرق الوثائقية",
           "link": "https://www.youtube.com/watch?v=vDwQGes-CSM",
           "videoId": "vDwQGes-CSM",
           "pubDate": "2026-04-13T21:01:04+00:00"
@@ -553,6 +553,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "ما علاقة جسدك بالغبار الكوني؟",
+          "link": "https://www.youtube.com/watch?v=j7NOTF2W4yg",
+          "videoId": "j7NOTF2W4yg",
+          "pubDate": "2026-04-14T10:45:06+00:00"
+        },
+        {
           "title": "ريبورتاج | صناعة الاحتيال في كمبوديا | وثائقية دي دبليو",
           "link": "https://www.youtube.com/watch?v=jwOq6I50JwY",
           "videoId": "jwOq6I50JwY",
@@ -563,12 +569,6 @@
           "link": "https://www.youtube.com/watch?v=jgsnhXYT7yM",
           "videoId": "jgsnhXYT7yM",
           "pubDate": "2026-04-12T17:01:01+00:00"
-        },
-        {
-          "title": "وثائقي | السودان: أكبر أزمة إنسانية في العالم | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=m3LgO1heveQ",
-          "videoId": "m3LgO1heveQ",
-          "pubDate": "2026-04-11T17:00:54+00:00"
         }
       ],
       "ok": true
