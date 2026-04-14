@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-14T19:57:50.673763+00:00",
+  "updated": "2026-04-14T20:46:42.965875+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "كيف ساهمت النظرية النسبية في اكتشاف ما لا يمكن رؤيته؟",
+          "link": "https://www.youtube.com/watch?v=-rDBgorxEiA",
+          "videoId": "-rDBgorxEiA",
+          "pubDate": "2026-04-14T20:00:00+00:00"
+        },
+        {
           "title": "إنقاذ فقمة سايما.. سباق مع الزمن لحماية أندر فقمة في العالم",
           "link": "https://www.youtube.com/watch?v=v1Y6Bir8RtQ",
           "videoId": "v1Y6Bir8RtQ",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=bSexIV1NHE4",
           "videoId": "bSexIV1NHE4",
           "pubDate": "2026-04-14T19:00:01+00:00"
-        },
-        {
-          "title": "كراوس.. الرومانسي الأخير | قصة ألفريدو كراوس بين الأوبرا والحب الخالد",
-          "link": "https://www.youtube.com/watch?v=rtKA7ZUGiJ0",
-          "videoId": "rtKA7ZUGiJ0",
-          "pubDate": "2026-04-14T18:15:05+00:00"
         }
       ],
       "ok": true
@@ -527,6 +527,12 @@
       "feedTitle": "Nat Geo Abu Dhabi",
       "items": [
         {
+          "title": "متاعب بالجملة | فريق إنقاذ الطرق الجليدية | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=HvQoi_Po1II",
+          "videoId": "HvQoi_Po1II",
+          "pubDate": "2026-04-14T19:52:33+00:00"
+        },
+        {
           "title": "لعنة ولاية فرجينيا الغربية | أطلس الأماكن المشؤومة | ناشونال جيوغرافيك أبوظبي",
           "link": "https://www.youtube.com/watch?v=k7hqHpmoXRU",
           "videoId": "k7hqHpmoXRU",
@@ -537,12 +543,6 @@
           "link": "https://www.youtube.com/watch?v=4nnWZw-OoUE",
           "videoId": "4nnWZw-OoUE",
           "pubDate": "2026-04-10T19:54:57+00:00"
-        },
-        {
-          "title": "ابتداءً 13 أبريل | إخفاقات البناء | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=pgNxbFDp6i0",
-          "videoId": "pgNxbFDp6i0",
-          "pubDate": "2026-04-10T13:57:49+00:00"
         }
       ],
       "ok": true
