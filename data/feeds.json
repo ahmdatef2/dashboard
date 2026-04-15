@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-15T10:04:45.190677+00:00",
+  "updated": "2026-04-15T11:44:07.953979+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -215,6 +215,12 @@
       "feedTitle": "Mohamed Ansary",
       "items": [
         {
+          "title": "Scientific Research & Academic Publisher (SCRIP) كنز البحث العلمي",
+          "link": "https://www.youtube.com/watch?v=VAt_vIWFAZc",
+          "videoId": "VAt_vIWFAZc",
+          "pubDate": "2026-04-15T11:34:12+00:00"
+        },
+        {
           "title": "الترجمة الاحترافية للملفات من خلال MANUS AI",
           "link": "https://www.youtube.com/watch?v=dSI24vHP0Uo",
           "videoId": "dSI24vHP0Uo",
@@ -225,12 +231,6 @@
           "link": "https://www.youtube.com/watch?v=5T2c_FxT8rw",
           "videoId": "5T2c_FxT8rw",
           "pubDate": "2026-04-11T17:43:51+00:00"
-        },
-        {
-          "title": "الدردشة مع الصور وتحويل ملف pdf إلى خريطة ذهنية مجاناً وبإحترافية",
-          "link": "https://www.youtube.com/watch?v=rndbgHg2Zg8",
-          "videoId": "rndbgHg2Zg8",
-          "pubDate": "2026-04-11T16:07:40+00:00"
         }
       ],
       "ok": true
@@ -397,6 +397,12 @@
       "feedTitle": "شخبطة Sha5bata",
       "items": [
         {
+          "title": "الصلابة النفسية VS الابتلاءات !!",
+          "link": "https://www.youtube.com/watch?v=rIIZajWCHFQ",
+          "videoId": "rIIZajWCHFQ",
+          "pubDate": "2026-04-15T11:25:31+00:00"
+        },
+        {
           "title": "حرر نفسك من التفكير في اللي ظلمك؟ (آية هتغير حياتك) #شخبطة",
           "link": "https://www.youtube.com/watch?v=iUJI5T94jbc",
           "videoId": "iUJI5T94jbc",
@@ -407,12 +413,6 @@
           "link": "https://www.youtube.com/watch?v=iUYBa2fVEmM",
           "videoId": "iUYBa2fVEmM",
           "pubDate": "2026-04-07T11:01:12+00:00"
-        },
-        {
-          "title": "لماذا يختار الأذكياء عدم النشر على  وسائل التواصل الاجتماعى ؟!",
-          "link": "https://www.youtube.com/watch?v=Aobz3_jEajQ",
-          "videoId": "Aobz3_jEajQ",
-          "pubDate": "2026-03-26T13:00:13+00:00"
         }
       ],
       "ok": true
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "ناجون يروون فظائع جرائم الجنجويد خلال الحرب",
+          "link": "https://www.youtube.com/watch?v=iMwiX5zcdNw",
+          "videoId": "iMwiX5zcdNw",
+          "pubDate": "2026-04-15T11:00:01+00:00"
+        },
+        {
+          "title": "ما الذي يمكن أن نتعلمه من حضارة الأندلس اليوم؟",
+          "link": "https://www.youtube.com/watch?v=IAebGmYglzg",
+          "videoId": "IAebGmYglzg",
+          "pubDate": "2026-04-15T10:00:01+00:00"
+        },
+        {
           "title": "قالها وهو آمن: \"أنا ضد الهجرة\"",
           "link": "https://www.youtube.com/watch?v=PRtXLPbSJAA",
           "videoId": "PRtXLPbSJAA",
           "pubDate": "2026-04-15T07:57:06+00:00"
-        },
-        {
-          "title": "العمامة الأزهرية هوية تشكلت في العصر العثماني",
-          "link": "https://www.youtube.com/watch?v=_B6Uw9kkAGs",
-          "videoId": "_B6Uw9kkAGs",
-          "pubDate": "2026-04-14T21:00:01+00:00"
-        },
-        {
-          "title": "كيف ساهمت النظرية النسبية في اكتشاف ما لا يمكن رؤيته؟",
-          "link": "https://www.youtube.com/watch?v=-rDBgorxEiA",
-          "videoId": "-rDBgorxEiA",
-          "pubDate": "2026-04-14T20:00:00+00:00"
         }
       ],
       "ok": true
