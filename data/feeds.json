@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-15T16:53:21.538612+00:00",
+  "updated": "2026-04-15T17:56:58.252968+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -501,6 +501,12 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "طريق الحرير الجديد",
+          "link": "https://www.youtube.com/watch?v=AdAwGeWeYn4",
+          "videoId": "AdAwGeWeYn4",
+          "pubDate": "2026-04-15T17:00:34+00:00"
+        },
+        {
           "title": "بيوتهم زوارق ويعيشون في أخطر بقاع الأرض",
           "link": "https://www.youtube.com/watch?v=YUSeD86Pf_w",
           "videoId": "YUSeD86Pf_w",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=9wXRhAJ0X8E",
           "videoId": "9wXRhAJ0X8E",
           "pubDate": "2026-04-15T15:30:06+00:00"
-        },
-        {
-          "title": "طموحات بكين",
-          "link": "https://www.youtube.com/watch?v=aoInBH4nqdQ",
-          "videoId": "aoInBH4nqdQ",
-          "pubDate": "2026-04-15T14:23:59+00:00"
         }
       ],
       "ok": true
@@ -553,6 +553,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "وثائقي | سرّ التركيز – كيف نعزز قدرتنا على الانتباه؟ | وثائقية دي دبليو",
+          "link": "https://www.youtube.com/watch?v=ZOq5uww_sZM",
+          "videoId": "ZOq5uww_sZM",
+          "pubDate": "2026-04-15T17:00:46+00:00"
+        },
+        {
           "title": "ما علاقة جسدك بالغبار الكوني؟",
           "link": "https://www.youtube.com/watch?v=j7NOTF2W4yg",
           "videoId": "j7NOTF2W4yg",
@@ -563,12 +569,6 @@
           "link": "https://www.youtube.com/watch?v=jwOq6I50JwY",
           "videoId": "jwOq6I50JwY",
           "pubDate": "2026-04-13T17:00:58+00:00"
-        },
-        {
-          "title": "وثائقي | النرويج تحت الضغط – موجة سياح مفرطة في الشمال | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=jgsnhXYT7yM",
-          "videoId": "jgsnhXYT7yM",
-          "pubDate": "2026-04-12T17:01:01+00:00"
         }
       ],
       "ok": true
