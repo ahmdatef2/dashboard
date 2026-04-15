@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-15T01:13:06.876688+00:00",
+  "updated": "2026-04-15T04:34:41.526478+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -47,27 +47,8 @@
       "handle": "elzerowebschool",
       "name": "Elzero Web School",
       "feedTitle": "Elzero Web School",
-      "items": [
-        {
-          "title": "عشر حاجات لو سمعتهم وانت بتتفق على شغل اهرب فورا",
-          "link": "https://www.youtube.com/watch?v=ER_CzhR6JVQ",
-          "videoId": "ER_CzhR6JVQ",
-          "pubDate": "2026-03-26T20:11:50+00:00"
-        },
-        {
-          "title": "مبادرة هتطورك في البرمجة وتاخد ثواب وفرصة لرحلة عمرة",
-          "link": "https://www.youtube.com/watch?v=1n4AJdviibs",
-          "videoId": "1n4AJdviibs",
-          "pubDate": "2026-03-03T19:47:57+00:00"
-        },
-        {
-          "title": "توظيف البشر لصالح الذكاء الاصطناعي",
-          "link": "https://www.youtube.com/watch?v=4XBhqzlYJGY",
-          "videoId": "4XBhqzlYJGY",
-          "pubDate": "2026-02-16T10:47:19+00:00"
-        }
-      ],
-      "ok": true
+      "items": [],
+      "ok": false
     },
     "UCGrVvqu8PlVv0wPqA5kgY8A": {
       "handle": "ArabicArtificialIntelligence",
@@ -114,28 +95,9 @@
     "UCu1NJiJlhrhmF5ZgT-0yWdA": {
       "handle": "Jeelyaqraa",
       "name": "جيل يقرأ",
-      "feedTitle": "ReadTube - جيل يقرأ",
-      "items": [
-        {
-          "title": "احذر قبل فوات الأوان- كامل الصورة - أحمد السيد ",
-          "link": "https://www.youtube.com/watch?v=n9YW0Liz3rs",
-          "videoId": "n9YW0Liz3rs",
-          "pubDate": "2026-04-04T16:04:47+00:00"
-        },
-        {
-          "title": "الذين ضحكوا حتى البكاء -ملخص لكتاب د. مصطفى محمود",
-          "link": "https://www.youtube.com/watch?v=bSbrMABmf4E",
-          "videoId": "bSbrMABmf4E",
-          "pubDate": "2026-03-03T20:46:03+00:00"
-        },
-        {
-          "title": "المسيري يتنبأ بالمستقبل",
-          "link": "https://www.youtube.com/watch?v=N2hD24PnJQ4",
-          "videoId": "N2hD24PnJQ4",
-          "pubDate": "2026-03-01T20:56:54+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "جيل يقرأ",
+      "items": [],
+      "ok": false
     },
     "UCtUor2SqesPS3b_SMFtLT_w": {
       "handle": "a5drcom",
@@ -161,28 +123,9 @@
     "UCJlu6BjPWHZhzuCc0zVME0Q": {
       "handle": "Dupamicaffeine",
       "name": "دوباميكافيين",
-      "feedTitle": "دوباميكافين Dupamicaffeine",
-      "items": [
-        {
-          "title": "سر تجدد المشاعر في العلاقات الطويلة",
-          "link": "https://www.youtube.com/watch?v=AWWViWGKhdk",
-          "videoId": "AWWViWGKhdk",
-          "pubDate": "2026-04-13T13:00:27+00:00"
-        },
-        {
-          "title": "عودة العلاقات - لغات الحب الخمس - الجزء الرابع - دوباميكافين",
-          "link": "https://www.youtube.com/watch?v=nJqLEmmTvzk",
-          "videoId": "nJqLEmmTvzk",
-          "pubDate": "2026-04-12T13:00:04+00:00"
-        },
-        {
-          "title": "اللغة الثالثة .. قريبًا",
-          "link": "https://www.youtube.com/watch?v=MghBvnwilt4",
-          "videoId": "MghBvnwilt4",
-          "pubDate": "2026-04-05T14:07:51+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "دوباميكافيين",
+      "items": [],
+      "ok": false
     },
     "UC0LSnqrwqtMwl2YwfUpO66g": {
       "handle": "aljazeeradocumentary",
@@ -208,9 +151,28 @@
     "UCET6sWl4Xcu-U8Ka9PJPrwA": {
       "handle": "dwdocarabia",
       "name": "DW عربية وثائقي",
-      "feedTitle": "DW عربية وثائقي",
-      "items": [],
-      "ok": false
+      "feedTitle": "DW Documentary وثائقية دي دبليو",
+      "items": [
+        {
+          "title": "ما علاقة جسدك بالغبار الكوني؟",
+          "link": "https://www.youtube.com/watch?v=j7NOTF2W4yg",
+          "videoId": "j7NOTF2W4yg",
+          "pubDate": "2026-04-14T10:45:06+00:00"
+        },
+        {
+          "title": "ريبورتاج | صناعة الاحتيال في كمبوديا | وثائقية دي دبليو",
+          "link": "https://www.youtube.com/watch?v=jwOq6I50JwY",
+          "videoId": "jwOq6I50JwY",
+          "pubDate": "2026-04-13T17:00:58+00:00"
+        },
+        {
+          "title": "وثائقي | النرويج تحت الضغط – موجة سياح مفرطة في الشمال | وثائقية دي دبليو",
+          "link": "https://www.youtube.com/watch?v=jgsnhXYT7yM",
+          "videoId": "jgsnhXYT7yM",
+          "pubDate": "2026-04-12T17:01:01+00:00"
+        }
+      ],
+      "ok": true
     }
   }
 }
