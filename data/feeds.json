@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-15T08:19:34.574805+00:00",
+  "updated": "2026-04-15T10:04:45.190677+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -501,6 +501,12 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "ماسك والبرمجة",
+          "link": "https://www.youtube.com/watch?v=lOBdjK68aZk",
+          "videoId": "lOBdjK68aZk",
+          "pubDate": "2026-04-15T08:30:01+00:00"
+        },
+        {
           "title": "هيروشيما.. أشرس البراكين القاتلة حول العالم 🔥 - الشرق الوثائقية",
           "link": "https://www.youtube.com/watch?v=wwy8DzTGgok",
           "videoId": "wwy8DzTGgok",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=7YnxliNt0uM",
           "videoId": "7YnxliNt0uM",
           "pubDate": "2026-04-14T19:00:20+00:00"
-        },
-        {
-          "title": "جورجيا ميلوني… كيف تمارس السلطة في إيطاليا؟ | الشرق الوثائقية",
-          "link": "https://www.youtube.com/watch?v=vDwQGes-CSM",
-          "videoId": "vDwQGes-CSM",
-          "pubDate": "2026-04-13T21:01:04+00:00"
         }
       ],
       "ok": true
