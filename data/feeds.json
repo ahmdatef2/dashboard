@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-15T04:34:41.526478+00:00",
+  "updated": "2026-04-15T06:24:58.313022+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -151,28 +151,9 @@
     "UCET6sWl4Xcu-U8Ka9PJPrwA": {
       "handle": "dwdocarabia",
       "name": "DW عربية وثائقي",
-      "feedTitle": "DW Documentary وثائقية دي دبليو",
-      "items": [
-        {
-          "title": "ما علاقة جسدك بالغبار الكوني؟",
-          "link": "https://www.youtube.com/watch?v=j7NOTF2W4yg",
-          "videoId": "j7NOTF2W4yg",
-          "pubDate": "2026-04-14T10:45:06+00:00"
-        },
-        {
-          "title": "ريبورتاج | صناعة الاحتيال في كمبوديا | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=jwOq6I50JwY",
-          "videoId": "jwOq6I50JwY",
-          "pubDate": "2026-04-13T17:00:58+00:00"
-        },
-        {
-          "title": "وثائقي | النرويج تحت الضغط – موجة سياح مفرطة في الشمال | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=jgsnhXYT7yM",
-          "videoId": "jgsnhXYT7yM",
-          "pubDate": "2026-04-12T17:01:01+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "DW عربية وثائقي",
+      "items": [],
+      "ok": false
     }
   }
 }
