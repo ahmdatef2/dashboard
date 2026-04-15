@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-15T14:23:56.275239+00:00",
+  "updated": "2026-04-15T15:56:24.712761+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -59,7 +59,7 @@
       "feedTitle": "Infotech4you - مروي سليمان",
       "items": [
         {
-          "title": "شرح استخدام Claude داخل PowerPoint خطوة بخطوة!",
+          "title": "تعلم استخدام Claude داخل PowerPoint فقط في 10 دقائق!",
           "link": "https://www.youtube.com/watch?v=bVXk55JPTkQ",
           "videoId": "bVXk55JPTkQ",
           "pubDate": "2026-04-14T14:58:37+00:00"
@@ -137,6 +137,12 @@
       "feedTitle": "Python Arabic Community",
       "items": [
         {
+          "title": "أخبار الذكاء الاصطناعي 🚀 | 84 | الذكاء الاصطناعي السري الذي أرعب صناعه 😱 + هدايا لمتابعينا!",
+          "link": "https://www.youtube.com/watch?v=CqdCNkxzzP0",
+          "videoId": "CqdCNkxzzP0",
+          "pubDate": "2026-04-15T15:48:31+00:00"
+        },
+        {
           "title": "وكيل ذكاء اصطناعي مع ذاكرة! في 10 دقائق بدون Rag و Langchain !",
           "link": "https://www.youtube.com/watch?v=IKe2H7HBbu4",
           "videoId": "IKe2H7HBbu4",
@@ -147,12 +153,6 @@
           "link": "https://www.youtube.com/watch?v=XAW6ygPfN8I",
           "videoId": "XAW6ygPfN8I",
           "pubDate": "2026-03-25T17:43:01+00:00"
-        },
-        {
-          "title": "الذكاء الاصطناعي 🚀 | 83 | الكذبة الكبرى لشركات الذكاء الاصطناعي.. وسقوط أقوى تشفير",
-          "link": "https://www.youtube.com/watch?v=aBM1Y6M3YRE",
-          "videoId": "aBM1Y6M3YRE",
-          "pubDate": "2026-03-10T21:18:47+00:00"
         }
       ],
       "ok": true
@@ -267,6 +267,12 @@
       "feedTitle": "أكاديمية ريان | Ryan Academy",
       "items": [
         {
+          "title": "مشروع مربح أونلاين - ازاي تنشئ موقع ادوات ai احترافي",
+          "link": "https://www.youtube.com/watch?v=XlpVIUIj5Mg",
+          "videoId": "XlpVIUIj5Mg",
+          "pubDate": "2026-04-15T14:29:08+00:00"
+        },
+        {
           "title": "الترند كله في موقعك 🤯 انشئ موقع جامع لكل موديلات الذكاء الاصطناعي 🔥 سكربت الاسبوع #10",
           "link": "https://www.youtube.com/watch?v=LL3_QCgoq9I",
           "videoId": "LL3_QCgoq9I",
@@ -277,12 +283,6 @@
           "link": "https://www.youtube.com/watch?v=kSQ-kCE5GyU",
           "videoId": "kSQ-kCE5GyU",
           "pubDate": "2026-04-12T17:00:54+00:00"
-        },
-        {
-          "title": "وداعًا للمبرمجين؟ 😳 فريق كامل بيبني موقع كامل لوحده! (Atoms) بضغطة زرار",
-          "link": "https://www.youtube.com/watch?v=6TqOCOzJCFw",
-          "videoId": "6TqOCOzJCFw",
-          "pubDate": "2026-04-10T17:00:07+00:00"
         }
       ],
       "ok": true
@@ -501,22 +501,22 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
-          "title": "كيف تتم صيانة الجسور في هذه الحالة؟",
-          "link": "https://www.youtube.com/watch?v=vwC7B7cG_bk",
-          "videoId": "vwC7B7cG_bk",
-          "pubDate": "2026-04-15T14:23:14+00:00"
+          "title": "بيوتهم زوارق ويعيشون في أخطر بقاع الأرض",
+          "link": "https://www.youtube.com/watch?v=YUSeD86Pf_w",
+          "videoId": "YUSeD86Pf_w",
+          "pubDate": "2026-04-15T15:30:31+00:00"
         },
         {
-          "title": "ماسك والبرمجة",
-          "link": "https://www.youtube.com/watch?v=lOBdjK68aZk",
-          "videoId": "lOBdjK68aZk",
-          "pubDate": "2026-04-15T08:30:01+00:00"
+          "title": "تحول أسنانهن من الأبيض إلى الأسود، حتى لا يُشبهن بالكلاب",
+          "link": "https://www.youtube.com/watch?v=9wXRhAJ0X8E",
+          "videoId": "9wXRhAJ0X8E",
+          "pubDate": "2026-04-15T15:30:06+00:00"
         },
         {
-          "title": "هيروشيما.. أشرس البراكين القاتلة حول العالم 🔥 - الشرق الوثائقية",
-          "link": "https://www.youtube.com/watch?v=wwy8DzTGgok",
-          "videoId": "wwy8DzTGgok",
-          "pubDate": "2026-04-14T21:48:51+00:00"
+          "title": "طموحات بكين",
+          "link": "https://www.youtube.com/watch?v=aoInBH4nqdQ",
+          "videoId": "aoInBH4nqdQ",
+          "pubDate": "2026-04-15T14:23:59+00:00"
         }
       ],
       "ok": true
@@ -527,22 +527,22 @@
       "feedTitle": "Nat Geo Abu Dhabi",
       "items": [
         {
+          "title": "موسم جديد | إخفاقات البناء | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=nso8BKIi1bc",
+          "videoId": "nso8BKIi1bc",
+          "pubDate": "2026-04-15T14:53:55+00:00"
+        },
+        {
+          "title": "موسم جديد | إخفاقات البناء | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=ICP2JCTNlEM",
+          "videoId": "ICP2JCTNlEM",
+          "pubDate": "2026-04-15T14:53:44+00:00"
+        },
+        {
           "title": "متاعب بالجملة | فريق إنقاذ الطرق الجليدية | ناشونال جيوغرافيك أبوظبي",
           "link": "https://www.youtube.com/watch?v=HvQoi_Po1II",
           "videoId": "HvQoi_Po1II",
           "pubDate": "2026-04-14T19:52:33+00:00"
-        },
-        {
-          "title": "لعنة ولاية فرجينيا الغربية | أطلس الأماكن المشؤومة | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=k7hqHpmoXRU",
-          "videoId": "k7hqHpmoXRU",
-          "pubDate": "2026-04-12T19:50:00+00:00"
-        },
-        {
-          "title": "الحلقة الأولى | الجزر المتجمدة | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=4nnWZw-OoUE",
-          "videoId": "4nnWZw-OoUE",
-          "pubDate": "2026-04-10T19:54:57+00:00"
         }
       ],
       "ok": true
