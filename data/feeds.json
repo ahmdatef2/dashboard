@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-15T20:34:58.104402+00:00",
+  "updated": "2026-04-15T21:39:53.235585+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "أب يعلم ابنته درسا.. أصبح موجعا اليوم",
+          "link": "https://www.youtube.com/watch?v=WVTZXlsPweM",
+          "videoId": "WVTZXlsPweM",
+          "pubDate": "2026-04-15T21:00:00+00:00"
+        },
+        {
           "title": "هل تصدق الأبراج؟ | تحليل علمي لظاهرة يؤمن بها الملايين",
           "link": "https://www.youtube.com/watch?v=7bi9VRDiAyM",
           "videoId": "7bi9VRDiAyM",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=jVjNoTHRrxY",
           "videoId": "jVjNoTHRrxY",
           "pubDate": "2026-04-15T20:00:01+00:00"
-        },
-        {
-          "title": "\"عالم يشبهنا\".. الحلقة الرابعة | سلوكيات غريبة تدهشك في عالم الحيوان",
-          "link": "https://www.youtube.com/watch?v=hDgdz9eqZO4",
-          "videoId": "hDgdz9eqZO4",
-          "pubDate": "2026-04-15T18:00:46+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "بوتين يكشف موقفه الحقيقي من سوريا",
+          "link": "https://www.youtube.com/watch?v=H2wDqGHYwMA",
+          "videoId": "H2wDqGHYwMA",
+          "pubDate": "2026-04-15T21:00:29+00:00"
+        },
         {
           "title": "طريق الحرير الجديد",
           "link": "https://www.youtube.com/watch?v=AdAwGeWeYn4",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=YUSeD86Pf_w",
           "videoId": "YUSeD86Pf_w",
           "pubDate": "2026-04-15T15:30:31+00:00"
-        },
-        {
-          "title": "تحول أسنانهن من الأبيض إلى الأسود، حتى لا يُشبهن بالكلاب",
-          "link": "https://www.youtube.com/watch?v=9wXRhAJ0X8E",
-          "videoId": "9wXRhAJ0X8E",
-          "pubDate": "2026-04-15T15:30:06+00:00"
         }
       ],
       "ok": true
