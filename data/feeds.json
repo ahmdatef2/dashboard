@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-15T12:53:02.396104+00:00",
+  "updated": "2026-04-15T14:23:56.275239+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -33,6 +33,12 @@
       "feedTitle": "كل يوم موقع جديد",
       "items": [
         {
+          "title": "هذا ما فعله Atoms ! بنيت منصة حجز استشارات كاملة فقط من أمر بسيط!",
+          "link": "https://www.youtube.com/watch?v=P1LBnIEynlQ",
+          "videoId": "P1LBnIEynlQ",
+          "pubDate": "2026-04-15T14:00:43+00:00"
+        },
+        {
           "title": "فتح NotebookLM من Gemini أخيرًا | حنطبق عملي ونشوف القوة الثنائية!",
           "link": "https://www.youtube.com/watch?v=Pfh-tQO72XA",
           "videoId": "Pfh-tQO72XA",
@@ -43,12 +49,6 @@
           "link": "https://www.youtube.com/watch?v=TOTcGgOGcsI",
           "videoId": "TOTcGgOGcsI",
           "pubDate": "2026-04-12T09:00:40+00:00"
-        },
-        {
-          "title": "Google Vids: منصة جوجل لصناعة الفيديو… ومفاجأة في الخطة المجانية",
-          "link": "https://www.youtube.com/watch?v=j_h9k1DKZmc",
-          "videoId": "j_h9k1DKZmc",
-          "pubDate": "2026-04-11T16:01:38+00:00"
         }
       ],
       "ok": true
@@ -85,6 +85,12 @@
       "feedTitle": "عبداللطيف سعيد Abdellatif Said",
       "items": [
         {
+          "title": "ليه openai حذفت نموذجGPT4o و o4 mini #الذكاء_الاصطناعي #chatgpt #اكسبلور",
+          "link": "https://www.youtube.com/watch?v=7qbg3K4n5Ho",
+          "videoId": "7qbg3K4n5Ho",
+          "pubDate": "2026-04-15T14:15:00+00:00"
+        },
+        {
           "title": "سيبك من Grok! 🛑 أسهل طرق مجانية لتحويل صورك لفيديو بالذكاء الاصطناعي 🤯",
           "link": "https://www.youtube.com/watch?v=8t3XYECOUCI",
           "videoId": "8t3XYECOUCI",
@@ -95,12 +101,6 @@
           "link": "https://www.youtube.com/watch?v=OwVeqp1GerQ",
           "videoId": "OwVeqp1GerQ",
           "pubDate": "2026-04-13T14:15:04+00:00"
-        },
-        {
-          "title": "أخطر تسريب في تاريخ الذكاء الاصطناعي: حكاية Claude Mythos اللي أرعب المبرمجين وليه ممنوع نستخدمه؟",
-          "link": "https://www.youtube.com/watch?v=CDlBkMQO_U0",
-          "videoId": "CDlBkMQO_U0",
-          "pubDate": "2026-04-09T14:15:04+00:00"
         }
       ],
       "ok": true
@@ -319,6 +319,12 @@
       "feedTitle": "خير جليس",
       "items": [
         {
+          "title": "الاتجاهات تتغير، لكن المبادئ تبقى  - من كتاب الجوهر الذي لا يتغير",
+          "link": "https://www.youtube.com/watch?v=G7mpDCie5ys",
+          "videoId": "G7mpDCie5ys",
+          "pubDate": "2026-04-15T13:00:28+00:00"
+        },
+        {
           "title": "سلوك الإنسان يمكن التنبؤ به  - من كتاب الجوهر الذي لا يتغير",
           "link": "https://www.youtube.com/watch?v=hRa8mJeP7WY",
           "videoId": "hRa8mJeP7WY",
@@ -329,12 +335,6 @@
           "link": "https://www.youtube.com/watch?v=lKRGUwZgWEM",
           "videoId": "lKRGUwZgWEM",
           "pubDate": "2026-04-13T13:01:32+00:00"
-        },
-        {
-          "title": "البيئة المناسبة تصنع المتميزين  - من  كتاب المتميزون",
-          "link": "https://www.youtube.com/watch?v=lv3RYZ5hx6c",
-          "videoId": "lv3RYZ5hx6c",
-          "pubDate": "2026-04-12T06:00:27+00:00"
         }
       ],
       "ok": true
@@ -449,6 +449,12 @@
       "feedTitle": "دوباميكافين Dupamicaffeine",
       "items": [
         {
+          "title": "هل تنظيف المطبخ أهم من قول أحبك؟ - لغات الحب الخمس - الجزء الخامس - دوباميكافين",
+          "link": "https://www.youtube.com/watch?v=Rrhr8S04GFc",
+          "videoId": "Rrhr8S04GFc",
+          "pubDate": "2026-04-15T13:01:38+00:00"
+        },
+        {
           "title": "سر تجدد المشاعر في العلاقات الطويلة",
           "link": "https://www.youtube.com/watch?v=AWWViWGKhdk",
           "videoId": "AWWViWGKhdk",
@@ -459,12 +465,6 @@
           "link": "https://www.youtube.com/watch?v=nJqLEmmTvzk",
           "videoId": "nJqLEmmTvzk",
           "pubDate": "2026-04-12T13:00:04+00:00"
-        },
-        {
-          "title": "اللغة الثالثة .. قريبًا",
-          "link": "https://www.youtube.com/watch?v=MghBvnwilt4",
-          "videoId": "MghBvnwilt4",
-          "pubDate": "2026-04-05T14:07:51+00:00"
         }
       ],
       "ok": true
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "لماذا قد يختفي الحيد المرجاني العظيم بأستراليا؟",
+          "link": "https://www.youtube.com/watch?v=flXmBSX5fXk",
+          "videoId": "flXmBSX5fXk",
+          "pubDate": "2026-04-15T14:00:01+00:00"
+        },
+        {
+          "title": "نمت طفلا طبيعيا.. واستيقظت لا أشعر بساقي",
+          "link": "https://www.youtube.com/watch?v=876k4posu1w",
+          "videoId": "876k4posu1w",
+          "pubDate": "2026-04-15T13:01:38+00:00"
+        },
+        {
           "title": "ناجون يروون فظائع جرائم الجنجويد خلال الحرب",
           "link": "https://www.youtube.com/watch?v=iMwiX5zcdNw",
           "videoId": "iMwiX5zcdNw",
           "pubDate": "2026-04-15T11:00:01+00:00"
-        },
-        {
-          "title": "ما الذي يمكن أن نتعلمه من حضارة الأندلس اليوم؟",
-          "link": "https://www.youtube.com/watch?v=IAebGmYglzg",
-          "videoId": "IAebGmYglzg",
-          "pubDate": "2026-04-15T10:00:01+00:00"
-        },
-        {
-          "title": "قالها وهو آمن: \"أنا ضد الهجرة\"",
-          "link": "https://www.youtube.com/watch?v=PRtXLPbSJAA",
-          "videoId": "PRtXLPbSJAA",
-          "pubDate": "2026-04-15T07:57:06+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "كيف تتم صيانة الجسور في هذه الحالة؟",
+          "link": "https://www.youtube.com/watch?v=vwC7B7cG_bk",
+          "videoId": "vwC7B7cG_bk",
+          "pubDate": "2026-04-15T14:23:14+00:00"
+        },
         {
           "title": "ماسك والبرمجة",
           "link": "https://www.youtube.com/watch?v=lOBdjK68aZk",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=wwy8DzTGgok",
           "videoId": "wwy8DzTGgok",
           "pubDate": "2026-04-14T21:48:51+00:00"
-        },
-        {
-          "title": "جورجيا ميلوني",
-          "link": "https://www.youtube.com/watch?v=7YnxliNt0uM",
-          "videoId": "7YnxliNt0uM",
-          "pubDate": "2026-04-14T19:00:20+00:00"
         }
       ],
       "ok": true
