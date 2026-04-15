@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-15T17:56:58.252968+00:00",
+  "updated": "2026-04-15T19:03:17.915919+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "\"عالم يشبهنا\".. الحلقة الرابعة | سلوكيات غريبة تدهشك في عالم الحيوان",
+          "link": "https://www.youtube.com/watch?v=hDgdz9eqZO4",
+          "videoId": "hDgdz9eqZO4",
+          "pubDate": "2026-04-15T18:00:46+00:00"
+        },
+        {
+          "title": "أسرة أمريكية تغادر منزلها قبل أن تنشق الأرض وتبتلعه",
+          "link": "https://www.youtube.com/watch?v=_Pw_hHNdx10",
+          "videoId": "_Pw_hHNdx10",
+          "pubDate": "2026-04-15T18:00:01+00:00"
+        },
+        {
           "title": "لماذا قد يختفي الحيد المرجاني العظيم بأستراليا؟",
           "link": "https://www.youtube.com/watch?v=flXmBSX5fXk",
           "videoId": "flXmBSX5fXk",
           "pubDate": "2026-04-15T14:00:01+00:00"
-        },
-        {
-          "title": "نمت طفلا طبيعيا.. واستيقظت لا أشعر بساقي",
-          "link": "https://www.youtube.com/watch?v=876k4posu1w",
-          "videoId": "876k4posu1w",
-          "pubDate": "2026-04-15T13:01:38+00:00"
-        },
-        {
-          "title": "ناجون يروون فظائع جرائم الجنجويد خلال الحرب",
-          "link": "https://www.youtube.com/watch?v=iMwiX5zcdNw",
-          "videoId": "iMwiX5zcdNw",
-          "pubDate": "2026-04-15T11:00:01+00:00"
         }
       ],
       "ok": true
