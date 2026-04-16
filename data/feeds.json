@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-16T11:49:04.090536+00:00",
+  "updated": "2026-04-16T12:57:42.628340+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -59,6 +59,12 @@
       "feedTitle": "Infotech4you - مروي سليمان",
       "items": [
         {
+          "title": "ميزة خطيرة في Gemini ستجعل الردود شخصية جدًا!",
+          "link": "https://www.youtube.com/watch?v=xiMswIULp8s",
+          "videoId": "xiMswIULp8s",
+          "pubDate": "2026-04-16T12:28:49+00:00"
+        },
+        {
           "title": "تعلم استخدام Claude داخل PowerPoint فقط في 10 دقائق!",
           "link": "https://www.youtube.com/watch?v=bVXk55JPTkQ",
           "videoId": "bVXk55JPTkQ",
@@ -69,12 +75,6 @@
           "link": "https://www.youtube.com/watch?v=ipPOBt7cUk4",
           "videoId": "ipPOBt7cUk4",
           "pubDate": "2026-04-12T12:01:16+00:00"
-        },
-        {
-          "title": "جوجل عملت عظمة في Gemini | تحديث ضخم لازم تشوفه",
-          "link": "https://www.youtube.com/watch?v=WhLviFguvN0",
-          "videoId": "WhLviFguvN0",
-          "pubDate": "2026-04-10T17:13:45+00:00"
         }
       ],
       "ok": true
