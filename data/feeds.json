@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-16T18:00:53.096804+00:00",
+  "updated": "2026-04-16T19:53:52.281999+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -59,7 +59,7 @@
       "feedTitle": "Infotech4you - مروي سليمان",
       "items": [
         {
-          "title": "\"لا تستخدم Gemini قبل تفعيل هذه الميزة.. سيعرفك أكثر من اللازم!",
+          "title": "لا تستخدم Gemini قبل تفعيل هذه الميزة.. سيعرفك أكثر من اللازم!",
           "link": "https://www.youtube.com/watch?v=xiMswIULp8s",
           "videoId": "xiMswIULp8s",
           "pubDate": "2026-04-16T12:28:49+00:00"
@@ -423,6 +423,12 @@
       "feedTitle": "Ali Muhammad Ali",
       "items": [
         {
+          "title": "تطبيق ReadEra لقراءة الكتب الإلكترونية",
+          "link": "https://www.youtube.com/watch?v=-Y2wUJuh-xQ",
+          "videoId": "-Y2wUJuh-xQ",
+          "pubDate": "2026-04-16T18:06:13+00:00"
+        },
+        {
           "title": "تقليل ساعات النوم",
           "link": "https://www.youtube.com/watch?v=lbLogVmkNWo",
           "videoId": "lbLogVmkNWo",
@@ -433,12 +439,6 @@
           "link": "https://www.youtube.com/watch?v=JUwlzWlLrWI",
           "videoId": "JUwlzWlLrWI",
           "pubDate": "2026-04-01T15:08:48+00:00"
-        },
-        {
-          "title": "اضبط نومك تكسب يومك",
-          "link": "https://www.youtube.com/watch?v=IqVjqBafhDY",
-          "videoId": "IqVjqBafhDY",
-          "pubDate": "2026-03-27T17:00:31+00:00"
         }
       ],
       "ok": true
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "من النخبة إلى الجماهير.. التحول الاجتماعي في حزب البعث",
+          "link": "https://www.youtube.com/watch?v=E--q6jZU5W8",
+          "videoId": "E--q6jZU5W8",
+          "pubDate": "2026-04-16T19:30:01+00:00"
+        },
+        {
+          "title": "آخر أسرار البشرية..كيف غيرت اكتشافات صينية مفهومنا عن تاريخ البشر؟ | الحلقة الثانية",
+          "link": "https://www.youtube.com/watch?v=Q9KhBQiN-4I",
+          "videoId": "Q9KhBQiN-4I",
+          "pubDate": "2026-04-16T19:00:20+00:00"
+        },
+        {
           "title": "الحقيقة الغريبة وراء عباءة دراكولا",
           "link": "https://www.youtube.com/watch?v=aVyJ8YXhWHw",
           "videoId": "aVyJ8YXhWHw",
           "pubDate": "2026-04-16T17:00:01+00:00"
-        },
-        {
-          "title": "فيزياء السلمندر",
-          "link": "https://www.youtube.com/watch?v=Zy14SjdjjF4",
-          "videoId": "Zy14SjdjjF4",
-          "pubDate": "2026-04-16T16:00:01+00:00"
-        },
-        {
-          "title": "نادي الجبل الأخضر في السودان.. مؤسسة اجتماعية تتجاوز لعبة كرة القدم",
-          "link": "https://www.youtube.com/watch?v=lqRR7FIC8iA",
-          "videoId": "lqRR7FIC8iA",
-          "pubDate": "2026-04-16T14:56:24+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "آخر أسد من أسود الأطلس",
+          "link": "https://www.youtube.com/watch?v=7IL7N1JMSw4",
+          "videoId": "7IL7N1JMSw4",
+          "pubDate": "2026-04-16T19:00:44+00:00"
+        },
         {
           "title": "أهرامات الجيزة",
           "link": "https://www.youtube.com/watch?v=IayRZlAaD08",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=UVT3znsWGhg",
           "videoId": "UVT3znsWGhg",
           "pubDate": "2026-04-16T16:07:50+00:00"
-        },
-        {
-          "title": "الأخوان بربروس",
-          "link": "https://www.youtube.com/watch?v=og_TKmu6YRg",
-          "videoId": "og_TKmu6YRg",
-          "pubDate": "2026-04-16T16:05:56+00:00"
         }
       ],
       "ok": true
