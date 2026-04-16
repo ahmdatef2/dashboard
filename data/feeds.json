@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-16T19:53:52.281999+00:00",
+  "updated": "2026-04-16T20:36:30.375428+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -215,6 +215,12 @@
       "feedTitle": "Mohamed Ansary",
       "items": [
         {
+          "title": "كيفية ربط كلود بأهم أداة بحث أكاديمي وبناء مهارات أكاديمية | Claude + Consensus",
+          "link": "https://www.youtube.com/watch?v=d7UG8mMIIL8",
+          "videoId": "d7UG8mMIIL8",
+          "pubDate": "2026-04-16T19:57:23+00:00"
+        },
+        {
           "title": "بودكاست بأي لهجة عربية NotebookLM",
           "link": "https://www.youtube.com/watch?v=pZszRO6s_OE",
           "videoId": "pZszRO6s_OE",
@@ -225,12 +231,6 @@
           "link": "https://www.youtube.com/watch?v=VAt_vIWFAZc",
           "videoId": "VAt_vIWFAZc",
           "pubDate": "2026-04-15T11:34:12+00:00"
-        },
-        {
-          "title": "الترجمة الاحترافية للملفات من خلال MANUS AI",
-          "link": "https://www.youtube.com/watch?v=dSI24vHP0Uo",
-          "videoId": "dSI24vHP0Uo",
-          "pubDate": "2026-04-13T17:19:14+00:00"
         }
       ],
       "ok": true
