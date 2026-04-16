@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-16T10:04:31.731965+00:00",
+  "updated": "2026-04-16T11:49:04.090536+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -215,6 +215,12 @@
       "feedTitle": "Mohamed Ansary",
       "items": [
         {
+          "title": "بودكاست بأي لهجة عربية NotebookLM",
+          "link": "https://www.youtube.com/watch?v=pZszRO6s_OE",
+          "videoId": "pZszRO6s_OE",
+          "pubDate": "2026-04-16T10:36:30+00:00"
+        },
+        {
           "title": "Scientific Research & Academic Publisher (SCRIP) كنز البحث العلمي",
           "link": "https://www.youtube.com/watch?v=VAt_vIWFAZc",
           "videoId": "VAt_vIWFAZc",
@@ -225,12 +231,6 @@
           "link": "https://www.youtube.com/watch?v=dSI24vHP0Uo",
           "videoId": "dSI24vHP0Uo",
           "pubDate": "2026-04-13T17:19:14+00:00"
-        },
-        {
-          "title": "المصدر المتكامل لطلاب الدراسات العليا والباحثين",
-          "link": "https://www.youtube.com/watch?v=5T2c_FxT8rw",
-          "videoId": "5T2c_FxT8rw",
-          "pubDate": "2026-04-11T17:43:51+00:00"
         }
       ],
       "ok": true
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "هواتف الأفيال التي لا تخطر على بال!",
+          "link": "https://www.youtube.com/watch?v=KljJYS7nAS8",
+          "videoId": "KljJYS7nAS8",
+          "pubDate": "2026-04-16T10:53:01+00:00"
+        },
+        {
+          "title": "كيف تحوّل سجان إسرائيلي إلى مدافع عن الأسرى الفلسطينيين؟",
+          "link": "https://www.youtube.com/watch?v=z6bvSKrGl8U",
+          "videoId": "z6bvSKrGl8U",
+          "pubDate": "2026-04-16T10:12:55+00:00"
+        },
+        {
           "title": "لماذا يفيدك عناق الأشجار؟",
           "link": "https://www.youtube.com/watch?v=R_kevpN2KdU",
           "videoId": "R_kevpN2KdU",
           "pubDate": "2026-04-16T08:00:00+00:00"
-        },
-        {
-          "title": "أب يعلم ابنته درسا.. أصبح موجعا اليوم",
-          "link": "https://www.youtube.com/watch?v=WVTZXlsPweM",
-          "videoId": "WVTZXlsPweM",
-          "pubDate": "2026-04-15T21:00:00+00:00"
-        },
-        {
-          "title": "هل تصدق الأبراج؟ | تحليل علمي لظاهرة يؤمن بها الملايين",
-          "link": "https://www.youtube.com/watch?v=7bi9VRDiAyM",
-          "videoId": "7bi9VRDiAyM",
-          "pubDate": "2026-04-15T20:00:04+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "بماذا يتميز هذا المجمع الديني؟",
+          "link": "https://www.youtube.com/watch?v=81oU80VEBF4",
+          "videoId": "81oU80VEBF4",
+          "pubDate": "2026-04-16T11:12:48+00:00"
+        },
         {
           "title": "استياء بوتين من الغرب",
           "link": "https://www.youtube.com/watch?v=Tz3dOKUfDwU",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=gMBOhT7-WEg",
           "videoId": "gMBOhT7-WEg",
           "pubDate": "2026-04-15T23:44:21+00:00"
-        },
-        {
-          "title": "بوتين يكشف موقفه الحقيقي من سوريا",
-          "link": "https://www.youtube.com/watch?v=H2wDqGHYwMA",
-          "videoId": "H2wDqGHYwMA",
-          "pubDate": "2026-04-15T21:00:29+00:00"
         }
       ],
       "ok": true
@@ -527,22 +527,22 @@
       "feedTitle": "Nat Geo Abu Dhabi",
       "items": [
         {
+          "title": "يُعرض 22 أبريل | عالمنا – نحترم. نحمي. نستديم | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=VLHcN8CEOIY",
+          "videoId": "VLHcN8CEOIY",
+          "pubDate": "2026-04-16T11:32:09+00:00"
+        },
+        {
+          "title": "يُعرض 22 أبريل | عالمنا – نحترم. نحمي. نستديم | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=iWPdXprkBiA",
+          "videoId": "iWPdXprkBiA",
+          "pubDate": "2026-04-16T11:31:50+00:00"
+        },
+        {
           "title": "مياه سامّة | مياه جافة | ناشونال جيوغرافيك أبوظبي",
           "link": "https://www.youtube.com/watch?v=AglPohYYCsE",
           "videoId": "AglPohYYCsE",
           "pubDate": "2026-04-15T19:48:18+00:00"
-        },
-        {
-          "title": "موسم جديد | إخفاقات البناء | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=nso8BKIi1bc",
-          "videoId": "nso8BKIi1bc",
-          "pubDate": "2026-04-15T14:53:55+00:00"
-        },
-        {
-          "title": "موسم جديد | إخفاقات البناء | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=ICP2JCTNlEM",
-          "videoId": "ICP2JCTNlEM",
-          "pubDate": "2026-04-15T14:53:44+00:00"
         }
       ],
       "ok": true
@@ -552,6 +552,12 @@
       "name": "DW عربية وثائقي",
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
+        {
+          "title": "ما أسباب انهيار الطاقة الشمسية؟",
+          "link": "https://www.youtube.com/watch?v=L9-qV8qjSNU",
+          "videoId": "L9-qV8qjSNU",
+          "pubDate": "2026-04-16T10:45:02+00:00"
+        },
         {
           "title": "وثائقي | سرّ التركيز – كيف نعزز قدرتنا على الانتباه؟ | وثائقية دي دبليو",
           "link": "https://www.youtube.com/watch?v=ZOq5uww_sZM",
@@ -563,12 +569,6 @@
           "link": "https://www.youtube.com/watch?v=j7NOTF2W4yg",
           "videoId": "j7NOTF2W4yg",
           "pubDate": "2026-04-14T10:45:06+00:00"
-        },
-        {
-          "title": "ريبورتاج | صناعة الاحتيال في كمبوديا | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=jwOq6I50JwY",
-          "videoId": "jwOq6I50JwY",
-          "pubDate": "2026-04-13T17:00:58+00:00"
         }
       ],
       "ok": true
