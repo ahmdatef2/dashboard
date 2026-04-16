@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-16T20:36:30.375428+00:00",
+  "updated": "2026-04-16T21:32:04.029198+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -111,6 +111,12 @@
       "feedTitle": "AMR SALEM _ عمرو سالم",
       "items": [
         {
+          "title": "رسميا . اطلاق عملاق البرمجة claude opus 4.7",
+          "link": "https://www.youtube.com/watch?v=Fj3fWfhoyRs",
+          "videoId": "Fj3fWfhoyRs",
+          "pubDate": "2026-04-16T21:31:57+00:00"
+        },
+        {
           "title": "MINIMAX M2.7 الخارق مفتوح المصدر واستخدامه مجانا",
           "link": "https://www.youtube.com/watch?v=_sa-1LcJ2ZU",
           "videoId": "_sa-1LcJ2ZU",
@@ -121,12 +127,6 @@
           "link": "https://www.youtube.com/watch?v=PVzydNLDpyY",
           "videoId": "PVzydNLDpyY",
           "pubDate": "2026-04-10T17:34:24+00:00"
-        },
-        {
-          "title": "Meta ai تضرب Google و Claude باقوي نموذج Muse Spark",
-          "link": "https://www.youtube.com/watch?v=wfKN6_rH8EQ",
-          "videoId": "wfKN6_rH8EQ",
-          "pubDate": "2026-04-09T14:29:12+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "كيف يرمم العلماء الشعاب المرجانية؟",
+          "link": "https://www.youtube.com/watch?v=UR3qSvDtd-Q",
+          "videoId": "UR3qSvDtd-Q",
+          "pubDate": "2026-04-16T20:30:01+00:00"
+        },
+        {
           "title": "من النخبة إلى الجماهير.. التحول الاجتماعي في حزب البعث",
           "link": "https://www.youtube.com/watch?v=E--q6jZU5W8",
           "videoId": "E--q6jZU5W8",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=Q9KhBQiN-4I",
           "videoId": "Q9KhBQiN-4I",
           "pubDate": "2026-04-16T19:00:20+00:00"
-        },
-        {
-          "title": "الحقيقة الغريبة وراء عباءة دراكولا",
-          "link": "https://www.youtube.com/watch?v=aVyJ8YXhWHw",
-          "videoId": "aVyJ8YXhWHw",
-          "pubDate": "2026-04-16T17:00:01+00:00"
         }
       ],
       "ok": true
