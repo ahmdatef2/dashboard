@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-16T16:13:46.675717+00:00",
+  "updated": "2026-04-16T18:00:53.096804+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -59,19 +59,19 @@
       "feedTitle": "Infotech4you - مروي سليمان",
       "items": [
         {
-          "title": "ميزة خطيرة في Gemini ستجعل الردود شخصية جدًا!",
+          "title": "\"لا تستخدم Gemini قبل تفعيل هذه الميزة.. سيعرفك أكثر من اللازم!",
           "link": "https://www.youtube.com/watch?v=xiMswIULp8s",
           "videoId": "xiMswIULp8s",
           "pubDate": "2026-04-16T12:28:49+00:00"
         },
         {
-          "title": "تعلم استخدام Claude داخل PowerPoint فقط في 10 دقائق!",
+          "title": "وداعاً لتعب الساعات! صمم برزنتيشن احترافي بـ Claude داخل PowerPoint في دقائق",
           "link": "https://www.youtube.com/watch?v=bVXk55JPTkQ",
           "videoId": "bVXk55JPTkQ",
           "pubDate": "2026-04-14T14:58:37+00:00"
         },
         {
-          "title": "صادم! Claude Mythos Preview من Anthropic دخل عالم الأمن السيبراني بقوة",
+          "title": "وحش Anthropic الجديد.. كيف سيغير Claude Mythos قواعد الأمن السيبراني للأبد؟",
           "link": "https://www.youtube.com/watch?v=ipPOBt7cUk4",
           "videoId": "ipPOBt7cUk4",
           "pubDate": "2026-04-12T12:01:16+00:00"
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "الحقيقة الغريبة وراء عباءة دراكولا",
+          "link": "https://www.youtube.com/watch?v=aVyJ8YXhWHw",
+          "videoId": "aVyJ8YXhWHw",
+          "pubDate": "2026-04-16T17:00:01+00:00"
+        },
+        {
           "title": "فيزياء السلمندر",
           "link": "https://www.youtube.com/watch?v=Zy14SjdjjF4",
           "videoId": "Zy14SjdjjF4",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=lqRR7FIC8iA",
           "videoId": "lqRR7FIC8iA",
           "pubDate": "2026-04-16T14:56:24+00:00"
-        },
-        {
-          "title": "كيف تحوّل سجان إسرائيلي إلى مدافع عن الأسرى الفلسطينيين؟",
-          "link": "https://www.youtube.com/watch?v=c2aPok7y_Oc",
-          "videoId": "c2aPok7y_Oc",
-          "pubDate": "2026-04-16T13:52:29+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "أهرامات الجيزة",
+          "link": "https://www.youtube.com/watch?v=IayRZlAaD08",
+          "videoId": "IayRZlAaD08",
+          "pubDate": "2026-04-16T17:02:23+00:00"
+        },
         {
           "title": "ما هي المجالات التي استعملت فيها مادة الأسبستوس؟",
           "link": "https://www.youtube.com/watch?v=UVT3znsWGhg",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=og_TKmu6YRg",
           "videoId": "og_TKmu6YRg",
           "pubDate": "2026-04-16T16:05:56+00:00"
-        },
-        {
-          "title": "بماذا يتميز هذا المجمع الديني؟",
-          "link": "https://www.youtube.com/watch?v=81oU80VEBF4",
-          "videoId": "81oU80VEBF4",
-          "pubDate": "2026-04-16T11:12:48+00:00"
         }
       ],
       "ok": true
@@ -553,6 +553,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "وثائقي | جبال الألب الأوروبية  - انهيارات طينية تهدد قرى جبلية | وثائقية دي دبليو",
+          "link": "https://www.youtube.com/watch?v=U7DXg80Si4k",
+          "videoId": "U7DXg80Si4k",
+          "pubDate": "2026-04-16T17:00:40+00:00"
+        },
+        {
           "title": "ما أسباب انهيار الطاقة الشمسية؟",
           "link": "https://www.youtube.com/watch?v=L9-qV8qjSNU",
           "videoId": "L9-qV8qjSNU",
@@ -563,12 +569,6 @@
           "link": "https://www.youtube.com/watch?v=ZOq5uww_sZM",
           "videoId": "ZOq5uww_sZM",
           "pubDate": "2026-04-15T17:00:46+00:00"
-        },
-        {
-          "title": "ما علاقة جسدك بالغبار الكوني؟",
-          "link": "https://www.youtube.com/watch?v=j7NOTF2W4yg",
-          "videoId": "j7NOTF2W4yg",
-          "pubDate": "2026-04-14T10:45:06+00:00"
         }
       ],
       "ok": true
