@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-16T14:50:16.324792+00:00",
+  "updated": "2026-04-16T16:13:46.675717+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -267,6 +267,12 @@
       "feedTitle": "أكاديمية ريان | Ryan Academy",
       "items": [
         {
+          "title": "تشغيل Gamma 4 علي Olama مجاناً علي VPS (شات جي بي تي الخاص بيك) واكتر ...",
+          "link": "https://www.youtube.com/watch?v=e_oOFKGDSM4",
+          "videoId": "e_oOFKGDSM4",
+          "pubDate": "2026-04-16T15:42:10+00:00"
+        },
+        {
           "title": "مشروع مربح أونلاين - ازاي تنشئ موقع ادوات ai احترافي",
           "link": "https://www.youtube.com/watch?v=XlpVIUIj5Mg",
           "videoId": "XlpVIUIj5Mg",
@@ -277,12 +283,6 @@
           "link": "https://www.youtube.com/watch?v=LL3_QCgoq9I",
           "videoId": "LL3_QCgoq9I",
           "pubDate": "2026-04-14T15:00:41+00:00"
-        },
-        {
-          "title": "شغل ChatGPT الخاص بك على VPS 🤯 باستخدام Ollama",
-          "link": "https://www.youtube.com/watch?v=kSQ-kCE5GyU",
-          "videoId": "kSQ-kCE5GyU",
-          "pubDate": "2026-04-12T17:00:54+00:00"
         }
       ],
       "ok": true
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "فيزياء السلمندر",
+          "link": "https://www.youtube.com/watch?v=Zy14SjdjjF4",
+          "videoId": "Zy14SjdjjF4",
+          "pubDate": "2026-04-16T16:00:01+00:00"
+        },
+        {
+          "title": "نادي الجبل الأخضر في السودان.. مؤسسة اجتماعية تتجاوز لعبة كرة القدم",
+          "link": "https://www.youtube.com/watch?v=lqRR7FIC8iA",
+          "videoId": "lqRR7FIC8iA",
+          "pubDate": "2026-04-16T14:56:24+00:00"
+        },
+        {
           "title": "كيف تحوّل سجان إسرائيلي إلى مدافع عن الأسرى الفلسطينيين؟",
           "link": "https://www.youtube.com/watch?v=c2aPok7y_Oc",
           "videoId": "c2aPok7y_Oc",
           "pubDate": "2026-04-16T13:52:29+00:00"
-        },
-        {
-          "title": "هواتف الأفيال التي لا تخطر على بال!",
-          "link": "https://www.youtube.com/watch?v=KljJYS7nAS8",
-          "videoId": "KljJYS7nAS8",
-          "pubDate": "2026-04-16T10:53:01+00:00"
-        },
-        {
-          "title": "لماذا يفيدك عناق الأشجار؟",
-          "link": "https://www.youtube.com/watch?v=R_kevpN2KdU",
-          "videoId": "R_kevpN2KdU",
-          "pubDate": "2026-04-16T08:00:00+00:00"
         }
       ],
       "ok": true
@@ -501,22 +501,22 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "ما هي المجالات التي استعملت فيها مادة الأسبستوس؟",
+          "link": "https://www.youtube.com/watch?v=UVT3znsWGhg",
+          "videoId": "UVT3znsWGhg",
+          "pubDate": "2026-04-16T16:07:50+00:00"
+        },
+        {
+          "title": "الأخوان بربروس",
+          "link": "https://www.youtube.com/watch?v=og_TKmu6YRg",
+          "videoId": "og_TKmu6YRg",
+          "pubDate": "2026-04-16T16:05:56+00:00"
+        },
+        {
           "title": "بماذا يتميز هذا المجمع الديني؟",
           "link": "https://www.youtube.com/watch?v=81oU80VEBF4",
           "videoId": "81oU80VEBF4",
           "pubDate": "2026-04-16T11:12:48+00:00"
-        },
-        {
-          "title": "استياء بوتين من الغرب",
-          "link": "https://www.youtube.com/watch?v=Tz3dOKUfDwU",
-          "videoId": "Tz3dOKUfDwU",
-          "pubDate": "2026-04-16T04:00:25+00:00"
-        },
-        {
-          "title": "محرك ميرلين: المحرك الذي أنقذ بريطانيا في الحرب العالمية و هزم النازيين! | الوثائقي \"مصانع الحرب\"",
-          "link": "https://www.youtube.com/watch?v=gMBOhT7-WEg",
-          "videoId": "gMBOhT7-WEg",
-          "pubDate": "2026-04-15T23:44:21+00:00"
         }
       ],
       "ok": true
