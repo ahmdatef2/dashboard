@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-17T12:48:54.904711+00:00",
+  "updated": "2026-04-17T14:14:09.402367+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -33,7 +33,7 @@
       "feedTitle": "كل يوم موقع جديد",
       "items": [
         {
-          "title": "هذا ما فعله Atoms ! بنيت منصة حجز استشارات كاملة فقط من أمر بسيط!",
+          "title": "جربت Atoms لبناء منصة عربية متكاملة وكانت النتيجة مفاجئة !",
           "link": "https://www.youtube.com/watch?v=P1LBnIEynlQ",
           "videoId": "P1LBnIEynlQ",
           "pubDate": "2026-04-15T14:00:43+00:00"
@@ -192,7 +192,7 @@
           "title": "Mythos Preview: أخطر AI في العالم؟ الحقيقة الكاملة!",
           "link": "https://www.youtube.com/watch?v=Jhm4PNVNjgU",
           "videoId": "Jhm4PNVNjgU",
-          "pubDate": "2026-04-17T11:52:56+00:00"
+          "pubDate": "2026-04-17T13:00:06+00:00"
         },
         {
           "title": "تفاصيل Gemma 4 التي لم يخبرك بها أحد!",
@@ -293,7 +293,7 @@
       "feedTitle": "تكنوفلاش – AI & Tech",
       "items": [
         {
-          "title": "عملت أغاني وفيديوهات طويلة كاملة بالذكاء الاصطناعي في دقايق 🔥 (MakeSong)",
+          "title": "اخيرا أداة تنشئ  فيديوهات 10 دقائق و أغاني كاملة بالذكاء الاصطناعي بدون ظهورك MakeSong",
           "link": "https://www.youtube.com/watch?v=hkzLOOhEjJw",
           "videoId": "hkzLOOhEjJw",
           "pubDate": "2026-04-17T11:58:01+00:00"
@@ -449,6 +449,12 @@
       "feedTitle": "دوباميكافين Dupamicaffeine",
       "items": [
         {
+          "title": "تعرّف على لغات الحب - شرح كامل لكتاب لغات الحب الخمس - دوباميكافين",
+          "link": "https://www.youtube.com/watch?v=jNAy7yXNObs",
+          "videoId": "jNAy7yXNObs",
+          "pubDate": "2026-04-17T13:01:32+00:00"
+        },
+        {
           "title": "الحب يجمّل العلاقة، لكن المودة تحفظها من الانهيار.",
           "link": "https://www.youtube.com/watch?v=qeFmHo_QvrA",
           "videoId": "qeFmHo_QvrA",
@@ -459,12 +465,6 @@
           "link": "https://www.youtube.com/watch?v=Rrhr8S04GFc",
           "videoId": "Rrhr8S04GFc",
           "pubDate": "2026-04-15T13:01:38+00:00"
-        },
-        {
-          "title": "سر تجدد المشاعر في العلاقات الطويلة",
-          "link": "https://www.youtube.com/watch?v=AWWViWGKhdk",
-          "videoId": "AWWViWGKhdk",
-          "pubDate": "2026-04-13T13:00:27+00:00"
         }
       ],
       "ok": true
@@ -474,6 +474,12 @@
       "name": "الجزيرة الوثائقية",
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
+        {
+          "title": "أكبر آلة حرب برية في التاريخ.. انتهت في الوحل!",
+          "link": "https://www.youtube.com/watch?v=uVAvMMoLTIY",
+          "videoId": "uVAvMMoLTIY",
+          "pubDate": "2026-04-17T14:00:01+00:00"
+        },
         {
           "title": "قرصان السماء الذي يعيش على السرقة",
           "link": "https://www.youtube.com/watch?v=WsUHRbDyPc4",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=UNq3ujr6D4Y",
           "videoId": "UNq3ujr6D4Y",
           "pubDate": "2026-04-17T10:00:01+00:00"
-        },
-        {
-          "title": "طبق المقلوبة يفقد أم أسير وعيها",
-          "link": "https://www.youtube.com/watch?v=lcM0By6zni8",
-          "videoId": "lcM0By6zni8",
-          "pubDate": "2026-04-17T08:00:01+00:00"
         }
       ],
       "ok": true
