@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-17T17:38:02.297854+00:00",
+  "updated": "2026-04-17T18:38:52.118821+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "هل تعلم أن اسم \"دبابة\" بدأ بكذبة؟",
+          "link": "https://www.youtube.com/watch?v=MbxforKNZpM",
+          "videoId": "MbxforKNZpM",
+          "pubDate": "2026-04-17T18:00:01+00:00"
+        },
+        {
           "title": "أخوات الأرض.. حارسات الماء | نساء الهند في مواجهة الجفاف وإنقاذ مصادر المياه",
           "link": "https://www.youtube.com/watch?v=Y-zN8QU_VIY",
           "videoId": "Y-zN8QU_VIY",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=ZBK_XULLDeQ",
           "videoId": "ZBK_XULLDeQ",
           "pubDate": "2026-04-17T16:00:01+00:00"
-        },
-        {
-          "title": "\"كلما زاد غناك اتسعت الأكمام\".. دلالة اجتماعية تحملها الجلابية السودانية",
-          "link": "https://www.youtube.com/watch?v=8KeoNmhOSdQ",
-          "videoId": "8KeoNmhOSdQ",
-          "pubDate": "2026-04-17T15:00:01+00:00"
         }
       ],
       "ok": true
