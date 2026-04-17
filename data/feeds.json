@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-17T18:38:52.118821+00:00",
+  "updated": "2026-04-17T19:48:55.489920+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -137,6 +137,12 @@
       "feedTitle": "Python Arabic Community",
       "items": [
         {
+          "title": "لا تستخدم Claude Opus 4.7 قبل مشاهدة هذا الفيديو! (الجانب المظلم للتحديث)",
+          "link": "https://www.youtube.com/watch?v=6WHQ-CFAKks",
+          "videoId": "6WHQ-CFAKks",
+          "pubDate": "2026-04-17T19:03:01+00:00"
+        },
+        {
           "title": "أخبار الذكاء الاصطناعي 🚀 | 84 | الذكاء الاصطناعي السري الذي أرعب صناعه 😱 + هدايا لمتابعينا!",
           "link": "https://www.youtube.com/watch?v=CqdCNkxzzP0",
           "videoId": "CqdCNkxzzP0",
@@ -147,12 +153,6 @@
           "link": "https://www.youtube.com/watch?v=IKe2H7HBbu4",
           "videoId": "IKe2H7HBbu4",
           "pubDate": "2026-04-01T18:41:16+00:00"
-        },
-        {
-          "title": "كيف استبدلت نفسي بذكاء اصطناعي يعمل وأنا نائم! (وكيل MaxClaw)🚀",
-          "link": "https://www.youtube.com/watch?v=XAW6ygPfN8I",
-          "videoId": "XAW6ygPfN8I",
-          "pubDate": "2026-03-25T17:43:01+00:00"
         }
       ],
       "ok": true
@@ -241,6 +241,12 @@
       "feedTitle": "مدرسة الذكاء الاصطناعي",
       "items": [
         {
+          "title": "بعد 100 برومت في Seedance 2.0 اكتشفت السر أخيرا",
+          "link": "https://www.youtube.com/watch?v=O9t2N4Cq-MM",
+          "videoId": "O9t2N4Cq-MM",
+          "pubDate": "2026-04-17T19:48:28+00:00"
+        },
+        {
           "title": "وداعًا للاشتراكات… أداة ذكاء اصطناعي بتعمل صور وفيديوهات وصوت مجانا",
           "link": "https://www.youtube.com/watch?v=SzWzjrIDEHM",
           "videoId": "SzWzjrIDEHM",
@@ -251,12 +257,6 @@
           "link": "https://www.youtube.com/watch?v=vvwMl8krGyY",
           "videoId": "vvwMl8krGyY",
           "pubDate": "2026-04-05T23:29:40+00:00"
-        },
-        {
-          "title": "ودع الكتابة… تكلم وخلّي الذكاء الاصطناعي يشتغل مكانك",
-          "link": "https://www.youtube.com/watch?v=_eMrleFkWp4",
-          "videoId": "_eMrleFkWp4",
-          "pubDate": "2026-04-03T15:51:22+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "أسرار في قلب الأدغال.. لغز وحيد القرن القديم وجزيرة الأفاعي المرعبة | الحلقة الخامسة",
+          "link": "https://www.youtube.com/watch?v=fZNQU1WYmBk",
+          "videoId": "fZNQU1WYmBk",
+          "pubDate": "2026-04-17T19:45:03+00:00"
+        },
+        {
           "title": "هل تعلم أن اسم \"دبابة\" بدأ بكذبة؟",
           "link": "https://www.youtube.com/watch?v=MbxforKNZpM",
           "videoId": "MbxforKNZpM",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=Y-zN8QU_VIY",
           "videoId": "Y-zN8QU_VIY",
           "pubDate": "2026-04-17T17:15:08+00:00"
-        },
-        {
-          "title": "فيلم \"وليد دقة.. معراج الضوء\"",
-          "link": "https://www.youtube.com/watch?v=ZBK_XULLDeQ",
-          "videoId": "ZBK_XULLDeQ",
-          "pubDate": "2026-04-17T16:00:01+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "حين جلس صدام حسين وجهاً لوجه مع محمد رضا شاه بهلوي",
+          "link": "https://www.youtube.com/watch?v=8xVxHjdqLpo",
+          "videoId": "8xVxHjdqLpo",
+          "pubDate": "2026-04-17T19:00:40+00:00"
+        },
         {
           "title": "رجل وقف بوجه دبابات القوات الصينية وواجهها وحيدا",
           "link": "https://www.youtube.com/watch?v=XJpUGbUNi8s",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=-ZI6feZPTEA",
           "videoId": "-ZI6feZPTEA",
           "pubDate": "2026-04-17T11:31:36+00:00"
-        },
-        {
-          "title": "الانتربرايز.. حاملة الطائرات التي غيرت الحرب العالمية الثانية",
-          "link": "https://www.youtube.com/watch?v=ZoZzABFPmrs",
-          "videoId": "ZoZzABFPmrs",
-          "pubDate": "2026-04-16T22:30:34+00:00"
         }
       ],
       "ok": true
