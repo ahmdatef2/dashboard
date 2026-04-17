@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-17T19:48:55.489920+00:00",
+  "updated": "2026-04-17T20:32:22.960748+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "فرس النهر المفضل لبابلو إسكوبار.. كيف أصبح كابوسا يطارد كولومبيا؟",
+          "link": "https://www.youtube.com/watch?v=6453_w7IoTA",
+          "videoId": "6453_w7IoTA",
+          "pubDate": "2026-04-17T20:00:02+00:00"
+        },
+        {
           "title": "أسرار في قلب الأدغال.. لغز وحيد القرن القديم وجزيرة الأفاعي المرعبة | الحلقة الخامسة",
           "link": "https://www.youtube.com/watch?v=fZNQU1WYmBk",
           "videoId": "fZNQU1WYmBk",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=MbxforKNZpM",
           "videoId": "MbxforKNZpM",
           "pubDate": "2026-04-17T18:00:01+00:00"
-        },
-        {
-          "title": "أخوات الأرض.. حارسات الماء | نساء الهند في مواجهة الجفاف وإنقاذ مصادر المياه",
-          "link": "https://www.youtube.com/watch?v=Y-zN8QU_VIY",
-          "videoId": "Y-zN8QU_VIY",
-          "pubDate": "2026-04-17T17:15:08+00:00"
         }
       ],
       "ok": true
@@ -527,6 +527,12 @@
       "feedTitle": "Nat Geo Abu Dhabi",
       "items": [
         {
+          "title": "زلزال سياتل الضخم | الأرض بالأشعة السينية | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=_7KpHt40m7U",
+          "videoId": "_7KpHt40m7U",
+          "pubDate": "2026-04-17T19:57:35+00:00"
+        },
+        {
           "title": "يُعرض 22 أبريل | عالمنا – نحترم. نحمي. نستديم | ناشونال جيوغرافيك أبوظبي",
           "link": "https://www.youtube.com/watch?v=VLHcN8CEOIY",
           "videoId": "VLHcN8CEOIY",
@@ -537,12 +543,6 @@
           "link": "https://www.youtube.com/watch?v=iWPdXprkBiA",
           "videoId": "iWPdXprkBiA",
           "pubDate": "2026-04-16T11:31:50+00:00"
-        },
-        {
-          "title": "مياه سامّة | مياه جافة | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=AglPohYYCsE",
-          "videoId": "AglPohYYCsE",
-          "pubDate": "2026-04-15T19:48:18+00:00"
         }
       ],
       "ok": true
