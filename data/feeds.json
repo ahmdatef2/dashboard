@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-17T10:02:06.593265+00:00",
+  "updated": "2026-04-17T11:40:26.794238+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -501,7 +501,13 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
-          "title": "الإنتربرايز.. حاملة الطائرات التي أرعبت أعداء أميركا في الحرب العالمية الثانية | مصانع الحرب",
+          "title": "المواجهة بين إيران و إسرائيل",
+          "link": "https://www.youtube.com/watch?v=-ZI6feZPTEA",
+          "videoId": "-ZI6feZPTEA",
+          "pubDate": "2026-04-17T11:31:36+00:00"
+        },
+        {
+          "title": "الانتربرايز.. حاملة الطائرات التي غيرت الحرب العالمية الثانية",
           "link": "https://www.youtube.com/watch?v=ZoZzABFPmrs",
           "videoId": "ZoZzABFPmrs",
           "pubDate": "2026-04-16T22:30:34+00:00"
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=7IL7N1JMSw4",
           "videoId": "7IL7N1JMSw4",
           "pubDate": "2026-04-16T19:00:44+00:00"
-        },
-        {
-          "title": "أهرامات الجيزة",
-          "link": "https://www.youtube.com/watch?v=IayRZlAaD08",
-          "videoId": "IayRZlAaD08",
-          "pubDate": "2026-04-16T17:02:23+00:00"
         }
       ],
       "ok": true
@@ -553,6 +553,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "عدالة بلا سجون",
+          "link": "https://www.youtube.com/watch?v=WKKCSZfkhDs",
+          "videoId": "WKKCSZfkhDs",
+          "pubDate": "2026-04-17T10:45:03+00:00"
+        },
+        {
           "title": "وثائقي | جبال الألب الأوروبية  - انهيارات طينية تهدد قرى جبلية | وثائقية دي دبليو",
           "link": "https://www.youtube.com/watch?v=U7DXg80Si4k",
           "videoId": "U7DXg80Si4k",
@@ -563,12 +569,6 @@
           "link": "https://www.youtube.com/watch?v=L9-qV8qjSNU",
           "videoId": "L9-qV8qjSNU",
           "pubDate": "2026-04-16T10:45:02+00:00"
-        },
-        {
-          "title": "وثائقي | سرّ التركيز – كيف نعزز قدرتنا على الانتباه؟ | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=ZOq5uww_sZM",
-          "videoId": "ZOq5uww_sZM",
-          "pubDate": "2026-04-15T17:00:46+00:00"
         }
       ],
       "ok": true
