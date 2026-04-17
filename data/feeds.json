@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-17T14:14:09.402367+00:00",
+  "updated": "2026-04-17T15:45:40.702031+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -85,6 +85,12 @@
       "feedTitle": "عبداللطيف سعيد Abdellatif Said",
       "items": [
         {
+          "title": "جيميناي بيألف إجابات؟ حل مشكلة \"هلوسة\" الذكاء الاصطناعي (وأفضل محرك بحث بديل!)",
+          "link": "https://www.youtube.com/watch?v=ZAcESlAy0SQ",
+          "videoId": "ZAcESlAy0SQ",
+          "pubDate": "2026-04-17T14:15:11+00:00"
+        },
+        {
           "title": "\"مبرمج Senior شغال عندك ببلاش! 🚀 أقوى بديل لـ Claude في البرمجة (مراجعة GLM-5.1)",
           "link": "https://www.youtube.com/watch?v=r14n4yK_woM",
           "videoId": "r14n4yK_woM",
@@ -95,12 +101,6 @@
           "link": "https://www.youtube.com/watch?v=7qbg3K4n5Ho",
           "videoId": "7qbg3K4n5Ho",
           "pubDate": "2026-04-15T14:15:00+00:00"
-        },
-        {
-          "title": "سيبك من Grok! 🛑 أسهل طرق مجانية لتحويل صورك لفيديو بالذكاء الاصطناعي 🤯",
-          "link": "https://www.youtube.com/watch?v=8t3XYECOUCI",
-          "videoId": "8t3XYECOUCI",
-          "pubDate": "2026-04-14T14:15:04+00:00"
         }
       ],
       "ok": true
@@ -215,6 +215,12 @@
       "feedTitle": "Mohamed Ansary",
       "items": [
         {
+          "title": "تحديث NotebookLM الرهيب: أضف صورة غلاف ووصفاً لمشاريعك",
+          "link": "https://www.youtube.com/watch?v=8scmhEIJnj4",
+          "videoId": "8scmhEIJnj4",
+          "pubDate": "2026-04-17T15:34:05+00:00"
+        },
+        {
           "title": "الترجمة الاحترافية بلمسة واحدة من خلال موقع MateCAT",
           "link": "https://www.youtube.com/watch?v=ZQlMdKwgT2o",
           "videoId": "ZQlMdKwgT2o",
@@ -225,12 +231,6 @@
           "link": "https://www.youtube.com/watch?v=d7UG8mMIIL8",
           "videoId": "d7UG8mMIIL8",
           "pubDate": "2026-04-16T19:57:23+00:00"
-        },
-        {
-          "title": "بودكاست بأي لهجة عربية NotebookLM",
-          "link": "https://www.youtube.com/watch?v=pZszRO6s_OE",
-          "videoId": "pZszRO6s_OE",
-          "pubDate": "2026-04-16T10:36:30+00:00"
         }
       ],
       "ok": true
@@ -293,7 +293,7 @@
       "feedTitle": "تكنوفلاش – AI & Tech",
       "items": [
         {
-          "title": "اخيرا أداة تنشئ  فيديوهات 10 دقائق و أغاني كاملة بالذكاء الاصطناعي بدون ظهورك MakeSong",
+          "title": "موقع سري تنشئ  فيديوهات 10 دقائق و أغاني كاملة بالذكاء الاصطناعي بدون ظهورك MakeSong",
           "link": "https://www.youtube.com/watch?v=hkzLOOhEjJw",
           "videoId": "hkzLOOhEjJw",
           "pubDate": "2026-04-17T11:58:01+00:00"
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "\"كلما زاد غناك اتسعت الأكمام\".. دلالة اجتماعية تحملها الجلابية السودانية",
+          "link": "https://www.youtube.com/watch?v=8KeoNmhOSdQ",
+          "videoId": "8KeoNmhOSdQ",
+          "pubDate": "2026-04-17T15:00:01+00:00"
+        },
+        {
           "title": "أكبر آلة حرب برية في التاريخ.. انتهت في الوحل!",
           "link": "https://www.youtube.com/watch?v=uVAvMMoLTIY",
           "videoId": "uVAvMMoLTIY",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=WsUHRbDyPc4",
           "videoId": "WsUHRbDyPc4",
           "pubDate": "2026-04-17T12:00:01+00:00"
-        },
-        {
-          "title": "لماذا وقف ساطع الحصري ضد السلطان عبد الحميد؟",
-          "link": "https://www.youtube.com/watch?v=UNq3ujr6D4Y",
-          "videoId": "UNq3ujr6D4Y",
-          "pubDate": "2026-04-17T10:00:01+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "رجل وقف بوجه دبابات القوات الصينية وواجهها وحيدا",
+          "link": "https://www.youtube.com/watch?v=XJpUGbUNi8s",
+          "videoId": "XJpUGbUNi8s",
+          "pubDate": "2026-04-17T14:53:07+00:00"
+        },
         {
           "title": "المواجهة بين إيران و إسرائيل",
           "link": "https://www.youtube.com/watch?v=-ZI6feZPTEA",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=ZoZzABFPmrs",
           "videoId": "ZoZzABFPmrs",
           "pubDate": "2026-04-16T22:30:34+00:00"
-        },
-        {
-          "title": "آخر أسد من أسود الأطلس",
-          "link": "https://www.youtube.com/watch?v=7IL7N1JMSw4",
-          "videoId": "7IL7N1JMSw4",
-          "pubDate": "2026-04-16T19:00:44+00:00"
         }
       ],
       "ok": true
