@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-17T08:18:40.664120+00:00",
+  "updated": "2026-04-17T10:02:06.593265+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "لماذا وقف ساطع الحصري ضد السلطان عبد الحميد؟",
+          "link": "https://www.youtube.com/watch?v=UNq3ujr6D4Y",
+          "videoId": "UNq3ujr6D4Y",
+          "pubDate": "2026-04-17T10:00:01+00:00"
+        },
+        {
           "title": "طبق المقلوبة يفقد أم أسير وعيها",
           "link": "https://www.youtube.com/watch?v=lcM0By6zni8",
           "videoId": "lcM0By6zni8",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=UR3qSvDtd-Q",
           "videoId": "UR3qSvDtd-Q",
           "pubDate": "2026-04-16T20:30:01+00:00"
-        },
-        {
-          "title": "من النخبة إلى الجماهير.. التحول الاجتماعي في حزب البعث",
-          "link": "https://www.youtube.com/watch?v=E--q6jZU5W8",
-          "videoId": "E--q6jZU5W8",
-          "pubDate": "2026-04-16T19:30:01+00:00"
         }
       ],
       "ok": true
