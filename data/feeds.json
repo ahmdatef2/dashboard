@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-17T20:32:22.960748+00:00",
+  "updated": "2026-04-17T21:30:28.520421+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -317,27 +317,8 @@
       "handle": "KhairJaleesBook",
       "name": "خير جليس",
       "feedTitle": "خير جليس",
-      "items": [
-        {
-          "title": "الأفعال الصغيرة تصنع نتائج كبيرة  - من كتاب الجوهر الذي لا يتغير",
-          "link": "https://www.youtube.com/watch?v=utV1XtJnEIM",
-          "videoId": "utV1XtJnEIM",
-          "pubDate": "2026-04-17T06:00:46+00:00"
-        },
-        {
-          "title": "عدم اليقين لا يختفي أبدًا  - من كتاب الجوهر الذي لا يتغير",
-          "link": "https://www.youtube.com/watch?v=t93dShiqYF8",
-          "videoId": "t93dShiqYF8",
-          "pubDate": "2026-04-16T13:01:38+00:00"
-        },
-        {
-          "title": "تظهر المخاطر عندما لا تتوقعها  - من كتاب الجوهر الذي لا يتغير",
-          "link": "https://www.youtube.com/watch?v=yFtHTwnPS0Q",
-          "videoId": "yFtHTwnPS0Q",
-          "pubDate": "2026-04-16T06:00:51+00:00"
-        }
-      ],
-      "ok": true
+      "items": [],
+      "ok": false
     },
     "UCu1NJiJlhrhmF5ZgT-0yWdA": {
       "handle": "Jeelyaqraa",
@@ -369,27 +350,8 @@
       "handle": "a5drcom",
       "name": "أخضر",
       "feedTitle": "أخضر",
-      "items": [
-        {
-          "title": "جلسات نفسية للاكتئاب ❤️ كتاب: لماذا نكتئب وكيف نتعافى #أخضر",
-          "link": "https://www.youtube.com/watch?v=0Vyz6Iu968E",
-          "videoId": "0Vyz6Iu968E",
-          "pubDate": "2026-04-17T16:00:02+00:00"
-        },
-        {
-          "title": "ضاعف تطورك وحمّل التطبيق الآن: https://onelink.to/a5dr",
-          "link": "https://www.youtube.com/watch?v=fD6qcFECcbw",
-          "videoId": "fD6qcFECcbw",
-          "pubDate": "2026-04-16T13:33:25+00:00"
-        },
-        {
-          "title": "فصل جديد بدأ! ضاعف تطورك وتعلم من تجارب حقيقية علي أخضر 💡",
-          "link": "https://www.youtube.com/watch?v=0e3p8TTdHzg",
-          "videoId": "0e3p8TTdHzg",
-          "pubDate": "2026-04-14T20:55:39+00:00"
-        }
-      ],
-      "ok": true
+      "items": [],
+      "ok": false
     },
     "UCUjRjJ1-h3oUx40gf2tuh3w": {
       "handle": "Sha5bata",
@@ -475,6 +437,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "لطباعة النقود دون قيود.. كيف قتلت السياسة معيار الذهب العالمي؟",
+          "link": "https://www.youtube.com/watch?v=OYmKDU_maOk",
+          "videoId": "OYmKDU_maOk",
+          "pubDate": "2026-04-17T21:00:00+00:00"
+        },
+        {
           "title": "فرس النهر المفضل لبابلو إسكوبار.. كيف أصبح كابوسا يطارد كولومبيا؟",
           "link": "https://www.youtube.com/watch?v=6453_w7IoTA",
           "videoId": "6453_w7IoTA",
@@ -485,12 +453,6 @@
           "link": "https://www.youtube.com/watch?v=fZNQU1WYmBk",
           "videoId": "fZNQU1WYmBk",
           "pubDate": "2026-04-17T19:45:03+00:00"
-        },
-        {
-          "title": "هل تعلم أن اسم \"دبابة\" بدأ بكذبة؟",
-          "link": "https://www.youtube.com/watch?v=MbxforKNZpM",
-          "videoId": "MbxforKNZpM",
-          "pubDate": "2026-04-17T18:00:01+00:00"
         }
       ],
       "ok": true
@@ -500,6 +462,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "سكودا في الحرب العالمية الثانية.. سلاح أم طريق للنجاة؟ | مصانع الحرب",
+          "link": "https://www.youtube.com/watch?v=uaaFBmaz1s0",
+          "videoId": "uaaFBmaz1s0",
+          "pubDate": "2026-04-17T21:00:58+00:00"
+        },
         {
           "title": "حين جلس صدام حسين وجهاً لوجه مع محمد رضا شاه بهلوي",
           "link": "https://www.youtube.com/watch?v=8xVxHjdqLpo",
@@ -511,12 +479,6 @@
           "link": "https://www.youtube.com/watch?v=XJpUGbUNi8s",
           "videoId": "XJpUGbUNi8s",
           "pubDate": "2026-04-17T14:53:07+00:00"
-        },
-        {
-          "title": "المواجهة بين إيران و إسرائيل",
-          "link": "https://www.youtube.com/watch?v=-ZI6feZPTEA",
-          "videoId": "-ZI6feZPTEA",
-          "pubDate": "2026-04-17T11:31:36+00:00"
         }
       ],
       "ok": true
