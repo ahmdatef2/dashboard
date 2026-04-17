@@ -1,31 +1,12 @@
 {
-  "updated": "2026-04-16T23:29:42.058353+00:00",
+  "updated": "2026-04-17T01:15:23.831210+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
       "name": "د. هبة أحمد",
-      "feedTitle": "Heba Ahmed - هبة احمد",
-      "items": [
-        {
-          "title": "اهم اداة موجودة حاليا... ايه هو claude cowork و ازاي تشغله",
-          "link": "https://www.youtube.com/watch?v=vVrE11tHEFg",
-          "videoId": "vVrE11tHEFg",
-          "pubDate": "2026-04-12T15:49:59+00:00"
-        },
-        {
-          "title": "الفيديو الوحيد اللي محتاجه عشان تفهم Claude Cowork",
-          "link": "https://www.youtube.com/watch?v=k-LXConhxi0",
-          "videoId": "k-LXConhxi0",
-          "pubDate": "2026-04-10T19:44:29+00:00"
-        },
-        {
-          "title": "300$ مجانًا مع Gemini… الحل في Vertex AI Studio",
-          "link": "https://www.youtube.com/watch?v=E-14TwoW-84",
-          "videoId": "E-14TwoW-84",
-          "pubDate": "2026-04-05T16:08:06+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "د. هبة أحمد",
+      "items": [],
+      "ok": false
     },
     "UC2jjW7c63dqOPkfMm3P-u3w": {
       "handle": "every_day_a_new_website",
