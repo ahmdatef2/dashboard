@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-18T13:52:48.477274+00:00",
+  "updated": "2026-04-18T14:31:44.577883+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "\"تلوث البحر قتل مهنة الصيد\".. شهادات سكان قابس التونسية",
+          "link": "https://www.youtube.com/watch?v=45-Iq2YOelQ",
+          "videoId": "45-Iq2YOelQ",
+          "pubDate": "2026-04-18T14:00:01+00:00"
+        },
+        {
           "title": "كيف دمرت العقوبات الاقتصادية سكك حديد السودان؟",
           "link": "https://www.youtube.com/watch?v=FomggDOkqPM",
           "videoId": "FomggDOkqPM",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=TwM87N3qBNg",
           "videoId": "TwM87N3qBNg",
           "pubDate": "2026-04-18T12:00:01+00:00"
-        },
-        {
-          "title": "عند حيوان إنسان الغاب.. الصابون للاغتسال والأكل أيضا",
-          "link": "https://www.youtube.com/watch?v=BbjQhF---hs",
-          "videoId": "BbjQhF---hs",
-          "pubDate": "2026-04-18T10:00:01+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "كيف ظهر تسوس الأسنان؟",
+          "link": "https://www.youtube.com/watch?v=NTjqP_UvCQ0",
+          "videoId": "NTjqP_UvCQ0",
+          "pubDate": "2026-04-18T14:00:28+00:00"
+        },
         {
           "title": "سكودا في الحرب العالمية الثانية.. سلاح أم طريق للنجاة؟ | مصانع الحرب",
           "link": "https://www.youtube.com/watch?v=uaaFBmaz1s0",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=8xVxHjdqLpo",
           "videoId": "8xVxHjdqLpo",
           "pubDate": "2026-04-17T19:00:40+00:00"
-        },
-        {
-          "title": "رجل وقف بوجه دبابات القوات الصينية وواجهها وحيدا",
-          "link": "https://www.youtube.com/watch?v=XJpUGbUNi8s",
-          "videoId": "XJpUGbUNi8s",
-          "pubDate": "2026-04-17T14:53:07+00:00"
         }
       ],
       "ok": true
