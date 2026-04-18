@@ -1,11 +1,17 @@
 {
-  "updated": "2026-04-18T16:24:08.544458+00:00",
+  "updated": "2026-04-18T17:26:21.930021+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
       "name": "د. هبة أحمد",
       "feedTitle": "Heba Ahmed - هبة احمد",
       "items": [
+        {
+          "title": "Claude Design: هل هيقلب مجال التصميم فعلًا؟",
+          "link": "https://www.youtube.com/watch?v=_v4vfu1zBXU",
+          "videoId": "_v4vfu1zBXU",
+          "pubDate": "2026-04-18T16:53:05+00:00"
+        },
         {
           "title": "اهم اداة موجودة حاليا... ايه هو claude cowork و ازاي تشغله",
           "link": "https://www.youtube.com/watch?v=vVrE11tHEFg",
@@ -17,12 +23,6 @@
           "link": "https://www.youtube.com/watch?v=k-LXConhxi0",
           "videoId": "k-LXConhxi0",
           "pubDate": "2026-04-10T19:44:29+00:00"
-        },
-        {
-          "title": "300$ مجانًا مع Gemini… الحل في Vertex AI Studio",
-          "link": "https://www.youtube.com/watch?v=E-14TwoW-84",
-          "videoId": "E-14TwoW-84",
-          "pubDate": "2026-04-05T16:08:06+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "الشجرة الأخيرة- قريبا",
+          "link": "https://www.youtube.com/watch?v=br80P2CNf8c",
+          "videoId": "br80P2CNf8c",
+          "pubDate": "2026-04-18T17:00:01+00:00"
+        },
+        {
           "title": "\"تلوث البحر قتل مهنة الصيد\".. شهادات سكان قابس التونسية",
           "link": "https://www.youtube.com/watch?v=45-Iq2YOelQ",
           "videoId": "45-Iq2YOelQ",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=FomggDOkqPM",
           "videoId": "FomggDOkqPM",
           "pubDate": "2026-04-18T13:00:01+00:00"
-        },
-        {
-          "title": "زواج القاصرات.. أمومة قبل الأوان",
-          "link": "https://www.youtube.com/watch?v=TwM87N3qBNg",
-          "videoId": "TwM87N3qBNg",
-          "pubDate": "2026-04-18T12:00:01+00:00"
         }
       ],
       "ok": true
@@ -553,6 +553,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "وثائقي | جواسيس داخل الهاتف الذكي – في شباك سماسرة البيانات | وثائقية دي دبليو",
+          "link": "https://www.youtube.com/watch?v=pLRzN-q7x-A",
+          "videoId": "pLRzN-q7x-A",
+          "pubDate": "2026-04-18T17:01:00+00:00"
+        },
+        {
           "title": "وثائقي | مهرجان هولي – أرامل الهند يحتفلن بالألوان | وثائقية دي دبليو",
           "link": "https://www.youtube.com/watch?v=yek9kzXXRxE",
           "videoId": "yek9kzXXRxE",
@@ -563,12 +569,6 @@
           "link": "https://www.youtube.com/watch?v=WKKCSZfkhDs",
           "videoId": "WKKCSZfkhDs",
           "pubDate": "2026-04-17T10:45:03+00:00"
-        },
-        {
-          "title": "وثائقي | جبال الألب الأوروبية  - انهيارات طينية تهدد قرى جبلية | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=U7DXg80Si4k",
-          "videoId": "U7DXg80Si4k",
-          "pubDate": "2026-04-16T17:00:40+00:00"
         }
       ],
       "ok": true
