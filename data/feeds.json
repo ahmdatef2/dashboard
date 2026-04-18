@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-18T07:51:11.376471+00:00",
+  "updated": "2026-04-18T08:34:25.519676+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "قناة السويس تشتعل.. لحظة التحول في فكر جمال عبد الناصر",
+          "link": "https://www.youtube.com/watch?v=ctkZrXjZOKc",
+          "videoId": "ctkZrXjZOKc",
+          "pubDate": "2026-04-18T08:00:01+00:00"
+        },
+        {
           "title": "لطباعة النقود دون قيود.. كيف قتلت السياسة معيار الذهب العالمي؟",
           "link": "https://www.youtube.com/watch?v=OYmKDU_maOk",
           "videoId": "OYmKDU_maOk",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=6453_w7IoTA",
           "videoId": "6453_w7IoTA",
           "pubDate": "2026-04-17T20:00:02+00:00"
-        },
-        {
-          "title": "أسرار في قلب الأدغال.. لغز وحيد القرن القديم وجزيرة الأفاعي المرعبة | الحلقة الخامسة",
-          "link": "https://www.youtube.com/watch?v=fZNQU1WYmBk",
-          "videoId": "fZNQU1WYmBk",
-          "pubDate": "2026-04-17T19:45:03+00:00"
         }
       ],
       "ok": true
