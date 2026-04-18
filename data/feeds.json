@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-18T12:32:18.626460+00:00",
+  "updated": "2026-04-18T13:52:48.477274+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -59,6 +59,12 @@
       "feedTitle": "Infotech4you - مروي سليمان",
       "items": [
         {
+          "title": "اللعبة اتغيرت! GLM 5.1 النسخة المرعبة التي تهدد عمالقة الذكاء الاصطناعي (مفتوح المصدر)",
+          "link": "https://www.youtube.com/watch?v=MvTGDqVkfsQ",
+          "videoId": "MvTGDqVkfsQ",
+          "pubDate": "2026-04-18T13:00:40+00:00"
+        },
+        {
           "title": "Claude Opus 4.7 مفاجأة Anthropic الجديدة .... هل الأقوى على الإطلاق!",
           "link": "https://www.youtube.com/watch?v=Tbmez4tdpjg",
           "videoId": "Tbmez4tdpjg",
@@ -69,12 +75,6 @@
           "link": "https://www.youtube.com/watch?v=xiMswIULp8s",
           "videoId": "xiMswIULp8s",
           "pubDate": "2026-04-16T12:28:49+00:00"
-        },
-        {
-          "title": "وداعاً لتعب الساعات! صمم برزنتيشن احترافي بـ Claude داخل PowerPoint في دقائق",
-          "link": "https://www.youtube.com/watch?v=bVXk55JPTkQ",
-          "videoId": "bVXk55JPTkQ",
-          "pubDate": "2026-04-14T14:58:37+00:00"
         }
       ],
       "ok": true
@@ -163,6 +163,12 @@
       "feedTitle": "Elzero Web School",
       "items": [
         {
+          "title": "حاجات لو رجع بيا الزمن هغيرهم",
+          "link": "https://www.youtube.com/watch?v=jD9VdUmdVVc",
+          "videoId": "jD9VdUmdVVc",
+          "pubDate": "2026-04-18T13:46:09+00:00"
+        },
+        {
           "title": "عشر حاجات لو سمعتهم وانت بتتفق على شغل اهرب فورا",
           "link": "https://www.youtube.com/watch?v=ER_CzhR6JVQ",
           "videoId": "ER_CzhR6JVQ",
@@ -173,12 +179,6 @@
           "link": "https://www.youtube.com/watch?v=1n4AJdviibs",
           "videoId": "1n4AJdviibs",
           "pubDate": "2026-03-03T19:47:57+00:00"
-        },
-        {
-          "title": "توظيف البشر لصالح الذكاء الاصطناعي",
-          "link": "https://www.youtube.com/watch?v=4XBhqzlYJGY",
-          "videoId": "4XBhqzlYJGY",
-          "pubDate": "2026-02-16T10:47:19+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "كيف دمرت العقوبات الاقتصادية سكك حديد السودان؟",
+          "link": "https://www.youtube.com/watch?v=FomggDOkqPM",
+          "videoId": "FomggDOkqPM",
+          "pubDate": "2026-04-18T13:00:01+00:00"
+        },
+        {
           "title": "زواج القاصرات.. أمومة قبل الأوان",
           "link": "https://www.youtube.com/watch?v=TwM87N3qBNg",
           "videoId": "TwM87N3qBNg",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=BbjQhF---hs",
           "videoId": "BbjQhF---hs",
           "pubDate": "2026-04-18T10:00:01+00:00"
-        },
-        {
-          "title": "قناة السويس تشتعل.. لحظة التحول في فكر جمال عبد الناصر",
-          "link": "https://www.youtube.com/watch?v=ctkZrXjZOKc",
-          "videoId": "ctkZrXjZOKc",
-          "pubDate": "2026-04-18T08:00:01+00:00"
         }
       ],
       "ok": true
