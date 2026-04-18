@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-18T18:28:50.591137+00:00",
+  "updated": "2026-04-18T19:32:06.790928+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -33,6 +33,12 @@
       "feedTitle": "كل يوم موقع جديد",
       "items": [
         {
+          "title": "جربت Claude Design لصناعة فيديو تعليمي كامل بالعربي من ملف PDF",
+          "link": "https://www.youtube.com/watch?v=ZGmX91Au06o",
+          "videoId": "ZGmX91Au06o",
+          "pubDate": "2026-04-18T18:41:16+00:00"
+        },
+        {
           "title": "Canva AI 2.0 :  قلب الموازين! أقوى تحديثات كانفا 2026",
           "link": "https://www.youtube.com/watch?v=sNt7yme3j7I",
           "videoId": "sNt7yme3j7I",
@@ -43,12 +49,6 @@
           "link": "https://www.youtube.com/watch?v=P1LBnIEynlQ",
           "videoId": "P1LBnIEynlQ",
           "pubDate": "2026-04-15T14:00:43+00:00"
-        },
-        {
-          "title": "فتح NotebookLM من Gemini أخيرًا | حنطبق عملي ونشوف القوة الثنائية!",
-          "link": "https://www.youtube.com/watch?v=Pfh-tQO72XA",
-          "videoId": "Pfh-tQO72XA",
-          "pubDate": "2026-04-13T20:50:55+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "قصة الشيخ علي بيتاي.. كيف تأثر جعفر النميري بالصوفية؟",
+          "link": "https://www.youtube.com/watch?v=eCoQ1g2Ao6A",
+          "videoId": "eCoQ1g2Ao6A",
+          "pubDate": "2026-04-18T19:00:01+00:00"
+        },
+        {
           "title": "الشجرة الأخيرة- قريبا",
           "link": "https://www.youtube.com/watch?v=br80P2CNf8c",
           "videoId": "br80P2CNf8c",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=45-Iq2YOelQ",
           "videoId": "45-Iq2YOelQ",
           "pubDate": "2026-04-18T14:00:01+00:00"
-        },
-        {
-          "title": "كيف دمرت العقوبات الاقتصادية سكك حديد السودان؟",
-          "link": "https://www.youtube.com/watch?v=FomggDOkqPM",
-          "videoId": "FomggDOkqPM",
-          "pubDate": "2026-04-18T13:00:01+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "ثورة القرنفل",
+          "link": "https://www.youtube.com/watch?v=jy2HIbaqnUo",
+          "videoId": "jy2HIbaqnUo",
+          "pubDate": "2026-04-18T19:00:35+00:00"
+        },
         {
           "title": "أول ظهور لرفاييل نادال",
           "link": "https://www.youtube.com/watch?v=gSNwNIqliis",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=NTjqP_UvCQ0",
           "videoId": "NTjqP_UvCQ0",
           "pubDate": "2026-04-18T14:00:28+00:00"
-        },
-        {
-          "title": "سكودا في الحرب العالمية الثانية.. سلاح أم طريق للنجاة؟ | مصانع الحرب",
-          "link": "https://www.youtube.com/watch?v=uaaFBmaz1s0",
-          "videoId": "uaaFBmaz1s0",
-          "pubDate": "2026-04-17T21:00:58+00:00"
         }
       ],
       "ok": true
