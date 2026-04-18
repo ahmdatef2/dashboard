@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-18T09:35:47.606991+00:00",
+  "updated": "2026-04-18T10:28:48.163118+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "عند حيوان إنسان الغاب.. الصابون للاغتسال والأكل أيضا",
+          "link": "https://www.youtube.com/watch?v=BbjQhF---hs",
+          "videoId": "BbjQhF---hs",
+          "pubDate": "2026-04-18T10:00:01+00:00"
+        },
+        {
           "title": "قناة السويس تشتعل.. لحظة التحول في فكر جمال عبد الناصر",
           "link": "https://www.youtube.com/watch?v=ctkZrXjZOKc",
           "videoId": "ctkZrXjZOKc",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=OYmKDU_maOk",
           "videoId": "OYmKDU_maOk",
           "pubDate": "2026-04-17T21:00:00+00:00"
-        },
-        {
-          "title": "فرس النهر المفضل لبابلو إسكوبار.. كيف أصبح كابوسا يطارد كولومبيا؟",
-          "link": "https://www.youtube.com/watch?v=6453_w7IoTA",
-          "videoId": "6453_w7IoTA",
-          "pubDate": "2026-04-17T20:00:02+00:00"
         }
       ],
       "ok": true
