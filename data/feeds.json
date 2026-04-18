@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-18T14:31:44.577883+00:00",
+  "updated": "2026-04-18T15:26:38.184296+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -501,6 +501,12 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "أول ظهور لرفاييل نادال",
+          "link": "https://www.youtube.com/watch?v=gSNwNIqliis",
+          "videoId": "gSNwNIqliis",
+          "pubDate": "2026-04-18T15:00:30+00:00"
+        },
+        {
           "title": "كيف ظهر تسوس الأسنان؟",
           "link": "https://www.youtube.com/watch?v=NTjqP_UvCQ0",
           "videoId": "NTjqP_UvCQ0",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=uaaFBmaz1s0",
           "videoId": "uaaFBmaz1s0",
           "pubDate": "2026-04-17T21:00:58+00:00"
-        },
-        {
-          "title": "حين جلس صدام حسين وجهاً لوجه مع محمد رضا شاه بهلوي",
-          "link": "https://www.youtube.com/watch?v=8xVxHjdqLpo",
-          "videoId": "8xVxHjdqLpo",
-          "pubDate": "2026-04-17T19:00:40+00:00"
         }
       ],
       "ok": true
