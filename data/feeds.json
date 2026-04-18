@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-18T11:24:48.577175+00:00",
+  "updated": "2026-04-18T12:32:18.626460+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -111,6 +111,12 @@
       "feedTitle": "AMR SALEM _ عمرو سالم",
       "items": [
         {
+          "title": "تجربة claude opus 4.7 . نموذج رهيييبclll",
+          "link": "https://www.youtube.com/watch?v=_xjZW0JIeUU",
+          "videoId": "_xjZW0JIeUU",
+          "pubDate": "2026-04-18T12:01:00+00:00"
+        },
+        {
           "title": "برنامج HitPaw VikPea وموديل Seedance 2.0: أقوى أداة لتوليد فيديوهات الـ AI حالياً! 🚀",
           "link": "https://www.youtube.com/watch?v=XwSdYFG1MuI",
           "videoId": "XwSdYFG1MuI",
@@ -121,12 +127,6 @@
           "link": "https://www.youtube.com/watch?v=Fj3fWfhoyRs",
           "videoId": "Fj3fWfhoyRs",
           "pubDate": "2026-04-16T21:31:57+00:00"
-        },
-        {
-          "title": "MINIMAX M2.7 الخارق مفتوح المصدر واستخدامه مجانا",
-          "link": "https://www.youtube.com/watch?v=_sa-1LcJ2ZU",
-          "videoId": "_sa-1LcJ2ZU",
-          "pubDate": "2026-04-12T21:29:39+00:00"
         }
       ],
       "ok": true
@@ -241,7 +241,7 @@
       "feedTitle": "مدرسة الذكاء الاصطناعي",
       "items": [
         {
-          "title": "بعد 100 برومت في Seedance 2.0 وعرفت سر الفيديوهات الاحترافيه",
+          "title": "بعد 100 برومت في Seedance 2.0 عرفت سر الفيديوهات الاحترافيه",
           "link": "https://www.youtube.com/watch?v=O9t2N4Cq-MM",
           "videoId": "O9t2N4Cq-MM",
           "pubDate": "2026-04-17T19:48:28+00:00"
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "زواج القاصرات.. أمومة قبل الأوان",
+          "link": "https://www.youtube.com/watch?v=TwM87N3qBNg",
+          "videoId": "TwM87N3qBNg",
+          "pubDate": "2026-04-18T12:00:01+00:00"
+        },
+        {
           "title": "عند حيوان إنسان الغاب.. الصابون للاغتسال والأكل أيضا",
           "link": "https://www.youtube.com/watch?v=BbjQhF---hs",
           "videoId": "BbjQhF---hs",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=ctkZrXjZOKc",
           "videoId": "ctkZrXjZOKc",
           "pubDate": "2026-04-18T08:00:01+00:00"
-        },
-        {
-          "title": "لطباعة النقود دون قيود.. كيف قتلت السياسة معيار الذهب العالمي؟",
-          "link": "https://www.youtube.com/watch?v=OYmKDU_maOk",
-          "videoId": "OYmKDU_maOk",
-          "pubDate": "2026-04-17T21:00:00+00:00"
         }
       ],
       "ok": true
