@@ -1,31 +1,12 @@
 {
-  "updated": "2026-04-18T22:20:25.683132+00:00",
+  "updated": "2026-04-18T23:22:52.024111+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
       "name": "د. هبة أحمد",
-      "feedTitle": "Heba Ahmed - هبة احمد",
-      "items": [
-        {
-          "title": "Claude Design: هل هيقلب مجال التصميم فعلًا؟",
-          "link": "https://www.youtube.com/watch?v=_v4vfu1zBXU",
-          "videoId": "_v4vfu1zBXU",
-          "pubDate": "2026-04-18T16:53:05+00:00"
-        },
-        {
-          "title": "اهم اداة موجودة حاليا... ايه هو claude cowork و ازاي تشغله",
-          "link": "https://www.youtube.com/watch?v=vVrE11tHEFg",
-          "videoId": "vVrE11tHEFg",
-          "pubDate": "2026-04-12T15:49:59+00:00"
-        },
-        {
-          "title": "الفيديو الوحيد اللي محتاجه عشان تفهم Claude Cowork",
-          "link": "https://www.youtube.com/watch?v=k-LXConhxi0",
-          "videoId": "k-LXConhxi0",
-          "pubDate": "2026-04-10T19:44:29+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "د. هبة أحمد",
+      "items": [],
+      "ok": false
     },
     "UC2jjW7c63dqOPkfMm3P-u3w": {
       "handle": "every_day_a_new_website",
@@ -51,28 +32,9 @@
     "UC81Ks7DR9JFgZc14nmZ07EA": {
       "handle": "AMRSALEM800",
       "name": "عمرو سالم",
-      "feedTitle": "AMR SALEM _ عمرو سالم",
-      "items": [
-        {
-          "title": "تجربة claude opus 4.7 . نموذج رهيييبclll",
-          "link": "https://www.youtube.com/watch?v=_xjZW0JIeUU",
-          "videoId": "_xjZW0JIeUU",
-          "pubDate": "2026-04-18T12:01:00+00:00"
-        },
-        {
-          "title": "برنامج HitPaw VikPea وموديل Seedance 2.0: أقوى أداة لتوليد فيديوهات الـ AI حالياً! 🚀",
-          "link": "https://www.youtube.com/watch?v=XwSdYFG1MuI",
-          "videoId": "XwSdYFG1MuI",
-          "pubDate": "2026-04-17T12:01:09+00:00"
-        },
-        {
-          "title": "رسميا . اطلاق عملاق البرمجة claude opus 4.7",
-          "link": "https://www.youtube.com/watch?v=Fj3fWfhoyRs",
-          "videoId": "Fj3fWfhoyRs",
-          "pubDate": "2026-04-16T21:31:57+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "عمرو سالم",
+      "items": [],
+      "ok": false
     },
     "UC9ocsRoOwj9tkAQNfUt8ZJg": {
       "handle": "PythonArab",
@@ -98,28 +60,9 @@
     "UCSXcmF4Gxl6Hc-m6cHYD_Vg": {
       "handle": "MohamedAnsary",
       "name": "محمد أنصاري",
-      "feedTitle": "Mohamed Ansary",
-      "items": [
-        {
-          "title": "تحديث NotebookLM الرهيب: أضف صورة غلاف ووصفاً لمشاريعك",
-          "link": "https://www.youtube.com/watch?v=8scmhEIJnj4",
-          "videoId": "8scmhEIJnj4",
-          "pubDate": "2026-04-17T15:34:05+00:00"
-        },
-        {
-          "title": "الترجمة الاحترافية بلمسة واحدة من خلال موقع MateCAT",
-          "link": "https://www.youtube.com/watch?v=ZQlMdKwgT2o",
-          "videoId": "ZQlMdKwgT2o",
-          "pubDate": "2026-04-17T12:17:39+00:00"
-        },
-        {
-          "title": "كيفية ربط كلود بأهم أداة بحث أكاديمي وبناء مهارات أكاديمية | Claude + Consensus",
-          "link": "https://www.youtube.com/watch?v=d7UG8mMIIL8",
-          "videoId": "d7UG8mMIIL8",
-          "pubDate": "2026-04-16T19:57:23+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "محمد أنصاري",
+      "items": [],
+      "ok": false
     },
     "UCDqp23rTdCo_tXsuHLYF47Q": {
       "handle": "ArabianAiSchool",
@@ -146,27 +89,8 @@
       "handle": "KhairJaleesBook",
       "name": "خير جليس",
       "feedTitle": "خير جليس",
-      "items": [
-        {
-          "title": "الوقت يضخّم كل شيء  - من كتاب الجوهر الذي لا يتغير",
-          "link": "https://www.youtube.com/watch?v=zYkvRlEPuvo",
-          "videoId": "zYkvRlEPuvo",
-          "pubDate": "2026-04-18T06:00:48+00:00"
-        },
-        {
-          "title": "الأفعال الصغيرة تصنع نتائج كبيرة  - من كتاب الجوهر الذي لا يتغير",
-          "link": "https://www.youtube.com/watch?v=utV1XtJnEIM",
-          "videoId": "utV1XtJnEIM",
-          "pubDate": "2026-04-17T06:00:46+00:00"
-        },
-        {
-          "title": "عدم اليقين لا يختفي أبدًا  - من كتاب الجوهر الذي لا يتغير",
-          "link": "https://www.youtube.com/watch?v=t93dShiqYF8",
-          "videoId": "t93dShiqYF8",
-          "pubDate": "2026-04-16T13:01:38+00:00"
-        }
-      ],
-      "ok": true
+      "items": [],
+      "ok": false
     },
     "UCu1NJiJlhrhmF5ZgT-0yWdA": {
       "handle": "Jeelyaqraa",
@@ -206,9 +130,28 @@
     "UC0LSnqrwqtMwl2YwfUpO66g": {
       "handle": "aljazeeradocumentary",
       "name": "الجزيرة الوثائقية",
-      "feedTitle": "الجزيرة الوثائقية",
-      "items": [],
-      "ok": false
+      "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
+      "items": [
+        {
+          "title": "بيض الكافيار.. الموسم الذي تجتمع فيه قروش الحوت",
+          "link": "https://www.youtube.com/watch?v=-syu8gmhGNU",
+          "videoId": "-syu8gmhGNU",
+          "pubDate": "2026-04-18T20:30:01+00:00"
+        },
+        {
+          "title": "قصة الشيخ علي بيتاي.. كيف تأثر جعفر النميري بالصوفية؟",
+          "link": "https://www.youtube.com/watch?v=eCoQ1g2Ao6A",
+          "videoId": "eCoQ1g2Ao6A",
+          "pubDate": "2026-04-18T19:00:01+00:00"
+        },
+        {
+          "title": "الشجرة الأخيرة- قريبا",
+          "link": "https://www.youtube.com/watch?v=br80P2CNf8c",
+          "videoId": "br80P2CNf8c",
+          "pubDate": "2026-04-18T17:00:01+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCArK7aSQ68vRCiJY2m7spkA": {
       "handle": "AsharqDoc",
