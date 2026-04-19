@@ -1,31 +1,12 @@
 {
-  "updated": "2026-04-19T21:23:06.959186+00:00",
+  "updated": "2026-04-19T22:20:58.707904+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
       "name": "د. هبة أحمد",
-      "feedTitle": "Heba Ahmed - هبة احمد",
-      "items": [
-        {
-          "title": "هل Claude Design بقى ملك التصميم فعلًا؟",
-          "link": "https://www.youtube.com/watch?v=FlAO1TYpNYU",
-          "videoId": "FlAO1TYpNYU",
-          "pubDate": "2026-04-19T17:20:37+00:00"
-        },
-        {
-          "title": "Claude Design: هل هيقلب مجال التصميم فعلًا؟",
-          "link": "https://www.youtube.com/watch?v=_v4vfu1zBXU",
-          "videoId": "_v4vfu1zBXU",
-          "pubDate": "2026-04-18T16:53:05+00:00"
-        },
-        {
-          "title": "اهم اداة موجودة حاليا... ايه هو claude cowork و ازاي تشغله",
-          "link": "https://www.youtube.com/watch?v=vVrE11tHEFg",
-          "videoId": "vVrE11tHEFg",
-          "pubDate": "2026-04-12T15:49:59+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "د. هبة أحمد",
+      "items": [],
+      "ok": false
     },
     "UC2jjW7c63dqOPkfMm3P-u3w": {
       "handle": "every_day_a_new_website",
@@ -37,9 +18,28 @@
     "UCKD8vOz3maRPyLAbMXhr-Pw": {
       "handle": "infotech4you_Marwasoliman",
       "name": "مروة سليمان",
-      "feedTitle": "مروة سليمان",
-      "items": [],
-      "ok": false
+      "feedTitle": "Infotech4you - مروي سليمان",
+      "items": [
+        {
+          "title": "كل ماتريد معرفته عن Claude Design  في 10 دقائق!",
+          "link": "https://www.youtube.com/watch?v=WGZ8XgqaKgQ",
+          "videoId": "WGZ8XgqaKgQ",
+          "pubDate": "2026-04-19T13:43:32+00:00"
+        },
+        {
+          "title": "اللعبة اتغيرت! GLM 5.1 النسخة المرعبة التي تهدد عمالقة الذكاء الاصطناعي (مفتوح المصدر)",
+          "link": "https://www.youtube.com/watch?v=MvTGDqVkfsQ",
+          "videoId": "MvTGDqVkfsQ",
+          "pubDate": "2026-04-18T13:00:40+00:00"
+        },
+        {
+          "title": "Claude Opus 4.7 مفاجأة Anthropic الجديدة .... هل الأقوى على الإطلاق!",
+          "link": "https://www.youtube.com/watch?v=Tbmez4tdpjg",
+          "videoId": "Tbmez4tdpjg",
+          "pubDate": "2026-04-17T03:00:25+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCSRy-3lglM2QKJ_xF2zuPlQ": {
       "handle": "AbdellatifSaidA",
@@ -51,9 +51,28 @@
     "UC81Ks7DR9JFgZc14nmZ07EA": {
       "handle": "AMRSALEM800",
       "name": "عمرو سالم",
-      "feedTitle": "عمرو سالم",
-      "items": [],
-      "ok": false
+      "feedTitle": "AMR SALEM _ عمرو سالم",
+      "items": [
+        {
+          "title": "تجربة claude opus 4.7 . نموذج رهيييبclll",
+          "link": "https://www.youtube.com/watch?v=_xjZW0JIeUU",
+          "videoId": "_xjZW0JIeUU",
+          "pubDate": "2026-04-18T12:01:00+00:00"
+        },
+        {
+          "title": "برنامج HitPaw VikPea وموديل Seedance 2.0: أقوى أداة لتوليد فيديوهات الـ AI حالياً! 🚀",
+          "link": "https://www.youtube.com/watch?v=XwSdYFG1MuI",
+          "videoId": "XwSdYFG1MuI",
+          "pubDate": "2026-04-17T12:01:09+00:00"
+        },
+        {
+          "title": "رسميا . اطلاق عملاق البرمجة claude opus 4.7",
+          "link": "https://www.youtube.com/watch?v=Fj3fWfhoyRs",
+          "videoId": "Fj3fWfhoyRs",
+          "pubDate": "2026-04-16T21:31:57+00:00"
+        }
+      ],
+      "ok": true
     },
     "UC9ocsRoOwj9tkAQNfUt8ZJg": {
       "handle": "PythonArab",
@@ -79,9 +98,28 @@
     "UCSXcmF4Gxl6Hc-m6cHYD_Vg": {
       "handle": "MohamedAnsary",
       "name": "محمد أنصاري",
-      "feedTitle": "محمد أنصاري",
-      "items": [],
-      "ok": false
+      "feedTitle": "Mohamed Ansary",
+      "items": [
+        {
+          "title": "تحديث قوي من جيميناي - الذكاء الشخصي اللي بيفهمك وينسخ أسلوبك ويسمع كلامك | Personal Intelligence",
+          "link": "https://www.youtube.com/watch?v=gwGy0IKUPOI",
+          "videoId": "gwGy0IKUPOI",
+          "pubDate": "2026-04-19T21:13:51+00:00"
+        },
+        {
+          "title": "كيفية ربط   Claude بــ  Consensus وبناء مهارات أكاديمية",
+          "link": "https://www.youtube.com/watch?v=U0U3cHTGGTc",
+          "videoId": "U0U3cHTGGTc",
+          "pubDate": "2026-04-19T17:31:33+00:00"
+        },
+        {
+          "title": "تحديث NotebookLM الرهيب: أضف صورة غلاف ووصفاً لمشاريعك",
+          "link": "https://www.youtube.com/watch?v=8scmhEIJnj4",
+          "videoId": "8scmhEIJnj4",
+          "pubDate": "2026-04-17T15:34:05+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCDqp23rTdCo_tXsuHLYF47Q": {
       "handle": "ArabianAiSchool",
@@ -142,9 +180,28 @@
     "UCJlu6BjPWHZhzuCc0zVME0Q": {
       "handle": "Dupamicaffeine",
       "name": "دوباميكافيين",
-      "feedTitle": "دوباميكافيين",
-      "items": [],
-      "ok": false
+      "feedTitle": "دوباميكافين Dupamicaffeine",
+      "items": [
+        {
+          "title": "الأفعال أبلغ من الكلام",
+          "link": "https://www.youtube.com/watch?v=7hJFt3qjvZk",
+          "videoId": "7hJFt3qjvZk",
+          "pubDate": "2026-04-19T13:00:45+00:00"
+        },
+        {
+          "title": "تعرّف على لغات الحب - شرح كامل لكتاب لغات الحب الخمس - دوباميكافين",
+          "link": "https://www.youtube.com/watch?v=jNAy7yXNObs",
+          "videoId": "jNAy7yXNObs",
+          "pubDate": "2026-04-17T13:01:32+00:00"
+        },
+        {
+          "title": "الحب يجمّل العلاقة، لكن المودة تحفظها من الانهيار.",
+          "link": "https://www.youtube.com/watch?v=qeFmHo_QvrA",
+          "videoId": "qeFmHo_QvrA",
+          "pubDate": "2026-04-16T13:01:35+00:00"
+        }
+      ],
+      "ok": true
     },
     "UC0LSnqrwqtMwl2YwfUpO66g": {
       "handle": "aljazeeradocumentary",
@@ -170,9 +227,28 @@
     "UCET6sWl4Xcu-U8Ka9PJPrwA": {
       "handle": "dwdocarabia",
       "name": "DW عربية وثائقي",
-      "feedTitle": "DW عربية وثائقي",
-      "items": [],
-      "ok": false
+      "feedTitle": "DW Documentary وثائقية دي دبليو",
+      "items": [
+        {
+          "title": "وثائقي | جواسيس داخل الهاتف الذكي – في شباك سماسرة البيانات | وثائقية دي دبليو",
+          "link": "https://www.youtube.com/watch?v=pLRzN-q7x-A",
+          "videoId": "pLRzN-q7x-A",
+          "pubDate": "2026-04-18T17:01:00+00:00"
+        },
+        {
+          "title": "وثائقي | مهرجان هولي – أرامل الهند يحتفلن بالألوان | وثائقية دي دبليو",
+          "link": "https://www.youtube.com/watch?v=yek9kzXXRxE",
+          "videoId": "yek9kzXXRxE",
+          "pubDate": "2026-04-17T17:01:31+00:00"
+        },
+        {
+          "title": "عدالة بلا سجون",
+          "link": "https://www.youtube.com/watch?v=WKKCSZfkhDs",
+          "videoId": "WKKCSZfkhDs",
+          "pubDate": "2026-04-17T10:45:03+00:00"
+        }
+      ],
+      "ok": true
     }
   }
 }
