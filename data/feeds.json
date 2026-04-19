@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-19T18:30:17.897392+00:00",
+  "updated": "2026-04-19T19:32:38.266044+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "بكت 35 دقيقة… بسبب شجرة واحدة",
+          "link": "https://www.youtube.com/watch?v=Hh3uCfa7qks",
+          "videoId": "Hh3uCfa7qks",
+          "pubDate": "2026-04-19T19:00:01+00:00"
+        },
+        {
           "title": "لماذا يأكل السنجاب بهذه السرعة؟",
           "link": "https://www.youtube.com/watch?v=IrhZX30FMfc",
           "videoId": "IrhZX30FMfc",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=rVrp-ea1VEY",
           "videoId": "rVrp-ea1VEY",
           "pubDate": "2026-04-19T16:00:01+00:00"
-        },
-        {
-          "title": "لماذا أصبح كيانو ريفز النجم الأكثر شعبية على الإنترنت؟",
-          "link": "https://www.youtube.com/watch?v=SAwSgPswbnQ",
-          "videoId": "SAwSgPswbnQ",
-          "pubDate": "2026-04-19T14:00:01+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "علاقة فيسكونتي بآلان ديلون!",
+          "link": "https://www.youtube.com/watch?v=ls1QLLOtPw0",
+          "videoId": "ls1QLLOtPw0",
+          "pubDate": "2026-04-19T19:00:25+00:00"
+        },
         {
           "title": "المدمرة \"جنرال بلغرانو\"",
           "link": "https://www.youtube.com/watch?v=ajTVJJ3Wazw",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=7guIjAuFgvs",
           "videoId": "7guIjAuFgvs",
           "pubDate": "2026-04-19T16:53:52+00:00"
-        },
-        {
-          "title": "هل يسيطر المليارديرات على الحكومات الأميركية؟",
-          "link": "https://www.youtube.com/watch?v=3bbE5Pa8TLM",
-          "videoId": "3bbE5Pa8TLM",
-          "pubDate": "2026-04-19T14:29:40+00:00"
         }
       ],
       "ok": true
