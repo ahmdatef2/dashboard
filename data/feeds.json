@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-19T19:32:38.266044+00:00",
+  "updated": "2026-04-19T20:23:02.087880+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "آل جنبلاط.. عناد الجبل | تاريخ واحدة من أقوى العائلات السياسية في لبنان",
+          "link": "https://www.youtube.com/watch?v=OrV1dMFlwOU",
+          "videoId": "OrV1dMFlwOU",
+          "pubDate": "2026-04-19T19:30:03+00:00"
+        },
+        {
           "title": "بكت 35 دقيقة… بسبب شجرة واحدة",
           "link": "https://www.youtube.com/watch?v=Hh3uCfa7qks",
           "videoId": "Hh3uCfa7qks",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=IrhZX30FMfc",
           "videoId": "IrhZX30FMfc",
           "pubDate": "2026-04-19T17:00:01+00:00"
-        },
-        {
-          "title": "أنا وجدتي فقط… هكذا تبدو الطمأنينة",
-          "link": "https://www.youtube.com/watch?v=rVrp-ea1VEY",
-          "videoId": "rVrp-ea1VEY",
-          "pubDate": "2026-04-19T16:00:01+00:00"
         }
       ],
       "ok": true
