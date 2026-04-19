@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-19T11:25:21.436684+00:00",
+  "updated": "2026-04-19T12:31:14.115083+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "أنثى من إنسان الغاب تعلمت النجارة بالمراقبة",
+          "link": "https://www.youtube.com/watch?v=xhe-gqBx5gI",
+          "videoId": "xhe-gqBx5gI",
+          "pubDate": "2026-04-19T12:00:00+00:00"
+        },
+        {
           "title": "عندما نفت فرنسا جزائريين إلى جزيرة نائية انتقاما منهم",
           "link": "https://www.youtube.com/watch?v=wLZbWOWbH5Q",
           "videoId": "wLZbWOWbH5Q",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=usEFDdAOmDw",
           "videoId": "usEFDdAOmDw",
           "pubDate": "2026-04-19T08:00:00+00:00"
-        },
-        {
-          "title": "بيض الكافيار.. الموسم الذي تجتمع فيه قروش الحوت",
-          "link": "https://www.youtube.com/watch?v=-syu8gmhGNU",
-          "videoId": "-syu8gmhGNU",
-          "pubDate": "2026-04-18T20:30:01+00:00"
         }
       ],
       "ok": true
