@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-19T15:26:40.932716+00:00",
+  "updated": "2026-04-19T16:24:55.959752+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -371,6 +371,12 @@
       "feedTitle": "أخضر",
       "items": [
         {
+          "title": "هل نرى الرحلة كاملة، أم تغيب عنا تفاصيل الإخفاقات؟حمّل تطبيق \"أخضر\" onelink.to/a5dr",
+          "link": "https://www.youtube.com/watch?v=kgkYyixrfck",
+          "videoId": "kgkYyixrfck",
+          "pubDate": "2026-04-19T16:02:12+00:00"
+        },
+        {
           "title": "جلسات نفسية للاكتئاب ❤️ كتاب: لماذا نكتئب وكيف نتعافى #أخضر",
           "link": "https://www.youtube.com/watch?v=0Vyz6Iu968E",
           "videoId": "0Vyz6Iu968E",
@@ -381,12 +387,6 @@
           "link": "https://www.youtube.com/watch?v=fD6qcFECcbw",
           "videoId": "fD6qcFECcbw",
           "pubDate": "2026-04-16T13:33:25+00:00"
-        },
-        {
-          "title": "فصل جديد بدأ! ضاعف تطورك وتعلم من تجارب حقيقية علي أخضر 💡",
-          "link": "https://www.youtube.com/watch?v=0e3p8TTdHzg",
-          "videoId": "0e3p8TTdHzg",
-          "pubDate": "2026-04-14T20:55:39+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "أنا وجدتي فقط… هكذا تبدو الطمأنينة",
+          "link": "https://www.youtube.com/watch?v=rVrp-ea1VEY",
+          "videoId": "rVrp-ea1VEY",
+          "pubDate": "2026-04-19T16:00:01+00:00"
+        },
+        {
           "title": "لماذا أصبح كيانو ريفز النجم الأكثر شعبية على الإنترنت؟",
           "link": "https://www.youtube.com/watch?v=SAwSgPswbnQ",
           "videoId": "SAwSgPswbnQ",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=xhe-gqBx5gI",
           "videoId": "xhe-gqBx5gI",
           "pubDate": "2026-04-19T12:00:00+00:00"
-        },
-        {
-          "title": "عندما نفت فرنسا جزائريين إلى جزيرة نائية انتقاما منهم",
-          "link": "https://www.youtube.com/watch?v=wLZbWOWbH5Q",
-          "videoId": "wLZbWOWbH5Q",
-          "pubDate": "2026-04-19T11:00:01+00:00"
         }
       ],
       "ok": true
