@@ -1,11 +1,17 @@
 {
-  "updated": "2026-04-19T16:24:55.959752+00:00",
+  "updated": "2026-04-19T17:25:36.708624+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
       "name": "د. هبة أحمد",
       "feedTitle": "Heba Ahmed - هبة احمد",
       "items": [
+        {
+          "title": "هل Claude Design بقى ملك التصميم فعلًا؟",
+          "link": "https://www.youtube.com/watch?v=FlAO1TYpNYU",
+          "videoId": "FlAO1TYpNYU",
+          "pubDate": "2026-04-19T17:20:37+00:00"
+        },
         {
           "title": "Claude Design: هل هيقلب مجال التصميم فعلًا؟",
           "link": "https://www.youtube.com/watch?v=_v4vfu1zBXU",
@@ -17,12 +23,6 @@
           "link": "https://www.youtube.com/watch?v=vVrE11tHEFg",
           "videoId": "vVrE11tHEFg",
           "pubDate": "2026-04-12T15:49:59+00:00"
-        },
-        {
-          "title": "الفيديو الوحيد اللي محتاجه عشان تفهم Claude Cowork",
-          "link": "https://www.youtube.com/watch?v=k-LXConhxi0",
-          "videoId": "k-LXConhxi0",
-          "pubDate": "2026-04-10T19:44:29+00:00"
         }
       ],
       "ok": true
@@ -267,6 +267,12 @@
       "feedTitle": "أكاديمية ريان | Ryan Academy",
       "items": [
         {
+          "title": "ازاي استبدلت نفسي بذكاء اصطناعي يعمل شغلي وأنا نايم! وكيل Minimax Agent🚀",
+          "link": "https://www.youtube.com/watch?v=q3iErPRZe3Q",
+          "videoId": "q3iErPRZe3Q",
+          "pubDate": "2026-04-19T17:01:04+00:00"
+        },
+        {
           "title": "احصل على API Keys مجانية وفرصة للحصول علي رصيد بقيمة 200k مجانا (Claude – OpenAI – Gemini) Bytez",
           "link": "https://www.youtube.com/watch?v=ObnF3iqBY4E",
           "videoId": "ObnF3iqBY4E",
@@ -277,12 +283,6 @@
           "link": "https://www.youtube.com/watch?v=e_oOFKGDSM4",
           "videoId": "e_oOFKGDSM4",
           "pubDate": "2026-04-16T15:42:10+00:00"
-        },
-        {
-          "title": "مشروع مربح أونلاين - ازاي تنشئ موقع ادوات ai احترافي",
-          "link": "https://www.youtube.com/watch?v=XlpVIUIj5Mg",
-          "videoId": "XlpVIUIj5Mg",
-          "pubDate": "2026-04-15T14:29:08+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "لماذا يأكل السنجاب بهذه السرعة؟",
+          "link": "https://www.youtube.com/watch?v=IrhZX30FMfc",
+          "videoId": "IrhZX30FMfc",
+          "pubDate": "2026-04-19T17:00:01+00:00"
+        },
+        {
           "title": "أنا وجدتي فقط… هكذا تبدو الطمأنينة",
           "link": "https://www.youtube.com/watch?v=rVrp-ea1VEY",
           "videoId": "rVrp-ea1VEY",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=SAwSgPswbnQ",
           "videoId": "SAwSgPswbnQ",
           "pubDate": "2026-04-19T14:00:01+00:00"
-        },
-        {
-          "title": "أنثى من إنسان الغاب تعلمت النجارة بالمراقبة",
-          "link": "https://www.youtube.com/watch?v=xhe-gqBx5gI",
-          "videoId": "xhe-gqBx5gI",
-          "pubDate": "2026-04-19T12:00:00+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "رمز نهاية العالم",
+          "link": "https://www.youtube.com/watch?v=7guIjAuFgvs",
+          "videoId": "7guIjAuFgvs",
+          "pubDate": "2026-04-19T16:53:52+00:00"
+        },
         {
           "title": "هل يسيطر المليارديرات على الحكومات الأميركية؟",
           "link": "https://www.youtube.com/watch?v=3bbE5Pa8TLM",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=WvKD6gzZJiY",
           "videoId": "WvKD6gzZJiY",
           "pubDate": "2026-04-19T10:32:56+00:00"
-        },
-        {
-          "title": "كيف أثرت السياسة في الفن؟",
-          "link": "https://www.youtube.com/watch?v=-m0iA7yKplk",
-          "videoId": "-m0iA7yKplk",
-          "pubDate": "2026-04-18T21:00:27+00:00"
         }
       ],
       "ok": true
