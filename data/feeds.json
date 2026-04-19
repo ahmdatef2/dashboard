@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-19T10:27:54.480438+00:00",
+  "updated": "2026-04-19T11:25:21.436684+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "عندما نفت فرنسا جزائريين إلى جزيرة نائية انتقاما منهم",
+          "link": "https://www.youtube.com/watch?v=wLZbWOWbH5Q",
+          "videoId": "wLZbWOWbH5Q",
+          "pubDate": "2026-04-19T11:00:01+00:00"
+        },
+        {
           "title": "كيف تساعدك الطبيعة بعد الجراحة؟",
           "link": "https://www.youtube.com/watch?v=usEFDdAOmDw",
           "videoId": "usEFDdAOmDw",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=-syu8gmhGNU",
           "videoId": "-syu8gmhGNU",
           "pubDate": "2026-04-18T20:30:01+00:00"
-        },
-        {
-          "title": "قصة الشيخ علي بيتاي.. كيف تأثر جعفر النميري بالصوفية؟",
-          "link": "https://www.youtube.com/watch?v=eCoQ1g2Ao6A",
-          "videoId": "eCoQ1g2Ao6A",
-          "pubDate": "2026-04-18T19:00:01+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "يربط الكثيرون ذكرياتهم بالروائح",
+          "link": "https://www.youtube.com/watch?v=WvKD6gzZJiY",
+          "videoId": "WvKD6gzZJiY",
+          "pubDate": "2026-04-19T10:32:56+00:00"
+        },
         {
           "title": "كيف أثرت السياسة في الفن؟",
           "link": "https://www.youtube.com/watch?v=-m0iA7yKplk",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=2MJeqEUgj2U",
           "videoId": "2MJeqEUgj2U",
           "pubDate": "2026-04-18T21:00:02+00:00"
-        },
-        {
-          "title": "ثورة القرنفل",
-          "link": "https://www.youtube.com/watch?v=jy2HIbaqnUo",
-          "videoId": "jy2HIbaqnUo",
-          "pubDate": "2026-04-18T19:00:35+00:00"
         }
       ],
       "ok": true
@@ -527,22 +527,22 @@
       "feedTitle": "Nat Geo Abu Dhabi",
       "items": [
         {
+          "title": "يُعرض 22 أبريل | الدلافين عن قرب مع بيرتي جريجوري | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=mhuLLvVLG48",
+          "videoId": "mhuLLvVLG48",
+          "pubDate": "2026-04-19T10:41:38+00:00"
+        },
+        {
+          "title": "يُعرض 22 أبريل | الدلافين عن قرب مع بيرتي جريجوري | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=5jp7jyqPXa8",
+          "videoId": "5jp7jyqPXa8",
+          "pubDate": "2026-04-19T10:41:27+00:00"
+        },
+        {
           "title": "زلزال سياتل الضخم | الأرض بالأشعة السينية | ناشونال جيوغرافيك أبوظبي",
           "link": "https://www.youtube.com/watch?v=_7KpHt40m7U",
           "videoId": "_7KpHt40m7U",
           "pubDate": "2026-04-17T19:57:35+00:00"
-        },
-        {
-          "title": "يُعرض 22 أبريل | عالمنا – نحترم. نحمي. نستديم | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=VLHcN8CEOIY",
-          "videoId": "VLHcN8CEOIY",
-          "pubDate": "2026-04-16T11:32:09+00:00"
-        },
-        {
-          "title": "يُعرض 22 أبريل | عالمنا – نحترم. نحمي. نستديم | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=iWPdXprkBiA",
-          "videoId": "iWPdXprkBiA",
-          "pubDate": "2026-04-16T11:31:50+00:00"
         }
       ],
       "ok": true
