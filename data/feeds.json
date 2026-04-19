@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-19T17:25:36.708624+00:00",
+  "updated": "2026-04-19T18:30:17.897392+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -215,6 +215,12 @@
       "feedTitle": "Mohamed Ansary",
       "items": [
         {
+          "title": "كيفية ربط   Claude بــ  Consensus وبناء مهارات أكاديمية",
+          "link": "https://www.youtube.com/watch?v=U0U3cHTGGTc",
+          "videoId": "U0U3cHTGGTc",
+          "pubDate": "2026-04-19T17:31:33+00:00"
+        },
+        {
           "title": "تحديث NotebookLM الرهيب: أضف صورة غلاف ووصفاً لمشاريعك",
           "link": "https://www.youtube.com/watch?v=8scmhEIJnj4",
           "videoId": "8scmhEIJnj4",
@@ -225,12 +231,6 @@
           "link": "https://www.youtube.com/watch?v=ZQlMdKwgT2o",
           "videoId": "ZQlMdKwgT2o",
           "pubDate": "2026-04-17T12:17:39+00:00"
-        },
-        {
-          "title": "كيفية ربط كلود بأهم أداة بحث أكاديمي وبناء مهارات أكاديمية | Claude + Consensus",
-          "link": "https://www.youtube.com/watch?v=d7UG8mMIIL8",
-          "videoId": "d7UG8mMIIL8",
-          "pubDate": "2026-04-16T19:57:23+00:00"
         }
       ],
       "ok": true
@@ -501,6 +501,12 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "المدمرة \"جنرال بلغرانو\"",
+          "link": "https://www.youtube.com/watch?v=ajTVJJ3Wazw",
+          "videoId": "ajTVJJ3Wazw",
+          "pubDate": "2026-04-19T18:00:32+00:00"
+        },
+        {
           "title": "رمز نهاية العالم",
           "link": "https://www.youtube.com/watch?v=7guIjAuFgvs",
           "videoId": "7guIjAuFgvs",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=3bbE5Pa8TLM",
           "videoId": "3bbE5Pa8TLM",
           "pubDate": "2026-04-19T14:29:40+00:00"
-        },
-        {
-          "title": "يربط الكثيرون ذكرياتهم بالروائح",
-          "link": "https://www.youtube.com/watch?v=WvKD6gzZJiY",
-          "videoId": "WvKD6gzZJiY",
-          "pubDate": "2026-04-19T10:32:56+00:00"
         }
       ],
       "ok": true
