@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-19T07:58:25.735083+00:00",
+  "updated": "2026-04-19T08:50:04.177270+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "كيف تساعدك الطبيعة بعد الجراحة؟",
+          "link": "https://www.youtube.com/watch?v=usEFDdAOmDw",
+          "videoId": "usEFDdAOmDw",
+          "pubDate": "2026-04-19T08:00:00+00:00"
+        },
+        {
           "title": "بيض الكافيار.. الموسم الذي تجتمع فيه قروش الحوت",
           "link": "https://www.youtube.com/watch?v=-syu8gmhGNU",
           "videoId": "-syu8gmhGNU",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=eCoQ1g2Ao6A",
           "videoId": "eCoQ1g2Ao6A",
           "pubDate": "2026-04-18T19:00:01+00:00"
-        },
-        {
-          "title": "الشجرة الأخيرة- قريبا",
-          "link": "https://www.youtube.com/watch?v=br80P2CNf8c",
-          "videoId": "br80P2CNf8c",
-          "pubDate": "2026-04-18T17:00:01+00:00"
         }
       ],
       "ok": true
