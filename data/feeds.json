@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-18T23:22:52.024111+00:00",
+  "updated": "2026-04-19T01:17:26.495522+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -130,28 +130,9 @@
     "UC0LSnqrwqtMwl2YwfUpO66g": {
       "handle": "aljazeeradocumentary",
       "name": "الجزيرة الوثائقية",
-      "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
-      "items": [
-        {
-          "title": "بيض الكافيار.. الموسم الذي تجتمع فيه قروش الحوت",
-          "link": "https://www.youtube.com/watch?v=-syu8gmhGNU",
-          "videoId": "-syu8gmhGNU",
-          "pubDate": "2026-04-18T20:30:01+00:00"
-        },
-        {
-          "title": "قصة الشيخ علي بيتاي.. كيف تأثر جعفر النميري بالصوفية؟",
-          "link": "https://www.youtube.com/watch?v=eCoQ1g2Ao6A",
-          "videoId": "eCoQ1g2Ao6A",
-          "pubDate": "2026-04-18T19:00:01+00:00"
-        },
-        {
-          "title": "الشجرة الأخيرة- قريبا",
-          "link": "https://www.youtube.com/watch?v=br80P2CNf8c",
-          "videoId": "br80P2CNf8c",
-          "pubDate": "2026-04-18T17:00:01+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "الجزيرة الوثائقية",
+      "items": [],
+      "ok": false
     },
     "UCArK7aSQ68vRCiJY2m7spkA": {
       "handle": "AsharqDoc",
