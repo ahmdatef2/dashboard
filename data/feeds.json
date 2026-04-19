@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-19T13:51:04.086114+00:00",
+  "updated": "2026-04-19T14:31:40.957324+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -59,6 +59,12 @@
       "feedTitle": "Infotech4you - مروي سليمان",
       "items": [
         {
+          "title": "كل ماتريد معرفته عن Claude Design  في 10 دقائق!",
+          "link": "https://www.youtube.com/watch?v=WGZ8XgqaKgQ",
+          "videoId": "WGZ8XgqaKgQ",
+          "pubDate": "2026-04-19T13:43:32+00:00"
+        },
+        {
           "title": "اللعبة اتغيرت! GLM 5.1 النسخة المرعبة التي تهدد عمالقة الذكاء الاصطناعي (مفتوح المصدر)",
           "link": "https://www.youtube.com/watch?v=MvTGDqVkfsQ",
           "videoId": "MvTGDqVkfsQ",
@@ -69,12 +75,6 @@
           "link": "https://www.youtube.com/watch?v=Tbmez4tdpjg",
           "videoId": "Tbmez4tdpjg",
           "pubDate": "2026-04-17T03:00:25+00:00"
-        },
-        {
-          "title": "لا تستخدم Gemini قبل تفعيل هذه الميزة.. سيعرفك أكثر من اللازم!",
-          "link": "https://www.youtube.com/watch?v=xiMswIULp8s",
-          "videoId": "xiMswIULp8s",
-          "pubDate": "2026-04-16T12:28:49+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "لماذا أصبح كيانو ريفز النجم الأكثر شعبية على الإنترنت؟",
+          "link": "https://www.youtube.com/watch?v=SAwSgPswbnQ",
+          "videoId": "SAwSgPswbnQ",
+          "pubDate": "2026-04-19T14:00:01+00:00"
+        },
+        {
           "title": "أنثى من إنسان الغاب تعلمت النجارة بالمراقبة",
           "link": "https://www.youtube.com/watch?v=xhe-gqBx5gI",
           "videoId": "xhe-gqBx5gI",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=wLZbWOWbH5Q",
           "videoId": "wLZbWOWbH5Q",
           "pubDate": "2026-04-19T11:00:01+00:00"
-        },
-        {
-          "title": "كيف تساعدك الطبيعة بعد الجراحة؟",
-          "link": "https://www.youtube.com/watch?v=usEFDdAOmDw",
-          "videoId": "usEFDdAOmDw",
-          "pubDate": "2026-04-19T08:00:00+00:00"
         }
       ],
       "ok": true
