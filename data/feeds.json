@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-19T14:31:40.957324+00:00",
+  "updated": "2026-04-19T15:26:40.932716+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -501,6 +501,12 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "هل يسيطر المليارديرات على الحكومات الأميركية؟",
+          "link": "https://www.youtube.com/watch?v=3bbE5Pa8TLM",
+          "videoId": "3bbE5Pa8TLM",
+          "pubDate": "2026-04-19T14:29:40+00:00"
+        },
+        {
           "title": "يربط الكثيرون ذكرياتهم بالروائح",
           "link": "https://www.youtube.com/watch?v=WvKD6gzZJiY",
           "videoId": "WvKD6gzZJiY",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=-m0iA7yKplk",
           "videoId": "-m0iA7yKplk",
           "pubDate": "2026-04-18T21:00:27+00:00"
-        },
-        {
-          "title": "من سيارات الأحلام إلى آلات الحرب: الوجه المزدوج لـ فرديناند بورش | مصانع الحرب",
-          "link": "https://www.youtube.com/watch?v=2MJeqEUgj2U",
-          "videoId": "2MJeqEUgj2U",
-          "pubDate": "2026-04-18T21:00:02+00:00"
         }
       ],
       "ok": true
