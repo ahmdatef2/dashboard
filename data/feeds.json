@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-20T14:46:27.662927+00:00",
+  "updated": "2026-04-20T16:03:22.819599+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -449,6 +449,12 @@
       "feedTitle": "دوباميكافين Dupamicaffeine",
       "items": [
         {
+          "title": "لماذا نشتري؟ -  سيكولوجية البيع والعاطفة - دوباميكافين",
+          "link": "https://www.youtube.com/watch?v=_GwkYvEFij4",
+          "videoId": "_GwkYvEFij4",
+          "pubDate": "2026-04-20T15:01:04+00:00"
+        },
+        {
           "title": "الأفعال أبلغ من الكلام",
           "link": "https://www.youtube.com/watch?v=7hJFt3qjvZk",
           "videoId": "7hJFt3qjvZk",
@@ -459,12 +465,6 @@
           "link": "https://www.youtube.com/watch?v=jNAy7yXNObs",
           "videoId": "jNAy7yXNObs",
           "pubDate": "2026-04-17T13:01:32+00:00"
-        },
-        {
-          "title": "الحب يجمّل العلاقة، لكن المودة تحفظها من الانهيار.",
-          "link": "https://www.youtube.com/watch?v=qeFmHo_QvrA",
-          "videoId": "qeFmHo_QvrA",
-          "pubDate": "2026-04-16T13:01:35+00:00"
         }
       ],
       "ok": true
@@ -474,6 +474,12 @@
       "name": "الجزيرة الوثائقية",
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
+        {
+          "title": "كتلة دموية.. لماذا يغوصون من أجلها؟",
+          "link": "https://www.youtube.com/watch?v=z7hzQ0I3Sng",
+          "videoId": "z7hzQ0I3Sng",
+          "pubDate": "2026-04-20T16:00:00+00:00"
+        },
         {
           "title": "هل يفهم الاحتلال السلمية؟",
           "link": "https://www.youtube.com/watch?v=8VXGrxViqV4",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=P0mF2YdHvyE",
           "videoId": "P0mF2YdHvyE",
           "pubDate": "2026-04-20T12:13:19+00:00"
-        },
-        {
-          "title": "ارتداء الأزواج ملابس متطابقة في سيول يعد تعبيرا عن حب عميق",
-          "link": "https://www.youtube.com/watch?v=-jQGsK6Refc",
-          "videoId": "-jQGsK6Refc",
-          "pubDate": "2026-04-20T11:08:10+00:00"
         }
       ],
       "ok": true
@@ -501,22 +501,22 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "مصانع الحرب.. كيف يُصنع النصر في الحروب؟  | مصانع الحرب",
+          "link": "https://www.youtube.com/watch?v=v1Sg9BjjIew",
+          "videoId": "v1Sg9BjjIew",
+          "pubDate": "2026-04-20T16:01:26+00:00"
+        },
+        {
+          "title": "لماذا يمدح دونالد ترمب جورجيا ميلوني؟",
+          "link": "https://www.youtube.com/watch?v=vpYp7hQf4XY",
+          "videoId": "vpYp7hQf4XY",
+          "pubDate": "2026-04-20T15:30:11+00:00"
+        },
+        {
           "title": "ما الذي يحدث في دماغ رائد الفضاء أثناء صعوده للفضاء وبعد رجوعه للأرض؟",
           "link": "https://www.youtube.com/watch?v=rGzSk8bKUe0",
           "videoId": "rGzSk8bKUe0",
           "pubDate": "2026-04-20T12:01:51+00:00"
-        },
-        {
-          "title": "الشاحنة التي ساعدت هتـ لر على اجتياح أوروبا | مصانع الحرب",
-          "link": "https://www.youtube.com/watch?v=sEFKw7fSF5M",
-          "videoId": "sEFKw7fSF5M",
-          "pubDate": "2026-04-19T21:00:48+00:00"
-        },
-        {
-          "title": "علاقة فيسكونتي بآلان ديلون!",
-          "link": "https://www.youtube.com/watch?v=ls1QLLOtPw0",
-          "videoId": "ls1QLLOtPw0",
-          "pubDate": "2026-04-19T19:00:25+00:00"
         }
       ],
       "ok": true
