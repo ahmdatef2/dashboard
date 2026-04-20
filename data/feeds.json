@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-20T12:58:44.424855+00:00",
+  "updated": "2026-04-20T14:46:27.662927+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -85,6 +85,12 @@
       "feedTitle": "عبداللطيف سعيد Abdellatif Said",
       "items": [
         {
+          "title": "أقوى من GPT-5.4؟ كل حاجة محتاج تعرفها عن وحش البرمجة Claude Opus 4.7",
+          "link": "https://www.youtube.com/watch?v=N2FckX9nnn4",
+          "videoId": "N2FckX9nnn4",
+          "pubDate": "2026-04-20T14:15:05+00:00"
+        },
+        {
           "title": "جيميناي بيألف إجابات؟ حل مشكلة \"هلوسة\" الذكاء الاصطناعي (وأفضل محرك بحث بديل!)",
           "link": "https://www.youtube.com/watch?v=ZAcESlAy0SQ",
           "videoId": "ZAcESlAy0SQ",
@@ -95,12 +101,6 @@
           "link": "https://www.youtube.com/watch?v=r14n4yK_woM",
           "videoId": "r14n4yK_woM",
           "pubDate": "2026-04-16T14:15:14+00:00"
-        },
-        {
-          "title": "ليه OpenAI حذفت نماذج GPT-4o؟ كارثة الانتحار وهلوسة الذكاء الاصطناعي!  #اكسبلور #ai",
-          "link": "https://www.youtube.com/watch?v=7qbg3K4n5Ho",
-          "videoId": "7qbg3K4n5Ho",
-          "pubDate": "2026-04-15T14:15:00+00:00"
         }
       ],
       "ok": true
@@ -371,6 +371,12 @@
       "feedTitle": "أخضر",
       "items": [
         {
+          "title": "قبل أن تتوقف، اسأل: لماذا!  حمّل تطبيق \"أخضر\" وشاهد فيديوهات عبدالله العلاوي:onelink.to/a5dr",
+          "link": "https://www.youtube.com/watch?v=nhiMixjpCmA",
+          "videoId": "nhiMixjpCmA",
+          "pubDate": "2026-04-20T14:26:58+00:00"
+        },
+        {
           "title": "هل نرى الرحلة كاملة، أم تغيب عنا تفاصيل الإخفاقات؟حمّل تطبيق \"أخضر\" onelink.to/a5dr",
           "link": "https://www.youtube.com/watch?v=kgkYyixrfck",
           "videoId": "kgkYyixrfck",
@@ -381,12 +387,6 @@
           "link": "https://www.youtube.com/watch?v=0Vyz6Iu968E",
           "videoId": "0Vyz6Iu968E",
           "pubDate": "2026-04-17T16:00:02+00:00"
-        },
-        {
-          "title": "ضاعف تطورك وحمّل التطبيق الآن: https://onelink.to/a5dr",
-          "link": "https://www.youtube.com/watch?v=fD6qcFECcbw",
-          "videoId": "fD6qcFECcbw",
-          "pubDate": "2026-04-16T13:33:25+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "هل يفهم الاحتلال السلمية؟",
+          "link": "https://www.youtube.com/watch?v=8VXGrxViqV4",
+          "videoId": "8VXGrxViqV4",
+          "pubDate": "2026-04-20T14:23:05+00:00"
+        },
+        {
           "title": "كيف خنقت أمريكا كوبا اقتصاديا منذ التسعينيات؟",
           "link": "https://www.youtube.com/watch?v=P0mF2YdHvyE",
           "videoId": "P0mF2YdHvyE",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=-jQGsK6Refc",
           "videoId": "-jQGsK6Refc",
           "pubDate": "2026-04-20T11:08:10+00:00"
-        },
-        {
-          "title": "سوق الأبيض هنا تحدد أسعار المحاصيل في السودان",
-          "link": "https://www.youtube.com/watch?v=MOAvKZgqCRw",
-          "videoId": "MOAvKZgqCRw",
-          "pubDate": "2026-04-20T10:00:00+00:00"
         }
       ],
       "ok": true
