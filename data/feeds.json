@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-20T07:07:53.988901+00:00",
+  "updated": "2026-04-20T09:29:36.422020+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "\"هذا هو سلاح رزان\"",
+          "link": "https://www.youtube.com/watch?v=Hr7-fj1oLlY",
+          "videoId": "Hr7-fj1oLlY",
+          "pubDate": "2026-04-20T08:00:00+00:00"
+        },
+        {
           "title": "لماذا فكك النميري سكك حديد السودان؟",
           "link": "https://www.youtube.com/watch?v=6ozRSqGK32A",
           "videoId": "6ozRSqGK32A",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=OrV1dMFlwOU",
           "videoId": "OrV1dMFlwOU",
           "pubDate": "2026-04-19T19:30:03+00:00"
-        },
-        {
-          "title": "بكت 35 دقيقة… بسبب شجرة واحدة",
-          "link": "https://www.youtube.com/watch?v=Hh3uCfa7qks",
-          "videoId": "Hh3uCfa7qks",
-          "pubDate": "2026-04-19T19:00:01+00:00"
         }
       ],
       "ok": true
@@ -501,7 +501,7 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
-          "title": "إيه حكاية الشاحنة المتواضعة التي استخدمتها ألمانيا لاجتياح بولندا؟ | مصانع الحرب",
+          "title": "الشاحنة التي ساعدت هتـ لر على اجتياح أوروبا | مصانع الحرب",
           "link": "https://www.youtube.com/watch?v=sEFKw7fSF5M",
           "videoId": "sEFKw7fSF5M",
           "pubDate": "2026-04-19T21:00:48+00:00"
