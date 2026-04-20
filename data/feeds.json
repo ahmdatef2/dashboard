@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-20T18:46:04.411556+00:00",
+  "updated": "2026-04-20T19:51:37.111195+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -33,6 +33,12 @@
       "feedTitle": "كل يوم موقع جديد",
       "items": [
         {
+          "title": "GLM 5.1  نموذج بقدرات رهيبة... 3  استخدامات تعرف عليهم الآن!",
+          "link": "https://www.youtube.com/watch?v=Rnxjadjn9Ow",
+          "videoId": "Rnxjadjn9Ow",
+          "pubDate": "2026-04-20T19:32:23+00:00"
+        },
+        {
           "title": "جربت Claude Design لصناعة فيديو تعليمي كامل بالعربي من ملف PDF",
           "link": "https://www.youtube.com/watch?v=ZGmX91Au06o",
           "videoId": "ZGmX91Au06o",
@@ -43,12 +49,6 @@
           "link": "https://www.youtube.com/watch?v=sNt7yme3j7I",
           "videoId": "sNt7yme3j7I",
           "pubDate": "2026-04-17T16:38:46+00:00"
-        },
-        {
-          "title": "جربت Atoms لبناء منصة عربية متكاملة وكانت النتيجة مفاجئة !",
-          "link": "https://www.youtube.com/watch?v=P1LBnIEynlQ",
-          "videoId": "P1LBnIEynlQ",
-          "pubDate": "2026-04-15T14:00:43+00:00"
         }
       ],
       "ok": true
@@ -59,7 +59,7 @@
       "feedTitle": "Infotech4you - مروي سليمان",
       "items": [
         {
-          "title": "كل ماتريد معرفته عن Claude Design  في 10 دقائق!",
+          "title": "التصميم للجميع ! أنثروبيك تعود بمفاجأة Claude Design !",
           "link": "https://www.youtube.com/watch?v=WGZ8XgqaKgQ",
           "videoId": "WGZ8XgqaKgQ",
           "pubDate": "2026-04-19T13:43:32+00:00"
@@ -293,6 +293,12 @@
       "feedTitle": "تكنوفلاش – AI & Tech",
       "items": [
         {
+          "title": "دليلك الشامل لتعلم هندسة الأوامر (Prompt Engineering) خطوة بخطوة + أدوات مجانية",
+          "link": "https://www.youtube.com/watch?v=rObuX1uP46M",
+          "videoId": "rObuX1uP46M",
+          "pubDate": "2026-04-20T18:50:54+00:00"
+        },
+        {
           "title": "موقع سري تنشئ  فيديوهات 10 دقائق و أغاني كاملة بالذكاء الاصطناعي بدون ظهورك MakeSong",
           "link": "https://www.youtube.com/watch?v=hkzLOOhEjJw",
           "videoId": "hkzLOOhEjJw",
@@ -303,12 +309,6 @@
           "link": "https://www.youtube.com/watch?v=qAvXYz2ywyk",
           "videoId": "qAvXYz2ywyk",
           "pubDate": "2026-04-11T21:47:29+00:00"
-        },
-        {
-          "title": "صنعت برنامج محاسبة بـ claude opus 4.6 free مجاناً (بدون كود!)  Claude ai | antigravity google",
-          "link": "https://www.youtube.com/watch?v=u5mZRFGCs8Y",
-          "videoId": "u5mZRFGCs8Y",
-          "pubDate": "2026-04-09T18:06:02+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "ناج يروي أقسى لحظات الرعب: رجوت الله عز وجل ألا أموت غرقا",
+          "link": "https://www.youtube.com/watch?v=4EByVTpbFrc",
+          "videoId": "4EByVTpbFrc",
+          "pubDate": "2026-04-20T19:00:01+00:00"
+        },
+        {
           "title": "المحطة التالية..من قلب آسيا إلى براري أفريقيا وأستراليا | الحلقة الثانية",
           "link": "https://www.youtube.com/watch?v=50NBoqpzKRU",
           "videoId": "50NBoqpzKRU",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=z7hzQ0I3Sng",
           "videoId": "z7hzQ0I3Sng",
           "pubDate": "2026-04-20T16:00:00+00:00"
-        },
-        {
-          "title": "هل يفهم الاحتلال السلمية؟",
-          "link": "https://www.youtube.com/watch?v=8VXGrxViqV4",
-          "videoId": "8VXGrxViqV4",
-          "pubDate": "2026-04-20T14:23:05+00:00"
         }
       ],
       "ok": true
