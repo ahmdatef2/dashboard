@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-20T16:03:22.819599+00:00",
+  "updated": "2026-04-20T17:46:36.354293+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -449,7 +449,7 @@
       "feedTitle": "دوباميكافين Dupamicaffeine",
       "items": [
         {
-          "title": "لماذا نشتري؟ -  سيكولوجية البيع والعاطفة - دوباميكافين",
+          "title": "حقق أهدافك في المبيعات بشكل أسرع - أسرار المبيعات - دوباميكافين",
           "link": "https://www.youtube.com/watch?v=_GwkYvEFij4",
           "videoId": "_GwkYvEFij4",
           "pubDate": "2026-04-20T15:01:04+00:00"
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "المحطة التالية..من قلب آسيا إلى براري أفريقيا وأستراليا | الحلقة الثانية",
+          "link": "https://www.youtube.com/watch?v=50NBoqpzKRU",
+          "videoId": "50NBoqpzKRU",
+          "pubDate": "2026-04-20T17:00:08+00:00"
+        },
+        {
           "title": "كتلة دموية.. لماذا يغوصون من أجلها؟",
           "link": "https://www.youtube.com/watch?v=z7hzQ0I3Sng",
           "videoId": "z7hzQ0I3Sng",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=8VXGrxViqV4",
           "videoId": "8VXGrxViqV4",
           "pubDate": "2026-04-20T14:23:05+00:00"
-        },
-        {
-          "title": "كيف خنقت أمريكا كوبا اقتصاديا منذ التسعينيات؟",
-          "link": "https://www.youtube.com/watch?v=P0mF2YdHvyE",
-          "videoId": "P0mF2YdHvyE",
-          "pubDate": "2026-04-20T12:13:19+00:00"
         }
       ],
       "ok": true
