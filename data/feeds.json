@@ -1,31 +1,12 @@
 {
-  "updated": "2026-04-20T01:17:15.453697+00:00",
+  "updated": "2026-04-20T04:46:42.143075+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
       "name": "د. هبة أحمد",
-      "feedTitle": "Heba Ahmed - هبة احمد",
-      "items": [
-        {
-          "title": "هل Claude Design بقى ملك التصميم فعلًا؟",
-          "link": "https://www.youtube.com/watch?v=FlAO1TYpNYU",
-          "videoId": "FlAO1TYpNYU",
-          "pubDate": "2026-04-19T17:20:37+00:00"
-        },
-        {
-          "title": "Claude Design: هل هيقلب مجال التصميم فعلًا؟",
-          "link": "https://www.youtube.com/watch?v=_v4vfu1zBXU",
-          "videoId": "_v4vfu1zBXU",
-          "pubDate": "2026-04-18T16:53:05+00:00"
-        },
-        {
-          "title": "اهم اداة موجودة حاليا... ايه هو claude cowork و ازاي تشغله",
-          "link": "https://www.youtube.com/watch?v=vVrE11tHEFg",
-          "videoId": "vVrE11tHEFg",
-          "pubDate": "2026-04-12T15:49:59+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "د. هبة أحمد",
+      "items": [],
+      "ok": false
     },
     "UC2jjW7c63dqOPkfMm3P-u3w": {
       "handle": "every_day_a_new_website",
