@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-20T11:08:25.520785+00:00",
+  "updated": "2026-04-20T12:58:44.424855+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -111,6 +111,12 @@
       "feedTitle": "AMR SALEM _ عمرو سالم",
       "items": [
         {
+          "title": "اصنع تطبيق لعمل فيديوهات شورتس لقراءة القران باصوات اشهر الشيوخ . بالذكاء الاصطناعي",
+          "link": "https://www.youtube.com/watch?v=k1B6xLL7JgI",
+          "videoId": "k1B6xLL7JgI",
+          "pubDate": "2026-04-20T12:01:25+00:00"
+        },
+        {
           "title": "تجربة claude opus 4.7 . نموذج رهيييبclll",
           "link": "https://www.youtube.com/watch?v=_xjZW0JIeUU",
           "videoId": "_xjZW0JIeUU",
@@ -121,12 +127,6 @@
           "link": "https://www.youtube.com/watch?v=XwSdYFG1MuI",
           "videoId": "XwSdYFG1MuI",
           "pubDate": "2026-04-17T12:01:09+00:00"
-        },
-        {
-          "title": "رسميا . اطلاق عملاق البرمجة claude opus 4.7",
-          "link": "https://www.youtube.com/watch?v=Fj3fWfhoyRs",
-          "videoId": "Fj3fWfhoyRs",
-          "pubDate": "2026-04-16T21:31:57+00:00"
         }
       ],
       "ok": true
@@ -215,6 +215,12 @@
       "feedTitle": "Mohamed Ansary",
       "items": [
         {
+          "title": "الذكاء الشخصي وصل اللي يفهمك وينسخ إسلوبك\" (Personal Intelligence) في Gemini",
+          "link": "https://www.youtube.com/watch?v=3FLZMhX5vzs",
+          "videoId": "3FLZMhX5vzs",
+          "pubDate": "2026-04-20T12:27:18+00:00"
+        },
+        {
           "title": "تحديث قوي من جيميناي - الذكاء الشخصي اللي بيفهمك وينسخ أسلوبك ويسمع كلامك | Personal Intelligence",
           "link": "https://www.youtube.com/watch?v=gwGy0IKUPOI",
           "videoId": "gwGy0IKUPOI",
@@ -225,12 +231,6 @@
           "link": "https://www.youtube.com/watch?v=U0U3cHTGGTc",
           "videoId": "U0U3cHTGGTc",
           "pubDate": "2026-04-19T17:31:33+00:00"
-        },
-        {
-          "title": "تحديث NotebookLM الرهيب: أضف صورة غلاف ووصفاً لمشاريعك",
-          "link": "https://www.youtube.com/watch?v=8scmhEIJnj4",
-          "videoId": "8scmhEIJnj4",
-          "pubDate": "2026-04-17T15:34:05+00:00"
         }
       ],
       "ok": true
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "كيف خنقت أمريكا كوبا اقتصاديا منذ التسعينيات؟",
+          "link": "https://www.youtube.com/watch?v=P0mF2YdHvyE",
+          "videoId": "P0mF2YdHvyE",
+          "pubDate": "2026-04-20T12:13:19+00:00"
+        },
+        {
+          "title": "ارتداء الأزواج ملابس متطابقة في سيول يعد تعبيرا عن حب عميق",
+          "link": "https://www.youtube.com/watch?v=-jQGsK6Refc",
+          "videoId": "-jQGsK6Refc",
+          "pubDate": "2026-04-20T11:08:10+00:00"
+        },
+        {
           "title": "سوق الأبيض هنا تحدد أسعار المحاصيل في السودان",
           "link": "https://www.youtube.com/watch?v=MOAvKZgqCRw",
           "videoId": "MOAvKZgqCRw",
           "pubDate": "2026-04-20T10:00:00+00:00"
-        },
-        {
-          "title": "\"هذا هو سلاح رزان\"",
-          "link": "https://www.youtube.com/watch?v=Hr7-fj1oLlY",
-          "videoId": "Hr7-fj1oLlY",
-          "pubDate": "2026-04-20T08:00:00+00:00"
-        },
-        {
-          "title": "لماذا فكك النميري سكك حديد السودان؟",
-          "link": "https://www.youtube.com/watch?v=6ozRSqGK32A",
-          "videoId": "6ozRSqGK32A",
-          "pubDate": "2026-04-19T20:30:01+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "ما الذي يحدث في دماغ رائد الفضاء أثناء صعوده للفضاء وبعد رجوعه للأرض؟",
+          "link": "https://www.youtube.com/watch?v=rGzSk8bKUe0",
+          "videoId": "rGzSk8bKUe0",
+          "pubDate": "2026-04-20T12:01:51+00:00"
+        },
         {
           "title": "الشاحنة التي ساعدت هتـ لر على اجتياح أوروبا | مصانع الحرب",
           "link": "https://www.youtube.com/watch?v=sEFKw7fSF5M",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=ls1QLLOtPw0",
           "videoId": "ls1QLLOtPw0",
           "pubDate": "2026-04-19T19:00:25+00:00"
-        },
-        {
-          "title": "المدمرة \"جنرال بلغرانو\"",
-          "link": "https://www.youtube.com/watch?v=ajTVJJ3Wazw",
-          "videoId": "ajTVJJ3Wazw",
-          "pubDate": "2026-04-19T18:00:32+00:00"
         }
       ],
       "ok": true
