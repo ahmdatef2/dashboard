@@ -1,38 +1,38 @@
 {
-  "updated": "2026-04-21T22:28:22.434995+00:00",
+  "updated": "2026-04-21T23:25:09.756353+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
       "name": "د. هبة أحمد",
-      "feedTitle": "Heba Ahmed - هبة احمد",
-      "items": [
-        {
-          "title": "Claude دخل Microsoft Word أخيرًا | جربت الإضافة الجديدة",
-          "link": "https://www.youtube.com/watch?v=_YKsTILD05w",
-          "videoId": "_YKsTILD05w",
-          "pubDate": "2026-04-21T18:34:42+00:00"
-        },
-        {
-          "title": "هل Claude Design بقى ملك التصميم فعلًا؟",
-          "link": "https://www.youtube.com/watch?v=FlAO1TYpNYU",
-          "videoId": "FlAO1TYpNYU",
-          "pubDate": "2026-04-19T17:20:37+00:00"
-        },
-        {
-          "title": "Claude Design: هل هيقلب مجال التصميم فعلًا؟",
-          "link": "https://www.youtube.com/watch?v=_v4vfu1zBXU",
-          "videoId": "_v4vfu1zBXU",
-          "pubDate": "2026-04-18T16:53:05+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "د. هبة أحمد",
+      "items": [],
+      "ok": false
     },
     "UC2jjW7c63dqOPkfMm3P-u3w": {
       "handle": "every_day_a_new_website",
       "name": "موقع كل يوم",
-      "feedTitle": "موقع كل يوم",
-      "items": [],
-      "ok": false
+      "feedTitle": "كل يوم موقع جديد",
+      "items": [
+        {
+          "title": "GLM 5.1  نموذج بقدرات رهيبة... 3  استخدامات تعرف عليهم الآن!",
+          "link": "https://www.youtube.com/watch?v=Rnxjadjn9Ow",
+          "videoId": "Rnxjadjn9Ow",
+          "pubDate": "2026-04-20T19:32:23+00:00"
+        },
+        {
+          "title": "جربت Claude Design لصناعة فيديو تعليمي كامل بالعربي من ملف PDF",
+          "link": "https://www.youtube.com/watch?v=ZGmX91Au06o",
+          "videoId": "ZGmX91Au06o",
+          "pubDate": "2026-04-18T18:41:16+00:00"
+        },
+        {
+          "title": "Canva AI 2.0 :  قلب الموازين! أقوى تحديثات كانفا 2026",
+          "link": "https://www.youtube.com/watch?v=sNt7yme3j7I",
+          "videoId": "sNt7yme3j7I",
+          "pubDate": "2026-04-17T16:38:46+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCKD8vOz3maRPyLAbMXhr-Pw": {
       "handle": "infotech4you_Marwasoliman",
@@ -86,28 +86,9 @@
     "UCDqp23rTdCo_tXsuHLYF47Q": {
       "handle": "ArabianAiSchool",
       "name": "Arabian AI School",
-      "feedTitle": "مدرسة الذكاء الاصطناعي",
-      "items": [
-        {
-          "title": "استخدامات لـ OpenClaw لازم تجربها حالا",
-          "link": "https://www.youtube.com/watch?v=1V4ka7zL1VA",
-          "videoId": "1V4ka7zL1VA",
-          "pubDate": "2026-04-21T19:56:04+00:00"
-        },
-        {
-          "title": "بعد 100 برومت في Seedance 2.0 عرفت سر الفيديوهات الاحترافيه",
-          "link": "https://www.youtube.com/watch?v=O9t2N4Cq-MM",
-          "videoId": "O9t2N4Cq-MM",
-          "pubDate": "2026-04-17T19:48:28+00:00"
-        },
-        {
-          "title": "وداعًا للاشتراكات… أداة ذكاء اصطناعي بتعمل صور وفيديوهات وصوت مجانا",
-          "link": "https://www.youtube.com/watch?v=SzWzjrIDEHM",
-          "videoId": "SzWzjrIDEHM",
-          "pubDate": "2026-04-11T21:02:46+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "Arabian AI School",
+      "items": [],
+      "ok": false
     },
     "UCz0N3nKrJiDhNdKQvM6r93w": {
       "handle": "ryan.academy",
@@ -161,9 +142,28 @@
     "UCJlu6BjPWHZhzuCc0zVME0Q": {
       "handle": "Dupamicaffeine",
       "name": "دوباميكافيين",
-      "feedTitle": "دوباميكافيين",
-      "items": [],
-      "ok": false
+      "feedTitle": "دوباميكافين Dupamicaffeine",
+      "items": [
+        {
+          "title": "الإقناع لغة العقل والهندسة لغة العاطفة",
+          "link": "https://www.youtube.com/watch?v=MFTxMiUKYQI",
+          "videoId": "MFTxMiUKYQI",
+          "pubDate": "2026-04-21T13:03:32+00:00"
+        },
+        {
+          "title": "حقق أهدافك في المبيعات بشكل أسرع - أسرار المبيعات - دوباميكافين",
+          "link": "https://www.youtube.com/watch?v=_GwkYvEFij4",
+          "videoId": "_GwkYvEFij4",
+          "pubDate": "2026-04-20T15:01:04+00:00"
+        },
+        {
+          "title": "الأفعال أبلغ من الكلام",
+          "link": "https://www.youtube.com/watch?v=7hJFt3qjvZk",
+          "videoId": "7hJFt3qjvZk",
+          "pubDate": "2026-04-19T13:00:45+00:00"
+        }
+      ],
+      "ok": true
     },
     "UC0LSnqrwqtMwl2YwfUpO66g": {
       "handle": "aljazeeradocumentary",
@@ -182,9 +182,28 @@
     "UCLiTe0aOHShx7hXGyqZ9UIw": {
       "handle": "natgeoabudhabime",
       "name": "ناشيونال جيوغرافيك",
-      "feedTitle": "ناشيونال جيوغرافيك",
-      "items": [],
-      "ok": false
+      "feedTitle": "Nat Geo Abu Dhabi",
+      "items": [
+        {
+          "title": "يُعرض 22 أبريل | الدلافين عن قرب مع بيرتي جريجوري | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=1kFnrmbcUXg",
+          "videoId": "1kFnrmbcUXg",
+          "pubDate": "2026-04-21T12:23:22+00:00"
+        },
+        {
+          "title": "يُعرض 22 أبريل | الدلافين عن قرب مع بيرتي جريجوري | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=meGKdtvZnuk",
+          "videoId": "meGKdtvZnuk",
+          "pubDate": "2026-04-21T12:21:22+00:00"
+        },
+        {
+          "title": "ابتداءً 21 أبريل | خفر السواحل الهولندي في منطقة الكاريبي | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=Y7NsH7bncQw",
+          "videoId": "Y7NsH7bncQw",
+          "pubDate": "2026-04-21T12:18:07+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCET6sWl4Xcu-U8Ka9PJPrwA": {
       "handle": "dwdocarabia",
