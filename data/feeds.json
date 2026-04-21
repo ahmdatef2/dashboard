@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-21T18:52:32.379328+00:00",
+  "updated": "2026-04-21T19:56:53.811303+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -241,6 +241,12 @@
       "feedTitle": "مدرسة الذكاء الاصطناعي",
       "items": [
         {
+          "title": "كل الناس بتشرح OpenClaw… محدش بيقولك تستخدمه في إيه",
+          "link": "https://www.youtube.com/watch?v=1V4ka7zL1VA",
+          "videoId": "1V4ka7zL1VA",
+          "pubDate": "2026-04-21T19:56:04+00:00"
+        },
+        {
           "title": "بعد 100 برومت في Seedance 2.0 عرفت سر الفيديوهات الاحترافيه",
           "link": "https://www.youtube.com/watch?v=O9t2N4Cq-MM",
           "videoId": "O9t2N4Cq-MM",
@@ -251,12 +257,6 @@
           "link": "https://www.youtube.com/watch?v=SzWzjrIDEHM",
           "videoId": "SzWzjrIDEHM",
           "pubDate": "2026-04-11T21:02:46+00:00"
-        },
-        {
-          "title": "شغل Gemma 4 على اللابتوب والموبايل مع OpenClaw مجانا",
-          "link": "https://www.youtube.com/watch?v=vvwMl8krGyY",
-          "videoId": "vvwMl8krGyY",
-          "pubDate": "2026-04-05T23:29:40+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "رجل يبيع دمه ليستمع إلى ألفريدو كراوس",
+          "link": "https://www.youtube.com/watch?v=SVVqqAedzVI",
+          "videoId": "SVVqqAedzVI",
+          "pubDate": "2026-04-21T19:00:01+00:00"
+        },
+        {
           "title": "خان الأرامل | يوميات نساء يواجهن العزلة والعوز",
           "link": "https://www.youtube.com/watch?v=9OMXIj0MCBE",
           "videoId": "9OMXIj0MCBE",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=XRJzqLiW2pg",
           "videoId": "XRJzqLiW2pg",
           "pubDate": "2026-04-21T18:00:00+00:00"
-        },
-        {
-          "title": "شلل كيانو ريفز كاد أن يعطل فيلم \"ذا ماتريكس\"",
-          "link": "https://www.youtube.com/watch?v=tbjM-nBV4JI",
-          "videoId": "tbjM-nBV4JI",
-          "pubDate": "2026-04-21T16:00:00+00:00"
         }
       ],
       "ok": true
