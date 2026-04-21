@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-21T08:24:18.396389+00:00",
+  "updated": "2026-04-21T10:08:08.069617+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -111,6 +111,12 @@
       "feedTitle": "AMR SALEM _ عمرو سالم",
       "items": [
         {
+          "title": "Kimi K2.6 عملاق البرمجة مفتوح المصدر",
+          "link": "https://www.youtube.com/watch?v=5TFk0cHqLJk",
+          "videoId": "5TFk0cHqLJk",
+          "pubDate": "2026-04-21T08:34:30+00:00"
+        },
+        {
           "title": "اصنع تطبيق لعمل فيديوهات شورتس لقراءة القران باصوات اشهر الشيوخ . بالذكاء الاصطناعي",
           "link": "https://www.youtube.com/watch?v=k1B6xLL7JgI",
           "videoId": "k1B6xLL7JgI",
@@ -121,12 +127,6 @@
           "link": "https://www.youtube.com/watch?v=_xjZW0JIeUU",
           "videoId": "_xjZW0JIeUU",
           "pubDate": "2026-04-18T12:01:00+00:00"
-        },
-        {
-          "title": "برنامج HitPaw VikPea وموديل Seedance 2.0: أقوى أداة لتوليد فيديوهات الـ AI حالياً! 🚀",
-          "link": "https://www.youtube.com/watch?v=XwSdYFG1MuI",
-          "videoId": "XwSdYFG1MuI",
-          "pubDate": "2026-04-17T12:01:09+00:00"
         }
       ],
       "ok": true
@@ -501,6 +501,12 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "سنوات الرصاص في إيطاليا",
+          "link": "https://www.youtube.com/watch?v=JUTrzHBoxW0",
+          "videoId": "JUTrzHBoxW0",
+          "pubDate": "2026-04-21T08:43:01+00:00"
+        },
+        {
           "title": "مصانع الحرب.. كيف يُصنع النصر في الحروب؟  | مصانع الحرب",
           "link": "https://www.youtube.com/watch?v=v1Sg9BjjIew",
           "videoId": "v1Sg9BjjIew",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=vpYp7hQf4XY",
           "videoId": "vpYp7hQf4XY",
           "pubDate": "2026-04-20T15:30:11+00:00"
-        },
-        {
-          "title": "ما الذي يحدث في دماغ رائد الفضاء أثناء صعوده للفضاء وبعد رجوعه للأرض؟",
-          "link": "https://www.youtube.com/watch?v=rGzSk8bKUe0",
-          "videoId": "rGzSk8bKUe0",
-          "pubDate": "2026-04-20T12:01:51+00:00"
         }
       ],
       "ok": true
