@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-21T10:08:08.069617+00:00",
+  "updated": "2026-04-21T11:51:00.645721+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "إرنستو الغابة\".. تشاهدونه الليلة 9 مساء بتوقيت مكة المكرمة",
+          "link": "https://www.youtube.com/watch?v=6byC89bLpRo",
+          "videoId": "6byC89bLpRo",
+          "pubDate": "2026-04-21T11:30:43+00:00"
+        },
+        {
+          "title": "مات طفلي من الجوع وأنتم تعطوننا اللقاحات وترحلون؟",
+          "link": "https://www.youtube.com/watch?v=tn5V4GiHcOA",
+          "videoId": "tn5V4GiHcOA",
+          "pubDate": "2026-04-21T10:00:01+00:00"
+        },
+        {
           "title": "إيطاليون يعترفون: \"هذه الكلمات أصلها عربي\"",
           "link": "https://www.youtube.com/watch?v=OXGJ-lv07Vg",
           "videoId": "OXGJ-lv07Vg",
           "pubDate": "2026-04-21T08:12:03+00:00"
-        },
-        {
-          "title": "حوض أرغين.. كيف توارث صيادو موريتانيا مهنتهم لأكثر من 10 آلاف عام",
-          "link": "https://www.youtube.com/watch?v=V_0z31EVMqw",
-          "videoId": "V_0z31EVMqw",
-          "pubDate": "2026-04-20T21:00:01+00:00"
-        },
-        {
-          "title": "تمرين الإيقاع حركات بسيطة تعيد توازنك",
-          "link": "https://www.youtube.com/watch?v=BV3tyYJZSgs",
-          "videoId": "BV3tyYJZSgs",
-          "pubDate": "2026-04-20T20:00:01+00:00"
         }
       ],
       "ok": true
