@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-21T19:56:53.811303+00:00",
+  "updated": "2026-04-21T20:40:43.630002+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -56,28 +56,9 @@
     "UCKD8vOz3maRPyLAbMXhr-Pw": {
       "handle": "infotech4you_Marwasoliman",
       "name": "مروة سليمان",
-      "feedTitle": "Infotech4you - مروي سليمان",
-      "items": [
-        {
-          "title": "التصميم للجميع ! أنثروبيك تعود بمفاجأة Claude Design !",
-          "link": "https://www.youtube.com/watch?v=WGZ8XgqaKgQ",
-          "videoId": "WGZ8XgqaKgQ",
-          "pubDate": "2026-04-19T13:43:32+00:00"
-        },
-        {
-          "title": "اللعبة اتغيرت! GLM 5.1 النسخة المرعبة التي تهدد عمالقة الذكاء الاصطناعي (مفتوح المصدر)",
-          "link": "https://www.youtube.com/watch?v=MvTGDqVkfsQ",
-          "videoId": "MvTGDqVkfsQ",
-          "pubDate": "2026-04-18T13:00:40+00:00"
-        },
-        {
-          "title": "Claude Opus 4.7 مفاجأة Anthropic الجديدة .... هل الأقوى على الإطلاق!",
-          "link": "https://www.youtube.com/watch?v=Tbmez4tdpjg",
-          "videoId": "Tbmez4tdpjg",
-          "pubDate": "2026-04-17T03:00:25+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "مروة سليمان",
+      "items": [],
+      "ok": false
     },
     "UCSRy-3lglM2QKJ_xF2zuPlQ": {
       "handle": "AbdellatifSaidA",
@@ -212,28 +193,9 @@
     "UCSXcmF4Gxl6Hc-m6cHYD_Vg": {
       "handle": "MohamedAnsary",
       "name": "محمد أنصاري",
-      "feedTitle": "Mohamed Ansary",
-      "items": [
-        {
-          "title": "تحديث كلوود التاريخي: Claude Design يغير قواعد اللعبة.",
-          "link": "https://www.youtube.com/watch?v=wfEyzzi6j_s",
-          "videoId": "wfEyzzi6j_s",
-          "pubDate": "2026-04-21T17:42:21+00:00"
-        },
-        {
-          "title": "الذكاء الشخصي وصل اللي يفهمك وينسخ إسلوبك\" (Personal Intelligence) في Gemini",
-          "link": "https://www.youtube.com/watch?v=3FLZMhX5vzs",
-          "videoId": "3FLZMhX5vzs",
-          "pubDate": "2026-04-20T12:27:18+00:00"
-        },
-        {
-          "title": "تحديث قوي من جيميناي - الذكاء الشخصي اللي بيفهمك وينسخ أسلوبك ويسمع كلامك | Personal Intelligence",
-          "link": "https://www.youtube.com/watch?v=gwGy0IKUPOI",
-          "videoId": "gwGy0IKUPOI",
-          "pubDate": "2026-04-19T21:13:51+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "محمد أنصاري",
+      "items": [],
+      "ok": false
     },
     "UCDqp23rTdCo_tXsuHLYF47Q": {
       "handle": "ArabianAiSchool",
@@ -293,7 +255,7 @@
       "feedTitle": "تكنوفلاش – AI & Tech",
       "items": [
         {
-          "title": "كيفية كتابة Prompt احترافي؟ شرح هندسة الأوامر مع نماذج وأدوات مجانية",
+          "title": "توقف عن استخدام ChatGPT بشكل خاطئ! تعلم هندسة الأوامر الاحترافية",
           "link": "https://www.youtube.com/watch?v=rObuX1uP46M",
           "videoId": "rObuX1uP46M",
           "pubDate": "2026-04-20T18:50:54+00:00"
@@ -342,28 +304,9 @@
     "UCu1NJiJlhrhmF5ZgT-0yWdA": {
       "handle": "Jeelyaqraa",
       "name": "جيل يقرأ",
-      "feedTitle": "ReadTube - جيل يقرأ",
-      "items": [
-        {
-          "title": "احذر قبل فوات الأوان- كامل الصورة - أحمد السيد ",
-          "link": "https://www.youtube.com/watch?v=n9YW0Liz3rs",
-          "videoId": "n9YW0Liz3rs",
-          "pubDate": "2026-04-04T16:04:47+00:00"
-        },
-        {
-          "title": "الذين ضحكوا حتى البكاء -ملخص لكتاب د. مصطفى محمود",
-          "link": "https://www.youtube.com/watch?v=bSbrMABmf4E",
-          "videoId": "bSbrMABmf4E",
-          "pubDate": "2026-03-03T20:46:03+00:00"
-        },
-        {
-          "title": "المسيري يتنبأ بالمستقبل",
-          "link": "https://www.youtube.com/watch?v=N2hD24PnJQ4",
-          "videoId": "N2hD24PnJQ4",
-          "pubDate": "2026-03-01T20:56:54+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "جيل يقرأ",
+      "items": [],
+      "ok": false
     },
     "UCtUor2SqesPS3b_SMFtLT_w": {
       "handle": "a5drcom",
@@ -475,6 +418,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "وحش المحيطات المسؤول عن افتراس الشعاب المرجانية",
+          "link": "https://www.youtube.com/watch?v=ENFmBP7IkwA",
+          "videoId": "ENFmBP7IkwA",
+          "pubDate": "2026-04-21T20:30:01+00:00"
+        },
+        {
           "title": "رجل يبيع دمه ليستمع إلى ألفريدو كراوس",
           "link": "https://www.youtube.com/watch?v=SVVqqAedzVI",
           "videoId": "SVVqqAedzVI",
@@ -485,12 +434,6 @@
           "link": "https://www.youtube.com/watch?v=9OMXIj0MCBE",
           "videoId": "9OMXIj0MCBE",
           "pubDate": "2026-04-21T18:30:20+00:00"
-        },
-        {
-          "title": "\"إلى أي أرض تنتمي؟\".. وثائقي تشاهدونه غدا 9 مساء بتوقيت مكة المكرمة",
-          "link": "https://www.youtube.com/watch?v=XRJzqLiW2pg",
-          "videoId": "XRJzqLiW2pg",
-          "pubDate": "2026-04-21T18:00:00+00:00"
         }
       ],
       "ok": true
