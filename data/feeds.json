@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-20T23:31:27.465026+00:00",
+  "updated": "2026-04-21T01:14:46.758361+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -60,28 +60,9 @@
     "UCSXcmF4Gxl6Hc-m6cHYD_Vg": {
       "handle": "MohamedAnsary",
       "name": "محمد أنصاري",
-      "feedTitle": "Mohamed Ansary",
-      "items": [
-        {
-          "title": "الذكاء الشخصي وصل اللي يفهمك وينسخ إسلوبك\" (Personal Intelligence) في Gemini",
-          "link": "https://www.youtube.com/watch?v=3FLZMhX5vzs",
-          "videoId": "3FLZMhX5vzs",
-          "pubDate": "2026-04-20T12:27:18+00:00"
-        },
-        {
-          "title": "تحديث قوي من جيميناي - الذكاء الشخصي اللي بيفهمك وينسخ أسلوبك ويسمع كلامك | Personal Intelligence",
-          "link": "https://www.youtube.com/watch?v=gwGy0IKUPOI",
-          "videoId": "gwGy0IKUPOI",
-          "pubDate": "2026-04-19T21:13:51+00:00"
-        },
-        {
-          "title": "كيفية ربط   Claude بــ  Consensus وبناء مهارات أكاديمية",
-          "link": "https://www.youtube.com/watch?v=U0U3cHTGGTc",
-          "videoId": "U0U3cHTGGTc",
-          "pubDate": "2026-04-19T17:31:33+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "محمد أنصاري",
+      "items": [],
+      "ok": false
     },
     "UCDqp23rTdCo_tXsuHLYF47Q": {
       "handle": "ArabianAiSchool",
@@ -128,28 +109,9 @@
     "UCUjRjJ1-h3oUx40gf2tuh3w": {
       "handle": "Sha5bata",
       "name": "شخبطة",
-      "feedTitle": "شخبطة Sha5bata",
-      "items": [
-        {
-          "title": "الصلابة النفسية VS الابتلاءات !!",
-          "link": "https://www.youtube.com/watch?v=rIIZajWCHFQ",
-          "videoId": "rIIZajWCHFQ",
-          "pubDate": "2026-04-15T11:25:31+00:00"
-        },
-        {
-          "title": "حرر نفسك من التفكير في اللي ظلمك؟ (آية هتغير حياتك) #شخبطة",
-          "link": "https://www.youtube.com/watch?v=iUJI5T94jbc",
-          "videoId": "iUJI5T94jbc",
-          "pubDate": "2026-04-10T11:15:05+00:00"
-        },
-        {
-          "title": "هل الزواج ضرورة ؟! فيديو هيغير نظرتك للعلاقات!",
-          "link": "https://www.youtube.com/watch?v=iUYBa2fVEmM",
-          "videoId": "iUYBa2fVEmM",
-          "pubDate": "2026-04-07T11:01:12+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "شخبطة",
+      "items": [],
+      "ok": false
     },
     "UChbuH4HULlesX_rzlozkT6Q": {
       "handle": "AliMuhammadAli",
