@@ -1,11 +1,17 @@
 {
-  "updated": "2026-04-21T17:48:11.422124+00:00",
+  "updated": "2026-04-21T18:52:32.379328+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
       "name": "د. هبة أحمد",
       "feedTitle": "Heba Ahmed - هبة احمد",
       "items": [
+        {
+          "title": "Claude دخل Microsoft Word أخيرًا | جربت الإضافة الجديدة",
+          "link": "https://www.youtube.com/watch?v=_YKsTILD05w",
+          "videoId": "_YKsTILD05w",
+          "pubDate": "2026-04-21T18:34:42+00:00"
+        },
         {
           "title": "هل Claude Design بقى ملك التصميم فعلًا؟",
           "link": "https://www.youtube.com/watch?v=FlAO1TYpNYU",
@@ -17,12 +23,6 @@
           "link": "https://www.youtube.com/watch?v=_v4vfu1zBXU",
           "videoId": "_v4vfu1zBXU",
           "pubDate": "2026-04-18T16:53:05+00:00"
-        },
-        {
-          "title": "اهم اداة موجودة حاليا... ايه هو claude cowork و ازاي تشغله",
-          "link": "https://www.youtube.com/watch?v=vVrE11tHEFg",
-          "videoId": "vVrE11tHEFg",
-          "pubDate": "2026-04-12T15:49:59+00:00"
         }
       ],
       "ok": true
@@ -215,6 +215,12 @@
       "feedTitle": "Mohamed Ansary",
       "items": [
         {
+          "title": "تحديث كلوود التاريخي: Claude Design يغير قواعد اللعبة.",
+          "link": "https://www.youtube.com/watch?v=wfEyzzi6j_s",
+          "videoId": "wfEyzzi6j_s",
+          "pubDate": "2026-04-21T17:42:21+00:00"
+        },
+        {
           "title": "الذكاء الشخصي وصل اللي يفهمك وينسخ إسلوبك\" (Personal Intelligence) في Gemini",
           "link": "https://www.youtube.com/watch?v=3FLZMhX5vzs",
           "videoId": "3FLZMhX5vzs",
@@ -225,12 +231,6 @@
           "link": "https://www.youtube.com/watch?v=gwGy0IKUPOI",
           "videoId": "gwGy0IKUPOI",
           "pubDate": "2026-04-19T21:13:51+00:00"
-        },
-        {
-          "title": "كيفية ربط   Claude بــ  Consensus وبناء مهارات أكاديمية",
-          "link": "https://www.youtube.com/watch?v=U0U3cHTGGTc",
-          "videoId": "U0U3cHTGGTc",
-          "pubDate": "2026-04-19T17:31:33+00:00"
         }
       ],
       "ok": true
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "خان الأرامل | يوميات نساء يواجهن العزلة والعوز",
+          "link": "https://www.youtube.com/watch?v=9OMXIj0MCBE",
+          "videoId": "9OMXIj0MCBE",
+          "pubDate": "2026-04-21T18:30:20+00:00"
+        },
+        {
+          "title": "\"إلى أي أرض تنتمي؟\".. وثائقي تشاهدونه غدا 9 مساء بتوقيت مكة المكرمة",
+          "link": "https://www.youtube.com/watch?v=XRJzqLiW2pg",
+          "videoId": "XRJzqLiW2pg",
+          "pubDate": "2026-04-21T18:00:00+00:00"
+        },
+        {
           "title": "شلل كيانو ريفز كاد أن يعطل فيلم \"ذا ماتريكس\"",
           "link": "https://www.youtube.com/watch?v=tbjM-nBV4JI",
           "videoId": "tbjM-nBV4JI",
           "pubDate": "2026-04-21T16:00:00+00:00"
-        },
-        {
-          "title": "المسلمون هم من أداروا الدولة النورماندية المسيحية",
-          "link": "https://www.youtube.com/watch?v=xECgTVevVII",
-          "videoId": "xECgTVevVII",
-          "pubDate": "2026-04-21T15:00:00+00:00"
-        },
-        {
-          "title": "الاحتلال يريد جيلا فلسطينيا مشلولا",
-          "link": "https://www.youtube.com/watch?v=nvSB4nQGihU",
-          "videoId": "nvSB4nQGihU",
-          "pubDate": "2026-04-21T14:00:01+00:00"
         }
       ],
       "ok": true
