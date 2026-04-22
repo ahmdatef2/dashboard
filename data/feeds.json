@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-21T23:25:09.756353+00:00",
+  "updated": "2026-04-22T01:13:14.774218+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -11,28 +11,9 @@
     "UC2jjW7c63dqOPkfMm3P-u3w": {
       "handle": "every_day_a_new_website",
       "name": "موقع كل يوم",
-      "feedTitle": "كل يوم موقع جديد",
-      "items": [
-        {
-          "title": "GLM 5.1  نموذج بقدرات رهيبة... 3  استخدامات تعرف عليهم الآن!",
-          "link": "https://www.youtube.com/watch?v=Rnxjadjn9Ow",
-          "videoId": "Rnxjadjn9Ow",
-          "pubDate": "2026-04-20T19:32:23+00:00"
-        },
-        {
-          "title": "جربت Claude Design لصناعة فيديو تعليمي كامل بالعربي من ملف PDF",
-          "link": "https://www.youtube.com/watch?v=ZGmX91Au06o",
-          "videoId": "ZGmX91Au06o",
-          "pubDate": "2026-04-18T18:41:16+00:00"
-        },
-        {
-          "title": "Canva AI 2.0 :  قلب الموازين! أقوى تحديثات كانفا 2026",
-          "link": "https://www.youtube.com/watch?v=sNt7yme3j7I",
-          "videoId": "sNt7yme3j7I",
-          "pubDate": "2026-04-17T16:38:46+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "موقع كل يوم",
+      "items": [],
+      "ok": false
     },
     "UCKD8vOz3maRPyLAbMXhr-Pw": {
       "handle": "infotech4you_Marwasoliman",
@@ -142,28 +123,9 @@
     "UCJlu6BjPWHZhzuCc0zVME0Q": {
       "handle": "Dupamicaffeine",
       "name": "دوباميكافيين",
-      "feedTitle": "دوباميكافين Dupamicaffeine",
-      "items": [
-        {
-          "title": "الإقناع لغة العقل والهندسة لغة العاطفة",
-          "link": "https://www.youtube.com/watch?v=MFTxMiUKYQI",
-          "videoId": "MFTxMiUKYQI",
-          "pubDate": "2026-04-21T13:03:32+00:00"
-        },
-        {
-          "title": "حقق أهدافك في المبيعات بشكل أسرع - أسرار المبيعات - دوباميكافين",
-          "link": "https://www.youtube.com/watch?v=_GwkYvEFij4",
-          "videoId": "_GwkYvEFij4",
-          "pubDate": "2026-04-20T15:01:04+00:00"
-        },
-        {
-          "title": "الأفعال أبلغ من الكلام",
-          "link": "https://www.youtube.com/watch?v=7hJFt3qjvZk",
-          "videoId": "7hJFt3qjvZk",
-          "pubDate": "2026-04-19T13:00:45+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "دوباميكافيين",
+      "items": [],
+      "ok": false
     },
     "UC0LSnqrwqtMwl2YwfUpO66g": {
       "handle": "aljazeeradocumentary",
@@ -182,28 +144,9 @@
     "UCLiTe0aOHShx7hXGyqZ9UIw": {
       "handle": "natgeoabudhabime",
       "name": "ناشيونال جيوغرافيك",
-      "feedTitle": "Nat Geo Abu Dhabi",
-      "items": [
-        {
-          "title": "يُعرض 22 أبريل | الدلافين عن قرب مع بيرتي جريجوري | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=1kFnrmbcUXg",
-          "videoId": "1kFnrmbcUXg",
-          "pubDate": "2026-04-21T12:23:22+00:00"
-        },
-        {
-          "title": "يُعرض 22 أبريل | الدلافين عن قرب مع بيرتي جريجوري | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=meGKdtvZnuk",
-          "videoId": "meGKdtvZnuk",
-          "pubDate": "2026-04-21T12:21:22+00:00"
-        },
-        {
-          "title": "ابتداءً 21 أبريل | خفر السواحل الهولندي في منطقة الكاريبي | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=Y7NsH7bncQw",
-          "videoId": "Y7NsH7bncQw",
-          "pubDate": "2026-04-21T12:18:07+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "ناشيونال جيوغرافيك",
+      "items": [],
+      "ok": false
     },
     "UCET6sWl4Xcu-U8Ka9PJPrwA": {
       "handle": "dwdocarabia",
