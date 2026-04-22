@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-22T10:07:21.861820+00:00",
+  "updated": "2026-04-22T11:49:01.154008+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "نظام بيئي متكامل لم يسمع عنه العلماء من قبل",
+          "link": "https://www.youtube.com/watch?v=McM-OnzdgYg",
+          "videoId": "McM-OnzdgYg",
+          "pubDate": "2026-04-22T11:00:01+00:00"
+        },
+        {
           "title": "\"احكموا علينا بأعمالنا\".. الصحافة السودانية في عهد عبود",
           "link": "https://www.youtube.com/watch?v=AMUtDwI2bRw",
           "videoId": "AMUtDwI2bRw",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=h68PTQ-i9PY",
           "videoId": "h68PTQ-i9PY",
           "pubDate": "2026-04-22T08:00:01+00:00"
-        },
-        {
-          "title": "وحش المحيطات المسؤول عن افتراس الشعاب المرجانية",
-          "link": "https://www.youtube.com/watch?v=ENFmBP7IkwA",
-          "videoId": "ENFmBP7IkwA",
-          "pubDate": "2026-04-21T20:30:01+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "سوق محاطة بالسرية",
+          "link": "https://www.youtube.com/watch?v=iFuxLXzLCTo",
+          "videoId": "iFuxLXzLCTo",
+          "pubDate": "2026-04-22T10:39:02+00:00"
+        },
         {
           "title": "سحر الكريستال في فرنسا | الشرق الوثائقية",
           "link": "https://www.youtube.com/watch?v=fWEPOx14hFo",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=VOwt_k2Cdqg",
           "videoId": "VOwt_k2Cdqg",
           "pubDate": "2026-04-21T17:00:31+00:00"
-        },
-        {
-          "title": "فضيحة سياسية كبرى",
-          "link": "https://www.youtube.com/watch?v=fm408_FmWfU",
-          "videoId": "fm408_FmWfU",
-          "pubDate": "2026-04-21T15:00:21+00:00"
         }
       ],
       "ok": true
@@ -553,6 +553,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "كيف يعيش اللاجئون السودانيون في مخيمات الحدود؟",
+          "link": "https://www.youtube.com/watch?v=wxA0eKaNxvw",
+          "videoId": "wxA0eKaNxvw",
+          "pubDate": "2026-04-22T11:29:24+00:00"
+        },
+        {
           "title": "وثائقي |  أزمة السكن في لشبونة | وثائقية دي دبليو",
           "link": "https://www.youtube.com/watch?v=TKydrZXvuQE",
           "videoId": "TKydrZXvuQE",
@@ -563,12 +569,6 @@
           "link": "https://www.youtube.com/watch?v=pLRzN-q7x-A",
           "videoId": "pLRzN-q7x-A",
           "pubDate": "2026-04-18T17:01:00+00:00"
-        },
-        {
-          "title": "وثائقي | مهرجان هولي – أرامل الهند يحتفلن بالألوان | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=yek9kzXXRxE",
-          "videoId": "yek9kzXXRxE",
-          "pubDate": "2026-04-17T17:01:31+00:00"
         }
       ],
       "ok": true
