@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-22T08:22:06.813131+00:00",
+  "updated": "2026-04-22T10:07:21.861820+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "\"احكموا علينا بأعمالنا\".. الصحافة السودانية في عهد عبود",
+          "link": "https://www.youtube.com/watch?v=AMUtDwI2bRw",
+          "videoId": "AMUtDwI2bRw",
+          "pubDate": "2026-04-22T10:00:01+00:00"
+        },
+        {
           "title": "النفي كأداة استعمار.. كيف فككت فرنسا المجتمع الجزائري؟",
           "link": "https://www.youtube.com/watch?v=h68PTQ-i9PY",
           "videoId": "h68PTQ-i9PY",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=ENFmBP7IkwA",
           "videoId": "ENFmBP7IkwA",
           "pubDate": "2026-04-21T20:30:01+00:00"
-        },
-        {
-          "title": "رجل يبيع دمه ليستمع إلى ألفريدو كراوس",
-          "link": "https://www.youtube.com/watch?v=SVVqqAedzVI",
-          "videoId": "SVVqqAedzVI",
-          "pubDate": "2026-04-21T19:00:01+00:00"
         }
       ],
       "ok": true
