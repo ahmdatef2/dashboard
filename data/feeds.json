@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-22T20:40:40.254407+00:00",
+  "updated": "2026-04-22T21:39:56.401250+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -293,6 +293,12 @@
       "feedTitle": "تكنوفلاش – AI & Tech",
       "items": [
         {
+          "title": "ضربة قاضية لجوجل! تحديث ChatGPT Images 2.0 للتصميم بالعربي قلب الموازين 🔥",
+          "link": "https://www.youtube.com/watch?v=kgTUrXKPM2k",
+          "videoId": "kgTUrXKPM2k",
+          "pubDate": "2026-04-22T21:17:22+00:00"
+        },
+        {
           "title": "توقف عن استخدام ChatGPT بشكل خاطئ! تعلم هندسة الأوامر الاحترافية",
           "link": "https://www.youtube.com/watch?v=rObuX1uP46M",
           "videoId": "rObuX1uP46M",
@@ -303,12 +309,6 @@
           "link": "https://www.youtube.com/watch?v=hkzLOOhEjJw",
           "videoId": "hkzLOOhEjJw",
           "pubDate": "2026-04-17T11:58:01+00:00"
-        },
-        {
-          "title": "وداعاً Canva؟ تجربة Google Vids لصناعة الفيديوهات بالذكاء الاصطناعي | أفضل ai video generator",
-          "link": "https://www.youtube.com/watch?v=qAvXYz2ywyk",
-          "videoId": "qAvXYz2ywyk",
-          "pubDate": "2026-04-11T21:47:29+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "قابس التونسية.. لماذا ينتفض السكان ضد مصانع الفوسفات؟",
+          "link": "https://www.youtube.com/watch?v=LFxeKrQHnPY",
+          "videoId": "LFxeKrQHnPY",
+          "pubDate": "2026-04-22T20:30:01+00:00"
+        },
+        {
           "title": "أغنية يا المنفي صوت الجزائريين المنفيين إلى جزيرة كاليدونيا بعد انتفاضة 1871",
           "link": "https://www.youtube.com/watch?v=B26pIstm8Ok",
           "videoId": "B26pIstm8Ok",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=x-nBzVoloXM",
           "videoId": "x-nBzVoloXM",
           "pubDate": "2026-04-22T18:00:54+00:00"
-        },
-        {
-          "title": "قماشة.. التي دخلت كل بيت عربي",
-          "link": "https://www.youtube.com/watch?v=3Pvr13ZluxE",
-          "videoId": "3Pvr13ZluxE",
-          "pubDate": "2026-04-22T18:00:01+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "خافيير ميلي\" الرئيس المنشار\" ..  إنقاذ أم انهيار؟ | الشرق الوثائقية",
+          "link": "https://www.youtube.com/watch?v=vCQ6ruLcnrA",
+          "videoId": "vCQ6ruLcnrA",
+          "pubDate": "2026-04-22T21:01:05+00:00"
+        },
         {
           "title": "صنع فيروسات جديدة مستقبلاً؟",
           "link": "https://www.youtube.com/watch?v=Ofi6gqpDXU4",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=CfG8WlVkGC4",
           "videoId": "CfG8WlVkGC4",
           "pubDate": "2026-04-22T12:50:18+00:00"
-        },
-        {
-          "title": "سوق محاطة بالسرية",
-          "link": "https://www.youtube.com/watch?v=iFuxLXzLCTo",
-          "videoId": "iFuxLXzLCTo",
-          "pubDate": "2026-04-22T10:39:02+00:00"
         }
       ],
       "ok": true
