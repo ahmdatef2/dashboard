@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-22T16:59:20.446470+00:00",
+  "updated": "2026-04-22T17:59:03.673889+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -33,6 +33,12 @@
       "feedTitle": "كل يوم موقع جديد",
       "items": [
         {
+          "title": "ChatGPT Image 2.0 يتحدى جوجل والتصميمات بالعربي فاقت التوقعات!",
+          "link": "https://www.youtube.com/watch?v=msqBNKPUUWc",
+          "videoId": "msqBNKPUUWc",
+          "pubDate": "2026-04-22T17:23:39+00:00"
+        },
+        {
           "title": "GLM 5.1  نموذج بقدرات رهيبة... 3  استخدامات تعرف عليهم الآن!",
           "link": "https://www.youtube.com/watch?v=Rnxjadjn9Ow",
           "videoId": "Rnxjadjn9Ow",
@@ -43,12 +49,6 @@
           "link": "https://www.youtube.com/watch?v=ZGmX91Au06o",
           "videoId": "ZGmX91Au06o",
           "pubDate": "2026-04-18T18:41:16+00:00"
-        },
-        {
-          "title": "Canva AI 2.0 :  قلب الموازين! أقوى تحديثات كانفا 2026",
-          "link": "https://www.youtube.com/watch?v=sNt7yme3j7I",
-          "videoId": "sNt7yme3j7I",
-          "pubDate": "2026-04-17T16:38:46+00:00"
         }
       ],
       "ok": true
@@ -241,7 +241,7 @@
       "feedTitle": "مدرسة الذكاء الاصطناعي",
       "items": [
         {
-          "title": "قارنت GPT Image 2 ضد Nano Banana (مين أفضل لتوليد الصور؟)",
+          "title": "أنا مش مصدق اللي شوفته… GPT Image 2 دمر Nano Banana حرفيا",
           "link": "https://www.youtube.com/watch?v=LWPUM0zjccg",
           "videoId": "LWPUM0zjccg",
           "pubDate": "2026-04-22T15:19:12+00:00"
@@ -267,6 +267,12 @@
       "feedTitle": "أكاديمية ريان | Ryan Academy",
       "items": [
         {
+          "title": "الوحش الصيني في البرمجة والمهام العادية 🥊 تحدي برمجة لـ MiniMax M2.7 API النتيجة صدمة!",
+          "link": "https://www.youtube.com/watch?v=1reXIi0sT4g",
+          "videoId": "1reXIi0sT4g",
+          "pubDate": "2026-04-22T17:00:05+00:00"
+        },
+        {
           "title": "ازاي استبدلت نفسي بذكاء اصطناعي يعمل شغلي وأنا نايم! وكيل Minimax Agent🚀",
           "link": "https://www.youtube.com/watch?v=q3iErPRZe3Q",
           "videoId": "q3iErPRZe3Q",
@@ -277,12 +283,6 @@
           "link": "https://www.youtube.com/watch?v=ObnF3iqBY4E",
           "videoId": "ObnF3iqBY4E",
           "pubDate": "2026-04-17T17:00:28+00:00"
-        },
-        {
-          "title": "تشغيل Gamma 4 علي Olama مجاناً علي VPS (شات جي بي تي الخاص بيك) واكتر ...",
-          "link": "https://www.youtube.com/watch?v=e_oOFKGDSM4",
-          "videoId": "e_oOFKGDSM4",
-          "pubDate": "2026-04-16T15:42:10+00:00"
         }
       ],
       "ok": true
@@ -475,12 +475,6 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
-          "title": "أغنية يا المنفي صوت الجزائريين المنفيين إلى جزيرة كاليدونيا بعد انتفاضة 1871",
-          "link": "https://www.youtube.com/watch?v=9uq3xCTkPcA",
-          "videoId": "9uq3xCTkPcA",
-          "pubDate": "2026-04-22T15:58:23+00:00"
-        },
-        {
           "title": "وسط مفترسات القطب الجنوبي.. كيف تقتنص البطاريق غذاءها؟",
           "link": "https://www.youtube.com/watch?v=1OZjjBIQFck",
           "videoId": "1OZjjBIQFck",
@@ -491,6 +485,12 @@
           "link": "https://www.youtube.com/watch?v=K61ddjR9mK8",
           "videoId": "K61ddjR9mK8",
           "pubDate": "2026-04-22T14:00:01+00:00"
+        },
+        {
+          "title": "نظام بيئي متكامل لم يسمع عنه العلماء من قبل",
+          "link": "https://www.youtube.com/watch?v=McM-OnzdgYg",
+          "videoId": "McM-OnzdgYg",
+          "pubDate": "2026-04-22T11:00:01+00:00"
         }
       ],
       "ok": true
