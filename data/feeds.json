@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-22T14:27:54.437608+00:00",
+  "updated": "2026-04-22T15:59:32.387409+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -59,7 +59,7 @@
       "feedTitle": "Infotech4you - مروي سليمان",
       "items": [
         {
-          "title": "الآن Claude Opus 4.7 يعمل داخل Word مباشرة!",
+          "title": "وداعاً لضياع الوقت في التعديل على النصوص .... Claude يعمل الآن داخل Word مباشرة!",
           "link": "https://www.youtube.com/watch?v=gpK_ZgDLwnU",
           "videoId": "gpK_ZgDLwnU",
           "pubDate": "2026-04-22T12:39:08+00:00"
@@ -241,6 +241,12 @@
       "feedTitle": "مدرسة الذكاء الاصطناعي",
       "items": [
         {
+          "title": "قارنت GPT Image 2 ضد Nano Banana (مين أفضل لتوليد الصور؟)",
+          "link": "https://www.youtube.com/watch?v=LWPUM0zjccg",
+          "videoId": "LWPUM0zjccg",
+          "pubDate": "2026-04-22T15:19:12+00:00"
+        },
+        {
           "title": "استخدم OpenClaw افضل من 90% من الناس",
           "link": "https://www.youtube.com/watch?v=1V4ka7zL1VA",
           "videoId": "1V4ka7zL1VA",
@@ -251,12 +257,6 @@
           "link": "https://www.youtube.com/watch?v=O9t2N4Cq-MM",
           "videoId": "O9t2N4Cq-MM",
           "pubDate": "2026-04-17T19:48:28+00:00"
-        },
-        {
-          "title": "وداعًا للاشتراكات… أداة ذكاء اصطناعي بتعمل صور وفيديوهات وصوت مجانا",
-          "link": "https://www.youtube.com/watch?v=SzWzjrIDEHM",
-          "videoId": "SzWzjrIDEHM",
-          "pubDate": "2026-04-11T21:02:46+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "وسط مفترسات القطب الجنوبي.. كيف تقتنص البطاريق غذاءها؟",
+          "link": "https://www.youtube.com/watch?v=1OZjjBIQFck",
+          "videoId": "1OZjjBIQFck",
+          "pubDate": "2026-04-22T15:00:01+00:00"
+        },
+        {
           "title": "حكومة تنزانيا تلاحق مجموعة عرقية لإقامة حدائق على أراضيهم",
           "link": "https://www.youtube.com/watch?v=K61ddjR9mK8",
           "videoId": "K61ddjR9mK8",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=McM-OnzdgYg",
           "videoId": "McM-OnzdgYg",
           "pubDate": "2026-04-22T11:00:01+00:00"
-        },
-        {
-          "title": "\"احكموا علينا بأعمالنا\".. الصحافة السودانية في عهد عبود",
-          "link": "https://www.youtube.com/watch?v=AMUtDwI2bRw",
-          "videoId": "AMUtDwI2bRw",
-          "pubDate": "2026-04-22T10:00:01+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "صنع فيروسات جديدة مستقبلاً؟",
+          "link": "https://www.youtube.com/watch?v=Ofi6gqpDXU4",
+          "videoId": "Ofi6gqpDXU4",
+          "pubDate": "2026-04-22T15:00:30+00:00"
+        },
         {
           "title": "جزيرة تغطي مساحة قدرها كيلومتر مربع فقط",
           "link": "https://www.youtube.com/watch?v=CfG8WlVkGC4",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=iFuxLXzLCTo",
           "videoId": "iFuxLXzLCTo",
           "pubDate": "2026-04-22T10:39:02+00:00"
-        },
-        {
-          "title": "سحر الكريستال في فرنسا | الشرق الوثائقية",
-          "link": "https://www.youtube.com/watch?v=fWEPOx14hFo",
-          "videoId": "fWEPOx14hFo",
-          "pubDate": "2026-04-21T21:00:43+00:00"
         }
       ],
       "ok": true
