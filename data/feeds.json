@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-23T17:06:23.102432+00:00",
+  "updated": "2026-04-23T18:50:47.729349+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -189,6 +189,12 @@
       "feedTitle": "ذكاء اصطناعي عربي",
       "items": [
         {
+          "title": "Claude Design و Images2 الجديدان من OpenAI و Anthropic!",
+          "link": "https://www.youtube.com/watch?v=9wgSZcIR87o",
+          "videoId": "9wgSZcIR87o",
+          "pubDate": "2026-04-23T18:30:06+00:00"
+        },
+        {
           "title": "Mythos Preview: أخطر AI في العالم؟ الحقيقة الكاملة!",
           "link": "https://www.youtube.com/watch?v=Jhm4PNVNjgU",
           "videoId": "Jhm4PNVNjgU",
@@ -199,12 +205,6 @@
           "link": "https://www.youtube.com/watch?v=MDgsrf6TnU0",
           "videoId": "MDgsrf6TnU0",
           "pubDate": "2026-04-11T18:15:06+00:00"
-        },
-        {
-          "title": "أسهل طريقة لتدريب نماذج LLM بدون خبرة برمجية!",
-          "link": "https://www.youtube.com/watch?v=xoDUakHtis4",
-          "videoId": "xoDUakHtis4",
-          "pubDate": "2026-04-03T18:00:06+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "تونسي لم يستطع التأقلم مع حياة البشر",
+          "link": "https://www.youtube.com/watch?v=Rt-_hYeZ7Xo",
+          "videoId": "Rt-_hYeZ7Xo",
+          "pubDate": "2026-04-23T18:00:01+00:00"
+        },
+        {
           "title": "مدينة عطبرة السودانية عام1906 .. من عشش القش إلى عاصمة الحديد والنار",
           "link": "https://www.youtube.com/watch?v=n42pTbB_bdo",
           "videoId": "n42pTbB_bdo",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=t3IY_ZfhCLw",
           "videoId": "t3IY_ZfhCLw",
           "pubDate": "2026-04-23T13:00:01+00:00"
-        },
-        {
-          "title": "نظيرة جنبلاط.. سيدة القصر التي هيّأت ابنها للزعامة",
-          "link": "https://www.youtube.com/watch?v=nvex1j80kvE",
-          "videoId": "nvex1j80kvE",
-          "pubDate": "2026-04-23T12:00:01+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "كيف يقتل السرطان صاحبه؟",
+          "link": "https://www.youtube.com/watch?v=l6AQDeWzY5E",
+          "videoId": "l6AQDeWzY5E",
+          "pubDate": "2026-04-23T17:37:17+00:00"
+        },
         {
           "title": "لماذا يركّب هؤلاء الباحثون رقائق مجهرية على ظهر النحل؟",
           "link": "https://www.youtube.com/watch?v=50kecPKF9-k",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=vCQ6ruLcnrA",
           "videoId": "vCQ6ruLcnrA",
           "pubDate": "2026-04-22T21:01:05+00:00"
-        },
-        {
-          "title": "صنع فيروسات جديدة مستقبلاً؟",
-          "link": "https://www.youtube.com/watch?v=Ofi6gqpDXU4",
-          "videoId": "Ofi6gqpDXU4",
-          "pubDate": "2026-04-22T15:00:30+00:00"
         }
       ],
       "ok": true
