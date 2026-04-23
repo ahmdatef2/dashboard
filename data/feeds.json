@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-23T18:50:47.729349+00:00",
+  "updated": "2026-04-23T19:58:55.591051+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "دوري السلة الإفريقي.. بداية الحلم | هل تنجح التجربة الأفريقية؟",
+          "link": "https://www.youtube.com/watch?v=k4taQ7zSx3M",
+          "videoId": "k4taQ7zSx3M",
+          "pubDate": "2026-04-23T19:45:02+00:00"
+        },
+        {
+          "title": "ما الذي قاله أحد جنود البلماخ عن دير ياسين؟",
+          "link": "https://www.youtube.com/watch?v=tUNXX4Gjfw4",
+          "videoId": "tUNXX4Gjfw4",
+          "pubDate": "2026-04-23T19:00:00+00:00"
+        },
+        {
           "title": "تونسي لم يستطع التأقلم مع حياة البشر",
           "link": "https://www.youtube.com/watch?v=Rt-_hYeZ7Xo",
           "videoId": "Rt-_hYeZ7Xo",
           "pubDate": "2026-04-23T18:00:01+00:00"
-        },
-        {
-          "title": "مدينة عطبرة السودانية عام1906 .. من عشش القش إلى عاصمة الحديد والنار",
-          "link": "https://www.youtube.com/watch?v=n42pTbB_bdo",
-          "videoId": "n42pTbB_bdo",
-          "pubDate": "2026-04-23T15:00:01+00:00"
-        },
-        {
-          "title": "أنثى بطريق الجنتو تتشاجر مع سارقة الأزواج",
-          "link": "https://www.youtube.com/watch?v=t3IY_ZfhCLw",
-          "videoId": "t3IY_ZfhCLw",
-          "pubDate": "2026-04-23T13:00:01+00:00"
         }
       ],
       "ok": true
