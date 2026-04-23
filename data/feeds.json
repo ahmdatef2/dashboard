@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-23T19:58:55.591051+00:00",
+  "updated": "2026-04-23T20:50:07.058609+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "زراعة المرجان.. حل مبتكر لمواجهة ظاهرة موت الشعاب المرجانية",
+          "link": "https://www.youtube.com/watch?v=1prTOZi0SEA",
+          "videoId": "1prTOZi0SEA",
+          "pubDate": "2026-04-23T20:30:02+00:00"
+        },
+        {
           "title": "دوري السلة الإفريقي.. بداية الحلم | هل تنجح التجربة الأفريقية؟",
           "link": "https://www.youtube.com/watch?v=k4taQ7zSx3M",
           "videoId": "k4taQ7zSx3M",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=tUNXX4Gjfw4",
           "videoId": "tUNXX4Gjfw4",
           "pubDate": "2026-04-23T19:00:00+00:00"
-        },
-        {
-          "title": "تونسي لم يستطع التأقلم مع حياة البشر",
-          "link": "https://www.youtube.com/watch?v=Rt-_hYeZ7Xo",
-          "videoId": "Rt-_hYeZ7Xo",
-          "pubDate": "2026-04-23T18:00:01+00:00"
         }
       ],
       "ok": true
