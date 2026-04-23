@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-23T15:04:49.753386+00:00",
+  "updated": "2026-04-23T17:06:23.102432+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -59,7 +59,7 @@
       "feedTitle": "Infotech4you - مروي سليمان",
       "items": [
         {
-          "title": "بالدليل حتشوف بنفسك ..هل تفوق ChatGPT Images 2.0 على Nano Banana 2 فعلًا؟",
+          "title": "ChatGPT Image 2.0 ضد Nano Banana 2.. هل انتهى زمن نانو بنانا؟",
           "link": "https://www.youtube.com/watch?v=-mqTrI7ND5M",
           "videoId": "-mqTrI7ND5M",
           "pubDate": "2026-04-23T14:40:45+00:00"
@@ -215,6 +215,12 @@
       "feedTitle": "Mohamed Ansary",
       "items": [
         {
+          "title": "النموذج الأقوى لتوليد الصور من تشات جي بي تي يتفوق على نانو بنانا | ChatGPT Image 2.0",
+          "link": "https://www.youtube.com/watch?v=bCHPhV_7vXY",
+          "videoId": "bCHPhV_7vXY",
+          "pubDate": "2026-04-23T16:57:55+00:00"
+        },
+        {
           "title": "التصميم بال AI.                             Claude Design",
           "link": "https://www.youtube.com/watch?v=_BbGCBO4xIs",
           "videoId": "_BbGCBO4xIs",
@@ -225,12 +231,6 @@
           "link": "https://www.youtube.com/watch?v=-sVGBMSoI9o",
           "videoId": "-sVGBMSoI9o",
           "pubDate": "2026-04-22T12:14:22+00:00"
-        },
-        {
-          "title": "تحديث كلوود التاريخي: Claude Design يغير قواعد اللعبة.",
-          "link": "https://www.youtube.com/watch?v=wfEyzzi6j_s",
-          "videoId": "wfEyzzi6j_s",
-          "pubDate": "2026-04-21T17:42:21+00:00"
         }
       ],
       "ok": true
@@ -241,7 +241,7 @@
       "feedTitle": "مدرسة الذكاء الاصطناعي",
       "items": [
         {
-          "title": "أنا مش مصدق… GPT Image 2 دمر Nano Banana حرفيا",
+          "title": "هل GPT Image 2 أفضل من Nano Banana؟ مقارنة شاملة",
           "link": "https://www.youtube.com/watch?v=LWPUM0zjccg",
           "videoId": "LWPUM0zjccg",
           "pubDate": "2026-04-22T15:19:12+00:00"
@@ -371,6 +371,12 @@
       "feedTitle": "أخضر",
       "items": [
         {
+          "title": "هل النقد يمثل عيوبك، أم يعكس مشاكل من ينتقدك؟",
+          "link": "https://www.youtube.com/watch?v=m5xYLllSDf0",
+          "videoId": "m5xYLllSDf0",
+          "pubDate": "2026-04-23T15:56:27+00:00"
+        },
+        {
           "title": "المقارنة المستمرة تسرق متعة إنجازاتك",
           "link": "https://www.youtube.com/watch?v=VPXtW4hxea8",
           "videoId": "VPXtW4hxea8",
@@ -381,12 +387,6 @@
           "link": "https://www.youtube.com/watch?v=gSjd8KOp7jM",
           "videoId": "gSjd8KOp7jM",
           "pubDate": "2026-04-21T17:38:42+00:00"
-        },
-        {
-          "title": "كيف تؤثر مهاراتك على ثقتك بنفسك؟",
-          "link": "https://www.youtube.com/watch?v=3v1ElamzS6o",
-          "videoId": "3v1ElamzS6o",
-          "pubDate": "2026-04-21T14:47:50+00:00"
         }
       ],
       "ok": true
@@ -423,6 +423,12 @@
       "feedTitle": "Ali Muhammad Ali",
       "items": [
         {
+          "title": "تقليل تشتت اليوتيوب",
+          "link": "https://www.youtube.com/watch?v=Xe5jIqOJ9Uo",
+          "videoId": "Xe5jIqOJ9Uo",
+          "pubDate": "2026-04-23T15:05:28+00:00"
+        },
+        {
           "title": "تطبيق ReadEra لقراءة الكتب الإلكترونية",
           "link": "https://www.youtube.com/watch?v=-Y2wUJuh-xQ",
           "videoId": "-Y2wUJuh-xQ",
@@ -433,12 +439,6 @@
           "link": "https://www.youtube.com/watch?v=lbLogVmkNWo",
           "videoId": "lbLogVmkNWo",
           "pubDate": "2026-04-05T15:01:21+00:00"
-        },
-        {
-          "title": "لغز عدد ساعات النوم",
-          "link": "https://www.youtube.com/watch?v=JUwlzWlLrWI",
-          "videoId": "JUwlzWlLrWI",
-          "pubDate": "2026-04-01T15:08:48+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "مدينة عطبرة السودانية عام1906 .. من عشش القش إلى عاصمة الحديد والنار",
+          "link": "https://www.youtube.com/watch?v=n42pTbB_bdo",
+          "videoId": "n42pTbB_bdo",
+          "pubDate": "2026-04-23T15:00:01+00:00"
+        },
+        {
           "title": "أنثى بطريق الجنتو تتشاجر مع سارقة الأزواج",
           "link": "https://www.youtube.com/watch?v=t3IY_ZfhCLw",
           "videoId": "t3IY_ZfhCLw",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=nvex1j80kvE",
           "videoId": "nvex1j80kvE",
           "pubDate": "2026-04-23T12:00:01+00:00"
-        },
-        {
-          "title": "الكتاب الأكثر خطورة",
-          "link": "https://www.youtube.com/watch?v=emjulzwCQGs",
-          "videoId": "emjulzwCQGs",
-          "pubDate": "2026-04-23T10:56:15+00:00"
         }
       ],
       "ok": true
@@ -553,6 +553,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "وثائقي | الاستعمار الأخضر في أفريقيا: جدل حماية الحيوان وإقصاء الشعوب الأصلية | وثائقية دي دبليو",
+          "link": "https://www.youtube.com/watch?v=hAzW8hjEx2I",
+          "videoId": "hAzW8hjEx2I",
+          "pubDate": "2026-04-23T17:00:53+00:00"
+        },
+        {
           "title": "كيف يعيش اللاجئون السودانيون في مخيمات الحدود؟",
           "link": "https://www.youtube.com/watch?v=wxA0eKaNxvw",
           "videoId": "wxA0eKaNxvw",
@@ -563,12 +569,6 @@
           "link": "https://www.youtube.com/watch?v=TKydrZXvuQE",
           "videoId": "TKydrZXvuQE",
           "pubDate": "2026-04-21T17:00:45+00:00"
-        },
-        {
-          "title": "وثائقي | جواسيس داخل الهاتف الذكي – في شباك سماسرة البيانات | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=pLRzN-q7x-A",
-          "videoId": "pLRzN-q7x-A",
-          "pubDate": "2026-04-18T17:01:00+00:00"
         }
       ],
       "ok": true
