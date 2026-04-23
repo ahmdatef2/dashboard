@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-23T20:50:07.058609+00:00",
+  "updated": "2026-04-23T21:34:58.705212+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -241,6 +241,12 @@
       "feedTitle": "مدرسة الذكاء الاصطناعي",
       "items": [
         {
+          "title": "ازاي حولت برومت الى أداة فيديوهات بالذكاء الاصطناعي",
+          "link": "https://www.youtube.com/watch?v=yMb7sr_0-YM",
+          "videoId": "yMb7sr_0-YM",
+          "pubDate": "2026-04-23T20:43:26+00:00"
+        },
+        {
           "title": "هل GPT Image 2 أفضل من Nano Banana؟ مقارنة شاملة",
           "link": "https://www.youtube.com/watch?v=LWPUM0zjccg",
           "videoId": "LWPUM0zjccg",
@@ -251,12 +257,6 @@
           "link": "https://www.youtube.com/watch?v=1V4ka7zL1VA",
           "videoId": "1V4ka7zL1VA",
           "pubDate": "2026-04-21T19:56:04+00:00"
-        },
-        {
-          "title": "بعد 100 برومت في Seedance 2.0 عرفت سر الفيديوهات الاحترافيه",
-          "link": "https://www.youtube.com/watch?v=O9t2N4Cq-MM",
-          "videoId": "O9t2N4Cq-MM",
-          "pubDate": "2026-04-17T19:48:28+00:00"
         }
       ],
       "ok": true
@@ -501,22 +501,22 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "الشقيقتان ويليامز",
+          "link": "https://www.youtube.com/watch?v=KMojnfafW6Q",
+          "videoId": "KMojnfafW6Q",
+          "pubDate": "2026-04-23T21:30:22+00:00"
+        },
+        {
+          "title": "تيتانيك بالألوان: رحلة بناء السفينة الأسطورية وقصص من خلف الكواليس",
+          "link": "https://www.youtube.com/watch?v=Hf2INyI9ATw",
+          "videoId": "Hf2INyI9ATw",
+          "pubDate": "2026-04-23T21:21:50+00:00"
+        },
+        {
           "title": "كيف يقتل السرطان صاحبه؟",
           "link": "https://www.youtube.com/watch?v=l6AQDeWzY5E",
           "videoId": "l6AQDeWzY5E",
           "pubDate": "2026-04-23T17:37:17+00:00"
-        },
-        {
-          "title": "لماذا يركّب هؤلاء الباحثون رقائق مجهرية على ظهر النحل؟",
-          "link": "https://www.youtube.com/watch?v=50kecPKF9-k",
-          "videoId": "50kecPKF9-k",
-          "pubDate": "2026-04-23T09:50:58+00:00"
-        },
-        {
-          "title": "خافيير ميلي\" الرئيس المنشار\" ..  إنقاذ أم انهيار؟ | الشرق الوثائقية",
-          "link": "https://www.youtube.com/watch?v=vCQ6ruLcnrA",
-          "videoId": "vCQ6ruLcnrA",
-          "pubDate": "2026-04-22T21:01:05+00:00"
         }
       ],
       "ok": true
