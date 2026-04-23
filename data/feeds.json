@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-23T08:26:06.422257+00:00",
+  "updated": "2026-04-23T10:11:30.057160+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "خط ماجينو.. عندما راهنت فرنسا على الخرسانة بدل الدبابة",
+          "link": "https://www.youtube.com/watch?v=kEDobWwD7mc",
+          "videoId": "kEDobWwD7mc",
+          "pubDate": "2026-04-23T10:00:01+00:00"
+        },
+        {
           "title": "الإجهاض والعقم وتشوهات الأطفال.. هكذا يفتك التلوث بسكان قابس التونسية",
           "link": "https://www.youtube.com/watch?v=6Gj0E2uISHA",
           "videoId": "6Gj0E2uISHA",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=l4OzOQYFW8M",
           "videoId": "l4OzOQYFW8M",
           "pubDate": "2026-04-23T07:00:01+00:00"
-        },
-        {
-          "title": "قابس التونسية.. لماذا ينتفض السكان ضد مصانع الفوسفات؟",
-          "link": "https://www.youtube.com/watch?v=LFxeKrQHnPY",
-          "videoId": "LFxeKrQHnPY",
-          "pubDate": "2026-04-22T20:30:01+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "لماذا يركّب هؤلاء الباحثون رقائق مجهرية على ظهر النحل؟",
+          "link": "https://www.youtube.com/watch?v=50kecPKF9-k",
+          "videoId": "50kecPKF9-k",
+          "pubDate": "2026-04-23T09:50:58+00:00"
+        },
         {
           "title": "خافيير ميلي\" الرئيس المنشار\" ..  إنقاذ أم انهيار؟ | الشرق الوثائقية",
           "link": "https://www.youtube.com/watch?v=vCQ6ruLcnrA",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=Ofi6gqpDXU4",
           "videoId": "Ofi6gqpDXU4",
           "pubDate": "2026-04-22T15:00:30+00:00"
-        },
-        {
-          "title": "جزيرة تغطي مساحة قدرها كيلومتر مربع فقط",
-          "link": "https://www.youtube.com/watch?v=CfG8WlVkGC4",
-          "videoId": "CfG8WlVkGC4",
-          "pubDate": "2026-04-22T12:50:18+00:00"
         }
       ],
       "ok": true
