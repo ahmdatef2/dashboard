@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-23T11:50:36.364611+00:00",
+  "updated": "2026-04-23T12:53:20.464279+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -215,6 +215,12 @@
       "feedTitle": "Mohamed Ansary",
       "items": [
         {
+          "title": "التصميم بال AI.                             Claude Design",
+          "link": "https://www.youtube.com/watch?v=_BbGCBO4xIs",
+          "videoId": "_BbGCBO4xIs",
+          "pubDate": "2026-04-23T12:02:29+00:00"
+        },
+        {
           "title": "كيفية تفعيل خاصية الدوبلاج على اليوتيوب",
           "link": "https://www.youtube.com/watch?v=-sVGBMSoI9o",
           "videoId": "-sVGBMSoI9o",
@@ -225,12 +231,6 @@
           "link": "https://www.youtube.com/watch?v=wfEyzzi6j_s",
           "videoId": "wfEyzzi6j_s",
           "pubDate": "2026-04-21T17:42:21+00:00"
-        },
-        {
-          "title": "الذكاء الشخصي وصل اللي يفهمك وينسخ إسلوبك\" (Personal Intelligence) في Gemini",
-          "link": "https://www.youtube.com/watch?v=3FLZMhX5vzs",
-          "videoId": "3FLZMhX5vzs",
-          "pubDate": "2026-04-20T12:27:18+00:00"
         }
       ],
       "ok": true
@@ -449,6 +449,12 @@
       "feedTitle": "دوباميكافين Dupamicaffeine",
       "items": [
         {
+          "title": "من التفكير إلى الشراء",
+          "link": "https://www.youtube.com/watch?v=FPUocf_VfSo",
+          "videoId": "FPUocf_VfSo",
+          "pubDate": "2026-04-23T12:39:10+00:00"
+        },
+        {
           "title": "الإقناع لغة العقل والهندسة لغة العاطفة",
           "link": "https://www.youtube.com/watch?v=MFTxMiUKYQI",
           "videoId": "MFTxMiUKYQI",
@@ -459,12 +465,6 @@
           "link": "https://www.youtube.com/watch?v=_GwkYvEFij4",
           "videoId": "_GwkYvEFij4",
           "pubDate": "2026-04-20T15:01:04+00:00"
-        },
-        {
-          "title": "الأفعال أبلغ من الكلام",
-          "link": "https://www.youtube.com/watch?v=7hJFt3qjvZk",
-          "videoId": "7hJFt3qjvZk",
-          "pubDate": "2026-04-19T13:00:45+00:00"
         }
       ],
       "ok": true
@@ -474,6 +474,12 @@
       "name": "الجزيرة الوثائقية",
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
+        {
+          "title": "نظيرة جنبلاط.. سيدة القصر التي هيّأت ابنها للزعامة",
+          "link": "https://www.youtube.com/watch?v=nvex1j80kvE",
+          "videoId": "nvex1j80kvE",
+          "pubDate": "2026-04-23T12:00:01+00:00"
+        },
         {
           "title": "الكتاب الأكثر خطورة",
           "link": "https://www.youtube.com/watch?v=emjulzwCQGs",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=kEDobWwD7mc",
           "videoId": "kEDobWwD7mc",
           "pubDate": "2026-04-23T10:00:01+00:00"
-        },
-        {
-          "title": "الإجهاض والعقم وتشوهات الأطفال.. هكذا يفتك التلوث بسكان قابس التونسية",
-          "link": "https://www.youtube.com/watch?v=6Gj0E2uISHA",
-          "videoId": "6Gj0E2uISHA",
-          "pubDate": "2026-04-23T08:00:00+00:00"
         }
       ],
       "ok": true
