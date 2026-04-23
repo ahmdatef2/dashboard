@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-23T12:53:20.464279+00:00",
+  "updated": "2026-04-23T15:04:49.753386+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -59,6 +59,12 @@
       "feedTitle": "Infotech4you - مروي سليمان",
       "items": [
         {
+          "title": "بالدليل حتشوف بنفسك ..هل تفوق ChatGPT Images 2.0 على Nano Banana 2 فعلًا؟",
+          "link": "https://www.youtube.com/watch?v=-mqTrI7ND5M",
+          "videoId": "-mqTrI7ND5M",
+          "pubDate": "2026-04-23T14:40:45+00:00"
+        },
+        {
           "title": "وداعاً لضياع الوقت في التعديل على النصوص .... Claude يعمل الآن داخل Word مباشرة!",
           "link": "https://www.youtube.com/watch?v=gpK_ZgDLwnU",
           "videoId": "gpK_ZgDLwnU",
@@ -69,12 +75,6 @@
           "link": "https://www.youtube.com/watch?v=WGZ8XgqaKgQ",
           "videoId": "WGZ8XgqaKgQ",
           "pubDate": "2026-04-19T13:43:32+00:00"
-        },
-        {
-          "title": "اللعبة اتغيرت! GLM 5.1 النسخة المرعبة التي تهدد عمالقة الذكاء الاصطناعي (مفتوح المصدر)",
-          "link": "https://www.youtube.com/watch?v=MvTGDqVkfsQ",
-          "videoId": "MvTGDqVkfsQ",
-          "pubDate": "2026-04-18T13:00:40+00:00"
         }
       ],
       "ok": true
@@ -84,6 +84,12 @@
       "name": "عبداللطيف سعيد",
       "feedTitle": "عبداللطيف سعيد Abdellatif Said",
       "items": [
+        {
+          "title": "بالدليل ومن غير تطبيل: أفضل ذكاء اصطناعي للكتابة بالعربي على الصور! (GPT Image 2 ضد Nano Banana 2)",
+          "link": "https://www.youtube.com/watch?v=0y020ySk_pc",
+          "videoId": "0y020ySk_pc",
+          "pubDate": "2026-04-23T14:00:02+00:00"
+        },
         {
           "title": "نهاية Nano Banana؟ التحديث الجديد ChatGPT Image 2 يكتسح في الواقعية وكتابة العربي!",
           "link": "https://www.youtube.com/watch?v=hMLdVDtHVNg",
@@ -95,12 +101,6 @@
           "link": "https://www.youtube.com/watch?v=Td-UeyF_S_w",
           "videoId": "Td-UeyF_S_w",
           "pubDate": "2026-04-21T14:15:04+00:00"
-        },
-        {
-          "title": "أقوى من GPT-5.4؟ كل حاجة محتاج تعرفها عن وحش البرمجة Claude Opus 4.7",
-          "link": "https://www.youtube.com/watch?v=N2FckX9nnn4",
-          "videoId": "N2FckX9nnn4",
-          "pubDate": "2026-04-20T14:15:05+00:00"
         }
       ],
       "ok": true
@@ -449,6 +449,12 @@
       "feedTitle": "دوباميكافين Dupamicaffeine",
       "items": [
         {
+          "title": "اهم استثمار تسويه في حياتك هو استثمارك في عقلك",
+          "link": "https://www.youtube.com/watch?v=GQU06NyQrKk",
+          "videoId": "GQU06NyQrKk",
+          "pubDate": "2026-04-23T13:00:28+00:00"
+        },
+        {
           "title": "من التفكير إلى الشراء",
           "link": "https://www.youtube.com/watch?v=FPUocf_VfSo",
           "videoId": "FPUocf_VfSo",
@@ -459,12 +465,6 @@
           "link": "https://www.youtube.com/watch?v=MFTxMiUKYQI",
           "videoId": "MFTxMiUKYQI",
           "pubDate": "2026-04-21T13:03:32+00:00"
-        },
-        {
-          "title": "حقق أهدافك في المبيعات بشكل أسرع - أسرار المبيعات - دوباميكافين",
-          "link": "https://www.youtube.com/watch?v=_GwkYvEFij4",
-          "videoId": "_GwkYvEFij4",
-          "pubDate": "2026-04-20T15:01:04+00:00"
         }
       ],
       "ok": true
@@ -474,6 +474,12 @@
       "name": "الجزيرة الوثائقية",
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
+        {
+          "title": "أنثى بطريق الجنتو تتشاجر مع سارقة الأزواج",
+          "link": "https://www.youtube.com/watch?v=t3IY_ZfhCLw",
+          "videoId": "t3IY_ZfhCLw",
+          "pubDate": "2026-04-23T13:00:01+00:00"
+        },
         {
           "title": "نظيرة جنبلاط.. سيدة القصر التي هيّأت ابنها للزعامة",
           "link": "https://www.youtube.com/watch?v=nvex1j80kvE",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=emjulzwCQGs",
           "videoId": "emjulzwCQGs",
           "pubDate": "2026-04-23T10:56:15+00:00"
-        },
-        {
-          "title": "خط ماجينو.. عندما راهنت فرنسا على الخرسانة بدل الدبابة",
-          "link": "https://www.youtube.com/watch?v=kEDobWwD7mc",
-          "videoId": "kEDobWwD7mc",
-          "pubDate": "2026-04-23T10:00:01+00:00"
         }
       ],
       "ok": true
