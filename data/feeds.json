@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-24T11:49:48.420513+00:00",
+  "updated": "2026-04-24T12:51:51.724873+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -293,7 +293,7 @@
       "feedTitle": "تكنوفلاش – AI & Tech",
       "items": [
         {
-          "title": "أخطر أداة AI في 2026 🤯 هتعمل فيديوهات وإعلانات بضغطة زر! seedance 2 ",
+          "title": "وداعاً لبرامج التصميم! استوديو VisualGPT: أداة AI واحدة تفعل كل شيء (بدون خبرة) seedance 2",
           "link": "https://www.youtube.com/watch?v=Kb0csVcNsZA",
           "videoId": "Kb0csVcNsZA",
           "pubDate": "2026-04-24T11:00:21+00:00"
@@ -371,6 +371,12 @@
       "feedTitle": "أخضر",
       "items": [
         {
+          "title": "لا تنظم وقتك.. بل نظم طاقتك",
+          "link": "https://www.youtube.com/watch?v=E-D3cz5wxUw",
+          "videoId": "E-D3cz5wxUw",
+          "pubDate": "2026-04-24T12:48:52+00:00"
+        },
+        {
           "title": "هل النقد يمثل عيوبك، أم يعكس مشاكل من ينتقدك؟",
           "link": "https://www.youtube.com/watch?v=m5xYLllSDf0",
           "videoId": "m5xYLllSDf0",
@@ -381,12 +387,6 @@
           "link": "https://www.youtube.com/watch?v=VPXtW4hxea8",
           "videoId": "VPXtW4hxea8",
           "pubDate": "2026-04-22T16:50:01+00:00"
-        },
-        {
-          "title": "النجاح المدمر.. ما وراء شيرلوك هولمز | عالماشي #أخضر",
-          "link": "https://www.youtube.com/watch?v=gSjd8KOp7jM",
-          "videoId": "gSjd8KOp7jM",
-          "pubDate": "2026-04-21T17:38:42+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "\"الحجر لا يحقن\" نحات أوقف خطة اليونسكو لترميم أبو الهول",
+          "link": "https://www.youtube.com/watch?v=d2a2SA8oHpE",
+          "videoId": "d2a2SA8oHpE",
+          "pubDate": "2026-04-24T12:00:01+00:00"
+        },
+        {
           "title": "قبضوا عليه ثم تكفلوا بعلاج زوجته",
           "link": "https://www.youtube.com/watch?v=p9HqxDy7Na4",
           "videoId": "p9HqxDy7Na4",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=1prTOZi0SEA",
           "videoId": "1prTOZi0SEA",
           "pubDate": "2026-04-23T20:30:02+00:00"
-        },
-        {
-          "title": "دوري السلة الإفريقي.. بداية الحلم | هل تنجح التجربة الأفريقية؟",
-          "link": "https://www.youtube.com/watch?v=k4taQ7zSx3M",
-          "videoId": "k4taQ7zSx3M",
-          "pubDate": "2026-04-23T19:45:02+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "\"يد الرب\"",
+          "link": "https://www.youtube.com/watch?v=4AWQFSLnU14",
+          "videoId": "4AWQFSLnU14",
+          "pubDate": "2026-04-24T12:06:07+00:00"
+        },
         {
           "title": "الشقيقتان ويليامز",
           "link": "https://www.youtube.com/watch?v=KMojnfafW6Q",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=Hf2INyI9ATw",
           "videoId": "Hf2INyI9ATw",
           "pubDate": "2026-04-23T21:21:50+00:00"
-        },
-        {
-          "title": "كيف يقتل السرطان صاحبه؟",
-          "link": "https://www.youtube.com/watch?v=l6AQDeWzY5E",
-          "videoId": "l6AQDeWzY5E",
-          "pubDate": "2026-04-23T17:37:17+00:00"
         }
       ],
       "ok": true
