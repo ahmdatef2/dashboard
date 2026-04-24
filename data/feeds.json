@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-24T14:26:09.394093+00:00",
+  "updated": "2026-04-24T15:55:30.709932+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -59,7 +59,13 @@
       "feedTitle": "Infotech4you - مروي سليمان",
       "items": [
         {
-          "title": "ChatGPT Image 2.0 ضد Nano Banana 2.. هل انتهى زمن نانو بنانا؟",
+          "title": "DeepSeek V4  عودة لنموذج أبهر الجميع  ... ما الجديد ؟",
+          "link": "https://www.youtube.com/watch?v=sxiD-YN8xt4",
+          "videoId": "sxiD-YN8xt4",
+          "pubDate": "2026-04-24T14:36:57+00:00"
+        },
+        {
+          "title": "ChatGPT Image 2.0  ونتائج صادمة .. هل انتهى زمن نانو بنانا؟",
           "link": "https://www.youtube.com/watch?v=-mqTrI7ND5M",
           "videoId": "-mqTrI7ND5M",
           "pubDate": "2026-04-23T14:40:45+00:00"
@@ -69,12 +75,6 @@
           "link": "https://www.youtube.com/watch?v=gpK_ZgDLwnU",
           "videoId": "gpK_ZgDLwnU",
           "pubDate": "2026-04-22T12:39:08+00:00"
-        },
-        {
-          "title": "التصميم للجميع ! أنثروبيك تعود بمفاجأة Claude Design !",
-          "link": "https://www.youtube.com/watch?v=WGZ8XgqaKgQ",
-          "videoId": "WGZ8XgqaKgQ",
-          "pubDate": "2026-04-19T13:43:32+00:00"
         }
       ],
       "ok": true
@@ -293,7 +293,7 @@
       "feedTitle": "تكنوفلاش – AI & Tech",
       "items": [
         {
-          "title": "تعلم تصنع AI Influencer قبل ما يفوتك الترند 🚨  و  السر وراء صناعة شخصيات (AI Influencers)",
+          "title": "اصنع AI Influencer قبل ما يفوتك الترند 🔥 و  السر وراء صناعة شخصيات (AI Influencers)",
           "link": "https://www.youtube.com/watch?v=Kb0csVcNsZA",
           "videoId": "Kb0csVcNsZA",
           "pubDate": "2026-04-24T11:00:21+00:00"
@@ -371,6 +371,12 @@
       "feedTitle": "أخضر",
       "items": [
         {
+          "title": "أنت في الوقت الضايع ⏰🚨 كتاب: أربعة آلاف أسبوع #أخضر",
+          "link": "https://www.youtube.com/watch?v=VuxxGGFtNgo",
+          "videoId": "VuxxGGFtNgo",
+          "pubDate": "2026-04-24T15:00:52+00:00"
+        },
+        {
           "title": "لا تنظم وقتك.. بل نظم طاقتك",
           "link": "https://www.youtube.com/watch?v=E-D3cz5wxUw",
           "videoId": "E-D3cz5wxUw",
@@ -381,12 +387,6 @@
           "link": "https://www.youtube.com/watch?v=m5xYLllSDf0",
           "videoId": "m5xYLllSDf0",
           "pubDate": "2026-04-23T15:56:27+00:00"
-        },
-        {
-          "title": "المقارنة المستمرة تسرق متعة إنجازاتك",
-          "link": "https://www.youtube.com/watch?v=VPXtW4hxea8",
-          "videoId": "VPXtW4hxea8",
-          "pubDate": "2026-04-22T16:50:01+00:00"
         }
       ],
       "ok": true
@@ -507,16 +507,16 @@
           "pubDate": "2026-04-24T13:43:28+00:00"
         },
         {
-          "title": "\"يد الرب\"",
-          "link": "https://www.youtube.com/watch?v=4AWQFSLnU14",
-          "videoId": "4AWQFSLnU14",
-          "pubDate": "2026-04-24T12:06:07+00:00"
-        },
-        {
           "title": "الشقيقتان ويليامز",
           "link": "https://www.youtube.com/watch?v=KMojnfafW6Q",
           "videoId": "KMojnfafW6Q",
           "pubDate": "2026-04-23T21:30:22+00:00"
+        },
+        {
+          "title": "تيتانيك بالألوان: رحلة بناء السفينة الأسطورية وقصص من خلف الكواليس",
+          "link": "https://www.youtube.com/watch?v=Hf2INyI9ATw",
+          "videoId": "Hf2INyI9ATw",
+          "pubDate": "2026-04-23T21:21:50+00:00"
         }
       ],
       "ok": true
