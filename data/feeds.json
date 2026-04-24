@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-24T17:40:56.472766+00:00",
+  "updated": "2026-04-24T18:33:32.750027+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -33,6 +33,12 @@
       "feedTitle": "كل يوم موقع جديد",
       "items": [
         {
+          "title": "عدّل صورك باحتراف باستخدام JSON Code داخل GPT-Image 2.0",
+          "link": "https://www.youtube.com/watch?v=x-gUcZ87Zh0",
+          "videoId": "x-gUcZ87Zh0",
+          "pubDate": "2026-04-24T18:19:20+00:00"
+        },
+        {
           "title": "ChatGPT Images 2.0 يتحدى جوجل والتصميمات بالعربي فاقت التوقعات!",
           "link": "https://www.youtube.com/watch?v=msqBNKPUUWc",
           "videoId": "msqBNKPUUWc",
@@ -43,12 +49,6 @@
           "link": "https://www.youtube.com/watch?v=Rnxjadjn9Ow",
           "videoId": "Rnxjadjn9Ow",
           "pubDate": "2026-04-20T19:32:23+00:00"
-        },
-        {
-          "title": "جربت Claude Design لصناعة فيديو تعليمي كامل بالعربي من ملف PDF",
-          "link": "https://www.youtube.com/watch?v=ZGmX91Au06o",
-          "videoId": "ZGmX91Au06o",
-          "pubDate": "2026-04-18T18:41:16+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "هكذا تقوي مناعتك عبر \"حمام الغابة\"",
+          "link": "https://www.youtube.com/watch?v=r833Jy3BtoM",
+          "videoId": "r833Jy3BtoM",
+          "pubDate": "2026-04-24T18:00:00+00:00"
+        },
+        {
           "title": "أخوات الأرض .. بذور المشاركة | كيف تقود نساء بولندا ثورة بيئية صامتة؟",
           "link": "https://www.youtube.com/watch?v=S1r7NSqckes",
           "videoId": "S1r7NSqckes",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=XKU_saVOdpg",
           "videoId": "XKU_saVOdpg",
           "pubDate": "2026-04-24T17:00:02+00:00"
-        },
-        {
-          "title": "مصاصو الدماء.. كيف وُلدت الأسطورة؟",
-          "link": "https://www.youtube.com/watch?v=bzdEVsdV5yk",
-          "videoId": "bzdEVsdV5yk",
-          "pubDate": "2026-04-24T16:00:01+00:00"
         }
       ],
       "ok": true
