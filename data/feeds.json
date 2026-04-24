@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-24T12:51:51.724873+00:00",
+  "updated": "2026-04-24T14:26:09.394093+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -85,6 +85,12 @@
       "feedTitle": "عبداللطيف سعيد Abdellatif Said",
       "items": [
         {
+          "title": "وداعاً للدردشة العادية.. GPT-5.5 وصل وبقى \"موظف\" بينفذ كل مهامك!",
+          "link": "https://www.youtube.com/watch?v=JI2VQ2FlBvI",
+          "videoId": "JI2VQ2FlBvI",
+          "pubDate": "2026-04-24T14:00:29+00:00"
+        },
+        {
           "title": "بالدليل ومن غير تطبيل: أفضل ذكاء اصطناعي للكتابة بالعربي على الصور! (GPT Image 2 ضد Nano Banana 2)",
           "link": "https://www.youtube.com/watch?v=0y020ySk_pc",
           "videoId": "0y020ySk_pc",
@@ -95,12 +101,6 @@
           "link": "https://www.youtube.com/watch?v=hMLdVDtHVNg",
           "videoId": "hMLdVDtHVNg",
           "pubDate": "2026-04-22T14:01:17+00:00"
-        },
-        {
-          "title": "الصين بتهز عرش ChatGPT: مراجعة Kimi k2.6 الخارق.. أرقام مرعبة وتجربة صادمة!",
-          "link": "https://www.youtube.com/watch?v=Td-UeyF_S_w",
-          "videoId": "Td-UeyF_S_w",
-          "pubDate": "2026-04-21T14:15:04+00:00"
         }
       ],
       "ok": true
@@ -293,7 +293,7 @@
       "feedTitle": "تكنوفلاش – AI & Tech",
       "items": [
         {
-          "title": "وداعاً لبرامج التصميم! استوديو VisualGPT: أداة AI واحدة تفعل كل شيء (بدون خبرة) seedance 2",
+          "title": "تعلم تصنع AI Influencer قبل ما يفوتك الترند 🚨  و  السر وراء صناعة شخصيات (AI Influencers)",
           "link": "https://www.youtube.com/watch?v=Kb0csVcNsZA",
           "videoId": "Kb0csVcNsZA",
           "pubDate": "2026-04-24T11:00:21+00:00"
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "منذ سن السادسة وهي تعاني من الصداع النصفي.. امرأة تجد علاجها في البوتوكس",
+          "link": "https://www.youtube.com/watch?v=2s06FEwPh7c",
+          "videoId": "2s06FEwPh7c",
+          "pubDate": "2026-04-24T14:00:01+00:00"
+        },
+        {
+          "title": "لماذا لجأ الصهيوني\"شتيرن\" إلى هتلر؟",
+          "link": "https://www.youtube.com/watch?v=ZVwgvGgTu04",
+          "videoId": "ZVwgvGgTu04",
+          "pubDate": "2026-04-24T13:00:01+00:00"
+        },
+        {
           "title": "\"الحجر لا يحقن\" نحات أوقف خطة اليونسكو لترميم أبو الهول",
           "link": "https://www.youtube.com/watch?v=d2a2SA8oHpE",
           "videoId": "d2a2SA8oHpE",
           "pubDate": "2026-04-24T12:00:01+00:00"
-        },
-        {
-          "title": "قبضوا عليه ثم تكفلوا بعلاج زوجته",
-          "link": "https://www.youtube.com/watch?v=p9HqxDy7Na4",
-          "videoId": "p9HqxDy7Na4",
-          "pubDate": "2026-04-24T10:06:29+00:00"
-        },
-        {
-          "title": "زراعة المرجان.. حل مبتكر لمواجهة ظاهرة موت الشعاب المرجانية",
-          "link": "https://www.youtube.com/watch?v=1prTOZi0SEA",
-          "videoId": "1prTOZi0SEA",
-          "pubDate": "2026-04-23T20:30:02+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "هل تدعم جورجيا ميلوني أوكرانيا؟",
+          "link": "https://www.youtube.com/watch?v=6IMpFGBimWI",
+          "videoId": "6IMpFGBimWI",
+          "pubDate": "2026-04-24T13:43:28+00:00"
+        },
         {
           "title": "\"يد الرب\"",
           "link": "https://www.youtube.com/watch?v=4AWQFSLnU14",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=KMojnfafW6Q",
           "videoId": "KMojnfafW6Q",
           "pubDate": "2026-04-23T21:30:22+00:00"
-        },
-        {
-          "title": "تيتانيك بالألوان: رحلة بناء السفينة الأسطورية وقصص من خلف الكواليس",
-          "link": "https://www.youtube.com/watch?v=Hf2INyI9ATw",
-          "videoId": "Hf2INyI9ATw",
-          "pubDate": "2026-04-23T21:21:50+00:00"
         }
       ],
       "ok": true
