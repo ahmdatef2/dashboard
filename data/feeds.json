@@ -1,11 +1,17 @@
 {
-  "updated": "2026-04-24T18:33:32.750027+00:00",
+  "updated": "2026-04-24T19:41:34.177946+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
       "name": "د. هبة أحمد",
       "feedTitle": "Heba Ahmed - هبة احمد",
       "items": [
+        {
+          "title": "إطلاق DeepSeek V4… النموذج اللي هيغيّر سباق الذكاء الاصطناعي؟",
+          "link": "https://www.youtube.com/watch?v=O_PsdrOR7Bw",
+          "videoId": "O_PsdrOR7Bw",
+          "pubDate": "2026-04-24T18:42:00+00:00"
+        },
         {
           "title": "Claude دخل Microsoft Word أخيرًا | جربت الإضافة الجديدة",
           "link": "https://www.youtube.com/watch?v=_YKsTILD05w",
@@ -17,12 +23,6 @@
           "link": "https://www.youtube.com/watch?v=FlAO1TYpNYU",
           "videoId": "FlAO1TYpNYU",
           "pubDate": "2026-04-19T17:20:37+00:00"
-        },
-        {
-          "title": "Claude Design: هل هيقلب مجال التصميم فعلًا؟",
-          "link": "https://www.youtube.com/watch?v=_v4vfu1zBXU",
-          "videoId": "_v4vfu1zBXU",
-          "pubDate": "2026-04-18T16:53:05+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "نرمي أنفسنا في الثلج ونتوقف عن التفكير",
+          "link": "https://www.youtube.com/watch?v=vVvae8PIMgw",
+          "videoId": "vVvae8PIMgw",
+          "pubDate": "2026-04-24T19:00:01+00:00"
+        },
+        {
           "title": "هكذا تقوي مناعتك عبر \"حمام الغابة\"",
           "link": "https://www.youtube.com/watch?v=r833Jy3BtoM",
           "videoId": "r833Jy3BtoM",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=S1r7NSqckes",
           "videoId": "S1r7NSqckes",
           "pubDate": "2026-04-24T17:15:02+00:00"
-        },
-        {
-          "title": "رد فعل عفوي لرجل مغربي يستحم في أحضان الطبيعة",
-          "link": "https://www.youtube.com/watch?v=XKU_saVOdpg",
-          "videoId": "XKU_saVOdpg",
-          "pubDate": "2026-04-24T17:00:02+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "إرنستو تشي غيفارا",
+          "link": "https://www.youtube.com/watch?v=MC22qeFTh9k",
+          "videoId": "MC22qeFTh9k",
+          "pubDate": "2026-04-24T19:00:21+00:00"
+        },
         {
           "title": "هل تدعم جورجيا ميلوني أوكرانيا؟",
           "link": "https://www.youtube.com/watch?v=6IMpFGBimWI",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=KMojnfafW6Q",
           "videoId": "KMojnfafW6Q",
           "pubDate": "2026-04-23T21:30:22+00:00"
-        },
-        {
-          "title": "تيتانيك بالألوان: رحلة بناء السفينة الأسطورية وقصص من خلف الكواليس",
-          "link": "https://www.youtube.com/watch?v=Hf2INyI9ATw",
-          "videoId": "Hf2INyI9ATw",
-          "pubDate": "2026-04-23T21:21:50+00:00"
         }
       ],
       "ok": true
