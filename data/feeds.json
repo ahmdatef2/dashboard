@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-24T19:41:34.177946+00:00",
+  "updated": "2026-04-24T20:33:11.169689+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -501,6 +501,12 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "تيتانيك بالألوان : الساعات الأخيرة قبل الكارثة التي صدمت العالم",
+          "link": "https://www.youtube.com/watch?v=ukwbtBAVXDc",
+          "videoId": "ukwbtBAVXDc",
+          "pubDate": "2026-04-24T20:00:42+00:00"
+        },
+        {
           "title": "إرنستو تشي غيفارا",
           "link": "https://www.youtube.com/watch?v=MC22qeFTh9k",
           "videoId": "MC22qeFTh9k",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=6IMpFGBimWI",
           "videoId": "6IMpFGBimWI",
           "pubDate": "2026-04-24T13:43:28+00:00"
-        },
-        {
-          "title": "الشقيقتان ويليامز",
-          "link": "https://www.youtube.com/watch?v=KMojnfafW6Q",
-          "videoId": "KMojnfafW6Q",
-          "pubDate": "2026-04-23T21:30:22+00:00"
         }
       ],
       "ok": true
@@ -526,6 +526,12 @@
       "name": "ناشيونال جيوغرافيك",
       "feedTitle": "Nat Geo Abu Dhabi",
       "items": [
+        {
+          "title": "تاكيون | إعادة بناء مدينة بارادايس | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=tp5UNRB_t-M",
+          "videoId": "tp5UNRB_t-M",
+          "pubDate": "2026-04-24T19:46:56+00:00"
+        },
         {
           "title": "شعب الحاجز العظيم المرجانية | اكتشاف عالم المحيطات | ناشونال جيوغرافيك أبوظبي",
           "link": "https://www.youtube.com/watch?v=CaFIHErTzWA",
@@ -537,12 +543,6 @@
           "link": "https://www.youtube.com/watch?v=1kFnrmbcUXg",
           "videoId": "1kFnrmbcUXg",
           "pubDate": "2026-04-21T12:23:22+00:00"
-        },
-        {
-          "title": "يُعرض 22 أبريل | الدلافين عن قرب مع بيرتي جريجوري | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=meGKdtvZnuk",
-          "videoId": "meGKdtvZnuk",
-          "pubDate": "2026-04-21T12:21:22+00:00"
         }
       ],
       "ok": true
