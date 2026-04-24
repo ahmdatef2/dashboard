@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-24T20:33:11.169689+00:00",
+  "updated": "2026-04-24T21:36:27.373174+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "مخرجة شابة حولت مسيرة كيانو ريفز نحو الأكشن",
+          "link": "https://www.youtube.com/watch?v=qVXwCMVFYYw",
+          "videoId": "qVXwCMVFYYw",
+          "pubDate": "2026-04-24T20:30:01+00:00"
+        },
+        {
           "title": "نرمي أنفسنا في الثلج ونتوقف عن التفكير",
           "link": "https://www.youtube.com/watch?v=vVvae8PIMgw",
           "videoId": "vVvae8PIMgw",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=r833Jy3BtoM",
           "videoId": "r833Jy3BtoM",
           "pubDate": "2026-04-24T18:00:00+00:00"
-        },
-        {
-          "title": "أخوات الأرض .. بذور المشاركة | كيف تقود نساء بولندا ثورة بيئية صامتة؟",
-          "link": "https://www.youtube.com/watch?v=S1r7NSqckes",
-          "videoId": "S1r7NSqckes",
-          "pubDate": "2026-04-24T17:15:02+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "تجارة النوبال في المكسيك",
+          "link": "https://www.youtube.com/watch?v=fX86fNy4jpI",
+          "videoId": "fX86fNy4jpI",
+          "pubDate": "2026-04-24T21:00:28+00:00"
+        },
         {
           "title": "تيتانيك بالألوان : الساعات الأخيرة قبل الكارثة التي صدمت العالم",
           "link": "https://www.youtube.com/watch?v=ukwbtBAVXDc",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=MC22qeFTh9k",
           "videoId": "MC22qeFTh9k",
           "pubDate": "2026-04-24T19:00:21+00:00"
-        },
-        {
-          "title": "هل تدعم جورجيا ميلوني أوكرانيا؟",
-          "link": "https://www.youtube.com/watch?v=6IMpFGBimWI",
-          "videoId": "6IMpFGBimWI",
-          "pubDate": "2026-04-24T13:43:28+00:00"
         }
       ],
       "ok": true
