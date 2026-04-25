@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-25T10:32:02.839178+00:00",
+  "updated": "2026-04-25T11:28:50.475142+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -111,6 +111,12 @@
       "feedTitle": "AMR SALEM _ عمرو سالم",
       "items": [
         {
+          "title": "DeepSeek V4 . من افضل النماذج مفتوحة المصدر",
+          "link": "https://www.youtube.com/watch?v=GhKTE8s4RiA",
+          "videoId": "GhKTE8s4RiA",
+          "pubDate": "2026-04-25T11:00:20+00:00"
+        },
+        {
           "title": "اهم ميزة في gpt image 2.0 | نموذج خااارق",
           "link": "https://www.youtube.com/watch?v=2Q3I8qmxxgY",
           "videoId": "2Q3I8qmxxgY",
@@ -121,12 +127,6 @@
           "link": "https://www.youtube.com/watch?v=5TFk0cHqLJk",
           "videoId": "5TFk0cHqLJk",
           "pubDate": "2026-04-21T08:34:30+00:00"
-        },
-        {
-          "title": "اصنع تطبيق لعمل فيديوهات شورتس لقراءة القران باصوات اشهر الشيوخ . بالذكاء الاصطناعي",
-          "link": "https://www.youtube.com/watch?v=k1B6xLL7JgI",
-          "videoId": "k1B6xLL7JgI",
-          "pubDate": "2026-04-20T12:01:25+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "نجا من إعصار مرعب وكان هذا أول ما فعله",
+          "link": "https://www.youtube.com/watch?v=zqJPGlbcric",
+          "videoId": "zqJPGlbcric",
+          "pubDate": "2026-04-25T11:00:01+00:00"
+        },
+        {
           "title": "كيف تشكلت القدود الحلبية بين الديني والدنيوي؟",
           "link": "https://www.youtube.com/watch?v=kMA76KUSgco",
           "videoId": "kMA76KUSgco",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=b6RsukEeYTg",
           "videoId": "b6RsukEeYTg",
           "pubDate": "2026-04-25T08:00:01+00:00"
-        },
-        {
-          "title": "مخرجة شابة حولت مسيرة كيانو ريفز نحو الأكشن",
-          "link": "https://www.youtube.com/watch?v=qVXwCMVFYYw",
-          "videoId": "qVXwCMVFYYw",
-          "pubDate": "2026-04-24T20:30:01+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "من يملك الطاقة... يملك القوة",
+          "link": "https://www.youtube.com/watch?v=U_Eu-3KXBUg",
+          "videoId": "U_Eu-3KXBUg",
+          "pubDate": "2026-04-25T10:51:14+00:00"
+        },
         {
           "title": "تجارة النوبال في المكسيك",
           "link": "https://www.youtube.com/watch?v=fX86fNy4jpI",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=ukwbtBAVXDc",
           "videoId": "ukwbtBAVXDc",
           "pubDate": "2026-04-24T20:00:42+00:00"
-        },
-        {
-          "title": "إرنستو تشي غيفارا",
-          "link": "https://www.youtube.com/watch?v=MC22qeFTh9k",
-          "videoId": "MC22qeFTh9k",
-          "pubDate": "2026-04-24T19:00:21+00:00"
         }
       ],
       "ok": true
