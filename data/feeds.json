@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-25T09:39:32.349670+00:00",
+  "updated": "2026-04-25T10:32:02.839178+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -241,7 +241,7 @@
       "feedTitle": "مدرسة الذكاء الاصطناعي",
       "items": [
         {
-          "title": "ازاي حولت برومت الى أداة فيديوهات بالذكاء الاصطناعي",
+          "title": "وداعا افترايفكت ؟ أداة ذكاء اصطناعي بتعمل فيديوهات موشن جرافيكس بضغطة زر",
           "link": "https://www.youtube.com/watch?v=yMb7sr_0-YM",
           "videoId": "yMb7sr_0-YM",
           "pubDate": "2026-04-23T20:43:26+00:00"
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "كيف تشكلت القدود الحلبية بين الديني والدنيوي؟",
+          "link": "https://www.youtube.com/watch?v=kMA76KUSgco",
+          "videoId": "kMA76KUSgco",
+          "pubDate": "2026-04-25T10:00:01+00:00"
+        },
+        {
           "title": "على وشك بتر ساقه وهذا ما قاله لزوجته",
           "link": "https://www.youtube.com/watch?v=b6RsukEeYTg",
           "videoId": "b6RsukEeYTg",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=qVXwCMVFYYw",
           "videoId": "qVXwCMVFYYw",
           "pubDate": "2026-04-24T20:30:01+00:00"
-        },
-        {
-          "title": "نرمي أنفسنا في الثلج ونتوقف عن التفكير",
-          "link": "https://www.youtube.com/watch?v=vVvae8PIMgw",
-          "videoId": "vVvae8PIMgw",
-          "pubDate": "2026-04-24T19:00:01+00:00"
         }
       ],
       "ok": true
