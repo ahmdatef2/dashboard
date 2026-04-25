@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-25T04:25:05.959665+00:00",
+  "updated": "2026-04-25T06:13:08.790254+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -319,6 +319,12 @@
       "feedTitle": "خير جليس",
       "items": [
         {
+          "title": "تجنّب الإفراط في الالتزام  - من كتاب عادة التدريب",
+          "link": "https://www.youtube.com/watch?v=jn3wCge-sng",
+          "videoId": "jn3wCge-sng",
+          "pubDate": "2026-04-25T06:00:36+00:00"
+        },
+        {
           "title": "حدّد المشكلة الحقيقية  - من كتاب عادة التدريب",
           "link": "https://www.youtube.com/watch?v=bmR5EjB3iFQ",
           "videoId": "bmR5EjB3iFQ",
@@ -329,12 +335,6 @@
           "link": "https://www.youtube.com/watch?v=3tHeVczbJoo",
           "videoId": "3tHeVczbJoo",
           "pubDate": "2026-04-23T06:00:05+00:00"
-        },
-        {
-          "title": "الأسئلة القوية تفتح التفكير  - من كتاب عادة التدريب",
-          "link": "https://www.youtube.com/watch?v=gaVIXR7PfXM",
-          "videoId": "gaVIXR7PfXM",
-          "pubDate": "2026-04-23T04:57:41+00:00"
         }
       ],
       "ok": true
