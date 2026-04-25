@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-25T11:28:50.475142+00:00",
+  "updated": "2026-04-25T12:33:46.251580+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -241,7 +241,7 @@
       "feedTitle": "مدرسة الذكاء الاصطناعي",
       "items": [
         {
-          "title": "وداعا افترايفكت ؟ أداة ذكاء اصطناعي بتعمل فيديوهات موشن جرافيكس بضغطة زر",
+          "title": "وداعا After Effects ؟ أداة ذكاء اصطناعي بتعمل فيديوهات موشن جرافيكس بضغطة زر",
           "link": "https://www.youtube.com/watch?v=yMb7sr_0-YM",
           "videoId": "yMb7sr_0-YM",
           "pubDate": "2026-04-23T20:43:26+00:00"
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "طبيبة تبحث عن مرضاها في درجة حرارة -45 تحت الصفر",
+          "link": "https://www.youtube.com/watch?v=fpYIoMMInJc",
+          "videoId": "fpYIoMMInJc",
+          "pubDate": "2026-04-25T12:00:01+00:00"
+        },
+        {
           "title": "نجا من إعصار مرعب وكان هذا أول ما فعله",
           "link": "https://www.youtube.com/watch?v=zqJPGlbcric",
           "videoId": "zqJPGlbcric",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=kMA76KUSgco",
           "videoId": "kMA76KUSgco",
           "pubDate": "2026-04-25T10:00:01+00:00"
-        },
-        {
-          "title": "على وشك بتر ساقه وهذا ما قاله لزوجته",
-          "link": "https://www.youtube.com/watch?v=b6RsukEeYTg",
-          "videoId": "b6RsukEeYTg",
-          "pubDate": "2026-04-25T08:00:01+00:00"
         }
       ],
       "ok": true
