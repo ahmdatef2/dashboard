@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-25T07:57:23.346720+00:00",
+  "updated": "2026-04-25T08:43:33.244126+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "على وشك بتر ساقه وهذا ما قاله لزوجته",
+          "link": "https://www.youtube.com/watch?v=b6RsukEeYTg",
+          "videoId": "b6RsukEeYTg",
+          "pubDate": "2026-04-25T08:00:01+00:00"
+        },
+        {
           "title": "مخرجة شابة حولت مسيرة كيانو ريفز نحو الأكشن",
           "link": "https://www.youtube.com/watch?v=qVXwCMVFYYw",
           "videoId": "qVXwCMVFYYw",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=vVvae8PIMgw",
           "videoId": "vVvae8PIMgw",
           "pubDate": "2026-04-24T19:00:01+00:00"
-        },
-        {
-          "title": "هكذا تقوي مناعتك عبر \"حمام الغابة\"",
-          "link": "https://www.youtube.com/watch?v=r833Jy3BtoM",
-          "videoId": "r833Jy3BtoM",
-          "pubDate": "2026-04-24T18:00:00+00:00"
         }
       ],
       "ok": true
