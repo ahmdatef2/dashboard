@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-25T16:26:58.922058+00:00",
+  "updated": "2026-04-25T17:28:20.590514+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -553,6 +553,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "وثائقي | هلسنكي 1975: المؤتمر الذي أنهى الحرب الباردة | وثائقية دي دبليو",
+          "link": "https://www.youtube.com/watch?v=zVoBrvlAxok",
+          "videoId": "zVoBrvlAxok",
+          "pubDate": "2026-04-25T17:01:10+00:00"
+        },
+        {
           "title": "وثائقي | الاستعمار الأخضر في أفريقيا: جدل حماية الحيوان وإقصاء الشعوب الأصلية | وثائقية دي دبليو",
           "link": "https://www.youtube.com/watch?v=hAzW8hjEx2I",
           "videoId": "hAzW8hjEx2I",
@@ -563,12 +569,6 @@
           "link": "https://www.youtube.com/watch?v=wxA0eKaNxvw",
           "videoId": "wxA0eKaNxvw",
           "pubDate": "2026-04-22T11:29:24+00:00"
-        },
-        {
-          "title": "وثائقي |  أزمة السكن في لشبونة | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=TKydrZXvuQE",
-          "videoId": "TKydrZXvuQE",
-          "pubDate": "2026-04-21T17:00:45+00:00"
         }
       ],
       "ok": true
