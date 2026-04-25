@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-25T19:35:42.794524+00:00",
+  "updated": "2026-04-25T20:24:48.744484+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -215,6 +215,12 @@
       "feedTitle": "Mohamed Ansary",
       "items": [
         {
+          "title": "قدرات النموذج العملاق بعد التحديث الأخيروعودة لمنافسة العمالقة | Deepseek V4",
+          "link": "https://www.youtube.com/watch?v=bjrxjmFJfyA",
+          "videoId": "bjrxjmFJfyA",
+          "pubDate": "2026-04-25T19:57:05+00:00"
+        },
+        {
           "title": "النموذج الأقوى لتوليد الصور من تشات جي بي تي يتفوق على نانو بنانا | ChatGPT Image 2.0",
           "link": "https://www.youtube.com/watch?v=bCHPhV_7vXY",
           "videoId": "bCHPhV_7vXY",
@@ -225,12 +231,6 @@
           "link": "https://www.youtube.com/watch?v=_BbGCBO4xIs",
           "videoId": "_BbGCBO4xIs",
           "pubDate": "2026-04-23T12:02:29+00:00"
-        },
-        {
-          "title": "كيفية تفعيل خاصية الدوبلاج على اليوتيوب",
-          "link": "https://www.youtube.com/watch?v=-sVGBMSoI9o",
-          "videoId": "-sVGBMSoI9o",
-          "pubDate": "2026-04-22T12:14:22+00:00"
         }
       ],
       "ok": true
@@ -501,6 +501,12 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "كانجي إيشيوارا.. الرجل الذي أشعل الحـ رب | الشرق الوثائقية",
+          "link": "https://www.youtube.com/watch?v=fkyYTzytz7M",
+          "videoId": "fkyYTzytz7M",
+          "pubDate": "2026-04-25T20:00:23+00:00"
+        },
+        {
           "title": "من يملك الطاقة... يملك القوة",
           "link": "https://www.youtube.com/watch?v=U_Eu-3KXBUg",
           "videoId": "U_Eu-3KXBUg",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=ukwbtBAVXDc",
           "videoId": "ukwbtBAVXDc",
           "pubDate": "2026-04-24T20:00:42+00:00"
-        },
-        {
-          "title": "إرنستو تشي غيفارا",
-          "link": "https://www.youtube.com/watch?v=MC22qeFTh9k",
-          "videoId": "MC22qeFTh9k",
-          "pubDate": "2026-04-24T19:00:21+00:00"
         }
       ],
       "ok": true
@@ -526,6 +526,12 @@
       "name": "ناشيونال جيوغرافيك",
       "feedTitle": "Nat Geo Abu Dhabi",
       "items": [
+        {
+          "title": "الحلقة الكملة | الجليد الأخير | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=jDXLWWsbpRk",
+          "videoId": "jDXLWWsbpRk",
+          "pubDate": "2026-04-25T19:49:10+00:00"
+        },
         {
           "title": "تاكيون | إعادة بناء مدينة بارادايس | ناشونال جيوغرافيك أبوظبي",
           "link": "https://www.youtube.com/watch?v=tp5UNRB_t-M",
@@ -537,12 +543,6 @@
           "link": "https://www.youtube.com/watch?v=CaFIHErTzWA",
           "videoId": "CaFIHErTzWA",
           "pubDate": "2026-04-22T19:56:03+00:00"
-        },
-        {
-          "title": "يُعرض 22 أبريل | الدلافين عن قرب مع بيرتي جريجوري | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=1kFnrmbcUXg",
-          "videoId": "1kFnrmbcUXg",
-          "pubDate": "2026-04-21T12:23:22+00:00"
         }
       ],
       "ok": true
