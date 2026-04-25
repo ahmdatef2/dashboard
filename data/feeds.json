@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-25T15:29:16.367941+00:00",
+  "updated": "2026-04-25T16:26:58.922058+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -85,6 +85,12 @@
       "feedTitle": "عبداللطيف سعيد Abdellatif Said",
       "items": [
         {
+          "title": "الوحش الصيني DeepSeek V4.. أرخص وأقوى بديل لـ ChatGPT؟ (تجربة برمجية صدمتني!)",
+          "link": "https://www.youtube.com/watch?v=SOluZdzF_mw",
+          "videoId": "SOluZdzF_mw",
+          "pubDate": "2026-04-25T15:31:52+00:00"
+        },
+        {
           "title": "وداعاً للدردشة العادية.. GPT-5.5 وصل وبقى \"موظف\" بينفذ كل مهامك!",
           "link": "https://www.youtube.com/watch?v=JI2VQ2FlBvI",
           "videoId": "JI2VQ2FlBvI",
@@ -95,12 +101,6 @@
           "link": "https://www.youtube.com/watch?v=0y020ySk_pc",
           "videoId": "0y020ySk_pc",
           "pubDate": "2026-04-23T14:00:02+00:00"
-        },
-        {
-          "title": "نهاية Nano Banana؟ التحديث الجديد ChatGPT Image 2 يكتسح في الواقعية وكتابة العربي!",
-          "link": "https://www.youtube.com/watch?v=hMLdVDtHVNg",
-          "videoId": "hMLdVDtHVNg",
-          "pubDate": "2026-04-22T14:01:17+00:00"
         }
       ],
       "ok": true
@@ -267,6 +267,12 @@
       "feedTitle": "أكاديمية ريان | Ryan Academy",
       "items": [
         {
+          "title": "ازاي تاخد API Key مجاني من Groq (Llama + Qwen + Whisper) (بدون كارت) 🔥",
+          "link": "https://www.youtube.com/watch?v=Zbxb8kZDirU",
+          "videoId": "Zbxb8kZDirU",
+          "pubDate": "2026-04-25T16:01:01+00:00"
+        },
+        {
           "title": "الوحش الصيني في البرمجة والمهام العادية 🥊 تحدي برمجة لـ MiniMax M2.7 API النتيجة صدمة!",
           "link": "https://www.youtube.com/watch?v=1reXIi0sT4g",
           "videoId": "1reXIi0sT4g",
@@ -277,12 +283,6 @@
           "link": "https://www.youtube.com/watch?v=q3iErPRZe3Q",
           "videoId": "q3iErPRZe3Q",
           "pubDate": "2026-04-19T17:01:04+00:00"
-        },
-        {
-          "title": "احصل على API Keys مجانية وفرصة للحصول علي رصيد بقيمة 200k مجانا (Claude – OpenAI – Gemini) Bytez",
-          "link": "https://www.youtube.com/watch?v=ObnF3iqBY4E",
-          "videoId": "ObnF3iqBY4E",
-          "pubDate": "2026-04-17T17:00:28+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "الفياتو.. كلمة سر الغناء الأوبرالي",
+          "link": "https://www.youtube.com/watch?v=3EtycCNkayc",
+          "videoId": "3EtycCNkayc",
+          "pubDate": "2026-04-25T16:00:01+00:00"
+        },
+        {
           "title": "\"عائد إليكم\" دمشق التي سكنت قلب نزار قباني",
           "link": "https://www.youtube.com/watch?v=tvoLBhP3BTU",
           "videoId": "tvoLBhP3BTU",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=fpYIoMMInJc",
           "videoId": "fpYIoMMInJc",
           "pubDate": "2026-04-25T12:00:01+00:00"
-        },
-        {
-          "title": "نجا من إعصار مرعب وكان هذا أول ما فعله",
-          "link": "https://www.youtube.com/watch?v=zqJPGlbcric",
-          "videoId": "zqJPGlbcric",
-          "pubDate": "2026-04-25T11:00:01+00:00"
         }
       ],
       "ok": true
