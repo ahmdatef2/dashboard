@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-25T17:28:20.590514+00:00",
+  "updated": "2026-04-25T18:31:55.374610+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "محكمة من أجل المناخ.. معركة قانونية تاريخية ضد تقاعس الحكومات",
+          "link": "https://www.youtube.com/watch?v=PLzfO1YoRtk",
+          "videoId": "PLzfO1YoRtk",
+          "pubDate": "2026-04-25T18:15:07+00:00"
+        },
+        {
+          "title": "سواكن الجزيرة السودانية التي احتضنت بيوت التجار الأثرياء الوافدين من كل بلد",
+          "link": "https://www.youtube.com/watch?v=0gPTpauCEj8",
+          "videoId": "0gPTpauCEj8",
+          "pubDate": "2026-04-25T18:00:01+00:00"
+        },
+        {
           "title": "الفياتو.. كلمة سر الغناء الأوبرالي",
           "link": "https://www.youtube.com/watch?v=3EtycCNkayc",
           "videoId": "3EtycCNkayc",
           "pubDate": "2026-04-25T16:00:01+00:00"
-        },
-        {
-          "title": "\"عائد إليكم\" دمشق التي سكنت قلب نزار قباني",
-          "link": "https://www.youtube.com/watch?v=tvoLBhP3BTU",
-          "videoId": "tvoLBhP3BTU",
-          "pubDate": "2026-04-25T14:00:02+00:00"
-        },
-        {
-          "title": "طبيبة تبحث عن مرضاها في درجة حرارة -45 تحت الصفر",
-          "link": "https://www.youtube.com/watch?v=fpYIoMMInJc",
-          "videoId": "fpYIoMMInJc",
-          "pubDate": "2026-04-25T12:00:01+00:00"
         }
       ],
       "ok": true
