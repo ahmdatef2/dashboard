@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-25T20:24:48.744484+00:00",
+  "updated": "2026-04-25T21:24:27.036786+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "أوقفتها الشرطة… فاتصلت بوالدها تضحك",
+          "link": "https://www.youtube.com/watch?v=ujVAjWMvST0",
+          "videoId": "ujVAjWMvST0",
+          "pubDate": "2026-04-25T20:30:02+00:00"
+        },
+        {
           "title": "اللبؤات تذهب للعمل والأشبال تقضي نهارها في الروضة",
           "link": "https://www.youtube.com/watch?v=_3EQyvz7Few",
           "videoId": "_3EQyvz7Few",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=PLzfO1YoRtk",
           "videoId": "PLzfO1YoRtk",
           "pubDate": "2026-04-25T18:15:07+00:00"
-        },
-        {
-          "title": "سواكن الجزيرة السودانية التي احتضنت بيوت التجار الأثرياء الوافدين من كل بلد",
-          "link": "https://www.youtube.com/watch?v=0gPTpauCEj8",
-          "videoId": "0gPTpauCEj8",
-          "pubDate": "2026-04-25T18:00:01+00:00"
         }
       ],
       "ok": true
