@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-26T12:35:27.483242+00:00",
+  "updated": "2026-04-26T13:56:51.975964+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -319,6 +319,12 @@
       "feedTitle": "خير جليس",
       "items": [
         {
+          "title": "ابنِ ثقافة التدريب  - من كتاب عادة التدريب",
+          "link": "https://www.youtube.com/watch?v=jAN588g6xGM",
+          "videoId": "jAN588g6xGM",
+          "pubDate": "2026-04-26T13:01:13+00:00"
+        },
+        {
           "title": "المحادثات الصغيرة تصنع تأثيرًا كبيرًا  - من كتاب عادة التدريب",
           "link": "https://www.youtube.com/watch?v=MxRmUWp-7UI",
           "videoId": "MxRmUWp-7UI",
@@ -329,12 +335,6 @@
           "link": "https://www.youtube.com/watch?v=jn3wCge-sng",
           "videoId": "jn3wCge-sng",
           "pubDate": "2026-04-25T06:00:36+00:00"
-        },
-        {
-          "title": "حدّد المشكلة الحقيقية  - من كتاب عادة التدريب",
-          "link": "https://www.youtube.com/watch?v=bmR5EjB3iFQ",
-          "videoId": "bmR5EjB3iFQ",
-          "pubDate": "2026-04-24T06:00:22+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "ما سر طول الهولنديين؟",
+          "link": "https://www.youtube.com/watch?v=NDB88hogVPo",
+          "videoId": "NDB88hogVPo",
+          "pubDate": "2026-04-26T13:00:01+00:00"
+        },
+        {
           "title": "تغيير الجينات البشرية: الخطر الذي يهددنا!",
           "link": "https://www.youtube.com/watch?v=SYS_O2vefYY",
           "videoId": "SYS_O2vefYY",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=CqS7A1NwjcU",
           "videoId": "CqS7A1NwjcU",
           "pubDate": "2026-04-26T10:42:41+00:00"
-        },
-        {
-          "title": "أم وابن ضحيتان لصدمة بدأت داخل المدارس الداخلية في كندا",
-          "link": "https://www.youtube.com/watch?v=P-oXIU7gRSY",
-          "videoId": "P-oXIU7gRSY",
-          "pubDate": "2026-04-26T08:13:29+00:00"
         }
       ],
       "ok": true
