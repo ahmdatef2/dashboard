@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-26T19:37:23.214992+00:00",
+  "updated": "2026-04-26T20:24:53.339008+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -501,6 +501,12 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "تدهور البنى التحتية في نيويورك | الشرق الوثائقية",
+          "link": "https://www.youtube.com/watch?v=OuhjwmfSr24",
+          "videoId": "OuhjwmfSr24",
+          "pubDate": "2026-04-26T20:00:15+00:00"
+        },
+        {
           "title": "قرية جاركوت في نيبال",
           "link": "https://www.youtube.com/watch?v=TN8Y12RRky0",
           "videoId": "TN8Y12RRky0",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=W5SYV-9LrfM",
           "videoId": "W5SYV-9LrfM",
           "pubDate": "2026-04-26T16:26:33+00:00"
-        },
-        {
-          "title": "نقل البضائع بين الماضي والحاضر",
-          "link": "https://www.youtube.com/watch?v=SQVlGfYbN0o",
-          "videoId": "SQVlGfYbN0o",
-          "pubDate": "2026-04-26T14:31:03+00:00"
         }
       ],
       "ok": true
