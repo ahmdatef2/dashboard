@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-26T08:09:00.532927+00:00",
+  "updated": "2026-04-26T09:41:03.442137+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -215,6 +215,12 @@
       "feedTitle": "Mohamed Ansary",
       "items": [
         {
+          "title": "ChatGPT Image 2.0: النموذج الأقوى لتوليد الصور بالذكاء الاصطناعي",
+          "link": "https://www.youtube.com/watch?v=yVPgmdQqhw4",
+          "videoId": "yVPgmdQqhw4",
+          "pubDate": "2026-04-26T08:16:32+00:00"
+        },
+        {
           "title": "قدرات النموذج العملاق بعد التحديث الأخيروعودة لمنافسة العمالقة | Deepseek V4",
           "link": "https://www.youtube.com/watch?v=bjrxjmFJfyA",
           "videoId": "bjrxjmFJfyA",
@@ -225,12 +231,6 @@
           "link": "https://www.youtube.com/watch?v=bCHPhV_7vXY",
           "videoId": "bCHPhV_7vXY",
           "pubDate": "2026-04-23T16:57:55+00:00"
-        },
-        {
-          "title": "التصميم بال AI.                             Claude Design",
-          "link": "https://www.youtube.com/watch?v=_BbGCBO4xIs",
-          "videoId": "_BbGCBO4xIs",
-          "pubDate": "2026-04-23T12:02:29+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "أم وابن ضحيتان لصدمة بدأت داخل المدارس الداخلية في كندا",
+          "link": "https://www.youtube.com/watch?v=P-oXIU7gRSY",
+          "videoId": "P-oXIU7gRSY",
+          "pubDate": "2026-04-26T08:13:29+00:00"
+        },
+        {
           "title": "الجلف الكبير- مصر",
           "link": "https://www.youtube.com/watch?v=qDOoEw-E6q0",
           "videoId": "qDOoEw-E6q0",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=ujVAjWMvST0",
           "videoId": "ujVAjWMvST0",
           "pubDate": "2026-04-25T20:30:02+00:00"
-        },
-        {
-          "title": "اللبؤات تذهب للعمل والأشبال تقضي نهارها في الروضة",
-          "link": "https://www.youtube.com/watch?v=_3EQyvz7Few",
-          "videoId": "_3EQyvz7Few",
-          "pubDate": "2026-04-25T19:00:01+00:00"
         }
       ],
       "ok": true
