@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-26T09:41:03.442137+00:00",
+  "updated": "2026-04-26T10:33:32.067355+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -111,6 +111,12 @@
       "feedTitle": "AMR SALEM _ عمرو سالم",
       "items": [
         {
+          "title": "استخدام Claude مجانا بالكامل مع الحوت الصيني deepseek v4 pro",
+          "link": "https://www.youtube.com/watch?v=Trqdq_T63Lk",
+          "videoId": "Trqdq_T63Lk",
+          "pubDate": "2026-04-26T09:51:14+00:00"
+        },
+        {
           "title": "DeepSeek V4 . من افضل النماذج مفتوحة المصدر",
           "link": "https://www.youtube.com/watch?v=GhKTE8s4RiA",
           "videoId": "GhKTE8s4RiA",
@@ -121,12 +127,6 @@
           "link": "https://www.youtube.com/watch?v=2Q3I8qmxxgY",
           "videoId": "2Q3I8qmxxgY",
           "pubDate": "2026-04-24T11:00:10+00:00"
-        },
-        {
-          "title": "Kimi K2.6 عملاق البرمجة مفتوح المصدر",
-          "link": "https://www.youtube.com/watch?v=5TFk0cHqLJk",
-          "videoId": "5TFk0cHqLJk",
-          "pubDate": "2026-04-21T08:34:30+00:00"
         }
       ],
       "ok": true
