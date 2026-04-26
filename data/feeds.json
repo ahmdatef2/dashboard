@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-26T20:24:53.339008+00:00",
+  "updated": "2026-04-26T21:25:55.295056+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "مثل الإنسان تماما.. رحلة الـ9 أشهر لنضج ثمار النخيل في السودان",
+          "link": "https://www.youtube.com/watch?v=pLlfeCWwFdw",
+          "videoId": "pLlfeCWwFdw",
+          "pubDate": "2026-04-26T20:30:01+00:00"
+        },
+        {
           "title": "أسطورة كرة السلة برواندا.. محاسب صباحا ورياضي محترف مساءا!",
           "link": "https://www.youtube.com/watch?v=ky-cOW16-2o",
           "videoId": "ky-cOW16-2o",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=R0HJ5zITU7M",
           "videoId": "R0HJ5zITU7M",
           "pubDate": "2026-04-26T18:00:00+00:00"
-        },
-        {
-          "title": "معاوية الصياصنة.. طفل من درعا قاد لسقوط نظام الأسد",
-          "link": "https://www.youtube.com/watch?v=ziXNIt32sA8",
-          "videoId": "ziXNIt32sA8",
-          "pubDate": "2026-04-26T16:00:01+00:00"
         }
       ],
       "ok": true
