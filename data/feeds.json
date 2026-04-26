@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-26T16:27:41.167300+00:00",
+  "updated": "2026-04-26T17:28:47.424797+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -501,6 +501,12 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "من أكثر طرق العالم السريعة ازدحاما",
+          "link": "https://www.youtube.com/watch?v=W5SYV-9LrfM",
+          "videoId": "W5SYV-9LrfM",
+          "pubDate": "2026-04-26T16:26:33+00:00"
+        },
+        {
           "title": "نقل البضائع بين الماضي والحاضر",
           "link": "https://www.youtube.com/watch?v=SQVlGfYbN0o",
           "videoId": "SQVlGfYbN0o",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=vRTEbQnudhg",
           "videoId": "vRTEbQnudhg",
           "pubDate": "2026-04-26T12:08:21+00:00"
-        },
-        {
-          "title": "عاصفة عنيفة ضربت نيوجيرسي",
-          "link": "https://www.youtube.com/watch?v=K-vLmGhw6T4",
-          "videoId": "K-vLmGhw6T4",
-          "pubDate": "2026-04-26T11:08:33+00:00"
         }
       ],
       "ok": true
@@ -553,6 +553,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "وثائقي | الصحفيون وجهاز الاستخبارات الألماني | وثائقية دي دبليو",
+          "link": "https://www.youtube.com/watch?v=sT82OsL0OlQ",
+          "videoId": "sT82OsL0OlQ",
+          "pubDate": "2026-04-26T17:01:05+00:00"
+        },
+        {
           "title": "وثائقي | مؤتمر هلسنكي 1975: كيف فاوضت قوى العالم على مستقبل العالم؟ | وثائقية دي دبليو",
           "link": "https://www.youtube.com/watch?v=zVoBrvlAxok",
           "videoId": "zVoBrvlAxok",
@@ -563,12 +569,6 @@
           "link": "https://www.youtube.com/watch?v=hAzW8hjEx2I",
           "videoId": "hAzW8hjEx2I",
           "pubDate": "2026-04-23T17:00:53+00:00"
-        },
-        {
-          "title": "كيف يعيش اللاجئون السودانيون في مخيمات الحدود؟",
-          "link": "https://www.youtube.com/watch?v=wxA0eKaNxvw",
-          "videoId": "wxA0eKaNxvw",
-          "pubDate": "2026-04-22T11:29:24+00:00"
         }
       ],
       "ok": true
