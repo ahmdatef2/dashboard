@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-26T13:56:51.975964+00:00",
+  "updated": "2026-04-26T14:37:21.554156+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -85,6 +85,12 @@
       "feedTitle": "عبداللطيف سعيد Abdellatif Said",
       "items": [
         {
+          "title": "ليه جوجل تدفع 40 مليار دولار لمنافسها؟ 🤯 السر المخفي وراء أذكى صفقة في الذكاء الاصطناعي!",
+          "link": "https://www.youtube.com/watch?v=9Rt_ri6Jd0s",
+          "videoId": "9Rt_ri6Jd0s",
+          "pubDate": "2026-04-26T14:00:24+00:00"
+        },
+        {
           "title": "الوحش الصيني DeepSeek V4.. أرخص وأقوى بديل لـ ChatGPT؟ (تجربة برمجية صدمتني!)",
           "link": "https://www.youtube.com/watch?v=SOluZdzF_mw",
           "videoId": "SOluZdzF_mw",
@@ -95,12 +101,6 @@
           "link": "https://www.youtube.com/watch?v=JI2VQ2FlBvI",
           "videoId": "JI2VQ2FlBvI",
           "pubDate": "2026-04-24T14:00:29+00:00"
-        },
-        {
-          "title": "بالدليل ومن غير تطبيل: أفضل ذكاء اصطناعي للكتابة بالعربي على الصور! (GPT Image 2 ضد Nano Banana 2)",
-          "link": "https://www.youtube.com/watch?v=0y020ySk_pc",
-          "videoId": "0y020ySk_pc",
-          "pubDate": "2026-04-23T14:00:02+00:00"
         }
       ],
       "ok": true
@@ -501,6 +501,12 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "نقل البضائع بين الماضي والحاضر",
+          "link": "https://www.youtube.com/watch?v=SQVlGfYbN0o",
+          "videoId": "SQVlGfYbN0o",
+          "pubDate": "2026-04-26T14:31:03+00:00"
+        },
+        {
           "title": "تتحرك الرياح حول الأرض نتيجة دورانها وتأثير اختلاف الضغط الجوي",
           "link": "https://www.youtube.com/watch?v=vRTEbQnudhg",
           "videoId": "vRTEbQnudhg",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=K-vLmGhw6T4",
           "videoId": "K-vLmGhw6T4",
           "pubDate": "2026-04-26T11:08:33+00:00"
-        },
-        {
-          "title": "كانجي إيشيوارا.. الرجل الذي أشعل الحـ رب | الشرق الوثائقية",
-          "link": "https://www.youtube.com/watch?v=fkyYTzytz7M",
-          "videoId": "fkyYTzytz7M",
-          "pubDate": "2026-04-25T20:00:23+00:00"
         }
       ],
       "ok": true
