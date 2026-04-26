@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-26T11:29:52.052277+00:00",
+  "updated": "2026-04-26T12:35:27.483242+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -501,6 +501,12 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "تتحرك الرياح حول الأرض نتيجة دورانها وتأثير اختلاف الضغط الجوي",
+          "link": "https://www.youtube.com/watch?v=vRTEbQnudhg",
+          "videoId": "vRTEbQnudhg",
+          "pubDate": "2026-04-26T12:08:21+00:00"
+        },
+        {
           "title": "عاصفة عنيفة ضربت نيوجيرسي",
           "link": "https://www.youtube.com/watch?v=K-vLmGhw6T4",
           "videoId": "K-vLmGhw6T4",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=fkyYTzytz7M",
           "videoId": "fkyYTzytz7M",
           "pubDate": "2026-04-25T20:00:23+00:00"
-        },
-        {
-          "title": "من يملك الطاقة... يملك القوة",
-          "link": "https://www.youtube.com/watch?v=U_Eu-3KXBUg",
-          "videoId": "U_Eu-3KXBUg",
-          "pubDate": "2026-04-25T10:51:14+00:00"
         }
       ],
       "ok": true
