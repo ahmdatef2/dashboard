@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-26T14:37:21.554156+00:00",
+  "updated": "2026-04-26T15:31:46.223101+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -371,6 +371,12 @@
       "feedTitle": "أخضر",
       "items": [
         {
+          "title": "حمّل تطبيق \"أخضر\" وشاهد جلسة أخضر مع د. محمد البيز",
+          "link": "https://www.youtube.com/watch?v=gWd9V0QZ-vI",
+          "videoId": "gWd9V0QZ-vI",
+          "pubDate": "2026-04-26T14:56:07+00:00"
+        },
+        {
           "title": "أنت في الوقت الضايع ⏰🚨 كتاب: أربعة آلاف أسبوع #أخضر",
           "link": "https://www.youtube.com/watch?v=VuxxGGFtNgo",
           "videoId": "VuxxGGFtNgo",
@@ -381,12 +387,6 @@
           "link": "https://www.youtube.com/watch?v=E-D3cz5wxUw",
           "videoId": "E-D3cz5wxUw",
           "pubDate": "2026-04-24T12:48:52+00:00"
-        },
-        {
-          "title": "هل النقد يمثل عيوبك، أم يعكس مشاكل من ينتقدك؟",
-          "link": "https://www.youtube.com/watch?v=m5xYLllSDf0",
-          "videoId": "m5xYLllSDf0",
-          "pubDate": "2026-04-23T15:56:27+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "قال لي: ذلك المرض… لم يجرؤ على تسميته",
+          "link": "https://www.youtube.com/watch?v=FA_c8eSOYTw",
+          "videoId": "FA_c8eSOYTw",
+          "pubDate": "2026-04-26T15:06:52+00:00"
+        },
+        {
           "title": "ما سر طول الهولنديين؟",
           "link": "https://www.youtube.com/watch?v=NDB88hogVPo",
           "videoId": "NDB88hogVPo",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=SYS_O2vefYY",
           "videoId": "SYS_O2vefYY",
           "pubDate": "2026-04-26T11:00:01+00:00"
-        },
-        {
-          "title": "أنس محمود.. لاعب الزمالك الذي يُنتظر منه الكثير",
-          "link": "https://www.youtube.com/watch?v=CqS7A1NwjcU",
-          "videoId": "CqS7A1NwjcU",
-          "pubDate": "2026-04-26T10:42:41+00:00"
         }
       ],
       "ok": true
