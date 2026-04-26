@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-26T17:28:47.424797+00:00",
+  "updated": "2026-04-26T18:32:37.695715+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -33,6 +33,12 @@
       "feedTitle": "كل يوم موقع جديد",
       "items": [
         {
+          "title": "GLM 5.1 ليس مجرد شات بوت… هذا وكيل AI كامل",
+          "link": "https://www.youtube.com/watch?v=RDUo4zb8Fbc",
+          "videoId": "RDUo4zb8Fbc",
+          "pubDate": "2026-04-26T18:22:42+00:00"
+        },
+        {
           "title": "عدّل صورك باحتراف باستخدام JSON Code داخل GPT-Image 2.0",
           "link": "https://www.youtube.com/watch?v=x-gUcZ87Zh0",
           "videoId": "x-gUcZ87Zh0",
@@ -43,12 +49,6 @@
           "link": "https://www.youtube.com/watch?v=msqBNKPUUWc",
           "videoId": "msqBNKPUUWc",
           "pubDate": "2026-04-22T17:23:39+00:00"
-        },
-        {
-          "title": "GLM 5.1  نموذج بقدرات رهيبة... 3  استخدامات تعرف عليهم الآن!",
-          "link": "https://www.youtube.com/watch?v=Rnxjadjn9Ow",
-          "videoId": "Rnxjadjn9Ow",
-          "pubDate": "2026-04-20T19:32:23+00:00"
         }
       ],
       "ok": true
@@ -58,6 +58,12 @@
       "name": "مروة سليمان",
       "feedTitle": "Infotech4you - مروي سليمان",
       "items": [
+        {
+          "title": "Kimi K2.6  نموذج صيني مفتوح المصدر ينافس ChatGPT وClaude في البرمجة والـAgents",
+          "link": "https://www.youtube.com/watch?v=WotjJNaBU5E",
+          "videoId": "WotjJNaBU5E",
+          "pubDate": "2026-04-26T17:32:42+00:00"
+        },
         {
           "title": "DeepSeek V4  عودة لنموذج أبهر الجميع  ... ما الجديد ؟",
           "link": "https://www.youtube.com/watch?v=sxiD-YN8xt4",
@@ -69,12 +75,6 @@
           "link": "https://www.youtube.com/watch?v=-mqTrI7ND5M",
           "videoId": "-mqTrI7ND5M",
           "pubDate": "2026-04-23T14:40:45+00:00"
-        },
-        {
-          "title": "وداعاً لضياع الوقت في التعديل على النصوص .... Claude يعمل الآن داخل Word مباشرة!",
-          "link": "https://www.youtube.com/watch?v=gpK_ZgDLwnU",
-          "videoId": "gpK_ZgDLwnU",
-          "pubDate": "2026-04-22T12:39:08+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "كيف نشأ الحيد المرجاني العظيم وكيف يعمل؟",
+          "link": "https://www.youtube.com/watch?v=R0HJ5zITU7M",
+          "videoId": "R0HJ5zITU7M",
+          "pubDate": "2026-04-26T18:00:00+00:00"
+        },
+        {
           "title": "معاوية الصياصنة.. طفل من درعا قاد لسقوط نظام الأسد",
           "link": "https://www.youtube.com/watch?v=ziXNIt32sA8",
           "videoId": "ziXNIt32sA8",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=FA_c8eSOYTw",
           "videoId": "FA_c8eSOYTw",
           "pubDate": "2026-04-26T15:06:52+00:00"
-        },
-        {
-          "title": "ما سر طول الهولنديين؟",
-          "link": "https://www.youtube.com/watch?v=NDB88hogVPo",
-          "videoId": "NDB88hogVPo",
-          "pubDate": "2026-04-26T13:00:01+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "قرية جاركوت في نيبال",
+          "link": "https://www.youtube.com/watch?v=TN8Y12RRky0",
+          "videoId": "TN8Y12RRky0",
+          "pubDate": "2026-04-26T18:00:35+00:00"
+        },
         {
           "title": "من أكثر طرق العالم السريعة ازدحاما",
           "link": "https://www.youtube.com/watch?v=W5SYV-9LrfM",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=SQVlGfYbN0o",
           "videoId": "SQVlGfYbN0o",
           "pubDate": "2026-04-26T14:31:03+00:00"
-        },
-        {
-          "title": "تتحرك الرياح حول الأرض نتيجة دورانها وتأثير اختلاف الضغط الجوي",
-          "link": "https://www.youtube.com/watch?v=vRTEbQnudhg",
-          "videoId": "vRTEbQnudhg",
-          "pubDate": "2026-04-26T12:08:21+00:00"
         }
       ],
       "ok": true
