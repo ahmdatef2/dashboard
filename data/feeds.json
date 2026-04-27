@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-27T07:29:27.471535+00:00",
+  "updated": "2026-04-27T10:01:53.424340+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -293,6 +293,12 @@
       "feedTitle": "تكنوفلاش – AI & Tech",
       "items": [
         {
+          "title": "الموديل اللي مكسر الدنيا حالياً تجربة واقعية مرعبة ومزايا خرافية في TopMediai V5.5 | Happy Horse 1.0",
+          "link": "https://www.youtube.com/watch?v=LyTlbLerO6Y",
+          "videoId": "LyTlbLerO6Y",
+          "pubDate": "2026-04-27T10:00:29+00:00"
+        },
+        {
           "title": "صنعت مؤثرة ذكاء اصطناعي في 5 دقائق وحقق أول أرباحك (طريقة سرية) 🚀 ai influencer",
           "link": "https://www.youtube.com/watch?v=Kb0csVcNsZA",
           "videoId": "Kb0csVcNsZA",
@@ -303,12 +309,6 @@
           "link": "https://www.youtube.com/watch?v=kgTUrXKPM2k",
           "videoId": "kgTUrXKPM2k",
           "pubDate": "2026-04-22T21:17:22+00:00"
-        },
-        {
-          "title": "توقف عن استخدام ChatGPT بشكل خاطئ! تعلم هندسة الأوامر الاحترافية",
-          "link": "https://www.youtube.com/watch?v=rObuX1uP46M",
-          "videoId": "rObuX1uP46M",
-          "pubDate": "2026-04-20T18:50:54+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "\"كأنهما مجروحان\".. لاصق عملاق يعيد وصل نهرين جليديين",
+          "link": "https://www.youtube.com/watch?v=2Eov1AvkMDQ",
+          "videoId": "2Eov1AvkMDQ",
+          "pubDate": "2026-04-27T08:00:01+00:00"
+        },
+        {
           "title": "مثل الإنسان تماما.. رحلة الـ9 أشهر لنضج ثمار النخيل في السودان",
           "link": "https://www.youtube.com/watch?v=pLlfeCWwFdw",
           "videoId": "pLlfeCWwFdw",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=ky-cOW16-2o",
           "videoId": "ky-cOW16-2o",
           "pubDate": "2026-04-26T19:00:01+00:00"
-        },
-        {
-          "title": "كيف نشأ الحيد المرجاني العظيم وكيف يعمل؟",
-          "link": "https://www.youtube.com/watch?v=R0HJ5zITU7M",
-          "videoId": "R0HJ5zITU7M",
-          "pubDate": "2026-04-26T18:00:00+00:00"
         }
       ],
       "ok": true
@@ -501,7 +501,13 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
-          "title": "تدهور البنى التحتية في نيويورك | الشرق الوثائقية",
+          "title": "حمية البحر الأبيض المتوسط",
+          "link": "https://www.youtube.com/watch?v=MJyrQ5r2wMs",
+          "videoId": "MJyrQ5r2wMs",
+          "pubDate": "2026-04-27T09:38:48+00:00"
+        },
+        {
+          "title": "انهيار البنية التحتية في نيويورك .. كيف بدأت أمريكا تتداعى؟ | الشرق الوثائقية",
           "link": "https://www.youtube.com/watch?v=OuhjwmfSr24",
           "videoId": "OuhjwmfSr24",
           "pubDate": "2026-04-26T20:00:15+00:00"
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=TN8Y12RRky0",
           "videoId": "TN8Y12RRky0",
           "pubDate": "2026-04-26T18:00:35+00:00"
-        },
-        {
-          "title": "من أكثر طرق العالم السريعة ازدحاما",
-          "link": "https://www.youtube.com/watch?v=W5SYV-9LrfM",
-          "videoId": "W5SYV-9LrfM",
-          "pubDate": "2026-04-26T16:26:33+00:00"
         }
       ],
       "ok": true
