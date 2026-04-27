@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-27T14:53:20.203828+00:00",
+  "updated": "2026-04-27T16:16:28.991388+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "هل تعلم أن صقلية تدين بتطورها الزراعي للعرب؟",
+          "link": "https://www.youtube.com/watch?v=yuzmyPPkLn0",
+          "videoId": "yuzmyPPkLn0",
+          "pubDate": "2026-04-27T15:30:00+00:00"
+        },
+        {
           "title": "قصيدة بلسان متقاعد في المغرب",
           "link": "https://www.youtube.com/watch?v=2oOrMuLZR0o",
           "videoId": "2oOrMuLZR0o",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=jykYMh5lrD0",
           "videoId": "jykYMh5lrD0",
           "pubDate": "2026-04-27T12:23:26+00:00"
-        },
-        {
-          "title": "امرأة سورية: كنا نستحيي من المرور أمام مقاهي الرجال",
-          "link": "https://www.youtube.com/watch?v=AujhnCT-QU0",
-          "videoId": "AujhnCT-QU0",
-          "pubDate": "2026-04-27T11:11:50+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "ما علاقة مشاعرنا بارتفاع نسب المبيعات؟",
+          "link": "https://www.youtube.com/watch?v=HRFlFjRDX7U",
+          "videoId": "HRFlFjRDX7U",
+          "pubDate": "2026-04-27T16:03:15+00:00"
+        },
         {
           "title": "أكبر صراع مسلح شهده العالم",
           "link": "https://www.youtube.com/watch?v=yF-9fuMhEzM",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=MJyrQ5r2wMs",
           "videoId": "MJyrQ5r2wMs",
           "pubDate": "2026-04-27T09:38:48+00:00"
-        },
-        {
-          "title": "انهيار البنية التحتية في نيويورك .. كيف بدأت أمريكا تتداعى؟ | الشرق الوثائقية",
-          "link": "https://www.youtube.com/watch?v=OuhjwmfSr24",
-          "videoId": "OuhjwmfSr24",
-          "pubDate": "2026-04-26T20:00:15+00:00"
         }
       ],
       "ok": true
