@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-27T12:13:46.573660+00:00",
+  "updated": "2026-04-27T14:53:20.203828+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -293,7 +293,7 @@
       "feedTitle": "تكنوفلاش – AI & Tech",
       "items": [
         {
-          "title": "الموديل اللي مكسر الدنيا حالياً تجربة واقعية مرعبة ومزايا خرافية في TopMediai V5.5 | Happy Horse 1.0",
+          "title": "وداعاً seedance 2.0 الصين نزلت موديل مكسر الدنيا جربته في TopMediai V5.5 | Happy Horse 1.0",
           "link": "https://www.youtube.com/watch?v=LyTlbLerO6Y",
           "videoId": "LyTlbLerO6Y",
           "pubDate": "2026-04-27T10:00:29+00:00"
@@ -371,6 +371,12 @@
       "feedTitle": "أخضر",
       "items": [
         {
+          "title": "الحظ ليس صدفه, في هذا المقطع يكشف لنا د. محمد البيز في جلسة أخضر السر وراء صناعة الفرص.",
+          "link": "https://www.youtube.com/watch?v=ehVZy7OK5Ps",
+          "videoId": "ehVZy7OK5Ps",
+          "pubDate": "2026-04-27T14:18:00+00:00"
+        },
+        {
           "title": "حمّل تطبيق \"أخضر\" وشاهد جلسة أخضر مع د. محمد البيز",
           "link": "https://www.youtube.com/watch?v=gWd9V0QZ-vI",
           "videoId": "gWd9V0QZ-vI",
@@ -381,12 +387,6 @@
           "link": "https://www.youtube.com/watch?v=VuxxGGFtNgo",
           "videoId": "VuxxGGFtNgo",
           "pubDate": "2026-04-24T15:00:52+00:00"
-        },
-        {
-          "title": "لا تنظم وقتك.. بل نظم طاقتك",
-          "link": "https://www.youtube.com/watch?v=E-D3cz5wxUw",
-          "videoId": "E-D3cz5wxUw",
-          "pubDate": "2026-04-24T12:48:52+00:00"
         }
       ],
       "ok": true
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "قصيدة بلسان متقاعد في المغرب",
+          "link": "https://www.youtube.com/watch?v=2oOrMuLZR0o",
+          "videoId": "2oOrMuLZR0o",
+          "pubDate": "2026-04-27T14:00:01+00:00"
+        },
+        {
+          "title": "\"وين الملايين\" صوت عربي تجاوز الحدود",
+          "link": "https://www.youtube.com/watch?v=jykYMh5lrD0",
+          "videoId": "jykYMh5lrD0",
+          "pubDate": "2026-04-27T12:23:26+00:00"
+        },
+        {
           "title": "امرأة سورية: كنا نستحيي من المرور أمام مقاهي الرجال",
           "link": "https://www.youtube.com/watch?v=AujhnCT-QU0",
           "videoId": "AujhnCT-QU0",
           "pubDate": "2026-04-27T11:11:50+00:00"
-        },
-        {
-          "title": "رجل يكتفي بأكلة واحدة يوميا بدل ثلاث",
-          "link": "https://www.youtube.com/watch?v=Q8IzpvqLCbQ",
-          "videoId": "Q8IzpvqLCbQ",
-          "pubDate": "2026-04-27T10:00:01+00:00"
-        },
-        {
-          "title": "\"كأنهما مجروحان\".. لاصق عملاق يعيد وصل نهرين جليديين",
-          "link": "https://www.youtube.com/watch?v=2Eov1AvkMDQ",
-          "videoId": "2Eov1AvkMDQ",
-          "pubDate": "2026-04-27T08:00:01+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "أكبر صراع مسلح شهده العالم",
+          "link": "https://www.youtube.com/watch?v=yF-9fuMhEzM",
+          "videoId": "yF-9fuMhEzM",
+          "pubDate": "2026-04-27T13:44:37+00:00"
+        },
         {
           "title": "حمية البحر الأبيض المتوسط",
           "link": "https://www.youtube.com/watch?v=MJyrQ5r2wMs",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=OuhjwmfSr24",
           "videoId": "OuhjwmfSr24",
           "pubDate": "2026-04-26T20:00:15+00:00"
-        },
-        {
-          "title": "قرية جاركوت في نيبال",
-          "link": "https://www.youtube.com/watch?v=TN8Y12RRky0",
-          "videoId": "TN8Y12RRky0",
-          "pubDate": "2026-04-26T18:00:35+00:00"
         }
       ],
       "ok": true
