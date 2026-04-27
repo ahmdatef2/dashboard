@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-27T19:08:14.032770+00:00",
+  "updated": "2026-04-27T20:46:44.836242+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "أمرتها الشرطة بالمغادرة… فرفضت",
+          "link": "https://www.youtube.com/watch?v=VFUUoHUtFis",
+          "videoId": "VFUUoHUtFis",
+          "pubDate": "2026-04-27T19:00:01+00:00"
+        },
+        {
           "title": "قوي على فيسبوك خجول في الحقيقة.. فما القصة؟",
           "link": "https://www.youtube.com/watch?v=cds72eOPIwg",
           "videoId": "cds72eOPIwg",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=66ahw3EkjkI",
           "videoId": "66ahw3EkjkI",
           "pubDate": "2026-04-27T17:00:08+00:00"
-        },
-        {
-          "title": "مهاب ياسر جوهرة نادي الزمالك",
-          "link": "https://www.youtube.com/watch?v=vBLLk0or_SE",
-          "videoId": "vBLLk0or_SE",
-          "pubDate": "2026-04-27T17:00:01+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "شركة الطيران \"رايان إير\".. كيف أصبحت أرخص شركة طيران في أوروبا؟ | الشرق الوثائقية",
+          "link": "https://www.youtube.com/watch?v=MN_kuClDtxA",
+          "videoId": "MN_kuClDtxA",
+          "pubDate": "2026-04-27T20:00:26+00:00"
+        },
         {
           "title": "في عالم المزادات، ق تقفز الأسعار إلى ملايين الدولارات",
           "link": "https://www.youtube.com/watch?v=OjXTsqj_NbY",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=HRFlFjRDX7U",
           "videoId": "HRFlFjRDX7U",
           "pubDate": "2026-04-27T16:03:15+00:00"
-        },
-        {
-          "title": "أكبر صراع مسلح شهده العالم",
-          "link": "https://www.youtube.com/watch?v=yF-9fuMhEzM",
-          "videoId": "yF-9fuMhEzM",
-          "pubDate": "2026-04-27T13:44:37+00:00"
         }
       ],
       "ok": true
@@ -526,6 +526,12 @@
       "name": "ناشيونال جيوغرافيك",
       "feedTitle": "Nat Geo Abu Dhabi",
       "items": [
+        {
+          "title": "الحلقة الكاملة | أكاشينغا: الشجعان | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=HBYiX-vhMqA",
+          "videoId": "HBYiX-vhMqA",
+          "pubDate": "2026-04-27T19:38:44+00:00"
+        },
         {
           "title": "الحلقة الكملة | الجليد الأخير | ناشونال جيوغرافيك أبوظبي",
           "link": "https://www.youtube.com/watch?v=jDXLWWsbpRk",
@@ -537,12 +543,6 @@
           "link": "https://www.youtube.com/watch?v=tp5UNRB_t-M",
           "videoId": "tp5UNRB_t-M",
           "pubDate": "2026-04-24T19:46:56+00:00"
-        },
-        {
-          "title": "شعب الحاجز العظيم المرجانية | اكتشاف عالم المحيطات | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=CaFIHErTzWA",
-          "videoId": "CaFIHErTzWA",
-          "pubDate": "2026-04-22T19:56:03+00:00"
         }
       ],
       "ok": true
