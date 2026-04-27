@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-27T10:01:53.424340+00:00",
+  "updated": "2026-04-27T12:13:46.573660+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -215,6 +215,12 @@
       "feedTitle": "Mohamed Ansary",
       "items": [
         {
+          "title": "DeepSeek V4: الجيل الجديد من الذكاء الاصطناعي وصل",
+          "link": "https://www.youtube.com/watch?v=vC0mkZBDxG8",
+          "videoId": "vC0mkZBDxG8",
+          "pubDate": "2026-04-27T12:07:34+00:00"
+        },
+        {
           "title": "ChatGPT Image 2.0: النموذج الأقوى لتوليد الصور بالذكاء الاصطناعي",
           "link": "https://www.youtube.com/watch?v=yVPgmdQqhw4",
           "videoId": "yVPgmdQqhw4",
@@ -225,12 +231,6 @@
           "link": "https://www.youtube.com/watch?v=bjrxjmFJfyA",
           "videoId": "bjrxjmFJfyA",
           "pubDate": "2026-04-25T19:57:05+00:00"
-        },
-        {
-          "title": "النموذج الأقوى لتوليد الصور من تشات جي بي تي يتفوق على نانو بنانا | ChatGPT Image 2.0",
-          "link": "https://www.youtube.com/watch?v=bCHPhV_7vXY",
-          "videoId": "bCHPhV_7vXY",
-          "pubDate": "2026-04-23T16:57:55+00:00"
         }
       ],
       "ok": true
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "امرأة سورية: كنا نستحيي من المرور أمام مقاهي الرجال",
+          "link": "https://www.youtube.com/watch?v=AujhnCT-QU0",
+          "videoId": "AujhnCT-QU0",
+          "pubDate": "2026-04-27T11:11:50+00:00"
+        },
+        {
+          "title": "رجل يكتفي بأكلة واحدة يوميا بدل ثلاث",
+          "link": "https://www.youtube.com/watch?v=Q8IzpvqLCbQ",
+          "videoId": "Q8IzpvqLCbQ",
+          "pubDate": "2026-04-27T10:00:01+00:00"
+        },
+        {
           "title": "\"كأنهما مجروحان\".. لاصق عملاق يعيد وصل نهرين جليديين",
           "link": "https://www.youtube.com/watch?v=2Eov1AvkMDQ",
           "videoId": "2Eov1AvkMDQ",
           "pubDate": "2026-04-27T08:00:01+00:00"
-        },
-        {
-          "title": "مثل الإنسان تماما.. رحلة الـ9 أشهر لنضج ثمار النخيل في السودان",
-          "link": "https://www.youtube.com/watch?v=pLlfeCWwFdw",
-          "videoId": "pLlfeCWwFdw",
-          "pubDate": "2026-04-26T20:30:01+00:00"
-        },
-        {
-          "title": "أسطورة كرة السلة برواندا.. محاسب صباحا ورياضي محترف مساءا!",
-          "link": "https://www.youtube.com/watch?v=ky-cOW16-2o",
-          "videoId": "ky-cOW16-2o",
-          "pubDate": "2026-04-26T19:00:01+00:00"
         }
       ],
       "ok": true
