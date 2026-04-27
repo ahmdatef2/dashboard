@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-27T17:57:30.100264+00:00",
+  "updated": "2026-04-27T19:08:14.032770+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -267,6 +267,12 @@
       "feedTitle": "أكاديمية ريان | Ryan Academy",
       "items": [
         {
+          "title": "ازاي تعمل موقع لبيع المنتجات الرقمية مجانًا (قالب + استضافة) 🔥",
+          "link": "https://www.youtube.com/watch?v=5qI2aylvbS0",
+          "videoId": "5qI2aylvbS0",
+          "pubDate": "2026-04-27T19:00:04+00:00"
+        },
+        {
           "title": "ازاي تاخد API Key مجاني من Groq (Llama + Qwen + Whisper) (بدون كارت) 🔥",
           "link": "https://www.youtube.com/watch?v=Zbxb8kZDirU",
           "videoId": "Zbxb8kZDirU",
@@ -277,12 +283,6 @@
           "link": "https://www.youtube.com/watch?v=1reXIi0sT4g",
           "videoId": "1reXIi0sT4g",
           "pubDate": "2026-04-22T17:00:05+00:00"
-        },
-        {
-          "title": "ازاي استبدلت نفسي بذكاء اصطناعي يعمل شغلي وأنا نايم! وكيل Minimax Agent🚀",
-          "link": "https://www.youtube.com/watch?v=q3iErPRZe3Q",
-          "videoId": "q3iErPRZe3Q",
-          "pubDate": "2026-04-19T17:01:04+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "قوي على فيسبوك خجول في الحقيقة.. فما القصة؟",
+          "link": "https://www.youtube.com/watch?v=cds72eOPIwg",
+          "videoId": "cds72eOPIwg",
+          "pubDate": "2026-04-27T18:00:01+00:00"
+        },
+        {
           "title": "المحطة التالية.. رحلة إلى الأردن والهند | بين الحضارات والأساطير | الحلقة الثالثة",
           "link": "https://www.youtube.com/watch?v=66ahw3EkjkI",
           "videoId": "66ahw3EkjkI",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=vBLLk0or_SE",
           "videoId": "vBLLk0or_SE",
           "pubDate": "2026-04-27T17:00:01+00:00"
-        },
-        {
-          "title": "هل تعلم أن صقلية تدين بتطورها الزراعي للعرب؟",
-          "link": "https://www.youtube.com/watch?v=yuzmyPPkLn0",
-          "videoId": "yuzmyPPkLn0",
-          "pubDate": "2026-04-27T15:30:00+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "في عالم المزادات، ق تقفز الأسعار إلى ملايين الدولارات",
+          "link": "https://www.youtube.com/watch?v=OjXTsqj_NbY",
+          "videoId": "OjXTsqj_NbY",
+          "pubDate": "2026-04-27T19:00:34+00:00"
+        },
         {
           "title": "ما علاقة مشاعرنا بارتفاع نسب المبيعات؟",
           "link": "https://www.youtube.com/watch?v=HRFlFjRDX7U",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=yF-9fuMhEzM",
           "videoId": "yF-9fuMhEzM",
           "pubDate": "2026-04-27T13:44:37+00:00"
-        },
-        {
-          "title": "حمية البحر الأبيض المتوسط",
-          "link": "https://www.youtube.com/watch?v=MJyrQ5r2wMs",
-          "videoId": "MJyrQ5r2wMs",
-          "pubDate": "2026-04-27T09:38:48+00:00"
         }
       ],
       "ok": true
