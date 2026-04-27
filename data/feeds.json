@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-27T16:16:28.991388+00:00",
+  "updated": "2026-04-27T17:57:30.100264+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -192,7 +192,7 @@
           "title": "🚨 نموذج جديد يرعب OpenAI! هل DeepSeek V4 هو الأفضل؟",
           "link": "https://www.youtube.com/watch?v=gJKdacxiI_I",
           "videoId": "gJKdacxiI_I",
-          "pubDate": "2026-04-27T06:20:40+00:00"
+          "pubDate": "2026-04-27T17:00:06+00:00"
         },
         {
           "title": "Claude Design و Images2 الجديدان من OpenAI و Anthropic!",
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "المحطة التالية.. رحلة إلى الأردن والهند | بين الحضارات والأساطير | الحلقة الثالثة",
+          "link": "https://www.youtube.com/watch?v=66ahw3EkjkI",
+          "videoId": "66ahw3EkjkI",
+          "pubDate": "2026-04-27T17:00:08+00:00"
+        },
+        {
+          "title": "مهاب ياسر جوهرة نادي الزمالك",
+          "link": "https://www.youtube.com/watch?v=vBLLk0or_SE",
+          "videoId": "vBLLk0or_SE",
+          "pubDate": "2026-04-27T17:00:01+00:00"
+        },
+        {
           "title": "هل تعلم أن صقلية تدين بتطورها الزراعي للعرب؟",
           "link": "https://www.youtube.com/watch?v=yuzmyPPkLn0",
           "videoId": "yuzmyPPkLn0",
           "pubDate": "2026-04-27T15:30:00+00:00"
-        },
-        {
-          "title": "قصيدة بلسان متقاعد في المغرب",
-          "link": "https://www.youtube.com/watch?v=2oOrMuLZR0o",
-          "videoId": "2oOrMuLZR0o",
-          "pubDate": "2026-04-27T14:00:01+00:00"
-        },
-        {
-          "title": "\"وين الملايين\" صوت عربي تجاوز الحدود",
-          "link": "https://www.youtube.com/watch?v=jykYMh5lrD0",
-          "videoId": "jykYMh5lrD0",
-          "pubDate": "2026-04-27T12:23:26+00:00"
         }
       ],
       "ok": true
@@ -553,6 +553,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "ريبورتاج | من زواج قسري في أفغانستان إلى بطلة في كمال الأجسام في النرويج | وثائقية دي دبليو",
+          "link": "https://www.youtube.com/watch?v=uu2Qx-9AY1g",
+          "videoId": "uu2Qx-9AY1g",
+          "pubDate": "2026-04-27T17:01:12+00:00"
+        },
+        {
           "title": "وثائقي | الصحفيون وجهاز الاستخبارات الألماني | وثائقية دي دبليو",
           "link": "https://www.youtube.com/watch?v=sT82OsL0OlQ",
           "videoId": "sT82OsL0OlQ",
@@ -563,12 +569,6 @@
           "link": "https://www.youtube.com/watch?v=zVoBrvlAxok",
           "videoId": "zVoBrvlAxok",
           "pubDate": "2026-04-25T17:01:10+00:00"
-        },
-        {
-          "title": "وثائقي | الاستعمار الأخضر في أفريقيا: جدل حماية الحيوان وإقصاء الشعوب الأصلية | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=hAzW8hjEx2I",
-          "videoId": "hAzW8hjEx2I",
-          "pubDate": "2026-04-23T17:00:53+00:00"
         }
       ],
       "ok": true
