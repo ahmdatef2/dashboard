@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-28T01:27:57.521748+00:00",
+  "updated": "2026-04-28T05:18:20.762693+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -81,9 +81,28 @@
     "UCXVSIaWCZBxqZ5eCxwIqRGw": {
       "handle": "TechnoFlashAITech",
       "name": "TechnoFlash AI",
-      "feedTitle": "TechnoFlash AI",
-      "items": [],
-      "ok": false
+      "feedTitle": "تكنوفلاش – AI & Tech",
+      "items": [
+        {
+          "title": "وداعاً seedance 2.0 الصين نزلت موديل مكسر الدنيا جربته في TopMediai V5.5 | Happy Horse 1.0",
+          "link": "https://www.youtube.com/watch?v=LyTlbLerO6Y",
+          "videoId": "LyTlbLerO6Y",
+          "pubDate": "2026-04-27T10:00:29+00:00"
+        },
+        {
+          "title": "صنعت مؤثرة ذكاء اصطناعي في 5 دقائق وحقق أول أرباحك (طريقة سرية) 🚀 ai influencer",
+          "link": "https://www.youtube.com/watch?v=Kb0csVcNsZA",
+          "videoId": "Kb0csVcNsZA",
+          "pubDate": "2026-04-24T11:00:21+00:00"
+        },
+        {
+          "title": "أخيراً ChatGPT Images 2.0 يسحق Nano Banana في التصميم بالعربي مجانا 🚀",
+          "link": "https://www.youtube.com/watch?v=kgTUrXKPM2k",
+          "videoId": "kgTUrXKPM2k",
+          "pubDate": "2026-04-22T21:17:22+00:00"
+        }
+      ],
+      "ok": true
     },
     "UC16aC4Jti6tYAi0LuXmu-9w": {
       "handle": "KhairJaleesBook",
@@ -95,9 +114,28 @@
     "UCu1NJiJlhrhmF5ZgT-0yWdA": {
       "handle": "Jeelyaqraa",
       "name": "جيل يقرأ",
-      "feedTitle": "جيل يقرأ",
-      "items": [],
-      "ok": false
+      "feedTitle": "ReadTube - جيل يقرأ",
+      "items": [
+        {
+          "title": "احذر قبل فوات الأوان- كامل الصورة - أحمد السيد ",
+          "link": "https://www.youtube.com/watch?v=n9YW0Liz3rs",
+          "videoId": "n9YW0Liz3rs",
+          "pubDate": "2026-04-04T16:04:47+00:00"
+        },
+        {
+          "title": "الذين ضحكوا حتى البكاء -ملخص لكتاب د. مصطفى محمود",
+          "link": "https://www.youtube.com/watch?v=bSbrMABmf4E",
+          "videoId": "bSbrMABmf4E",
+          "pubDate": "2026-03-03T20:46:03+00:00"
+        },
+        {
+          "title": "المسيري يتنبأ بالمستقبل",
+          "link": "https://www.youtube.com/watch?v=N2hD24PnJQ4",
+          "videoId": "N2hD24PnJQ4",
+          "pubDate": "2026-03-01T20:56:54+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCtUor2SqesPS3b_SMFtLT_w": {
       "handle": "a5drcom",
@@ -123,9 +161,28 @@
     "UCJlu6BjPWHZhzuCc0zVME0Q": {
       "handle": "Dupamicaffeine",
       "name": "دوباميكافيين",
-      "feedTitle": "دوباميكافيين",
-      "items": [],
-      "ok": false
+      "feedTitle": "دوباميكافين Dupamicaffeine",
+      "items": [
+        {
+          "title": "اهم استثمار تسويه في حياتك هو استثمارك في عقلك",
+          "link": "https://www.youtube.com/watch?v=GQU06NyQrKk",
+          "videoId": "GQU06NyQrKk",
+          "pubDate": "2026-04-23T13:00:28+00:00"
+        },
+        {
+          "title": "من التفكير إلى الشراء",
+          "link": "https://www.youtube.com/watch?v=FPUocf_VfSo",
+          "videoId": "FPUocf_VfSo",
+          "pubDate": "2026-04-23T12:39:10+00:00"
+        },
+        {
+          "title": "الإقناع لغة العقل والهندسة لغة العاطفة",
+          "link": "https://www.youtube.com/watch?v=MFTxMiUKYQI",
+          "videoId": "MFTxMiUKYQI",
+          "pubDate": "2026-04-21T13:03:32+00:00"
+        }
+      ],
+      "ok": true
     },
     "UC0LSnqrwqtMwl2YwfUpO66g": {
       "handle": "aljazeeradocumentary",
