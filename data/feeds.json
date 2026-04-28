@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-28T19:13:57.284963+00:00",
+  "updated": "2026-04-28T20:55:24.173151+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "أمادو غالو فال.. عراب كرة السلة في إفريقيا",
+          "link": "https://www.youtube.com/watch?v=L8pPSC_N_qo",
+          "videoId": "L8pPSC_N_qo",
+          "pubDate": "2026-04-28T20:30:01+00:00"
+        },
+        {
+          "title": "سارة مارديني .. سباحة عابرة للقارات | من لاجئة إلى سجينة",
+          "link": "https://www.youtube.com/watch?v=U1bveI-_XTs",
+          "videoId": "U1bveI-_XTs",
+          "pubDate": "2026-04-28T19:30:05+00:00"
+        },
+        {
           "title": "ناجية من المدارس الداخلية في كندا: نزعوا ملابسنا وقصوا شعورنا وعاملونا كالحيوانات",
           "link": "https://www.youtube.com/watch?v=7ZbQqAHlUL0",
           "videoId": "7ZbQqAHlUL0",
           "pubDate": "2026-04-28T19:00:01+00:00"
-        },
-        {
-          "title": "آل فرنجيه.. الباشوات الحمر | قصة عائلة سياسية بين الحرب والتحالفات",
-          "link": "https://www.youtube.com/watch?v=FHBzaxhyI0o",
-          "videoId": "FHBzaxhyI0o",
-          "pubDate": "2026-04-28T18:45:03+00:00"
-        },
-        {
-          "title": "\"من لي ببغداد أبكيها وتبكيني\"",
-          "link": "https://www.youtube.com/watch?v=8QswZcG72KU",
-          "videoId": "8QswZcG72KU",
-          "pubDate": "2026-04-28T18:00:01+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "سد هوفر العظيم .. كيف غيّر أمريكا وتحدى الصحراء؟ | الشرق الوثائقية",
+          "link": "https://www.youtube.com/watch?v=OzneB4eGd3Y",
+          "videoId": "OzneB4eGd3Y",
+          "pubDate": "2026-04-28T20:00:13+00:00"
+        },
         {
           "title": "سارة نتنياهو",
           "link": "https://www.youtube.com/watch?v=brbjB_XuJ-0",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=sm8MsZaac-Q",
           "videoId": "sm8MsZaac-Q",
           "pubDate": "2026-04-28T17:00:38+00:00"
-        },
-        {
-          "title": "هل كان جون كينيدي مثاليا فعلاً؟",
-          "link": "https://www.youtube.com/watch?v=g3-RUQybvX8",
-          "videoId": "g3-RUQybvX8",
-          "pubDate": "2026-04-28T14:03:35+00:00"
         }
       ],
       "ok": true
@@ -527,22 +527,22 @@
       "feedTitle": "Nat Geo Abu Dhabi",
       "items": [
         {
+          "title": "برنامج جديد | خفر السواحل الهولندي في منطقة الكاريبي | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=fWsl3RVIUDI",
+          "videoId": "fWsl3RVIUDI",
+          "pubDate": "2026-04-28T19:56:57+00:00"
+        },
+        {
+          "title": "برنامج جديد | خفر السواحل الهولندي في منطقة الكاريبي | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=Jizn2JaMeuI",
+          "videoId": "Jizn2JaMeuI",
+          "pubDate": "2026-04-28T19:56:47+00:00"
+        },
+        {
           "title": "الحلقة الكاملة | أكاشينغا: الشجعان | ناشونال جيوغرافيك أبوظبي",
           "link": "https://www.youtube.com/watch?v=HBYiX-vhMqA",
           "videoId": "HBYiX-vhMqA",
           "pubDate": "2026-04-27T19:38:44+00:00"
-        },
-        {
-          "title": "الحلقة الكملة | الجليد الأخير | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=jDXLWWsbpRk",
-          "videoId": "jDXLWWsbpRk",
-          "pubDate": "2026-04-25T19:49:10+00:00"
-        },
-        {
-          "title": "تاكيون | إعادة بناء مدينة بارادايس | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=tp5UNRB_t-M",
-          "videoId": "tp5UNRB_t-M",
-          "pubDate": "2026-04-24T19:46:56+00:00"
         }
       ],
       "ok": true
