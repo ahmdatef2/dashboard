@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-28T21:48:04.976948+00:00",
+  "updated": "2026-04-28T22:43:05.721821+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -59,6 +59,12 @@
       "feedTitle": "Infotech4you - مروي سليمان",
       "items": [
         {
+          "title": "شاومي تدخل سباق الذكاء الاصطناعي بقوة! تجربة Xiaomi MiMo V2.5 Pro",
+          "link": "https://www.youtube.com/watch?v=1o5nd8Q0X1Q",
+          "videoId": "1o5nd8Q0X1Q",
+          "pubDate": "2026-04-28T21:47:07+00:00"
+        },
+        {
           "title": "Kimi K2.6  نموذج صيني مفتوح المصدر ينافس ChatGPT وClaude في البرمجة والـAgents",
           "link": "https://www.youtube.com/watch?v=WotjJNaBU5E",
           "videoId": "WotjJNaBU5E",
@@ -69,12 +75,6 @@
           "link": "https://www.youtube.com/watch?v=sxiD-YN8xt4",
           "videoId": "sxiD-YN8xt4",
           "pubDate": "2026-04-24T14:36:57+00:00"
-        },
-        {
-          "title": "ChatGPT Image 2.0  ونتائج صادمة .. هل انتهى زمن نانو بنانا؟",
-          "link": "https://www.youtube.com/watch?v=-mqTrI7ND5M",
-          "videoId": "-mqTrI7ND5M",
-          "pubDate": "2026-04-23T14:40:45+00:00"
         }
       ],
       "ok": true
