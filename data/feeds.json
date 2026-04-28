@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-28T07:59:43.661639+00:00",
+  "updated": "2026-04-28T10:12:49.077871+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "من هنا تبدأ رحلة الشوكولاتة التي نحبها",
+          "link": "https://www.youtube.com/watch?v=LIJKIGemOeo",
+          "videoId": "LIJKIGemOeo",
+          "pubDate": "2026-04-28T10:00:01+00:00"
+        },
+        {
+          "title": "فلسطيني بحرقة: النكبة الأكبر كانت بخروجنا من الكويت",
+          "link": "https://www.youtube.com/watch?v=CCVC8uSnTCY",
+          "videoId": "CCVC8uSnTCY",
+          "pubDate": "2026-04-28T08:00:00+00:00"
+        },
+        {
           "title": "أمرتها الشرطة بالمغادرة… فرفضت",
           "link": "https://www.youtube.com/watch?v=VFUUoHUtFis",
           "videoId": "VFUUoHUtFis",
           "pubDate": "2026-04-27T19:00:01+00:00"
-        },
-        {
-          "title": "قوي على فيسبوك خجول في الحقيقة.. فما القصة؟",
-          "link": "https://www.youtube.com/watch?v=cds72eOPIwg",
-          "videoId": "cds72eOPIwg",
-          "pubDate": "2026-04-27T18:00:01+00:00"
-        },
-        {
-          "title": "المحطة التالية.. رحلة إلى الأردن والهند | بين الحضارات والأساطير | الحلقة الثالثة",
-          "link": "https://www.youtube.com/watch?v=66ahw3EkjkI",
-          "videoId": "66ahw3EkjkI",
-          "pubDate": "2026-04-27T17:00:08+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "60 سجيناً في زنزانة واحدة",
+          "link": "https://www.youtube.com/watch?v=iQINN2QNFRQ",
+          "videoId": "iQINN2QNFRQ",
+          "pubDate": "2026-04-28T09:24:10+00:00"
+        },
         {
           "title": "شركة الطيران \"رايان إير\".. كيف أصبحت أرخص شركة طيران في أوروبا؟ | الشرق الوثائقية",
           "link": "https://www.youtube.com/watch?v=MN_kuClDtxA",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=OjXTsqj_NbY",
           "videoId": "OjXTsqj_NbY",
           "pubDate": "2026-04-27T19:00:34+00:00"
-        },
-        {
-          "title": "ما علاقة مشاعرنا بارتفاع نسب المبيعات؟",
-          "link": "https://www.youtube.com/watch?v=HRFlFjRDX7U",
-          "videoId": "HRFlFjRDX7U",
-          "pubDate": "2026-04-27T16:03:15+00:00"
         }
       ],
       "ok": true
