@@ -1,11 +1,17 @@
 {
-  "updated": "2026-04-28T17:26:37.054075+00:00",
+  "updated": "2026-04-28T19:13:57.284963+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
       "name": "د. هبة أحمد",
       "feedTitle": "Heba Ahmed - هبة احمد",
       "items": [
+        {
+          "title": "كورس Generative AI من الصفر | الجزء الاول",
+          "link": "https://www.youtube.com/watch?v=Kc86RBw-42A",
+          "videoId": "Kc86RBw-42A",
+          "pubDate": "2026-04-28T18:07:36+00:00"
+        },
         {
           "title": "إطلاق DeepSeek V4… النموذج اللي هيغيّر سباق الذكاء الاصطناعي؟",
           "link": "https://www.youtube.com/watch?v=O_PsdrOR7Bw",
@@ -17,12 +23,6 @@
           "link": "https://www.youtube.com/watch?v=_YKsTILD05w",
           "videoId": "_YKsTILD05w",
           "pubDate": "2026-04-21T18:34:42+00:00"
-        },
-        {
-          "title": "هل Claude Design بقى ملك التصميم فعلًا؟",
-          "link": "https://www.youtube.com/watch?v=FlAO1TYpNYU",
-          "videoId": "FlAO1TYpNYU",
-          "pubDate": "2026-04-19T17:20:37+00:00"
         }
       ],
       "ok": true
@@ -241,6 +241,12 @@
       "feedTitle": "مدرسة الذكاء الاصطناعي",
       "items": [
         {
+          "title": "وفر 20 دولار واستخدم Claude Co work مجانا بطريقة رسمية",
+          "link": "https://www.youtube.com/watch?v=pxRzCDNMnf4",
+          "videoId": "pxRzCDNMnf4",
+          "pubDate": "2026-04-28T17:28:19+00:00"
+        },
+        {
           "title": "وداعا After Effects ؟ أداة ذكاء اصطناعي بتعمل فيديوهات موشن جرافيكس بضغطة زر",
           "link": "https://www.youtube.com/watch?v=yMb7sr_0-YM",
           "videoId": "yMb7sr_0-YM",
@@ -251,12 +257,6 @@
           "link": "https://www.youtube.com/watch?v=LWPUM0zjccg",
           "videoId": "LWPUM0zjccg",
           "pubDate": "2026-04-22T15:19:12+00:00"
-        },
-        {
-          "title": "استخدم OpenClaw افضل من 90% من الناس",
-          "link": "https://www.youtube.com/watch?v=1V4ka7zL1VA",
-          "videoId": "1V4ka7zL1VA",
-          "pubDate": "2026-04-21T19:56:04+00:00"
         }
       ],
       "ok": true
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
-          "title": "ماذا تفعل كلماتنا بالمريض؟",
-          "link": "https://www.youtube.com/watch?v=73FPKz6A-0k",
-          "videoId": "73FPKz6A-0k",
-          "pubDate": "2026-04-28T16:00:01+00:00"
+          "title": "ناجية من المدارس الداخلية في كندا: نزعوا ملابسنا وقصوا شعورنا وعاملونا كالحيوانات",
+          "link": "https://www.youtube.com/watch?v=7ZbQqAHlUL0",
+          "videoId": "7ZbQqAHlUL0",
+          "pubDate": "2026-04-28T19:00:01+00:00"
         },
         {
-          "title": "\"نشأت على حب الوداد وأنا في بطن أمي\"",
-          "link": "https://www.youtube.com/watch?v=JzpcfhNYRZ8",
-          "videoId": "JzpcfhNYRZ8",
-          "pubDate": "2026-04-28T14:00:01+00:00"
+          "title": "آل فرنجيه.. الباشوات الحمر | قصة عائلة سياسية بين الحرب والتحالفات",
+          "link": "https://www.youtube.com/watch?v=FHBzaxhyI0o",
+          "videoId": "FHBzaxhyI0o",
+          "pubDate": "2026-04-28T18:45:03+00:00"
         },
         {
-          "title": "أسرة تعيش نمط الحياة البسيطة دون أن يغادروا حياة المدينة",
-          "link": "https://www.youtube.com/watch?v=gOeh-hs2GN4",
-          "videoId": "gOeh-hs2GN4",
-          "pubDate": "2026-04-28T12:00:01+00:00"
+          "title": "\"من لي ببغداد أبكيها وتبكيني\"",
+          "link": "https://www.youtube.com/watch?v=8QswZcG72KU",
+          "videoId": "8QswZcG72KU",
+          "pubDate": "2026-04-28T18:00:01+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "سارة نتنياهو",
+          "link": "https://www.youtube.com/watch?v=brbjB_XuJ-0",
+          "videoId": "brbjB_XuJ-0",
+          "pubDate": "2026-04-28T19:00:43+00:00"
+        },
         {
           "title": "حين غادر الساموراي الجزر... رحلة حول العالم",
           "link": "https://www.youtube.com/watch?v=sm8MsZaac-Q",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=g3-RUQybvX8",
           "videoId": "g3-RUQybvX8",
           "pubDate": "2026-04-28T14:03:35+00:00"
-        },
-        {
-          "title": "التلاعب بالمشاعر يمكن أن يبني أمة أو يهدمها",
-          "link": "https://www.youtube.com/watch?v=h29XEo4Dm1o",
-          "videoId": "h29XEo4Dm1o",
-          "pubDate": "2026-04-28T12:51:17+00:00"
         }
       ],
       "ok": true
