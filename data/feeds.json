@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-28T12:17:38.680345+00:00",
+  "updated": "2026-04-28T17:26:37.054075+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -33,6 +33,12 @@
       "feedTitle": "كل يوم موقع جديد",
       "items": [
         {
+          "title": "HeyGen يفاجئ الجميع بترقية Seedance 2.0! فيديوهات سينمائية بنسختك الرقمية",
+          "link": "https://www.youtube.com/watch?v=MgowMImRgmY",
+          "videoId": "MgowMImRgmY",
+          "pubDate": "2026-04-28T15:00:37+00:00"
+        },
+        {
           "title": "GLM 5.1 ليس مجرد شات بوت… هذا وكيل AI كامل",
           "link": "https://www.youtube.com/watch?v=RDUo4zb8Fbc",
           "videoId": "RDUo4zb8Fbc",
@@ -43,12 +49,6 @@
           "link": "https://www.youtube.com/watch?v=x-gUcZ87Zh0",
           "videoId": "x-gUcZ87Zh0",
           "pubDate": "2026-04-24T18:19:20+00:00"
-        },
-        {
-          "title": "ChatGPT Images 2.0 يتحدى جوجل والتصميمات بالعربي فاقت التوقعات!",
-          "link": "https://www.youtube.com/watch?v=msqBNKPUUWc",
-          "videoId": "msqBNKPUUWc",
-          "pubDate": "2026-04-22T17:23:39+00:00"
         }
       ],
       "ok": true
@@ -85,6 +85,12 @@
       "feedTitle": "عبداللطيف سعيد Abdellatif Said",
       "items": [
         {
+          "title": "تحدي أقوى نماذج الذكاء الاصطناعي: DeepSeek V4 ضد Kimi K2.6.. مين يكسب في البرمجة؟ 🤯💻",
+          "link": "https://www.youtube.com/watch?v=WLhxFeK7N2A",
+          "videoId": "WLhxFeK7N2A",
+          "pubDate": "2026-04-28T14:01:03+00:00"
+        },
+        {
           "title": "ليه جوجل تدفع 40 مليار دولار لمنافسها؟ 🤯 السر المخفي وراء أذكى صفقة في الذكاء الاصطناعي!",
           "link": "https://www.youtube.com/watch?v=9Rt_ri6Jd0s",
           "videoId": "9Rt_ri6Jd0s",
@@ -95,12 +101,6 @@
           "link": "https://www.youtube.com/watch?v=SOluZdzF_mw",
           "videoId": "SOluZdzF_mw",
           "pubDate": "2026-04-25T15:31:52+00:00"
-        },
-        {
-          "title": "وداعاً للدردشة العادية.. GPT-5.5 وصل وبقى \"موظف\" بينفذ كل مهامك!",
-          "link": "https://www.youtube.com/watch?v=JI2VQ2FlBvI",
-          "videoId": "JI2VQ2FlBvI",
-          "pubDate": "2026-04-24T14:00:29+00:00"
         }
       ],
       "ok": true
@@ -137,6 +137,12 @@
       "feedTitle": "Python Arabic Community",
       "items": [
         {
+          "title": "فكرة مشروع مجنونة: كيف تحول الذكاء الاصطناعي إلى مدير تقني (CTO) لمشروعك 🤖",
+          "link": "https://www.youtube.com/watch?v=cmQB0xrSQ0o",
+          "videoId": "cmQB0xrSQ0o",
+          "pubDate": "2026-04-28T14:58:56+00:00"
+        },
+        {
           "title": "لا تستخدم Claude Opus 4.7 قبل مشاهدة هذا الفيديو! (الجانب المظلم للتحديث)",
           "link": "https://www.youtube.com/watch?v=6WHQ-CFAKks",
           "videoId": "6WHQ-CFAKks",
@@ -147,12 +153,6 @@
           "link": "https://www.youtube.com/watch?v=CqdCNkxzzP0",
           "videoId": "CqdCNkxzzP0",
           "pubDate": "2026-04-15T15:48:31+00:00"
-        },
-        {
-          "title": "وكيل ذكاء اصطناعي مع ذاكرة! في 10 دقائق بدون Rag و Langchain !",
-          "link": "https://www.youtube.com/watch?v=IKe2H7HBbu4",
-          "videoId": "IKe2H7HBbu4",
-          "pubDate": "2026-04-01T18:41:16+00:00"
         }
       ],
       "ok": true
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "ماذا تفعل كلماتنا بالمريض؟",
+          "link": "https://www.youtube.com/watch?v=73FPKz6A-0k",
+          "videoId": "73FPKz6A-0k",
+          "pubDate": "2026-04-28T16:00:01+00:00"
+        },
+        {
+          "title": "\"نشأت على حب الوداد وأنا في بطن أمي\"",
+          "link": "https://www.youtube.com/watch?v=JzpcfhNYRZ8",
+          "videoId": "JzpcfhNYRZ8",
+          "pubDate": "2026-04-28T14:00:01+00:00"
+        },
+        {
           "title": "أسرة تعيش نمط الحياة البسيطة دون أن يغادروا حياة المدينة",
           "link": "https://www.youtube.com/watch?v=gOeh-hs2GN4",
           "videoId": "gOeh-hs2GN4",
           "pubDate": "2026-04-28T12:00:01+00:00"
-        },
-        {
-          "title": "ماذا قال الناشط السوري مازن الحمادة عن مستشفى 601 العسكري بدمشق؟",
-          "link": "https://www.youtube.com/watch?v=e5bpkeGxQn8",
-          "videoId": "e5bpkeGxQn8",
-          "pubDate": "2026-04-28T11:00:01+00:00"
-        },
-        {
-          "title": "من هنا تبدأ رحلة الشوكولاتة التي نحبها",
-          "link": "https://www.youtube.com/watch?v=LIJKIGemOeo",
-          "videoId": "LIJKIGemOeo",
-          "pubDate": "2026-04-28T10:00:01+00:00"
         }
       ],
       "ok": true
@@ -501,22 +501,22 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
-          "title": "60 سجيناً في زنزانة واحدة",
-          "link": "https://www.youtube.com/watch?v=iQINN2QNFRQ",
-          "videoId": "iQINN2QNFRQ",
-          "pubDate": "2026-04-28T09:24:10+00:00"
+          "title": "حين غادر الساموراي الجزر... رحلة حول العالم",
+          "link": "https://www.youtube.com/watch?v=sm8MsZaac-Q",
+          "videoId": "sm8MsZaac-Q",
+          "pubDate": "2026-04-28T17:00:38+00:00"
         },
         {
-          "title": "شركة الطيران \"رايان إير\".. كيف أصبحت أرخص شركة طيران في أوروبا؟ | الشرق الوثائقية",
-          "link": "https://www.youtube.com/watch?v=MN_kuClDtxA",
-          "videoId": "MN_kuClDtxA",
-          "pubDate": "2026-04-27T20:00:26+00:00"
+          "title": "هل كان جون كينيدي مثاليا فعلاً؟",
+          "link": "https://www.youtube.com/watch?v=g3-RUQybvX8",
+          "videoId": "g3-RUQybvX8",
+          "pubDate": "2026-04-28T14:03:35+00:00"
         },
         {
-          "title": "في عالم المزادات، ق تقفز الأسعار إلى ملايين الدولارات",
-          "link": "https://www.youtube.com/watch?v=OjXTsqj_NbY",
-          "videoId": "OjXTsqj_NbY",
-          "pubDate": "2026-04-27T19:00:34+00:00"
+          "title": "التلاعب بالمشاعر يمكن أن يبني أمة أو يهدمها",
+          "link": "https://www.youtube.com/watch?v=h29XEo4Dm1o",
+          "videoId": "h29XEo4Dm1o",
+          "pubDate": "2026-04-28T12:51:17+00:00"
         }
       ],
       "ok": true
