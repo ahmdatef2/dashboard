@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-28T10:12:49.077871+00:00",
+  "updated": "2026-04-28T12:17:38.680345+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -293,7 +293,7 @@
       "feedTitle": "تكنوفلاش – AI & Tech",
       "items": [
         {
-          "title": "وداعاً seedance 2.0 الصين نزلت موديل مكسر الدنيا جربته في TopMediai V5.5 | Happy Horse 1.0",
+          "title": "اقوى ذكاء اصطناعي صيني جربته في TopMediai V5.5 | Happy Horse 1.0",
           "link": "https://www.youtube.com/watch?v=LyTlbLerO6Y",
           "videoId": "LyTlbLerO6Y",
           "pubDate": "2026-04-27T10:00:29+00:00"
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "أسرة تعيش نمط الحياة البسيطة دون أن يغادروا حياة المدينة",
+          "link": "https://www.youtube.com/watch?v=gOeh-hs2GN4",
+          "videoId": "gOeh-hs2GN4",
+          "pubDate": "2026-04-28T12:00:01+00:00"
+        },
+        {
+          "title": "ماذا قال الناشط السوري مازن الحمادة عن مستشفى 601 العسكري بدمشق؟",
+          "link": "https://www.youtube.com/watch?v=e5bpkeGxQn8",
+          "videoId": "e5bpkeGxQn8",
+          "pubDate": "2026-04-28T11:00:01+00:00"
+        },
+        {
           "title": "من هنا تبدأ رحلة الشوكولاتة التي نحبها",
           "link": "https://www.youtube.com/watch?v=LIJKIGemOeo",
           "videoId": "LIJKIGemOeo",
           "pubDate": "2026-04-28T10:00:01+00:00"
-        },
-        {
-          "title": "فلسطيني بحرقة: النكبة الأكبر كانت بخروجنا من الكويت",
-          "link": "https://www.youtube.com/watch?v=CCVC8uSnTCY",
-          "videoId": "CCVC8uSnTCY",
-          "pubDate": "2026-04-28T08:00:00+00:00"
-        },
-        {
-          "title": "أمرتها الشرطة بالمغادرة… فرفضت",
-          "link": "https://www.youtube.com/watch?v=VFUUoHUtFis",
-          "videoId": "VFUUoHUtFis",
-          "pubDate": "2026-04-27T19:00:01+00:00"
         }
       ],
       "ok": true
@@ -553,6 +553,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "هل حان وقت حدّ السرعة في ألمانيا؟",
+          "link": "https://www.youtube.com/watch?v=3WFx8tNA_xA",
+          "videoId": "3WFx8tNA_xA",
+          "pubDate": "2026-04-28T11:00:04+00:00"
+        },
+        {
           "title": "ريبورتاج | من زواج قسري في أفغانستان إلى بطلة في كمال الأجسام في النرويج | وثائقية دي دبليو",
           "link": "https://www.youtube.com/watch?v=uu2Qx-9AY1g",
           "videoId": "uu2Qx-9AY1g",
@@ -563,12 +569,6 @@
           "link": "https://www.youtube.com/watch?v=sT82OsL0OlQ",
           "videoId": "sT82OsL0OlQ",
           "pubDate": "2026-04-26T17:01:05+00:00"
-        },
-        {
-          "title": "وثائقي | مؤتمر هلسنكي 1975: كيف فاوضت القوى العظمى على مستقبل العالم؟ | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=zVoBrvlAxok",
-          "videoId": "zVoBrvlAxok",
-          "pubDate": "2026-04-25T17:01:10+00:00"
         }
       ],
       "ok": true
