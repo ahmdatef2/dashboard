@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-28T20:55:24.173151+00:00",
+  "updated": "2026-04-28T21:48:04.976948+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -501,6 +501,12 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "ما هي فائدة ساعاتنا البيولوجية؟",
+          "link": "https://www.youtube.com/watch?v=dbLhAsjdXII",
+          "videoId": "dbLhAsjdXII",
+          "pubDate": "2026-04-28T21:00:49+00:00"
+        },
+        {
           "title": "سد هوفر العظيم .. كيف غيّر أمريكا وتحدى الصحراء؟ | الشرق الوثائقية",
           "link": "https://www.youtube.com/watch?v=OzneB4eGd3Y",
           "videoId": "OzneB4eGd3Y",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=brbjB_XuJ-0",
           "videoId": "brbjB_XuJ-0",
           "pubDate": "2026-04-28T19:00:43+00:00"
-        },
-        {
-          "title": "حين غادر الساموراي الجزر... رحلة حول العالم",
-          "link": "https://www.youtube.com/watch?v=sm8MsZaac-Q",
-          "videoId": "sm8MsZaac-Q",
-          "pubDate": "2026-04-28T17:00:38+00:00"
         }
       ],
       "ok": true
