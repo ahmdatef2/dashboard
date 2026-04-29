@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-28T23:42:03.836272+00:00",
+  "updated": "2026-04-29T01:30:39.619399+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -32,54 +32,16 @@
     "UC81Ks7DR9JFgZc14nmZ07EA": {
       "handle": "AMRSALEM800",
       "name": "عمرو سالم",
-      "feedTitle": "AMR SALEM _ عمرو سالم",
-      "items": [
-        {
-          "title": "استخدام Claude مجانا بالكامل مع الحوت الصيني deepseek v4 pro",
-          "link": "https://www.youtube.com/watch?v=Trqdq_T63Lk",
-          "videoId": "Trqdq_T63Lk",
-          "pubDate": "2026-04-26T09:51:14+00:00"
-        },
-        {
-          "title": "DeepSeek V4 . من افضل النماذج مفتوحة المصدر",
-          "link": "https://www.youtube.com/watch?v=GhKTE8s4RiA",
-          "videoId": "GhKTE8s4RiA",
-          "pubDate": "2026-04-25T11:00:20+00:00"
-        },
-        {
-          "title": "اهم ميزة في gpt image 2.0 | نموذج خااارق",
-          "link": "https://www.youtube.com/watch?v=2Q3I8qmxxgY",
-          "videoId": "2Q3I8qmxxgY",
-          "pubDate": "2026-04-24T11:00:10+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "عمرو سالم",
+      "items": [],
+      "ok": false
     },
     "UC9ocsRoOwj9tkAQNfUt8ZJg": {
       "handle": "PythonArab",
       "name": "بايثون عربي",
-      "feedTitle": "Python Arabic Community",
-      "items": [
-        {
-          "title": "فكرة مشروع مجنونة: كيف تحول الذكاء الاصطناعي إلى مدير تقني (CTO) لمشروعك 🤖",
-          "link": "https://www.youtube.com/watch?v=cmQB0xrSQ0o",
-          "videoId": "cmQB0xrSQ0o",
-          "pubDate": "2026-04-28T14:58:56+00:00"
-        },
-        {
-          "title": "لا تستخدم Claude Opus 4.7 قبل مشاهدة هذا الفيديو! (الجانب المظلم للتحديث)",
-          "link": "https://www.youtube.com/watch?v=6WHQ-CFAKks",
-          "videoId": "6WHQ-CFAKks",
-          "pubDate": "2026-04-17T19:03:01+00:00"
-        },
-        {
-          "title": "أخبار الذكاء الاصطناعي 🚀 | 84 | الذكاء الاصطناعي السري الذي أرعب صناعه 😱 + هدايا لمتابعينا!",
-          "link": "https://www.youtube.com/watch?v=CqdCNkxzzP0",
-          "videoId": "CqdCNkxzzP0",
-          "pubDate": "2026-04-15T15:48:31+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "بايثون عربي",
+      "items": [],
+      "ok": false
     },
     "UCSNkfKl4cU-55Nm-ovsvOHQ": {
       "handle": "elzerowebschool",
@@ -112,28 +74,9 @@
     "UCz0N3nKrJiDhNdKQvM6r93w": {
       "handle": "ryan.academy",
       "name": "Ryan Academy",
-      "feedTitle": "أكاديمية ريان | Ryan Academy",
-      "items": [
-        {
-          "title": "ازاي تعمل موقع لبيع المنتجات الرقمية مجانًا (قالب + استضافة) 🔥",
-          "link": "https://www.youtube.com/watch?v=5qI2aylvbS0",
-          "videoId": "5qI2aylvbS0",
-          "pubDate": "2026-04-27T19:00:04+00:00"
-        },
-        {
-          "title": "ازاي تاخد API Key مجاني من Groq (Llama + Qwen + Whisper) (بدون كارت) 🔥",
-          "link": "https://www.youtube.com/watch?v=Zbxb8kZDirU",
-          "videoId": "Zbxb8kZDirU",
-          "pubDate": "2026-04-25T16:01:01+00:00"
-        },
-        {
-          "title": "الوحش الصيني في البرمجة والمهام العادية 🥊 تحدي برمجة لـ MiniMax M2.7 API النتيجة صدمة!",
-          "link": "https://www.youtube.com/watch?v=1reXIi0sT4g",
-          "videoId": "1reXIi0sT4g",
-          "pubDate": "2026-04-22T17:00:05+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "Ryan Academy",
+      "items": [],
+      "ok": false
     },
     "UCXVSIaWCZBxqZ5eCxwIqRGw": {
       "handle": "TechnoFlashAITech",
@@ -146,79 +89,22 @@
       "handle": "KhairJaleesBook",
       "name": "خير جليس",
       "feedTitle": "خير جليس",
-      "items": [
-        {
-          "title": "ابنِ ثقافة التدريب  - من كتاب عادة التدريب",
-          "link": "https://www.youtube.com/watch?v=jAN588g6xGM",
-          "videoId": "jAN588g6xGM",
-          "pubDate": "2026-04-26T13:01:13+00:00"
-        },
-        {
-          "title": "المحادثات الصغيرة تصنع تأثيرًا كبيرًا  - من كتاب عادة التدريب",
-          "link": "https://www.youtube.com/watch?v=MxRmUWp-7UI",
-          "videoId": "MxRmUWp-7UI",
-          "pubDate": "2026-04-26T06:10:50+00:00"
-        },
-        {
-          "title": "تجنّب الإفراط في الالتزام  - من كتاب عادة التدريب",
-          "link": "https://www.youtube.com/watch?v=jn3wCge-sng",
-          "videoId": "jn3wCge-sng",
-          "pubDate": "2026-04-25T06:00:36+00:00"
-        }
-      ],
-      "ok": true
+      "items": [],
+      "ok": false
     },
     "UCu1NJiJlhrhmF5ZgT-0yWdA": {
       "handle": "Jeelyaqraa",
       "name": "جيل يقرأ",
-      "feedTitle": "ReadTube - جيل يقرأ",
-      "items": [
-        {
-          "title": "احذر قبل فوات الأوان- كامل الصورة - أحمد السيد ",
-          "link": "https://www.youtube.com/watch?v=n9YW0Liz3rs",
-          "videoId": "n9YW0Liz3rs",
-          "pubDate": "2026-04-04T16:04:47+00:00"
-        },
-        {
-          "title": "الذين ضحكوا حتى البكاء -ملخص لكتاب د. مصطفى محمود",
-          "link": "https://www.youtube.com/watch?v=bSbrMABmf4E",
-          "videoId": "bSbrMABmf4E",
-          "pubDate": "2026-03-03T20:46:03+00:00"
-        },
-        {
-          "title": "المسيري يتنبأ بالمستقبل",
-          "link": "https://www.youtube.com/watch?v=N2hD24PnJQ4",
-          "videoId": "N2hD24PnJQ4",
-          "pubDate": "2026-03-01T20:56:54+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "جيل يقرأ",
+      "items": [],
+      "ok": false
     },
     "UCtUor2SqesPS3b_SMFtLT_w": {
       "handle": "a5drcom",
       "name": "أخضر",
       "feedTitle": "أخضر",
-      "items": [
-        {
-          "title": "الحظ ليس صدفه, في هذا المقطع يكشف لنا د. محمد البيز في جلسة أخضر السر وراء صناعة الفرص.",
-          "link": "https://www.youtube.com/watch?v=ehVZy7OK5Ps",
-          "videoId": "ehVZy7OK5Ps",
-          "pubDate": "2026-04-27T14:18:00+00:00"
-        },
-        {
-          "title": "حمّل تطبيق \"أخضر\" وشاهد جلسة أخضر مع د. محمد البيز",
-          "link": "https://www.youtube.com/watch?v=gWd9V0QZ-vI",
-          "videoId": "gWd9V0QZ-vI",
-          "pubDate": "2026-04-26T14:56:07+00:00"
-        },
-        {
-          "title": "أنت في الوقت الضايع ⏰🚨 كتاب: أربعة آلاف أسبوع #أخضر",
-          "link": "https://www.youtube.com/watch?v=VuxxGGFtNgo",
-          "videoId": "VuxxGGFtNgo",
-          "pubDate": "2026-04-24T15:00:52+00:00"
-        }
-      ],
-      "ok": true
+      "items": [],
+      "ok": false
     },
     "UCUjRjJ1-h3oUx40gf2tuh3w": {
       "handle": "Sha5bata",
@@ -244,54 +130,16 @@
     "UC0LSnqrwqtMwl2YwfUpO66g": {
       "handle": "aljazeeradocumentary",
       "name": "الجزيرة الوثائقية",
-      "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
-      "items": [
-        {
-          "title": "أمادو غالو فال.. عراب كرة السلة في إفريقيا",
-          "link": "https://www.youtube.com/watch?v=L8pPSC_N_qo",
-          "videoId": "L8pPSC_N_qo",
-          "pubDate": "2026-04-28T20:30:01+00:00"
-        },
-        {
-          "title": "سارة مارديني .. سباحة عابرة للقارات | من لاجئة إلى سجينة",
-          "link": "https://www.youtube.com/watch?v=U1bveI-_XTs",
-          "videoId": "U1bveI-_XTs",
-          "pubDate": "2026-04-28T19:30:05+00:00"
-        },
-        {
-          "title": "ناجية من المدارس الداخلية في كندا: نزعوا ملابسنا وقصوا شعورنا وعاملونا كالحيوانات",
-          "link": "https://www.youtube.com/watch?v=7ZbQqAHlUL0",
-          "videoId": "7ZbQqAHlUL0",
-          "pubDate": "2026-04-28T19:00:01+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "الجزيرة الوثائقية",
+      "items": [],
+      "ok": false
     },
     "UCArK7aSQ68vRCiJY2m7spkA": {
       "handle": "AsharqDoc",
       "name": "الشرق الوثائقية",
-      "feedTitle": "Asharq Documentary الشرق الوثائقية",
-      "items": [
-        {
-          "title": "ما هي فائدة ساعاتنا البيولوجية؟",
-          "link": "https://www.youtube.com/watch?v=dbLhAsjdXII",
-          "videoId": "dbLhAsjdXII",
-          "pubDate": "2026-04-28T21:00:49+00:00"
-        },
-        {
-          "title": "سد هوفر العظيم .. كيف غيّر أمريكا وتحدى الصحراء؟ | الشرق الوثائقية",
-          "link": "https://www.youtube.com/watch?v=OzneB4eGd3Y",
-          "videoId": "OzneB4eGd3Y",
-          "pubDate": "2026-04-28T20:00:13+00:00"
-        },
-        {
-          "title": "سارة نتنياهو",
-          "link": "https://www.youtube.com/watch?v=brbjB_XuJ-0",
-          "videoId": "brbjB_XuJ-0",
-          "pubDate": "2026-04-28T19:00:43+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "الشرق الوثائقية",
+      "items": [],
+      "ok": false
     },
     "UCLiTe0aOHShx7hXGyqZ9UIw": {
       "handle": "natgeoabudhabime",
@@ -303,28 +151,9 @@
     "UCET6sWl4Xcu-U8Ka9PJPrwA": {
       "handle": "dwdocarabia",
       "name": "DW عربية وثائقي",
-      "feedTitle": "DW Documentary وثائقية دي دبليو",
-      "items": [
-        {
-          "title": "هل حان وقت حدّ السرعة في ألمانيا؟",
-          "link": "https://www.youtube.com/watch?v=3WFx8tNA_xA",
-          "videoId": "3WFx8tNA_xA",
-          "pubDate": "2026-04-28T11:00:04+00:00"
-        },
-        {
-          "title": "ريبورتاج | من زواج قسري في أفغانستان إلى بطلة في كمال الأجسام في النرويج | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=uu2Qx-9AY1g",
-          "videoId": "uu2Qx-9AY1g",
-          "pubDate": "2026-04-27T17:01:12+00:00"
-        },
-        {
-          "title": "وثائقي | الصحفيون وجهاز الاستخبارات الألماني | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=sT82OsL0OlQ",
-          "videoId": "sT82OsL0OlQ",
-          "pubDate": "2026-04-26T17:01:05+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "DW عربية وثائقي",
+      "items": [],
+      "ok": false
     }
   }
 }
