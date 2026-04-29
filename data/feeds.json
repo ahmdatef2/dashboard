@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-29T11:22:01.543023+00:00",
+  "updated": "2026-04-29T13:15:06.253445+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -111,6 +111,12 @@
       "feedTitle": "AMR SALEM _ عمرو سالم",
       "items": [
         {
+          "title": "اداة مجانية افضل من كل الادوات المدفوعة | JOPDF",
+          "link": "https://www.youtube.com/watch?v=nKtaOQYcvzA",
+          "videoId": "nKtaOQYcvzA",
+          "pubDate": "2026-04-29T12:07:55+00:00"
+        },
+        {
           "title": "استخدام Claude مجانا بالكامل مع الحوت الصيني deepseek v4 pro",
           "link": "https://www.youtube.com/watch?v=Trqdq_T63Lk",
           "videoId": "Trqdq_T63Lk",
@@ -121,12 +127,6 @@
           "link": "https://www.youtube.com/watch?v=GhKTE8s4RiA",
           "videoId": "GhKTE8s4RiA",
           "pubDate": "2026-04-25T11:00:20+00:00"
-        },
-        {
-          "title": "اهم ميزة في gpt image 2.0 | نموذج خااارق",
-          "link": "https://www.youtube.com/watch?v=2Q3I8qmxxgY",
-          "videoId": "2Q3I8qmxxgY",
-          "pubDate": "2026-04-24T11:00:10+00:00"
         }
       ],
       "ok": true
@@ -293,7 +293,7 @@
       "feedTitle": "تكنوفلاش – AI & Tech",
       "items": [
         {
-          "title": "تجربة اقوى مما تتخيل Happy horse 1.0 و seedance 2.0 على topmedai v5.5",
+          "title": "استنساخ صوتك وصنع أغنية بالذكاء الاصطناعي و فيديوهات | Happy Horse 1.0 على TopMediai V5.5",
           "link": "https://www.youtube.com/watch?v=LyTlbLerO6Y",
           "videoId": "LyTlbLerO6Y",
           "pubDate": "2026-04-27T10:00:29+00:00"
@@ -449,6 +449,12 @@
       "feedTitle": "دوباميكافين Dupamicaffeine",
       "items": [
         {
+          "title": "اكتشف نمط شخصيتك - دوباميكافين",
+          "link": "https://www.youtube.com/watch?v=2t-FjHZT33Y",
+          "videoId": "2t-FjHZT33Y",
+          "pubDate": "2026-04-29T13:00:06+00:00"
+        },
+        {
           "title": "اهم استثمار تسويه في حياتك هو استثمارك في عقلك",
           "link": "https://www.youtube.com/watch?v=GQU06NyQrKk",
           "videoId": "GQU06NyQrKk",
@@ -459,12 +465,6 @@
           "link": "https://www.youtube.com/watch?v=FPUocf_VfSo",
           "videoId": "FPUocf_VfSo",
           "pubDate": "2026-04-23T12:39:10+00:00"
-        },
-        {
-          "title": "الإقناع لغة العقل والهندسة لغة العاطفة",
-          "link": "https://www.youtube.com/watch?v=MFTxMiUKYQI",
-          "videoId": "MFTxMiUKYQI",
-          "pubDate": "2026-04-21T13:03:32+00:00"
         }
       ],
       "ok": true
@@ -474,6 +474,12 @@
       "name": "الجزيرة الوثائقية",
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
+        {
+          "title": "\"دولة نووية تخاف من ولادة طفلة!\"",
+          "link": "https://www.youtube.com/watch?v=CuBzMzeuv8E",
+          "videoId": "CuBzMzeuv8E",
+          "pubDate": "2026-04-29T12:00:00+00:00"
+        },
         {
           "title": "كان يملك 14 بطاقة ائتمان كيف تحرر رجل تركي من وهم الاستهلاك؟",
           "link": "https://www.youtube.com/watch?v=keGwAzNdJu4",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=Q6Xw19tdnak",
           "videoId": "Q6Xw19tdnak",
           "pubDate": "2026-04-29T10:10:22+00:00"
-        },
-        {
-          "title": "\"كنا نضحك ثم اعتقلنا\" شاب طموح أنهى حياته نظام الأسد",
-          "link": "https://www.youtube.com/watch?v=0F3JyjnR-vQ",
-          "videoId": "0F3JyjnR-vQ",
-          "pubDate": "2026-04-29T08:00:01+00:00"
         }
       ],
       "ok": true
