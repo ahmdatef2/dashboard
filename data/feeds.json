@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-29T09:54:18.038574+00:00",
+  "updated": "2026-04-29T11:22:01.543023+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "كان يملك 14 بطاقة ائتمان كيف تحرر رجل تركي من وهم الاستهلاك؟",
+          "link": "https://www.youtube.com/watch?v=keGwAzNdJu4",
+          "videoId": "keGwAzNdJu4",
+          "pubDate": "2026-04-29T11:08:20+00:00"
+        },
+        {
+          "title": "لماذا سمي نادي الوداد البيضاوي، بهذا الاسم؟ وما علاقته بأم كلثوم؟",
+          "link": "https://www.youtube.com/watch?v=Q6Xw19tdnak",
+          "videoId": "Q6Xw19tdnak",
+          "pubDate": "2026-04-29T10:10:22+00:00"
+        },
+        {
           "title": "\"كنا نضحك ثم اعتقلنا\" شاب طموح أنهى حياته نظام الأسد",
           "link": "https://www.youtube.com/watch?v=0F3JyjnR-vQ",
           "videoId": "0F3JyjnR-vQ",
           "pubDate": "2026-04-29T08:00:01+00:00"
-        },
-        {
-          "title": "أمادو غالو فال.. عراب كرة السلة في إفريقيا",
-          "link": "https://www.youtube.com/watch?v=L8pPSC_N_qo",
-          "videoId": "L8pPSC_N_qo",
-          "pubDate": "2026-04-28T20:30:01+00:00"
-        },
-        {
-          "title": "سارة مارديني .. سباحة عابرة للقارات | من بطلة إنقاذ إلى متهمة بالاتجار",
-          "link": "https://www.youtube.com/watch?v=U1bveI-_XTs",
-          "videoId": "U1bveI-_XTs",
-          "pubDate": "2026-04-28T19:30:05+00:00"
         }
       ],
       "ok": true
