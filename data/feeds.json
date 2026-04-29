@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-29T19:03:31.839684+00:00",
+  "updated": "2026-04-29T20:47:10.034412+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "أب يرفض أن يورّث أبناءه النمط الاستهلاكي ويختار العيش خارج المدينة",
+          "link": "https://www.youtube.com/watch?v=xIoVyIDDc8I",
+          "videoId": "xIoVyIDDc8I",
+          "pubDate": "2026-04-29T20:30:01+00:00"
+        },
+        {
+          "title": "هواري بومدين وإعادة بناء الهوية الإسلامية للجزائر",
+          "link": "https://www.youtube.com/watch?v=-TzZR9o1UpA",
+          "videoId": "-TzZR9o1UpA",
+          "pubDate": "2026-04-29T19:00:00+00:00"
+        },
+        {
           "title": "عالم يشبهنا.. كيف تتواصل الحيوانات وتحب وتتعاون مثل البشر؟ | الحلقة السادسة",
           "link": "https://www.youtube.com/watch?v=rhly67j5YSQ",
           "videoId": "rhly67j5YSQ",
           "pubDate": "2026-04-29T18:00:49+00:00"
-        },
-        {
-          "title": "شعبان عبد الرحيم المطرب الجريء الذي جاهر بكُرهه لإسرائيل",
-          "link": "https://www.youtube.com/watch?v=5yXSr07iPkw",
-          "videoId": "5yXSr07iPkw",
-          "pubDate": "2026-04-29T17:00:01+00:00"
-        },
-        {
-          "title": "فرحة شعبية عارمة في أول صعود للعراق إلى كأس العالم",
-          "link": "https://www.youtube.com/watch?v=N_KFxXymZQE",
-          "videoId": "N_KFxXymZQE",
-          "pubDate": "2026-04-29T14:59:51+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "كيف أصبحت ASML أهم شركة في صناعة الرقائق؟",
+          "link": "https://www.youtube.com/watch?v=wOVygthgZ5U",
+          "videoId": "wOVygthgZ5U",
+          "pubDate": "2026-04-29T20:00:43+00:00"
+        },
         {
           "title": "القصبة في الجزائر",
           "link": "https://www.youtube.com/watch?v=4Iz0r1CMXAI",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=TyBlsdKiNws",
           "videoId": "TyBlsdKiNws",
           "pubDate": "2026-04-29T14:16:08+00:00"
-        },
-        {
-          "title": "ما هي فائدة ساعاتنا البيولوجية؟",
-          "link": "https://www.youtube.com/watch?v=dbLhAsjdXII",
-          "videoId": "dbLhAsjdXII",
-          "pubDate": "2026-04-28T21:00:49+00:00"
         }
       ],
       "ok": true
@@ -526,6 +526,12 @@
       "name": "ناشيونال جيوغرافيك",
       "feedTitle": "Nat Geo Abu Dhabi",
       "items": [
+        {
+          "title": "الإعصار آلي | العاصفة الكارثية | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=Bsh4GCSBuEM",
+          "videoId": "Bsh4GCSBuEM",
+          "pubDate": "2026-04-29T19:57:45+00:00"
+        },
         {
           "title": "برنامج جديد | خفر السواحل الهولندي في منطقة الكاريبي | ناشونال جيوغرافيك أبوظبي",
           "link": "https://www.youtube.com/watch?v=fWsl3RVIUDI",
@@ -537,12 +543,6 @@
           "link": "https://www.youtube.com/watch?v=Jizn2JaMeuI",
           "videoId": "Jizn2JaMeuI",
           "pubDate": "2026-04-28T19:56:47+00:00"
-        },
-        {
-          "title": "الحلقة الكاملة | أكاشينغا: الشجعان | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=HBYiX-vhMqA",
-          "videoId": "HBYiX-vhMqA",
-          "pubDate": "2026-04-27T19:38:44+00:00"
         }
       ],
       "ok": true
