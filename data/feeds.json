@@ -1,26 +1,83 @@
 {
-  "updated": "2026-04-29T01:30:39.619399+00:00",
+  "updated": "2026-04-29T05:15:12.191933+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
       "name": "د. هبة أحمد",
-      "feedTitle": "د. هبة أحمد",
-      "items": [],
-      "ok": false
+      "feedTitle": "Heba Ahmed - هبة احمد",
+      "items": [
+        {
+          "title": "كورس Generative AI من الصفر | الجزء الاول",
+          "link": "https://www.youtube.com/watch?v=Kc86RBw-42A",
+          "videoId": "Kc86RBw-42A",
+          "pubDate": "2026-04-28T18:07:36+00:00"
+        },
+        {
+          "title": "إطلاق DeepSeek V4… النموذج اللي هيغيّر سباق الذكاء الاصطناعي؟",
+          "link": "https://www.youtube.com/watch?v=O_PsdrOR7Bw",
+          "videoId": "O_PsdrOR7Bw",
+          "pubDate": "2026-04-24T18:42:00+00:00"
+        },
+        {
+          "title": "Claude دخل Microsoft Word أخيرًا | جربت الإضافة الجديدة",
+          "link": "https://www.youtube.com/watch?v=_YKsTILD05w",
+          "videoId": "_YKsTILD05w",
+          "pubDate": "2026-04-21T18:34:42+00:00"
+        }
+      ],
+      "ok": true
     },
     "UC2jjW7c63dqOPkfMm3P-u3w": {
       "handle": "every_day_a_new_website",
       "name": "موقع كل يوم",
-      "feedTitle": "موقع كل يوم",
-      "items": [],
-      "ok": false
+      "feedTitle": "كل يوم موقع جديد",
+      "items": [
+        {
+          "title": "HeyGen يفاجئ الجميع بترقية Seedance 2.0! فيديوهات سينمائية بنسختك الرقمية",
+          "link": "https://www.youtube.com/watch?v=MgowMImRgmY",
+          "videoId": "MgowMImRgmY",
+          "pubDate": "2026-04-28T15:00:37+00:00"
+        },
+        {
+          "title": "GLM 5.1 ليس مجرد شات بوت… هذا وكيل AI كامل",
+          "link": "https://www.youtube.com/watch?v=RDUo4zb8Fbc",
+          "videoId": "RDUo4zb8Fbc",
+          "pubDate": "2026-04-26T18:22:42+00:00"
+        },
+        {
+          "title": "عدّل صورك باحتراف باستخدام JSON Code داخل GPT-Image 2.0",
+          "link": "https://www.youtube.com/watch?v=x-gUcZ87Zh0",
+          "videoId": "x-gUcZ87Zh0",
+          "pubDate": "2026-04-24T18:19:20+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCKD8vOz3maRPyLAbMXhr-Pw": {
       "handle": "infotech4you_Marwasoliman",
       "name": "مروة سليمان",
-      "feedTitle": "مروة سليمان",
-      "items": [],
-      "ok": false
+      "feedTitle": "Infotech4you - مروي سليمان",
+      "items": [
+        {
+          "title": "شاومي تدخل سباق الذكاء الاصطناعي بقوة! تجربة Xiaomi MiMo V2.5 Pro",
+          "link": "https://www.youtube.com/watch?v=1o5nd8Q0X1Q",
+          "videoId": "1o5nd8Q0X1Q",
+          "pubDate": "2026-04-28T21:47:07+00:00"
+        },
+        {
+          "title": "Kimi K2.6  نموذج صيني مفتوح المصدر ينافس ChatGPT وClaude في البرمجة والـAgents",
+          "link": "https://www.youtube.com/watch?v=WotjJNaBU5E",
+          "videoId": "WotjJNaBU5E",
+          "pubDate": "2026-04-26T17:32:42+00:00"
+        },
+        {
+          "title": "DeepSeek V4  عودة لنموذج أبهر الجميع  ... ما الجديد ؟",
+          "link": "https://www.youtube.com/watch?v=sxiD-YN8xt4",
+          "videoId": "sxiD-YN8xt4",
+          "pubDate": "2026-04-24T14:36:57+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCSRy-3lglM2QKJ_xF2zuPlQ": {
       "handle": "AbdellatifSaidA",
@@ -39,16 +96,54 @@
     "UC9ocsRoOwj9tkAQNfUt8ZJg": {
       "handle": "PythonArab",
       "name": "بايثون عربي",
-      "feedTitle": "بايثون عربي",
-      "items": [],
-      "ok": false
+      "feedTitle": "Python Arabic Community",
+      "items": [
+        {
+          "title": "فكرة مشروع مجنونة: كيف تحول الذكاء الاصطناعي إلى مدير تقني (CTO) لمشروعك 🤖",
+          "link": "https://www.youtube.com/watch?v=cmQB0xrSQ0o",
+          "videoId": "cmQB0xrSQ0o",
+          "pubDate": "2026-04-28T14:58:56+00:00"
+        },
+        {
+          "title": "لا تستخدم Claude Opus 4.7 قبل مشاهدة هذا الفيديو! (الجانب المظلم للتحديث)",
+          "link": "https://www.youtube.com/watch?v=6WHQ-CFAKks",
+          "videoId": "6WHQ-CFAKks",
+          "pubDate": "2026-04-17T19:03:01+00:00"
+        },
+        {
+          "title": "أخبار الذكاء الاصطناعي 🚀 | 84 | الذكاء الاصطناعي السري الذي أرعب صناعه 😱 + هدايا لمتابعينا!",
+          "link": "https://www.youtube.com/watch?v=CqdCNkxzzP0",
+          "videoId": "CqdCNkxzzP0",
+          "pubDate": "2026-04-15T15:48:31+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCSNkfKl4cU-55Nm-ovsvOHQ": {
       "handle": "elzerowebschool",
       "name": "Elzero Web School",
       "feedTitle": "Elzero Web School",
-      "items": [],
-      "ok": false
+      "items": [
+        {
+          "title": "حاجات لو رجع بيا الزمن هغيرها",
+          "link": "https://www.youtube.com/watch?v=jD9VdUmdVVc",
+          "videoId": "jD9VdUmdVVc",
+          "pubDate": "2026-04-18T13:46:09+00:00"
+        },
+        {
+          "title": "عشر حاجات لو سمعتهم وانت بتتفق على شغل اهرب فورا",
+          "link": "https://www.youtube.com/watch?v=ER_CzhR6JVQ",
+          "videoId": "ER_CzhR6JVQ",
+          "pubDate": "2026-03-26T20:11:50+00:00"
+        },
+        {
+          "title": "مبادرة هتطورك في البرمجة وتاخد ثواب وفرصة لرحلة عمرة",
+          "link": "https://www.youtube.com/watch?v=1n4AJdviibs",
+          "videoId": "1n4AJdviibs",
+          "pubDate": "2026-03-03T19:47:57+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCGrVvqu8PlVv0wPqA5kgY8A": {
       "handle": "ArabicArtificialIntelligence",
@@ -60,30 +155,106 @@
     "UCSXcmF4Gxl6Hc-m6cHYD_Vg": {
       "handle": "MohamedAnsary",
       "name": "محمد أنصاري",
-      "feedTitle": "محمد أنصاري",
-      "items": [],
-      "ok": false
+      "feedTitle": "Mohamed Ansary",
+      "items": [
+        {
+          "title": "DeepSeek V4: الجيل الجديد من الذكاء الاصطناعي وصل",
+          "link": "https://www.youtube.com/watch?v=vC0mkZBDxG8",
+          "videoId": "vC0mkZBDxG8",
+          "pubDate": "2026-04-27T12:07:34+00:00"
+        },
+        {
+          "title": "ChatGPT Image 2.0: النموذج الأقوى لتوليد الصور بالذكاء الاصطناعي",
+          "link": "https://www.youtube.com/watch?v=yVPgmdQqhw4",
+          "videoId": "yVPgmdQqhw4",
+          "pubDate": "2026-04-26T08:16:32+00:00"
+        },
+        {
+          "title": "قدرات النموذج العملاق بعد التحديث الأخيروعودة لمنافسة العمالقة | Deepseek V4",
+          "link": "https://www.youtube.com/watch?v=bjrxjmFJfyA",
+          "videoId": "bjrxjmFJfyA",
+          "pubDate": "2026-04-25T19:57:05+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCDqp23rTdCo_tXsuHLYF47Q": {
       "handle": "ArabianAiSchool",
       "name": "Arabian AI School",
-      "feedTitle": "Arabian AI School",
-      "items": [],
-      "ok": false
+      "feedTitle": "مدرسة الذكاء الاصطناعي",
+      "items": [
+        {
+          "title": "وفر 20 دولار واستخدم Claude Co work مجانا بطريقة رسمية",
+          "link": "https://www.youtube.com/watch?v=pxRzCDNMnf4",
+          "videoId": "pxRzCDNMnf4",
+          "pubDate": "2026-04-28T17:28:19+00:00"
+        },
+        {
+          "title": "وداعا After Effects ؟ أداة ذكاء اصطناعي بتعمل فيديوهات موشن جرافيكس بضغطة زر",
+          "link": "https://www.youtube.com/watch?v=yMb7sr_0-YM",
+          "videoId": "yMb7sr_0-YM",
+          "pubDate": "2026-04-23T20:43:26+00:00"
+        },
+        {
+          "title": "هل GPT Image 2 أفضل من Nano Banana؟ مقارنة شاملة",
+          "link": "https://www.youtube.com/watch?v=LWPUM0zjccg",
+          "videoId": "LWPUM0zjccg",
+          "pubDate": "2026-04-22T15:19:12+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCz0N3nKrJiDhNdKQvM6r93w": {
       "handle": "ryan.academy",
       "name": "Ryan Academy",
-      "feedTitle": "Ryan Academy",
-      "items": [],
-      "ok": false
+      "feedTitle": "أكاديمية ريان | Ryan Academy",
+      "items": [
+        {
+          "title": "ازاي تعمل موقع لبيع المنتجات الرقمية مجانًا (قالب + استضافة) 🔥",
+          "link": "https://www.youtube.com/watch?v=5qI2aylvbS0",
+          "videoId": "5qI2aylvbS0",
+          "pubDate": "2026-04-27T19:00:04+00:00"
+        },
+        {
+          "title": "ازاي تاخد API Key مجاني من Groq (Llama + Qwen + Whisper) (بدون كارت) 🔥",
+          "link": "https://www.youtube.com/watch?v=Zbxb8kZDirU",
+          "videoId": "Zbxb8kZDirU",
+          "pubDate": "2026-04-25T16:01:01+00:00"
+        },
+        {
+          "title": "الوحش الصيني في البرمجة والمهام العادية 🥊 تحدي برمجة لـ MiniMax M2.7 API النتيجة صدمة!",
+          "link": "https://www.youtube.com/watch?v=1reXIi0sT4g",
+          "videoId": "1reXIi0sT4g",
+          "pubDate": "2026-04-22T17:00:05+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCXVSIaWCZBxqZ5eCxwIqRGw": {
       "handle": "TechnoFlashAITech",
       "name": "TechnoFlash AI",
-      "feedTitle": "TechnoFlash AI",
-      "items": [],
-      "ok": false
+      "feedTitle": "تكنوفلاش – AI & Tech",
+      "items": [
+        {
+          "title": "اقوى ذكاء اصطناعي صيني جربته في TopMediai V5.5 | Happy Horse 1.0",
+          "link": "https://www.youtube.com/watch?v=LyTlbLerO6Y",
+          "videoId": "LyTlbLerO6Y",
+          "pubDate": "2026-04-27T10:00:29+00:00"
+        },
+        {
+          "title": "صنعت مؤثرة ذكاء اصطناعي في 5 دقائق وحقق أول أرباحك (طريقة سرية) 🚀 ai influencer",
+          "link": "https://www.youtube.com/watch?v=Kb0csVcNsZA",
+          "videoId": "Kb0csVcNsZA",
+          "pubDate": "2026-04-24T11:00:21+00:00"
+        },
+        {
+          "title": "أخيراً ChatGPT Images 2.0 يسحق Nano Banana في التصميم بالعربي مجانا 🚀",
+          "link": "https://www.youtube.com/watch?v=kgTUrXKPM2k",
+          "videoId": "kgTUrXKPM2k",
+          "pubDate": "2026-04-22T21:17:22+00:00"
+        }
+      ],
+      "ok": true
     },
     "UC16aC4Jti6tYAi0LuXmu-9w": {
       "handle": "KhairJaleesBook",
@@ -103,8 +274,27 @@
       "handle": "a5drcom",
       "name": "أخضر",
       "feedTitle": "أخضر",
-      "items": [],
-      "ok": false
+      "items": [
+        {
+          "title": "الحظ ليس صدفه, في هذا المقطع يكشف لنا د. محمد البيز في جلسة أخضر السر وراء صناعة الفرص.",
+          "link": "https://www.youtube.com/watch?v=ehVZy7OK5Ps",
+          "videoId": "ehVZy7OK5Ps",
+          "pubDate": "2026-04-27T14:18:00+00:00"
+        },
+        {
+          "title": "حمّل تطبيق \"أخضر\" وشاهد جلسة أخضر مع د. محمد البيز",
+          "link": "https://www.youtube.com/watch?v=gWd9V0QZ-vI",
+          "videoId": "gWd9V0QZ-vI",
+          "pubDate": "2026-04-26T14:56:07+00:00"
+        },
+        {
+          "title": "أنت في الوقت الضايع ⏰🚨 كتاب: أربعة آلاف أسبوع #أخضر",
+          "link": "https://www.youtube.com/watch?v=VuxxGGFtNgo",
+          "videoId": "VuxxGGFtNgo",
+          "pubDate": "2026-04-24T15:00:52+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCUjRjJ1-h3oUx40gf2tuh3w": {
       "handle": "Sha5bata",
@@ -144,9 +334,28 @@
     "UCLiTe0aOHShx7hXGyqZ9UIw": {
       "handle": "natgeoabudhabime",
       "name": "ناشيونال جيوغرافيك",
-      "feedTitle": "ناشيونال جيوغرافيك",
-      "items": [],
-      "ok": false
+      "feedTitle": "Nat Geo Abu Dhabi",
+      "items": [
+        {
+          "title": "برنامج جديد | خفر السواحل الهولندي في منطقة الكاريبي | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=fWsl3RVIUDI",
+          "videoId": "fWsl3RVIUDI",
+          "pubDate": "2026-04-28T19:56:57+00:00"
+        },
+        {
+          "title": "برنامج جديد | خفر السواحل الهولندي في منطقة الكاريبي | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=Jizn2JaMeuI",
+          "videoId": "Jizn2JaMeuI",
+          "pubDate": "2026-04-28T19:56:47+00:00"
+        },
+        {
+          "title": "الحلقة الكاملة | أكاشينغا: الشجعان | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=HBYiX-vhMqA",
+          "videoId": "HBYiX-vhMqA",
+          "pubDate": "2026-04-27T19:38:44+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCET6sWl4Xcu-U8Ka9PJPrwA": {
       "handle": "dwdocarabia",
