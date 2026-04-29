@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-29T13:15:06.253445+00:00",
+  "updated": "2026-04-29T15:49:46.801134+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -85,6 +85,12 @@
       "feedTitle": "عبداللطيف سعيد Abdellatif Said",
       "items": [
         {
+          "title": "اللعبة اتغيرت.. عصر الـ AI Agents من جوجل اللي هيشتغلوا مكانك! شرح Gemini Enterprise",
+          "link": "https://www.youtube.com/watch?v=8ZjPq6VfFAI",
+          "videoId": "8ZjPq6VfFAI",
+          "pubDate": "2026-04-29T14:00:13+00:00"
+        },
+        {
           "title": "تحدي أقوى نماذج الذكاء الاصطناعي: DeepSeek V4 ضد Kimi K2.6.. مين يكسب في البرمجة؟ 🤯💻",
           "link": "https://www.youtube.com/watch?v=WLhxFeK7N2A",
           "videoId": "WLhxFeK7N2A",
@@ -95,12 +101,6 @@
           "link": "https://www.youtube.com/watch?v=9Rt_ri6Jd0s",
           "videoId": "9Rt_ri6Jd0s",
           "pubDate": "2026-04-26T14:00:24+00:00"
-        },
-        {
-          "title": "الوحش الصيني DeepSeek V4.. أرخص وأقوى بديل لـ ChatGPT؟ (تجربة برمجية صدمتني!)",
-          "link": "https://www.youtube.com/watch?v=SOluZdzF_mw",
-          "videoId": "SOluZdzF_mw",
-          "pubDate": "2026-04-25T15:31:52+00:00"
         }
       ],
       "ok": true
@@ -241,7 +241,7 @@
       "feedTitle": "مدرسة الذكاء الاصطناعي",
       "items": [
         {
-          "title": "وفر 20 دولار واستخدم Claude Co work مجانا بطريقة رسمية",
+          "title": "وفر 20 دولار واستخدم Claude Cowork مجانا بطريقة رسمية",
           "link": "https://www.youtube.com/watch?v=pxRzCDNMnf4",
           "videoId": "pxRzCDNMnf4",
           "pubDate": "2026-04-28T17:28:19+00:00"
@@ -371,6 +371,12 @@
       "feedTitle": "أخضر",
       "items": [
         {
+          "title": ". تُقاتل من أجل فرصة ولا تدري أين الخير؟ شاهد جلسة أخضر مع د.محمد البيز",
+          "link": "https://www.youtube.com/watch?v=hYI4R4UL4Bw",
+          "videoId": "hYI4R4UL4Bw",
+          "pubDate": "2026-04-29T14:21:09+00:00"
+        },
+        {
           "title": "الحظ ليس صدفه, في هذا المقطع يكشف لنا د. محمد البيز في جلسة أخضر السر وراء صناعة الفرص.",
           "link": "https://www.youtube.com/watch?v=ehVZy7OK5Ps",
           "videoId": "ehVZy7OK5Ps",
@@ -381,12 +387,6 @@
           "link": "https://www.youtube.com/watch?v=gWd9V0QZ-vI",
           "videoId": "gWd9V0QZ-vI",
           "pubDate": "2026-04-26T14:56:07+00:00"
-        },
-        {
-          "title": "أنت في الوقت الضايع ⏰🚨 كتاب: أربعة آلاف أسبوع #أخضر",
-          "link": "https://www.youtube.com/watch?v=VuxxGGFtNgo",
-          "videoId": "VuxxGGFtNgo",
-          "pubDate": "2026-04-24T15:00:52+00:00"
         }
       ],
       "ok": true
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "فرحة شعبية عارمة في أول صعود للعراق إلى كأس العالم",
+          "link": "https://www.youtube.com/watch?v=N_KFxXymZQE",
+          "videoId": "N_KFxXymZQE",
+          "pubDate": "2026-04-29T14:59:51+00:00"
+        },
+        {
+          "title": "ما المحبة عند جلال الدين الرومي؟",
+          "link": "https://www.youtube.com/watch?v=WwNmDcRZfJ0",
+          "videoId": "WwNmDcRZfJ0",
+          "pubDate": "2026-04-29T13:19:20+00:00"
+        },
+        {
           "title": "\"دولة نووية تخاف من ولادة طفلة!\"",
           "link": "https://www.youtube.com/watch?v=CuBzMzeuv8E",
           "videoId": "CuBzMzeuv8E",
           "pubDate": "2026-04-29T12:00:00+00:00"
-        },
-        {
-          "title": "كان يملك 14 بطاقة ائتمان كيف تحرر رجل تركي من وهم الاستهلاك؟",
-          "link": "https://www.youtube.com/watch?v=keGwAzNdJu4",
-          "videoId": "keGwAzNdJu4",
-          "pubDate": "2026-04-29T11:08:20+00:00"
-        },
-        {
-          "title": "لماذا سمي نادي الوداد البيضاوي، بهذا الاسم؟ وما علاقته بأم كلثوم؟",
-          "link": "https://www.youtube.com/watch?v=Q6Xw19tdnak",
-          "videoId": "Q6Xw19tdnak",
-          "pubDate": "2026-04-29T10:10:22+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "كيف يبدو الصيف في القطب الشمالي؟",
+          "link": "https://www.youtube.com/watch?v=TyBlsdKiNws",
+          "videoId": "TyBlsdKiNws",
+          "pubDate": "2026-04-29T14:16:08+00:00"
+        },
         {
           "title": "ما هي فائدة ساعاتنا البيولوجية؟",
           "link": "https://www.youtube.com/watch?v=dbLhAsjdXII",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=OzneB4eGd3Y",
           "videoId": "OzneB4eGd3Y",
           "pubDate": "2026-04-28T20:00:13+00:00"
-        },
-        {
-          "title": "سارة نتنياهو",
-          "link": "https://www.youtube.com/watch?v=brbjB_XuJ-0",
-          "videoId": "brbjB_XuJ-0",
-          "pubDate": "2026-04-28T19:00:43+00:00"
         }
       ],
       "ok": true
