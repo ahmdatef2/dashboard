@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-29T17:12:32.289233+00:00",
+  "updated": "2026-04-29T19:03:31.839684+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "عالم يشبهنا.. كيف تتواصل الحيوانات وتحب وتتعاون مثل البشر؟ | الحلقة السادسة",
+          "link": "https://www.youtube.com/watch?v=rhly67j5YSQ",
+          "videoId": "rhly67j5YSQ",
+          "pubDate": "2026-04-29T18:00:49+00:00"
+        },
+        {
           "title": "شعبان عبد الرحيم المطرب الجريء الذي جاهر بكُرهه لإسرائيل",
           "link": "https://www.youtube.com/watch?v=5yXSr07iPkw",
           "videoId": "5yXSr07iPkw",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=N_KFxXymZQE",
           "videoId": "N_KFxXymZQE",
           "pubDate": "2026-04-29T14:59:51+00:00"
-        },
-        {
-          "title": "ما المحبة عند جلال الدين الرومي؟",
-          "link": "https://www.youtube.com/watch?v=WwNmDcRZfJ0",
-          "videoId": "WwNmDcRZfJ0",
-          "pubDate": "2026-04-29T13:19:20+00:00"
         }
       ],
       "ok": true
