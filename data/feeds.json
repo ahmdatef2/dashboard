@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-30T09:58:17.729937+00:00",
+  "updated": "2026-04-30T11:24:48.537399+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "محمد علي الحامي.. ملحمة بطل- برومو",
+          "link": "https://www.youtube.com/watch?v=YGNahbVxl7I",
+          "videoId": "YGNahbVxl7I",
+          "pubDate": "2026-04-30T10:59:51+00:00"
+        },
+        {
+          "title": "رشيد غلام.. من غناء الليل إلى الفن الهادف",
+          "link": "https://www.youtube.com/watch?v=zTgi6HWohA8",
+          "videoId": "zTgi6HWohA8",
+          "pubDate": "2026-04-30T09:56:28+00:00"
+        },
+        {
           "title": "عراقية نشأت في سوريا: حنيني إلى الشام لا يضاهيه أي شيء آخر",
           "link": "https://www.youtube.com/watch?v=C0znGCAdpNY",
           "videoId": "C0znGCAdpNY",
           "pubDate": "2026-04-30T08:00:01+00:00"
-        },
-        {
-          "title": "السلط- الأردن",
-          "link": "https://www.youtube.com/watch?v=KJ2F09ASXOE",
-          "videoId": "KJ2F09ASXOE",
-          "pubDate": "2026-04-30T06:55:44+00:00"
-        },
-        {
-          "title": "أب يرفض أن يورّث أبناءه النمط الاستهلاكي ويختار العيش خارج المدينة",
-          "link": "https://www.youtube.com/watch?v=xIoVyIDDc8I",
-          "videoId": "xIoVyIDDc8I",
-          "pubDate": "2026-04-29T20:30:01+00:00"
         }
       ],
       "ok": true
