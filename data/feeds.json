@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-30T07:56:40.315210+00:00",
+  "updated": "2026-04-30T09:58:17.729937+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -397,6 +397,12 @@
       "feedTitle": "شخبطة Sha5bata",
       "items": [
         {
+          "title": "عيشها صح .. اعتبر الفيديو دا إشارة ليك",
+          "link": "https://www.youtube.com/watch?v=LQpC4Q8BHSk",
+          "videoId": "LQpC4Q8BHSk",
+          "pubDate": "2026-04-30T09:30:10+00:00"
+        },
+        {
           "title": "الصلابة النفسية VS الابتلاءات !!",
           "link": "https://www.youtube.com/watch?v=rIIZajWCHFQ",
           "videoId": "rIIZajWCHFQ",
@@ -407,12 +413,6 @@
           "link": "https://www.youtube.com/watch?v=iUJI5T94jbc",
           "videoId": "iUJI5T94jbc",
           "pubDate": "2026-04-10T11:15:05+00:00"
-        },
-        {
-          "title": "هل الزواج ضرورة ؟! فيديو هيغير نظرتك للعلاقات!",
-          "link": "https://www.youtube.com/watch?v=iUYBa2fVEmM",
-          "videoId": "iUYBa2fVEmM",
-          "pubDate": "2026-04-07T11:01:12+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "عراقية نشأت في سوريا: حنيني إلى الشام لا يضاهيه أي شيء آخر",
+          "link": "https://www.youtube.com/watch?v=C0znGCAdpNY",
+          "videoId": "C0znGCAdpNY",
+          "pubDate": "2026-04-30T08:00:01+00:00"
+        },
+        {
           "title": "السلط- الأردن",
           "link": "https://www.youtube.com/watch?v=KJ2F09ASXOE",
           "videoId": "KJ2F09ASXOE",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=xIoVyIDDc8I",
           "videoId": "xIoVyIDDc8I",
           "pubDate": "2026-04-29T20:30:01+00:00"
-        },
-        {
-          "title": "هواري بومدين وإعادة بناء الهوية الإسلامية للجزائر",
-          "link": "https://www.youtube.com/watch?v=-TzZR9o1UpA",
-          "videoId": "-TzZR9o1UpA",
-          "pubDate": "2026-04-29T19:00:00+00:00"
         }
       ],
       "ok": true
@@ -501,7 +501,7 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
-          "title": "كيف أصبحت ASML أهم شركة في صناعة الرقائق؟",
+          "title": "ASML.. شركة صناعة الرقائق التي تتحكم بمستقبل العالم | أخطر آلة على الأرض",
           "link": "https://www.youtube.com/watch?v=wOVygthgZ5U",
           "videoId": "wOVygthgZ5U",
           "pubDate": "2026-04-29T20:00:43+00:00"
@@ -553,7 +553,7 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
-          "title": "وثائقي | الأكسولوتل: سمندل المكسيك الذي يجدد أعضاءه.. هل ينقذ مستقبل الطب؟ | وثائقية دي دبليو",
+          "title": "وثائقي | الأكسولوتل: رحلة سمندل المكسيك من التقديس إلى حافة الانقراض | وثائقية دي دبليو",
           "link": "https://www.youtube.com/watch?v=rmB5iSbt-Mc",
           "videoId": "rmB5iSbt-Mc",
           "pubDate": "2026-04-29T17:01:14+00:00"
