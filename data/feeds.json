@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-30T20:46:40.830484+00:00",
+  "updated": "2026-04-30T21:43:23.477655+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "اتهموه بالسخرية من أوجاعهم… ثم اكتشفوا حقيقة وجعه",
+          "link": "https://www.youtube.com/watch?v=ksKSRe1p7iY",
+          "videoId": "ksKSRe1p7iY",
+          "pubDate": "2026-04-30T20:59:01+00:00"
+        },
+        {
           "title": "دوري السلة الإفريقي.. كيف وُلد الحلم الذي غير مستقبل الرياضة في إفريقيا؟ | الحلقة الثانية",
           "link": "https://www.youtube.com/watch?v=8VpTJ-GbqgU",
           "videoId": "8VpTJ-GbqgU",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=YMajmTjzVOg",
           "videoId": "YMajmTjzVOg",
           "pubDate": "2026-04-30T20:00:01+00:00"
-        },
-        {
-          "title": "عائلة من غزة تتخذ ثلاجاتها خزانة ملابس",
-          "link": "https://www.youtube.com/watch?v=5BGF4HRKVrA",
-          "videoId": "5BGF4HRKVrA",
-          "pubDate": "2026-04-30T19:00:01+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "اقتحم المواطنون مقر الـ\"شتازي\"",
+          "link": "https://www.youtube.com/watch?v=yXLi3vSNQbc",
+          "videoId": "yXLi3vSNQbc",
+          "pubDate": "2026-04-30T21:00:27+00:00"
+        },
         {
           "title": "لحظات رعب في مانيلا: قصة رهائن مركز جرين هيلز | المفاوضون",
           "link": "https://www.youtube.com/watch?v=0-nv2m8wQy0",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=TqLDwGRIb4k",
           "videoId": "TqLDwGRIb4k",
           "pubDate": "2026-04-30T19:00:29+00:00"
-        },
-        {
-          "title": "كيف أثبتت اليابان أنها لم تعد مجرد أمة ناشئة؟",
-          "link": "https://www.youtube.com/watch?v=UPDugNfmxvw",
-          "videoId": "UPDugNfmxvw",
-          "pubDate": "2026-04-30T18:34:26+00:00"
         }
       ],
       "ok": true
