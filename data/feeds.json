@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-30T11:24:48.537399+00:00",
+  "updated": "2026-04-30T13:13:54.676063+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -215,6 +215,12 @@
       "feedTitle": "Mohamed Ansary",
       "items": [
         {
+          "title": "منصىة بحث علمي مجانية تدعم اللغة العربية Bohrium AI",
+          "link": "https://www.youtube.com/watch?v=dPP7UF7y4Fc",
+          "videoId": "dPP7UF7y4Fc",
+          "pubDate": "2026-04-30T12:25:33+00:00"
+        },
+        {
           "title": "DeepSeek V4: الجيل الجديد من الذكاء الاصطناعي وصل",
           "link": "https://www.youtube.com/watch?v=vC0mkZBDxG8",
           "videoId": "vC0mkZBDxG8",
@@ -225,12 +231,6 @@
           "link": "https://www.youtube.com/watch?v=yVPgmdQqhw4",
           "videoId": "yVPgmdQqhw4",
           "pubDate": "2026-04-26T08:16:32+00:00"
-        },
-        {
-          "title": "قدرات النموذج العملاق بعد التحديث الأخيروعودة لمنافسة العمالقة | Deepseek V4",
-          "link": "https://www.youtube.com/watch?v=bjrxjmFJfyA",
-          "videoId": "bjrxjmFJfyA",
-          "pubDate": "2026-04-25T19:57:05+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "ملك الأردن ورث عن والده حب السيارات السريعة",
+          "link": "https://www.youtube.com/watch?v=cJGK8i56n6g",
+          "videoId": "cJGK8i56n6g",
+          "pubDate": "2026-04-30T13:00:01+00:00"
+        },
+        {
           "title": "محمد علي الحامي.. ملحمة بطل- برومو",
           "link": "https://www.youtube.com/watch?v=YGNahbVxl7I",
           "videoId": "YGNahbVxl7I",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=zTgi6HWohA8",
           "videoId": "zTgi6HWohA8",
           "pubDate": "2026-04-30T09:56:28+00:00"
-        },
-        {
-          "title": "عراقية نشأت في سوريا: حنيني إلى الشام لا يضاهيه أي شيء آخر",
-          "link": "https://www.youtube.com/watch?v=C0znGCAdpNY",
-          "videoId": "C0znGCAdpNY",
-          "pubDate": "2026-04-30T08:00:01+00:00"
         }
       ],
       "ok": true
