@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-30T15:30:48.328950+00:00",
+  "updated": "2026-04-30T17:06:11.100678+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -189,6 +189,12 @@
       "feedTitle": "ذكاء اصطناعي عربي",
       "items": [
         {
+          "title": "بناء ChatGPT من الصفر 🔥 | الحلقة 1: البداية الحقيقية",
+          "link": "https://www.youtube.com/watch?v=x15qa1wT80A",
+          "videoId": "x15qa1wT80A",
+          "pubDate": "2026-04-30T17:00:06+00:00"
+        },
+        {
           "title": "🚨 نموذج جديد يرعب OpenAI! هل DeepSeek V4 هو الأفضل؟",
           "link": "https://www.youtube.com/watch?v=gJKdacxiI_I",
           "videoId": "gJKdacxiI_I",
@@ -199,12 +205,6 @@
           "link": "https://www.youtube.com/watch?v=9wgSZcIR87o",
           "videoId": "9wgSZcIR87o",
           "pubDate": "2026-04-23T18:30:06+00:00"
-        },
-        {
-          "title": "Mythos Preview: أخطر AI في العالم؟ الحقيقة الكاملة!",
-          "link": "https://www.youtube.com/watch?v=Jhm4PNVNjgU",
-          "videoId": "Jhm4PNVNjgU",
-          "pubDate": "2026-04-17T13:00:06+00:00"
         }
       ],
       "ok": true
@@ -214,6 +214,12 @@
       "name": "محمد أنصاري",
       "feedTitle": "Mohamed Ansary",
       "items": [
+        {
+          "title": "تحليل البيانات باستخدام الذكاء الاصطناعي (Claude)",
+          "link": "https://www.youtube.com/watch?v=23bNxLuhAso",
+          "videoId": "23bNxLuhAso",
+          "pubDate": "2026-04-30T15:39:16+00:00"
+        },
         {
           "title": "منصىة بحث علمي مجانية تدعم اللغة العربية Bohrium AI",
           "link": "https://www.youtube.com/watch?v=dPP7UF7y4Fc",
@@ -225,12 +231,6 @@
           "link": "https://www.youtube.com/watch?v=vC0mkZBDxG8",
           "videoId": "vC0mkZBDxG8",
           "pubDate": "2026-04-27T12:07:34+00:00"
-        },
-        {
-          "title": "ChatGPT Image 2.0: النموذج الأقوى لتوليد الصور بالذكاء الاصطناعي",
-          "link": "https://www.youtube.com/watch?v=yVPgmdQqhw4",
-          "videoId": "yVPgmdQqhw4",
-          "pubDate": "2026-04-26T08:16:32+00:00"
         }
       ],
       "ok": true
@@ -267,6 +267,12 @@
       "feedTitle": "أكاديمية ريان | Ryan Academy",
       "items": [
         {
+          "title": "ازاي تعمل منصة Vibe Coding من الصفر (مشروع SaaS ترند 🔥)",
+          "link": "https://www.youtube.com/watch?v=zQmr6iFTDpw",
+          "videoId": "zQmr6iFTDpw",
+          "pubDate": "2026-04-30T16:01:44+00:00"
+        },
+        {
           "title": "ازاي تعمل موقع لبيع المنتجات الرقمية مجانًا (قالب + استضافة) 🔥",
           "link": "https://www.youtube.com/watch?v=5qI2aylvbS0",
           "videoId": "5qI2aylvbS0",
@@ -277,12 +283,6 @@
           "link": "https://www.youtube.com/watch?v=Zbxb8kZDirU",
           "videoId": "Zbxb8kZDirU",
           "pubDate": "2026-04-25T16:01:01+00:00"
-        },
-        {
-          "title": "الوحش الصيني في البرمجة والمهام العادية 🥊 تحدي برمجة لـ MiniMax M2.7 API النتيجة صدمة!",
-          "link": "https://www.youtube.com/watch?v=1reXIi0sT4g",
-          "videoId": "1reXIi0sT4g",
-          "pubDate": "2026-04-22T17:00:05+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "أم تختار أن يتعلم أطفالها من الطبيعة لا من الكتب",
+          "link": "https://www.youtube.com/watch?v=3o9jxpM7_5I",
+          "videoId": "3o9jxpM7_5I",
+          "pubDate": "2026-04-30T17:00:22+00:00"
+        },
+        {
           "title": "عندما ألغى مسؤول كويتي هدفا ضد بلده في كأس العالم",
           "link": "https://www.youtube.com/watch?v=mWIepV7Oc5g",
           "videoId": "mWIepV7Oc5g",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=cJGK8i56n6g",
           "videoId": "cJGK8i56n6g",
           "pubDate": "2026-04-30T13:00:01+00:00"
-        },
-        {
-          "title": "محمد علي الحامي.. ملحمة بطل- برومو",
-          "link": "https://www.youtube.com/watch?v=YGNahbVxl7I",
-          "videoId": "YGNahbVxl7I",
-          "pubDate": "2026-04-30T10:59:51+00:00"
         }
       ],
       "ok": true
@@ -553,6 +553,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "وثائقي | احتيال هاتفي منظم في ألمانيا: ملايين مسروقة وشبكات تمتد إلى شرق أوروبا | وثائقية دي دبليو",
+          "link": "https://www.youtube.com/watch?v=MTnWRsz1oow",
+          "videoId": "MTnWRsz1oow",
+          "pubDate": "2026-04-30T17:00:24+00:00"
+        },
+        {
           "title": "وثائقي | الأكسولوتل: رحلة سمندل المكسيك من التقديس إلى حافة الانقراض | وثائقية دي دبليو",
           "link": "https://www.youtube.com/watch?v=rmB5iSbt-Mc",
           "videoId": "rmB5iSbt-Mc",
@@ -563,12 +569,6 @@
           "link": "https://www.youtube.com/watch?v=3WFx8tNA_xA",
           "videoId": "3WFx8tNA_xA",
           "pubDate": "2026-04-28T11:00:04+00:00"
-        },
-        {
-          "title": "ريبورتاج | من زواج قسري في أفغانستان إلى بطلة في كمال الأجسام في النرويج | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=uu2Qx-9AY1g",
-          "videoId": "uu2Qx-9AY1g",
-          "pubDate": "2026-04-27T17:01:12+00:00"
         }
       ],
       "ok": true
