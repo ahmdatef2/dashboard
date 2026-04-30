@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-30T17:06:11.100678+00:00",
+  "updated": "2026-04-30T19:02:24.257726+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "عائلة من غزة تتخذ ثلاجاتها خزانة ملابس",
+          "link": "https://www.youtube.com/watch?v=5BGF4HRKVrA",
+          "videoId": "5BGF4HRKVrA",
+          "pubDate": "2026-04-30T19:00:01+00:00"
+        },
+        {
+          "title": "بوارو.. الشاهد الأخير | رحلة في ذاكرة الصورة مع مصور التاريخ لويس بوارو",
+          "link": "https://www.youtube.com/watch?v=Am_A52WNxdY",
+          "videoId": "Am_A52WNxdY",
+          "pubDate": "2026-04-30T18:15:00+00:00"
+        },
+        {
           "title": "أم تختار أن يتعلم أطفالها من الطبيعة لا من الكتب",
           "link": "https://www.youtube.com/watch?v=3o9jxpM7_5I",
           "videoId": "3o9jxpM7_5I",
           "pubDate": "2026-04-30T17:00:22+00:00"
-        },
-        {
-          "title": "عندما ألغى مسؤول كويتي هدفا ضد بلده في كأس العالم",
-          "link": "https://www.youtube.com/watch?v=mWIepV7Oc5g",
-          "videoId": "mWIepV7Oc5g",
-          "pubDate": "2026-04-30T13:56:41+00:00"
-        },
-        {
-          "title": "ملك الأردن ورث عن والده حب السيارات السريعة",
-          "link": "https://www.youtube.com/watch?v=cJGK8i56n6g",
-          "videoId": "cJGK8i56n6g",
-          "pubDate": "2026-04-30T13:00:01+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "كيف أثبتت اليابان أنها لم تعد مجرد أمة ناشئة؟",
+          "link": "https://www.youtube.com/watch?v=UPDugNfmxvw",
+          "videoId": "UPDugNfmxvw",
+          "pubDate": "2026-04-30T18:34:26+00:00"
+        },
         {
           "title": "ASML.. شركة صناعة الرقائق التي تتحكم بمستقبل العالم | أخطر آلة على الأرض",
           "link": "https://www.youtube.com/watch?v=wOVygthgZ5U",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=4Iz0r1CMXAI",
           "videoId": "4Iz0r1CMXAI",
           "pubDate": "2026-04-29T17:00:31+00:00"
-        },
-        {
-          "title": "كيف يبدو الصيف في القطب الشمالي؟",
-          "link": "https://www.youtube.com/watch?v=TyBlsdKiNws",
-          "videoId": "TyBlsdKiNws",
-          "pubDate": "2026-04-29T14:16:08+00:00"
         }
       ],
       "ok": true
