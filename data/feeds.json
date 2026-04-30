@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-30T19:02:24.257726+00:00",
+  "updated": "2026-04-30T20:46:40.830484+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "دوري السلة الإفريقي.. كيف وُلد الحلم الذي غير مستقبل الرياضة في إفريقيا؟ | الحلقة الثانية",
+          "link": "https://www.youtube.com/watch?v=8VpTJ-GbqgU",
+          "videoId": "8VpTJ-GbqgU",
+          "pubDate": "2026-04-30T20:00:05+00:00"
+        },
+        {
+          "title": "عراقي عاش أهوال سجن أبو غريب: أوقفي التصوير",
+          "link": "https://www.youtube.com/watch?v=YMajmTjzVOg",
+          "videoId": "YMajmTjzVOg",
+          "pubDate": "2026-04-30T20:00:01+00:00"
+        },
+        {
           "title": "عائلة من غزة تتخذ ثلاجاتها خزانة ملابس",
           "link": "https://www.youtube.com/watch?v=5BGF4HRKVrA",
           "videoId": "5BGF4HRKVrA",
           "pubDate": "2026-04-30T19:00:01+00:00"
-        },
-        {
-          "title": "بوارو.. الشاهد الأخير | رحلة في ذاكرة الصورة مع مصور التاريخ لويس بوارو",
-          "link": "https://www.youtube.com/watch?v=Am_A52WNxdY",
-          "videoId": "Am_A52WNxdY",
-          "pubDate": "2026-04-30T18:15:00+00:00"
-        },
-        {
-          "title": "أم تختار أن يتعلم أطفالها من الطبيعة لا من الكتب",
-          "link": "https://www.youtube.com/watch?v=3o9jxpM7_5I",
-          "videoId": "3o9jxpM7_5I",
-          "pubDate": "2026-04-30T17:00:22+00:00"
         }
       ],
       "ok": true
@@ -501,22 +501,22 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "لحظات رعب في مانيلا: قصة رهائن مركز جرين هيلز | المفاوضون",
+          "link": "https://www.youtube.com/watch?v=0-nv2m8wQy0",
+          "videoId": "0-nv2m8wQy0",
+          "pubDate": "2026-04-30T20:00:00+00:00"
+        },
+        {
+          "title": "أخفى والده عنه أنه يهودي…",
+          "link": "https://www.youtube.com/watch?v=TqLDwGRIb4k",
+          "videoId": "TqLDwGRIb4k",
+          "pubDate": "2026-04-30T19:00:29+00:00"
+        },
+        {
           "title": "كيف أثبتت اليابان أنها لم تعد مجرد أمة ناشئة؟",
           "link": "https://www.youtube.com/watch?v=UPDugNfmxvw",
           "videoId": "UPDugNfmxvw",
           "pubDate": "2026-04-30T18:34:26+00:00"
-        },
-        {
-          "title": "ASML.. شركة صناعة الرقائق التي تتحكم بمستقبل العالم | أخطر آلة على الأرض",
-          "link": "https://www.youtube.com/watch?v=wOVygthgZ5U",
-          "videoId": "wOVygthgZ5U",
-          "pubDate": "2026-04-29T20:00:43+00:00"
-        },
-        {
-          "title": "القصبة في الجزائر",
-          "link": "https://www.youtube.com/watch?v=4Iz0r1CMXAI",
-          "videoId": "4Iz0r1CMXAI",
-          "pubDate": "2026-04-29T17:00:31+00:00"
         }
       ],
       "ok": true
