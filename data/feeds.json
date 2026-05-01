@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-01T11:56:25.726552+00:00",
+  "updated": "2026-05-01T12:56:08.180341+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "قدك المياس.. أيقونة القدود الحلبية",
+          "link": "https://www.youtube.com/watch?v=J2C57HyJpTs",
+          "videoId": "J2C57HyJpTs",
+          "pubDate": "2026-05-01T12:00:00+00:00"
+        },
+        {
           "title": "انزعاج فرنسي من سياسة التعريب في الجزائر",
           "link": "https://www.youtube.com/watch?v=g9tdkRYl_xU",
           "videoId": "g9tdkRYl_xU",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=GzkkPdu4VX8",
           "videoId": "GzkkPdu4VX8",
           "pubDate": "2026-05-01T08:00:01+00:00"
-        },
-        {
-          "title": "اتهموه بالسخرية من أوجاعهم… ثم اكتشفوا حقيقة وجعه",
-          "link": "https://www.youtube.com/watch?v=ksKSRe1p7iY",
-          "videoId": "ksKSRe1p7iY",
-          "pubDate": "2026-04-30T20:59:01+00:00"
         }
       ],
       "ok": true
