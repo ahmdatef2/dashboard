@@ -1,11 +1,17 @@
 {
-  "updated": "2026-05-01T16:41:26.815760+00:00",
+  "updated": "2026-05-01T17:45:04.820640+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
       "name": "د. هبة أحمد",
       "feedTitle": "Heba Ahmed - هبة احمد",
       "items": [
+        {
+          "title": "أخيرًا Gemini يعمل ملفات كاملة بدل ما تكتبها بنفسك",
+          "link": "https://www.youtube.com/watch?v=hisY6kJKBJE",
+          "videoId": "hisY6kJKBJE",
+          "pubDate": "2026-05-01T17:02:00+00:00"
+        },
         {
           "title": "كورس Generative AI من الصفر | الجزء الاول",
           "link": "https://www.youtube.com/watch?v=Kc86RBw-42A",
@@ -17,12 +23,6 @@
           "link": "https://www.youtube.com/watch?v=O_PsdrOR7Bw",
           "videoId": "O_PsdrOR7Bw",
           "pubDate": "2026-04-24T18:42:00+00:00"
-        },
-        {
-          "title": "Claude دخل Microsoft Word أخيرًا | جربت الإضافة الجديدة",
-          "link": "https://www.youtube.com/watch?v=_YKsTILD05w",
-          "videoId": "_YKsTILD05w",
-          "pubDate": "2026-04-21T18:34:42+00:00"
         }
       ],
       "ok": true
@@ -293,22 +293,22 @@
       "feedTitle": "تكنوفلاش – AI & Tech",
       "items": [
         {
-          "title": "استنساخ صوتك وصنع أغنية بالذكاء الاصطناعي و فيديوهات | Happy Horse 1.0 على TopMediai V5.5",
-          "link": "https://www.youtube.com/watch?v=LyTlbLerO6Y",
-          "videoId": "LyTlbLerO6Y",
-          "pubDate": "2026-04-27T10:00:29+00:00"
+          "title": "امزج أغنيتين بالذكاء الاصطناعي واصنع لحن جديد!",
+          "link": "https://www.youtube.com/watch?v=_wW3LTM3wYs",
+          "videoId": "_wW3LTM3wYs",
+          "pubDate": "2026-05-01T17:17:46+00:00"
         },
         {
-          "title": "صنعت مؤثرة ذكاء اصطناعي في 5 دقائق وحقق أول أرباحك (طريقة سرية) 🚀 ai influencer",
-          "link": "https://www.youtube.com/watch?v=Kb0csVcNsZA",
-          "videoId": "Kb0csVcNsZA",
-          "pubDate": "2026-04-24T11:00:21+00:00"
+          "title": "اقتطع عينات موسيقية من أي أغنية بالذكاء الاصطناعي!",
+          "link": "https://www.youtube.com/watch?v=IIiNJUvUvMM",
+          "videoId": "IIiNJUvUvMM",
+          "pubDate": "2026-05-01T17:17:39+00:00"
         },
         {
-          "title": "أخيراً ChatGPT Images 2.0 يسحق Nano Banana في التصميم بالعربي مجانا 🚀",
-          "link": "https://www.youtube.com/watch?v=kgTUrXKPM2k",
-          "videoId": "kgTUrXKPM2k",
-          "pubDate": "2026-04-22T21:17:22+00:00"
+          "title": "دمج الأغاني بالذكاء الاصطناعي: نتائج احترافية!",
+          "link": "https://www.youtube.com/watch?v=KziSrFQIpQg",
+          "videoId": "KziSrFQIpQg",
+          "pubDate": "2026-05-01T17:17:36+00:00"
         }
       ],
       "ok": true
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "الحبيب عاشور.. رجل العواصف | أسد البطحاء وصراع النقابة والسلطة في تونس",
+          "link": "https://www.youtube.com/watch?v=Y4WhFLWS3q8",
+          "videoId": "Y4WhFLWS3q8",
+          "pubDate": "2026-05-01T17:00:59+00:00"
+        },
+        {
+          "title": "هل قُتل نيرودا؟",
+          "link": "https://www.youtube.com/watch?v=KRdHHk9w9Yg",
+          "videoId": "KRdHHk9w9Yg",
+          "pubDate": "2026-05-01T17:00:02+00:00"
+        },
+        {
           "title": "التونسي الذي أوصل السلاح إلى الليبيين لقتال الإيطاليين",
           "link": "https://www.youtube.com/watch?v=2Oiz_04-A4M",
           "videoId": "2Oiz_04-A4M",
           "pubDate": "2026-05-01T15:00:01+00:00"
-        },
-        {
-          "title": "مهاجر جزائري: \"أعيش مع الجرذان\"",
-          "link": "https://www.youtube.com/watch?v=HWs6nCX8LUY",
-          "videoId": "HWs6nCX8LUY",
-          "pubDate": "2026-05-01T13:55:56+00:00"
-        },
-        {
-          "title": "قدك المياس.. أيقونة القدود الحلبية",
-          "link": "https://www.youtube.com/watch?v=J2C57HyJpTs",
-          "videoId": "J2C57HyJpTs",
-          "pubDate": "2026-05-01T12:00:00+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "تماثيل لعلاج لدغات الأفاعي والعقارب",
+          "link": "https://www.youtube.com/watch?v=1TlUoGiqkwM",
+          "videoId": "1TlUoGiqkwM",
+          "pubDate": "2026-05-01T17:06:13+00:00"
+        },
         {
           "title": "هل يسبب استخدام الهاتف الإدمان فعلاً؟",
           "link": "https://www.youtube.com/watch?v=Z5hfOcjtJVw",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=bs56LvoYCxI",
           "videoId": "bs56LvoYCxI",
           "pubDate": "2026-05-01T11:00:22+00:00"
-        },
-        {
-          "title": "اقتحم المواطنون مقر الـ\"شتازي\"",
-          "link": "https://www.youtube.com/watch?v=yXLi3vSNQbc",
-          "videoId": "yXLi3vSNQbc",
-          "pubDate": "2026-04-30T21:00:27+00:00"
         }
       ],
       "ok": true
@@ -553,6 +553,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "وثائقي | عمال التوصيل الهنود في ألمانيا: استغلال منظم تحت غطاء الدراسة والعمل | وثائقية دي دبليو",
+          "link": "https://www.youtube.com/watch?v=dkDI8oVv_ys",
+          "videoId": "dkDI8oVv_ys",
+          "pubDate": "2026-05-01T17:00:50+00:00"
+        },
+        {
           "title": "موجة سياح مفرطة في النرويج",
           "link": "https://www.youtube.com/watch?v=9BwwwHUfmEA",
           "videoId": "9BwwwHUfmEA",
@@ -563,12 +569,6 @@
           "link": "https://www.youtube.com/watch?v=MTnWRsz1oow",
           "videoId": "MTnWRsz1oow",
           "pubDate": "2026-04-30T17:00:24+00:00"
-        },
-        {
-          "title": "وثائقي | الأكسولوتل: رحلة سمندل المكسيك من التقديس إلى حافة الانقراض | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=rmB5iSbt-Mc",
-          "videoId": "rmB5iSbt-Mc",
-          "pubDate": "2026-04-29T17:01:14+00:00"
         }
       ],
       "ok": true
