@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-01T12:56:08.180341+00:00",
+  "updated": "2026-05-01T14:12:50.671253+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "مهاجر جزائري: \"أعيش مع الجرذان\"",
+          "link": "https://www.youtube.com/watch?v=HWs6nCX8LUY",
+          "videoId": "HWs6nCX8LUY",
+          "pubDate": "2026-05-01T13:55:56+00:00"
+        },
+        {
           "title": "قدك المياس.. أيقونة القدود الحلبية",
           "link": "https://www.youtube.com/watch?v=J2C57HyJpTs",
           "videoId": "J2C57HyJpTs",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=g9tdkRYl_xU",
           "videoId": "g9tdkRYl_xU",
           "pubDate": "2026-05-01T10:00:01+00:00"
-        },
-        {
-          "title": "النعم حولنا.. هل نبحث عن غنى مزيف؟",
-          "link": "https://www.youtube.com/watch?v=GzkkPdu4VX8",
-          "videoId": "GzkkPdu4VX8",
-          "pubDate": "2026-05-01T08:00:01+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "هل يسبب استخدام الهاتف الإدمان فعلاً؟",
+          "link": "https://www.youtube.com/watch?v=Z5hfOcjtJVw",
+          "videoId": "Z5hfOcjtJVw",
+          "pubDate": "2026-05-01T13:00:26+00:00"
+        },
         {
           "title": "قصص ما بين السطور",
           "link": "https://www.youtube.com/watch?v=bs56LvoYCxI",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=yXLi3vSNQbc",
           "videoId": "yXLi3vSNQbc",
           "pubDate": "2026-04-30T21:00:27+00:00"
-        },
-        {
-          "title": "لحظات رعب في مانيلا: قصة رهائن مركز جرين هيلز | المفاوضون",
-          "link": "https://www.youtube.com/watch?v=0-nv2m8wQy0",
-          "videoId": "0-nv2m8wQy0",
-          "pubDate": "2026-04-30T20:00:00+00:00"
         }
       ],
       "ok": true
