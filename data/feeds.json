@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-01T14:12:50.671253+00:00",
+  "updated": "2026-05-01T15:43:02.363207+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -371,6 +371,12 @@
       "feedTitle": "أخضر",
       "items": [
         {
+          "title": "كيف تصبح أب فاشل في دقائق؟🤦‍♂️🤨 - كتاب: أبناء بالغون لوالدين غير ناضجين عاطفيًا #أخضر",
+          "link": "https://www.youtube.com/watch?v=mXz2Di3h3mo",
+          "videoId": "mXz2Di3h3mo",
+          "pubDate": "2026-05-01T15:01:22+00:00"
+        },
+        {
           "title": "كيف يحرّرنا الإيمان من وهم سيطرة القلق",
           "link": "https://www.youtube.com/watch?v=eHQXJe6y_TU",
           "videoId": "eHQXJe6y_TU",
@@ -381,12 +387,6 @@
           "link": "https://www.youtube.com/watch?v=hYI4R4UL4Bw",
           "videoId": "hYI4R4UL4Bw",
           "pubDate": "2026-04-29T14:21:09+00:00"
-        },
-        {
-          "title": "الحظ ليس صدفه, في هذا المقطع يكشف لنا د. محمد البيز في جلسة أخضر السر وراء صناعة الفرص.",
-          "link": "https://www.youtube.com/watch?v=ehVZy7OK5Ps",
-          "videoId": "ehVZy7OK5Ps",
-          "pubDate": "2026-04-27T14:18:00+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "التونسي الذي أوصل السلاح إلى الليبيين لقتال الإيطاليين",
+          "link": "https://www.youtube.com/watch?v=2Oiz_04-A4M",
+          "videoId": "2Oiz_04-A4M",
+          "pubDate": "2026-05-01T15:00:01+00:00"
+        },
+        {
           "title": "مهاجر جزائري: \"أعيش مع الجرذان\"",
           "link": "https://www.youtube.com/watch?v=HWs6nCX8LUY",
           "videoId": "HWs6nCX8LUY",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=J2C57HyJpTs",
           "videoId": "J2C57HyJpTs",
           "pubDate": "2026-05-01T12:00:00+00:00"
-        },
-        {
-          "title": "انزعاج فرنسي من سياسة التعريب في الجزائر",
-          "link": "https://www.youtube.com/watch?v=g9tdkRYl_xU",
-          "videoId": "g9tdkRYl_xU",
-          "pubDate": "2026-05-01T10:00:01+00:00"
         }
       ],
       "ok": true
