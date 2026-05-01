@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-01T20:44:17.160577+00:00",
+  "updated": "2026-05-01T21:40:08.710790+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "بطيبة قلبها وعفويتها سكنت قلوب صديقاتها",
+          "link": "https://www.youtube.com/watch?v=19_kHqy4eek",
+          "videoId": "19_kHqy4eek",
+          "pubDate": "2026-05-01T20:59:00+00:00"
+        },
+        {
           "title": "حين تشغل أغنية شعبية في مصر لا يبقى أحد جالسا على كرسي",
           "link": "https://www.youtube.com/watch?v=mX3oi2uv9FA",
           "videoId": "mX3oi2uv9FA",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=1G73an8vAug",
           "videoId": "1G73an8vAug",
           "pubDate": "2026-05-01T19:00:01+00:00"
-        },
-        {
-          "title": "الحبيب عاشور.. رجل العواصف | أسد البطحاء وصراع النقابة والسلطة في تونس",
-          "link": "https://www.youtube.com/watch?v=Y4WhFLWS3q8",
-          "videoId": "Y4WhFLWS3q8",
-          "pubDate": "2026-05-01T17:00:59+00:00"
         }
       ],
       "ok": true
