@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-01T19:57:58.464787+00:00",
+  "updated": "2026-05-01T20:44:17.160577+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "حين تشغل أغنية شعبية في مصر لا يبقى أحد جالسا على كرسي",
+          "link": "https://www.youtube.com/watch?v=mX3oi2uv9FA",
+          "videoId": "mX3oi2uv9FA",
+          "pubDate": "2026-05-01T20:00:01+00:00"
+        },
+        {
           "title": "المغرب.. أول منتخب عربي يعبر الدور الأول في تاريخ كأس العالم",
           "link": "https://www.youtube.com/watch?v=1G73an8vAug",
           "videoId": "1G73an8vAug",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=Y4WhFLWS3q8",
           "videoId": "Y4WhFLWS3q8",
           "pubDate": "2026-05-01T17:00:59+00:00"
-        },
-        {
-          "title": "هل قُتل نيرودا؟",
-          "link": "https://www.youtube.com/watch?v=KRdHHk9w9Yg",
-          "videoId": "KRdHHk9w9Yg",
-          "pubDate": "2026-05-01T17:00:02+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "ما لا تعرفه عن عقلك .. دماغنا يخدعنا | الحلقة الأولى أنا ودماغي",
+          "link": "https://www.youtube.com/watch?v=sZclKJxB0BA",
+          "videoId": "sZclKJxB0BA",
+          "pubDate": "2026-05-01T20:00:41+00:00"
+        },
         {
           "title": "تماثيل لعلاج لدغات الأفاعي والعقارب",
           "link": "https://www.youtube.com/watch?v=1TlUoGiqkwM",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=Z5hfOcjtJVw",
           "videoId": "Z5hfOcjtJVw",
           "pubDate": "2026-05-01T13:00:26+00:00"
-        },
-        {
-          "title": "قصص ما بين السطور",
-          "link": "https://www.youtube.com/watch?v=bs56LvoYCxI",
-          "videoId": "bs56LvoYCxI",
-          "pubDate": "2026-05-01T11:00:22+00:00"
         }
       ],
       "ok": true
