@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-01T09:24:34.275669+00:00",
+  "updated": "2026-05-01T10:58:31.414698+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "انزعاج فرنسي من سياسة التعريب في الجزائر",
+          "link": "https://www.youtube.com/watch?v=g9tdkRYl_xU",
+          "videoId": "g9tdkRYl_xU",
+          "pubDate": "2026-05-01T10:00:01+00:00"
+        },
+        {
           "title": "النعم حولنا.. هل نبحث عن غنى مزيف؟",
           "link": "https://www.youtube.com/watch?v=GzkkPdu4VX8",
           "videoId": "GzkkPdu4VX8",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=ksKSRe1p7iY",
           "videoId": "ksKSRe1p7iY",
           "pubDate": "2026-04-30T20:59:01+00:00"
-        },
-        {
-          "title": "دوري السلة الإفريقي.. كيف وُلد الحلم الذي غير مستقبل الرياضة في إفريقيا؟ | الحلقة الثانية",
-          "link": "https://www.youtube.com/watch?v=8VpTJ-GbqgU",
-          "videoId": "8VpTJ-GbqgU",
-          "pubDate": "2026-04-30T20:00:05+00:00"
         }
       ],
       "ok": true
