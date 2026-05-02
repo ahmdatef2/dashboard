@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-02T14:02:28.906522+00:00",
+  "updated": "2026-05-02T15:35:11.902050+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "الخوف طبيعي لكن لا لليأس",
+          "link": "https://www.youtube.com/watch?v=GVGZNAFaos8",
+          "videoId": "GVGZNAFaos8",
+          "pubDate": "2026-05-02T14:00:01+00:00"
+        },
+        {
           "title": "وادي قاديشا في لبنان",
           "link": "https://www.youtube.com/watch?v=eLkBvbx-5_Q",
           "videoId": "eLkBvbx-5_Q",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=QjQliLIuyGU",
           "videoId": "QjQliLIuyGU",
           "pubDate": "2026-05-02T10:00:02+00:00"
-        },
-        {
-          "title": "\"ميلاد\" طفلة وُلدت غصبا عن الاحتلال",
-          "link": "https://www.youtube.com/watch?v=v7iBE4uG6CY",
-          "videoId": "v7iBE4uG6CY",
-          "pubDate": "2026-05-02T08:00:01+00:00"
         }
       ],
       "ok": true
