@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-02T15:35:11.902050+00:00",
+  "updated": "2026-05-02T16:33:20.785631+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -267,6 +267,12 @@
       "feedTitle": "أكاديمية ريان | Ryan Academy",
       "items": [
         {
+          "title": "قبول أدسنس + زيارات بالآلاف؟ السر في مواقع ألعاب الفلاش! 😳 سكربت الأسبوع #11",
+          "link": "https://www.youtube.com/watch?v=k9wJ8uEKDh8",
+          "videoId": "k9wJ8uEKDh8",
+          "pubDate": "2026-05-02T16:01:10+00:00"
+        },
+        {
           "title": "ازاي تعمل منصة Vibe Coding من الصفر (مشروع SaaS ترند 🔥)",
           "link": "https://www.youtube.com/watch?v=zQmr6iFTDpw",
           "videoId": "zQmr6iFTDpw",
@@ -277,12 +283,6 @@
           "link": "https://www.youtube.com/watch?v=5qI2aylvbS0",
           "videoId": "5qI2aylvbS0",
           "pubDate": "2026-04-27T19:00:04+00:00"
-        },
-        {
-          "title": "ازاي تاخد API Key مجاني من Groq (Llama + Qwen + Whisper) (بدون كارت) 🔥",
-          "link": "https://www.youtube.com/watch?v=Zbxb8kZDirU",
-          "videoId": "Zbxb8kZDirU",
-          "pubDate": "2026-04-25T16:01:01+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "نجم المغرب في فيديو نادر",
+          "link": "https://www.youtube.com/watch?v=o0w61Qp7R-8",
+          "videoId": "o0w61Qp7R-8",
+          "pubDate": "2026-05-02T16:00:01+00:00"
+        },
+        {
           "title": "الخوف طبيعي لكن لا لليأس",
           "link": "https://www.youtube.com/watch?v=GVGZNAFaos8",
           "videoId": "GVGZNAFaos8",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=eLkBvbx-5_Q",
           "videoId": "eLkBvbx-5_Q",
           "pubDate": "2026-05-02T11:00:01+00:00"
-        },
-        {
-          "title": "سباق بلا رحمة.. ما الذي يجعل \"ويسترن ستايتس\" من أصعب السباقات في أمريكا؟",
-          "link": "https://www.youtube.com/watch?v=QjQliLIuyGU",
-          "videoId": "QjQliLIuyGU",
-          "pubDate": "2026-05-02T10:00:02+00:00"
         }
       ],
       "ok": true
