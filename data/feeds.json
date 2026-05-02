@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-02T16:33:20.785631+00:00",
+  "updated": "2026-05-02T17:34:21.227466+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -553,6 +553,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "وثائقي | صحفيو روسيا: تحديات العمل الصحفي المستقل في ظل الرقابة العسكرية | وثائقية دي دبليو",
+          "link": "https://www.youtube.com/watch?v=zKWNiNuTT58",
+          "videoId": "zKWNiNuTT58",
+          "pubDate": "2026-05-02T17:01:13+00:00"
+        },
+        {
           "title": "وثائقي | عمال التوصيل الهنود في ألمانيا: استغلال منظم تحت غطاء الدراسة والعمل | وثائقية دي دبليو",
           "link": "https://www.youtube.com/watch?v=dkDI8oVv_ys",
           "videoId": "dkDI8oVv_ys",
@@ -563,12 +569,6 @@
           "link": "https://www.youtube.com/watch?v=9BwwwHUfmEA",
           "videoId": "9BwwwHUfmEA",
           "pubDate": "2026-05-01T11:00:13+00:00"
-        },
-        {
-          "title": "وثائقي | احتيال هاتفي منظم في ألمانيا: ملايين مسروقة وشبكات تمتد إلى شرق أوروبا | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=MTnWRsz1oow",
-          "videoId": "MTnWRsz1oow",
-          "pubDate": "2026-04-30T17:00:24+00:00"
         }
       ],
       "ok": true
