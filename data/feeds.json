@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-02T11:34:32.656540+00:00",
+  "updated": "2026-05-02T12:39:16.565688+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -33,6 +33,12 @@
       "feedTitle": "كل يوم موقع جديد",
       "items": [
         {
+          "title": "Claude Skills: ميزة كلود المجانية حتغير طريقة استخدامك تماماَ",
+          "link": "https://www.youtube.com/watch?v=EIeApw7hsZI",
+          "videoId": "EIeApw7hsZI",
+          "pubDate": "2026-05-02T11:30:10+00:00"
+        },
+        {
           "title": "ChatGPT Images 2.0  نموذج  فاق التوقعات   #الذكاء_الاصطناعي #chatgpt #aitools #ai",
           "link": "https://www.youtube.com/watch?v=UzcSi2VnY8Q",
           "videoId": "UzcSi2VnY8Q",
@@ -43,12 +49,6 @@
           "link": "https://www.youtube.com/watch?v=qPwEYdhyNGQ",
           "videoId": "qPwEYdhyNGQ",
           "pubDate": "2026-04-30T14:01:22+00:00"
-        },
-        {
-          "title": "HeyGen يفاجئ الجميع بترقية Seedance 2.0! فيديوهات سينمائية بنسختك الرقمية",
-          "link": "https://www.youtube.com/watch?v=MgowMImRgmY",
-          "videoId": "MgowMImRgmY",
-          "pubDate": "2026-04-28T15:00:37+00:00"
         }
       ],
       "ok": true
@@ -58,6 +58,12 @@
       "name": "مروة سليمان",
       "feedTitle": "Infotech4you - مروي سليمان",
       "items": [
+        {
+          "title": "دليلك الشامل: اعرف كيف تستخدم أقوى نماذج كلود داخل برامج الاوفيس !",
+          "link": "https://www.youtube.com/watch?v=oR8hrIeTn0w",
+          "videoId": "oR8hrIeTn0w",
+          "pubDate": "2026-05-02T12:01:22+00:00"
+        },
         {
           "title": "نموذج صيني مفتوح المصدر ينافس العمالقة  Kimi K2.6   #ai #aitools #ذكاء_اصطناعي #تقنية",
           "link": "https://www.youtube.com/watch?v=5yVnNp3OxiI",
@@ -69,12 +75,6 @@
           "link": "https://www.youtube.com/watch?v=AWOrc76EoqU",
           "videoId": "AWOrc76EoqU",
           "pubDate": "2026-04-30T14:30:16+00:00"
-        },
-        {
-          "title": "شاومي تدخل سباق الذكاء الاصطناعي بقوة! تجربة Xiaomi MiMo V2.5 Pro",
-          "link": "https://www.youtube.com/watch?v=1o5nd8Q0X1Q",
-          "videoId": "1o5nd8Q0X1Q",
-          "pubDate": "2026-04-28T21:47:07+00:00"
         }
       ],
       "ok": true
