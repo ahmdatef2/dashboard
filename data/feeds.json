@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-02T10:38:37.533429+00:00",
+  "updated": "2026-05-02T11:34:32.656540+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "وادي قاديشا في لبنان",
+          "link": "https://www.youtube.com/watch?v=eLkBvbx-5_Q",
+          "videoId": "eLkBvbx-5_Q",
+          "pubDate": "2026-05-02T11:00:01+00:00"
+        },
+        {
           "title": "سباق بلا رحمة.. ما الذي يجعل \"ويسترن ستايتس\" من أصعب السباقات في أمريكا؟",
           "link": "https://www.youtube.com/watch?v=QjQliLIuyGU",
           "videoId": "QjQliLIuyGU",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=v7iBE4uG6CY",
           "videoId": "v7iBE4uG6CY",
           "pubDate": "2026-05-02T08:00:01+00:00"
-        },
-        {
-          "title": "بطيبة قلبها وعفويتها سكنت قلوب صديقاتها",
-          "link": "https://www.youtube.com/watch?v=19_kHqy4eek",
-          "videoId": "19_kHqy4eek",
-          "pubDate": "2026-05-01T20:59:00+00:00"
         }
       ],
       "ok": true
