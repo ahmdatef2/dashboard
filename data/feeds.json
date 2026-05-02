@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-02T09:50:43.178040+00:00",
+  "updated": "2026-05-02T10:38:37.533429+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "سباق بلا رحمة.. ما الذي يجعل \"ويسترن ستايتس\" من أصعب السباقات في أمريكا؟",
+          "link": "https://www.youtube.com/watch?v=QjQliLIuyGU",
+          "videoId": "QjQliLIuyGU",
+          "pubDate": "2026-05-02T10:00:02+00:00"
+        },
+        {
           "title": "\"ميلاد\" طفلة وُلدت غصبا عن الاحتلال",
           "link": "https://www.youtube.com/watch?v=v7iBE4uG6CY",
           "videoId": "v7iBE4uG6CY",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=19_kHqy4eek",
           "videoId": "19_kHqy4eek",
           "pubDate": "2026-05-01T20:59:00+00:00"
-        },
-        {
-          "title": "حين تشغل أغنية شعبية في مصر لا يبقى أحد جالسا على كرسي",
-          "link": "https://www.youtube.com/watch?v=mX3oi2uv9FA",
-          "videoId": "mX3oi2uv9FA",
-          "pubDate": "2026-05-01T20:00:01+00:00"
         }
       ],
       "ok": true
