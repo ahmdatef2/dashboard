@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-02T17:34:21.227466+00:00",
+  "updated": "2026-05-02T18:38:36.262424+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -137,6 +137,12 @@
       "feedTitle": "Python Arabic Community",
       "items": [
         {
+          "title": "وداعاً للتشتت: كيف تنهي بحثك العلمي في 30 دقيقة باستخدام Super Agent واحد 🚀",
+          "link": "https://www.youtube.com/watch?v=23pD10tz3rs",
+          "videoId": "23pD10tz3rs",
+          "pubDate": "2026-05-02T18:10:21+00:00"
+        },
+        {
           "title": "فكرة مشروع مجنونة: كيف تحول الذكاء الاصطناعي إلى مدير تقني (CTO) لمشروعك 🤖",
           "link": "https://www.youtube.com/watch?v=cmQB0xrSQ0o",
           "videoId": "cmQB0xrSQ0o",
@@ -147,12 +153,6 @@
           "link": "https://www.youtube.com/watch?v=6WHQ-CFAKks",
           "videoId": "6WHQ-CFAKks",
           "pubDate": "2026-04-17T19:03:01+00:00"
-        },
-        {
-          "title": "أخبار الذكاء الاصطناعي 🚀 | 84 | الذكاء الاصطناعي السري الذي أرعب صناعه 😱 + هدايا لمتابعينا!",
-          "link": "https://www.youtube.com/watch?v=CqdCNkxzzP0",
-          "videoId": "CqdCNkxzzP0",
-          "pubDate": "2026-04-15T15:48:31+00:00"
         }
       ],
       "ok": true
@@ -162,6 +162,12 @@
       "name": "Elzero Web School",
       "feedTitle": "Elzero Web School",
       "items": [
+        {
+          "title": "كورسات البرمجة في عصر الذكاء الاصطناعي",
+          "link": "https://www.youtube.com/watch?v=rULLqZhsn5w",
+          "videoId": "rULLqZhsn5w",
+          "pubDate": "2026-05-02T17:49:37+00:00"
+        },
         {
           "title": "حاجات لو رجع بيا الزمن هغيرها",
           "link": "https://www.youtube.com/watch?v=jD9VdUmdVVc",
@@ -173,12 +179,6 @@
           "link": "https://www.youtube.com/watch?v=ER_CzhR6JVQ",
           "videoId": "ER_CzhR6JVQ",
           "pubDate": "2026-03-26T20:11:50+00:00"
-        },
-        {
-          "title": "مبادرة هتطورك في البرمجة وتاخد ثواب وفرصة لرحلة عمرة",
-          "link": "https://www.youtube.com/watch?v=1n4AJdviibs",
-          "videoId": "1n4AJdviibs",
-          "pubDate": "2026-03-03T19:47:57+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "محمد ديب.. كاتب بين ضفتين | من التنبؤ بالثورة إلى مرارة الاغتراب",
+          "link": "https://www.youtube.com/watch?v=EgvP3NwDh8U",
+          "videoId": "EgvP3NwDh8U",
+          "pubDate": "2026-05-02T17:30:02+00:00"
+        },
+        {
           "title": "نجم المغرب في فيديو نادر",
           "link": "https://www.youtube.com/watch?v=o0w61Qp7R-8",
           "videoId": "o0w61Qp7R-8",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=GVGZNAFaos8",
           "videoId": "GVGZNAFaos8",
           "pubDate": "2026-05-02T14:00:01+00:00"
-        },
-        {
-          "title": "وادي قاديشا في لبنان",
-          "link": "https://www.youtube.com/watch?v=eLkBvbx-5_Q",
-          "videoId": "eLkBvbx-5_Q",
-          "pubDate": "2026-05-02T11:00:01+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "كيف صنع الفراعنة ورق البردي؟",
+          "link": "https://www.youtube.com/watch?v=sStl3Lqvp6U",
+          "videoId": "sStl3Lqvp6U",
+          "pubDate": "2026-05-02T17:46:25+00:00"
+        },
         {
           "title": "ما لا تعرفه عن عقلك .. دماغنا يخدعنا | الحلقة الأولى أنا ودماغي",
           "link": "https://www.youtube.com/watch?v=sZclKJxB0BA",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=1TlUoGiqkwM",
           "videoId": "1TlUoGiqkwM",
           "pubDate": "2026-05-01T17:06:13+00:00"
-        },
-        {
-          "title": "هل يسبب استخدام الهاتف الإدمان فعلاً؟",
-          "link": "https://www.youtube.com/watch?v=Z5hfOcjtJVw",
-          "videoId": "Z5hfOcjtJVw",
-          "pubDate": "2026-05-01T13:00:26+00:00"
         }
       ],
       "ok": true
