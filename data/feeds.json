@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-02T12:39:16.565688+00:00",
+  "updated": "2026-05-02T14:02:28.906522+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -85,6 +85,12 @@
       "feedTitle": "عبداللطيف سعيد Abdellatif Said",
       "items": [
         {
+          "title": "الذكاء الاصطناعي بيعاندك؟ سر المحترفين للتحكم في توليد الصور \"بالمللي\" (أكواد JSON)",
+          "link": "https://www.youtube.com/watch?v=YFRIRKwlau0",
+          "videoId": "YFRIRKwlau0",
+          "pubDate": "2026-05-02T14:00:54+00:00"
+        },
+        {
           "title": "وداعاً Copilot 🚀 أقوى شرح لدمج DeepSeek مع VS Code (الطريقة المجانية والمدفوعة)",
           "link": "https://www.youtube.com/watch?v=36ZlZxTsens",
           "videoId": "36ZlZxTsens",
@@ -95,12 +101,6 @@
           "link": "https://www.youtube.com/watch?v=8ZjPq6VfFAI",
           "videoId": "8ZjPq6VfFAI",
           "pubDate": "2026-04-29T14:00:13+00:00"
-        },
-        {
-          "title": "تحدي أقوى نماذج الذكاء الاصطناعي: DeepSeek V4 ضد Kimi K2.6.. مين يكسب في البرمجة؟ 🤯💻",
-          "link": "https://www.youtube.com/watch?v=WLhxFeK7N2A",
-          "videoId": "WLhxFeK7N2A",
-          "pubDate": "2026-04-28T14:01:03+00:00"
         }
       ],
       "ok": true
