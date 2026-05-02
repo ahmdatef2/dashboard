@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-02T19:44:27.055158+00:00",
+  "updated": "2026-05-02T20:28:07.262067+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "داخل أحد الأسواق بالسودان ثمار غريبة لكنها تعالج الأمراض",
+          "link": "https://www.youtube.com/watch?v=dLMyt8uWsMU",
+          "videoId": "dLMyt8uWsMU",
+          "pubDate": "2026-05-02T20:00:01+00:00"
+        },
+        {
           "title": "\"شعرت أن قراري كان خاطئا لكن كان قد فات الأوان\"",
           "link": "https://www.youtube.com/watch?v=t9byqRvR38o",
           "videoId": "t9byqRvR38o",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=EgvP3NwDh8U",
           "videoId": "EgvP3NwDh8U",
           "pubDate": "2026-05-02T17:30:02+00:00"
-        },
-        {
-          "title": "نجم المغرب في فيديو نادر",
-          "link": "https://www.youtube.com/watch?v=o0w61Qp7R-8",
-          "videoId": "o0w61Qp7R-8",
-          "pubDate": "2026-05-02T16:00:01+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "ما لا تعرفه عن عقلك .. دماغنا يخدعنا | الحلقة الثانية أنا ودماغي والآخرين",
+          "link": "https://www.youtube.com/watch?v=a19hQz0dbaM",
+          "videoId": "a19hQz0dbaM",
+          "pubDate": "2026-05-02T20:00:01+00:00"
+        },
         {
           "title": "كيف صنع الفراعنة ورق البردي؟",
           "link": "https://www.youtube.com/watch?v=sStl3Lqvp6U",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=sZclKJxB0BA",
           "videoId": "sZclKJxB0BA",
           "pubDate": "2026-05-01T20:00:41+00:00"
-        },
-        {
-          "title": "تماثيل لعلاج لدغات الأفاعي والعقارب",
-          "link": "https://www.youtube.com/watch?v=1TlUoGiqkwM",
-          "videoId": "1TlUoGiqkwM",
-          "pubDate": "2026-05-01T17:06:13+00:00"
         }
       ],
       "ok": true
@@ -526,6 +526,12 @@
       "name": "ناشيونال جيوغرافيك",
       "feedTitle": "Nat Geo Abu Dhabi",
       "items": [
+        {
+          "title": "أفريقيا | الأسرار البرية لخط الاستواء | ناشونال جيوغرافيك أبو ظبي",
+          "link": "https://www.youtube.com/watch?v=gkgSE1KFlG4",
+          "videoId": "gkgSE1KFlG4",
+          "pubDate": "2026-05-02T19:56:46+00:00"
+        },
         {
           "title": "عروض شهر مايو | ناشونال جيوغرافيك أبوظبي",
           "link": "https://www.youtube.com/watch?v=2MC19pbZoHU",
@@ -537,12 +543,6 @@
           "link": "https://www.youtube.com/watch?v=lZl-_VsfpwA",
           "videoId": "lZl-_VsfpwA",
           "pubDate": "2026-05-01T11:26:00+00:00"
-        },
-        {
-          "title": "الإعصار آلي | العاصفة الكارثية | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=Bsh4GCSBuEM",
-          "videoId": "Bsh4GCSBuEM",
-          "pubDate": "2026-04-29T19:57:45+00:00"
         }
       ],
       "ok": true
