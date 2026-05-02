@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-02T18:38:36.262424+00:00",
+  "updated": "2026-05-02T19:44:27.055158+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "\"شعرت أن قراري كان خاطئا لكن كان قد فات الأوان\"",
+          "link": "https://www.youtube.com/watch?v=t9byqRvR38o",
+          "videoId": "t9byqRvR38o",
+          "pubDate": "2026-05-02T19:00:01+00:00"
+        },
+        {
           "title": "محمد ديب.. كاتب بين ضفتين | من التنبؤ بالثورة إلى مرارة الاغتراب",
           "link": "https://www.youtube.com/watch?v=EgvP3NwDh8U",
           "videoId": "EgvP3NwDh8U",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=o0w61Qp7R-8",
           "videoId": "o0w61Qp7R-8",
           "pubDate": "2026-05-02T16:00:01+00:00"
-        },
-        {
-          "title": "الخوف طبيعي لكن لا لليأس",
-          "link": "https://www.youtube.com/watch?v=GVGZNAFaos8",
-          "videoId": "GVGZNAFaos8",
-          "pubDate": "2026-05-02T14:00:01+00:00"
         }
       ],
       "ok": true
