@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-03T11:32:53.408524+00:00",
+  "updated": "2026-05-03T12:38:16.102779+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -59,6 +59,12 @@
       "feedTitle": "Infotech4you - مروي سليمان",
       "items": [
         {
+          "title": "التحديث المنتظر: ميزة Projects الجديدة في Google Drive مع Gemini",
+          "link": "https://www.youtube.com/watch?v=PLMNuxTrZkk",
+          "videoId": "PLMNuxTrZkk",
+          "pubDate": "2026-05-03T12:29:24+00:00"
+        },
+        {
           "title": "دليلك الشامل: اعرف كيف تستخدم أقوى نماذج كلود داخل برامج الاوفيس !",
           "link": "https://www.youtube.com/watch?v=oR8hrIeTn0w",
           "videoId": "oR8hrIeTn0w",
@@ -69,12 +75,6 @@
           "link": "https://www.youtube.com/watch?v=5yVnNp3OxiI",
           "videoId": "5yVnNp3OxiI",
           "pubDate": "2026-05-01T11:00:10+00:00"
-        },
-        {
-          "title": "تحديث Gemini الجديد صادم! بيعمل Docs وSlides وPDF لوحده",
-          "link": "https://www.youtube.com/watch?v=AWOrc76EoqU",
-          "videoId": "AWOrc76EoqU",
-          "pubDate": "2026-04-30T14:30:16+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "نعمان لحلو يتحدث عن رشيد غلام",
+          "link": "https://www.youtube.com/watch?v=NNic6o8Tgw4",
+          "videoId": "NNic6o8Tgw4",
+          "pubDate": "2026-05-03T12:00:00+00:00"
+        },
+        {
           "title": "أشهر لقاء صوفي في التاريخ",
           "link": "https://www.youtube.com/watch?v=Q_SiiBKoD5g",
           "videoId": "Q_SiiBKoD5g",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=mTiMenjv6Qc",
           "videoId": "mTiMenjv6Qc",
           "pubDate": "2026-05-03T08:00:00+00:00"
-        },
-        {
-          "title": "كواليس تأهل مصر التاريخي لكأس العالم 1990",
-          "link": "https://www.youtube.com/watch?v=x6gNf22A7zY",
-          "videoId": "x6gNf22A7zY",
-          "pubDate": "2026-05-03T07:18:33+00:00"
         }
       ],
       "ok": true
