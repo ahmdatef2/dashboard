@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-03T15:35:07.066348+00:00",
+  "updated": "2026-05-03T16:33:51.477923+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "في مقابر الأقصر.. بحثوا عن مومياوات لكنهم وجدوا شيئا آخر",
+          "link": "https://www.youtube.com/watch?v=F6oLvk0tJn4",
+          "videoId": "F6oLvk0tJn4",
+          "pubDate": "2026-05-03T16:10:01+00:00"
+        },
+        {
+          "title": "أخوات الأرض.. إرث الأمل | نساء كينيا يعدن الحياة للأراضي المدمرة | الحلقة الثالثة",
+          "link": "https://www.youtube.com/watch?v=-0CE1-iCmAI",
+          "videoId": "-0CE1-iCmAI",
+          "pubDate": "2026-05-03T16:00:00+00:00"
+        },
+        {
           "title": "سر الطعم المر في الشوكولاتة",
           "link": "https://www.youtube.com/watch?v=PaifASgp5qc",
           "videoId": "PaifASgp5qc",
           "pubDate": "2026-05-03T14:01:03+00:00"
-        },
-        {
-          "title": "الخطأ الذي أنهى مسيرة الجزائر في مونديال 1986",
-          "link": "https://www.youtube.com/watch?v=pWXK1XGi_xU",
-          "videoId": "pWXK1XGi_xU",
-          "pubDate": "2026-05-03T13:00:01+00:00"
-        },
-        {
-          "title": "نعمان لحلو يتحدث عن رشيد غلام",
-          "link": "https://www.youtube.com/watch?v=NNic6o8Tgw4",
-          "videoId": "NNic6o8Tgw4",
-          "pubDate": "2026-05-03T12:00:00+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "كيف بُنيت أعمدة البانثيون؟",
+          "link": "https://www.youtube.com/watch?v=kJOi1oYGcog",
+          "videoId": "kJOi1oYGcog",
+          "pubDate": "2026-05-03T16:22:27+00:00"
+        },
         {
           "title": "ما لا تعرفه عن عقلك .. دماغنا يخدعنا | الحلقة الثانية أنا ودماغي والآخرين",
           "link": "https://www.youtube.com/watch?v=a19hQz0dbaM",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=sStl3Lqvp6U",
           "videoId": "sStl3Lqvp6U",
           "pubDate": "2026-05-02T17:46:25+00:00"
-        },
-        {
-          "title": "ما لا تعرفه عن عقلك .. دماغنا يخدعنا | الحلقة الأولى أنا ودماغي",
-          "link": "https://www.youtube.com/watch?v=sZclKJxB0BA",
-          "videoId": "sZclKJxB0BA",
-          "pubDate": "2026-05-01T20:00:41+00:00"
         }
       ],
       "ok": true
