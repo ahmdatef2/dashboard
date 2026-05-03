@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-03T10:41:24.730016+00:00",
+  "updated": "2026-05-03T11:32:53.408524+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -111,6 +111,12 @@
       "feedTitle": "AMR SALEM _ عمرو سالم",
       "items": [
         {
+          "title": "MaxHermes وثورة البرمجة بالذكاء الاصطناعي",
+          "link": "https://www.youtube.com/watch?v=v6XbtNZho00",
+          "videoId": "v6XbtNZho00",
+          "pubDate": "2026-05-03T11:01:26+00:00"
+        },
+        {
           "title": "إزاي تخلص بريزنتيشن احترافية بمصادر موثقة في دقائق! 🔥 (AnyGen AI)",
           "link": "https://www.youtube.com/watch?v=dV7Uis-Ggec",
           "videoId": "dV7Uis-Ggec",
@@ -121,12 +127,6 @@
           "link": "https://www.youtube.com/watch?v=nKtaOQYcvzA",
           "videoId": "nKtaOQYcvzA",
           "pubDate": "2026-04-29T12:07:55+00:00"
-        },
-        {
-          "title": "استخدام Claude مجانا بالكامل مع الحوت الصيني deepseek v4 pro",
-          "link": "https://www.youtube.com/watch?v=Trqdq_T63Lk",
-          "videoId": "Trqdq_T63Lk",
-          "pubDate": "2026-04-26T09:51:14+00:00"
         }
       ],
       "ok": true
