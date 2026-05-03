@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-03T19:43:37.292532+00:00",
+  "updated": "2026-05-03T20:29:09.799785+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -501,6 +501,12 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "لحظات على حافة النهاية: أزمة رهائن تهز أميركا | المفاوضون",
+          "link": "https://www.youtube.com/watch?v=XtDX13OZNC8",
+          "videoId": "XtDX13OZNC8",
+          "pubDate": "2026-05-03T20:00:15+00:00"
+        },
+        {
           "title": "كيف بُنيت أعمدة البانثيون؟",
           "link": "https://www.youtube.com/watch?v=kJOi1oYGcog",
           "videoId": "kJOi1oYGcog",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=a19hQz0dbaM",
           "videoId": "a19hQz0dbaM",
           "pubDate": "2026-05-02T20:00:01+00:00"
-        },
-        {
-          "title": "كيف صنع الفراعنة ورق البردي؟",
-          "link": "https://www.youtube.com/watch?v=sStl3Lqvp6U",
-          "videoId": "sStl3Lqvp6U",
-          "pubDate": "2026-05-02T17:46:25+00:00"
         }
       ],
       "ok": true
@@ -526,6 +526,12 @@
       "name": "ناشيونال جيوغرافيك",
       "feedTitle": "Nat Geo Abu Dhabi",
       "items": [
+        {
+          "title": "الحلقة الكاملة | الكوكب المعادي: أفريقيا | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=c0lNW_FyfGc",
+          "videoId": "c0lNW_FyfGc",
+          "pubDate": "2026-05-03T19:41:34+00:00"
+        },
         {
           "title": "أفريقيا | الأسرار البرية لخط الاستواء | ناشونال جيوغرافيك أبو ظبي",
           "link": "https://www.youtube.com/watch?v=gkgSE1KFlG4",
@@ -537,12 +543,6 @@
           "link": "https://www.youtube.com/watch?v=2MC19pbZoHU",
           "videoId": "2MC19pbZoHU",
           "pubDate": "2026-05-01T11:26:24+00:00"
-        },
-        {
-          "title": "عروض شهر مايو | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=lZl-_VsfpwA",
-          "videoId": "lZl-_VsfpwA",
-          "pubDate": "2026-05-01T11:26:00+00:00"
         }
       ],
       "ok": true
