@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-03T20:29:09.799785+00:00",
+  "updated": "2026-05-03T21:30:15.962678+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "بين \"الثورة\" و\"الثروة\" عدالة هواري بومدين في الحكم",
+          "link": "https://www.youtube.com/watch?v=51jayC4v_I0",
+          "videoId": "51jayC4v_I0",
+          "pubDate": "2026-05-03T20:59:01+00:00"
+        },
+        {
           "title": "شهادة تقشعر لها الأبدان لناجٍ من جحيم سجن أبو غريب",
           "link": "https://www.youtube.com/watch?v=mlfXQaYlz_0",
           "videoId": "mlfXQaYlz_0",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=s5SUs0ucdpk",
           "videoId": "s5SUs0ucdpk",
           "pubDate": "2026-05-03T18:15:04+00:00"
-        },
-        {
-          "title": "صرخة بعد رصاصتين في جسد لينا",
-          "link": "https://www.youtube.com/watch?v=kGrdo0byqAE",
-          "videoId": "kGrdo0byqAE",
-          "pubDate": "2026-05-03T18:00:01+00:00"
         }
       ],
       "ok": true
