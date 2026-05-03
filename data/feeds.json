@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-03T18:38:56.778368+00:00",
+  "updated": "2026-05-03T19:43:37.292532+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -241,6 +241,12 @@
       "feedTitle": "مدرسة الذكاء الاصطناعي",
       "items": [
         {
+          "title": "قضيت شهرين مع Claude Cowork… ودي أفضل طريقة تستخدمه بيها",
+          "link": "https://www.youtube.com/watch?v=NQf6FqCG7tc",
+          "videoId": "NQf6FqCG7tc",
+          "pubDate": "2026-05-03T19:31:44+00:00"
+        },
+        {
           "title": "وفر 20 دولار واستخدم Claude Cowork مجانا بطريقة رسمية",
           "link": "https://www.youtube.com/watch?v=pxRzCDNMnf4",
           "videoId": "pxRzCDNMnf4",
@@ -251,12 +257,6 @@
           "link": "https://www.youtube.com/watch?v=yMb7sr_0-YM",
           "videoId": "yMb7sr_0-YM",
           "pubDate": "2026-04-23T20:43:26+00:00"
-        },
-        {
-          "title": "هل GPT Image 2 أفضل من Nano Banana؟ مقارنة شاملة",
-          "link": "https://www.youtube.com/watch?v=LWPUM0zjccg",
-          "videoId": "LWPUM0zjccg",
-          "pubDate": "2026-04-22T15:19:12+00:00"
         }
       ],
       "ok": true
@@ -293,7 +293,7 @@
       "feedTitle": "تكنوفلاش – AI & Tech",
       "items": [
         {
-          "title": "تجربتي صدمتني  Gemini 3.2 Flash الخارق مجاناً 🤯 (كيف تجربه الآن قبل الجميع؟)",
+          "title": "عاجل: موديل جوجل السري Gemini 3.2 يتفوق في البرمجة (تسريب خطير)",
           "link": "https://www.youtube.com/watch?v=nWGC-oDRvaE",
           "videoId": "nWGC-oDRvaE",
           "pubDate": "2026-05-03T18:01:53+00:00"
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "شهادة تقشعر لها الأبدان لناجٍ من جحيم سجن أبو غريب",
+          "link": "https://www.youtube.com/watch?v=mlfXQaYlz_0",
+          "videoId": "mlfXQaYlz_0",
+          "pubDate": "2026-05-03T19:00:01+00:00"
+        },
+        {
           "title": "من أجل فلسطين.. فرانكو فونتانا | مصور إيطالي حمل الكاميرا والبندقية حتى الاستشهاد",
           "link": "https://www.youtube.com/watch?v=s5SUs0ucdpk",
           "videoId": "s5SUs0ucdpk",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=kGrdo0byqAE",
           "videoId": "kGrdo0byqAE",
           "pubDate": "2026-05-03T18:00:01+00:00"
-        },
-        {
-          "title": "في مقابر الأقصر.. بحثوا عن مومياوات لكنهم وجدوا شيئا آخر",
-          "link": "https://www.youtube.com/watch?v=F6oLvk0tJn4",
-          "videoId": "F6oLvk0tJn4",
-          "pubDate": "2026-05-03T16:10:01+00:00"
         }
       ],
       "ok": true
