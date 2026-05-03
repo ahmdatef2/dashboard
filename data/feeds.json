@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-03T09:09:50.114552+00:00",
+  "updated": "2026-05-03T10:41:24.730016+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "أشهر لقاء صوفي في التاريخ",
+          "link": "https://www.youtube.com/watch?v=Q_SiiBKoD5g",
+          "videoId": "Q_SiiBKoD5g",
+          "pubDate": "2026-05-03T10:00:40+00:00"
+        },
+        {
           "title": "مسجد في الهند مستوحى من مسجد الكتبية المغربي!",
           "link": "https://www.youtube.com/watch?v=mTiMenjv6Qc",
           "videoId": "mTiMenjv6Qc",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=x6gNf22A7zY",
           "videoId": "x6gNf22A7zY",
           "pubDate": "2026-05-03T07:18:33+00:00"
-        },
-        {
-          "title": "رفع السماعة وواجه السرطان",
-          "link": "https://www.youtube.com/watch?v=6nHpjTkNbpU",
-          "videoId": "6nHpjTkNbpU",
-          "pubDate": "2026-05-02T21:00:00+00:00"
         }
       ],
       "ok": true
