@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-03T14:03:23.079768+00:00",
+  "updated": "2026-05-03T15:35:07.066348+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -371,6 +371,12 @@
       "feedTitle": "أخضر",
       "items": [
         {
+          "title": "3 May 2026",
+          "link": "https://www.youtube.com/watch?v=_V96H-o8O2s",
+          "videoId": "_V96H-o8O2s",
+          "pubDate": "2026-05-03T14:37:31+00:00"
+        },
+        {
           "title": "كيف تصبح أب فاشل في دقائق؟🤦‍♂️🤨 - كتاب: أبناء بالغون لوالدين غير ناضجين عاطفيًا #أخضر",
           "link": "https://www.youtube.com/watch?v=mXz2Di3h3mo",
           "videoId": "mXz2Di3h3mo",
@@ -381,12 +387,6 @@
           "link": "https://www.youtube.com/watch?v=eHQXJe6y_TU",
           "videoId": "eHQXJe6y_TU",
           "pubDate": "2026-04-30T14:47:54+00:00"
-        },
-        {
-          "title": ". تُقاتل من أجل فرصة ولا تدري أين الخير؟ شاهد جلسة أخضر مع د.محمد البيز",
-          "link": "https://www.youtube.com/watch?v=hYI4R4UL4Bw",
-          "videoId": "hYI4R4UL4Bw",
-          "pubDate": "2026-04-29T14:21:09+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "سر الطعم المر في الشوكولاتة",
+          "link": "https://www.youtube.com/watch?v=PaifASgp5qc",
+          "videoId": "PaifASgp5qc",
+          "pubDate": "2026-05-03T14:01:03+00:00"
+        },
+        {
           "title": "الخطأ الذي أنهى مسيرة الجزائر في مونديال 1986",
           "link": "https://www.youtube.com/watch?v=pWXK1XGi_xU",
           "videoId": "pWXK1XGi_xU",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=NNic6o8Tgw4",
           "videoId": "NNic6o8Tgw4",
           "pubDate": "2026-05-03T12:00:00+00:00"
-        },
-        {
-          "title": "أشهر لقاء صوفي في التاريخ",
-          "link": "https://www.youtube.com/watch?v=Q_SiiBKoD5g",
-          "videoId": "Q_SiiBKoD5g",
-          "pubDate": "2026-05-03T10:00:40+00:00"
         }
       ],
       "ok": true
