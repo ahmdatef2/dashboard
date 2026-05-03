@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-03T12:38:16.102779+00:00",
+  "updated": "2026-05-03T14:03:23.079768+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -85,6 +85,12 @@
       "feedTitle": "عبداللطيف سعيد Abdellatif Said",
       "items": [
         {
+          "title": "أسوأ قرار دمر شغلي.. إياك تستخدم Outlook أو Hotmail! ❌ (تجربة كارثية)",
+          "link": "https://www.youtube.com/watch?v=U-B2Ysv8trg",
+          "videoId": "U-B2Ysv8trg",
+          "pubDate": "2026-05-03T14:00:42+00:00"
+        },
+        {
           "title": "الذكاء الاصطناعي بيعاندك؟ سر المحترفين للتحكم في توليد الصور \"بالمللي\" (أكواد JSON)",
           "link": "https://www.youtube.com/watch?v=YFRIRKwlau0",
           "videoId": "YFRIRKwlau0",
@@ -95,12 +101,6 @@
           "link": "https://www.youtube.com/watch?v=36ZlZxTsens",
           "videoId": "36ZlZxTsens",
           "pubDate": "2026-04-30T14:00:05+00:00"
-        },
-        {
-          "title": "اللعبة اتغيرت.. عصر الـ AI Agents من جوجل اللي هيشتغلوا مكانك! شرح Gemini Enterprise",
-          "link": "https://www.youtube.com/watch?v=8ZjPq6VfFAI",
-          "videoId": "8ZjPq6VfFAI",
-          "pubDate": "2026-04-29T14:00:13+00:00"
         }
       ],
       "ok": true
@@ -215,6 +215,12 @@
       "feedTitle": "Mohamed Ansary",
       "items": [
         {
+          "title": "جيميناي Gemini يتحول إلى أداة عمل كاملة: أنشئ ملفاتك داخل المحادثة",
+          "link": "https://www.youtube.com/watch?v=R7FQAHLMDAg",
+          "videoId": "R7FQAHLMDAg",
+          "pubDate": "2026-05-03T12:39:20+00:00"
+        },
+        {
           "title": "تحليل البيانات وبناء لوحات المعلومات (Dashboards) باستخدام الذكاء الاصطناعي (Claude",
           "link": "https://www.youtube.com/watch?v=XVW5bJhl_jg",
           "videoId": "XVW5bJhl_jg",
@@ -225,12 +231,6 @@
           "link": "https://www.youtube.com/watch?v=FOyz-jR-vag",
           "videoId": "FOyz-jR-vag",
           "pubDate": "2026-05-01T05:38:04+00:00"
-        },
-        {
-          "title": "تحليل البيانات باستخدام الذكاء الاصطناعي (Claude)",
-          "link": "https://www.youtube.com/watch?v=23bNxLuhAso",
-          "videoId": "23bNxLuhAso",
-          "pubDate": "2026-04-30T15:39:16+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "الخطأ الذي أنهى مسيرة الجزائر في مونديال 1986",
+          "link": "https://www.youtube.com/watch?v=pWXK1XGi_xU",
+          "videoId": "pWXK1XGi_xU",
+          "pubDate": "2026-05-03T13:00:01+00:00"
+        },
+        {
           "title": "نعمان لحلو يتحدث عن رشيد غلام",
           "link": "https://www.youtube.com/watch?v=NNic6o8Tgw4",
           "videoId": "NNic6o8Tgw4",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=Q_SiiBKoD5g",
           "videoId": "Q_SiiBKoD5g",
           "pubDate": "2026-05-03T10:00:40+00:00"
-        },
-        {
-          "title": "مسجد في الهند مستوحى من مسجد الكتبية المغربي!",
-          "link": "https://www.youtube.com/watch?v=mTiMenjv6Qc",
-          "videoId": "mTiMenjv6Qc",
-          "pubDate": "2026-05-03T08:00:00+00:00"
         }
       ],
       "ok": true
