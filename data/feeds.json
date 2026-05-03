@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-03T07:42:36.457587+00:00",
+  "updated": "2026-05-03T09:09:50.114552+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "مسجد في الهند مستوحى من مسجد الكتبية المغربي!",
+          "link": "https://www.youtube.com/watch?v=mTiMenjv6Qc",
+          "videoId": "mTiMenjv6Qc",
+          "pubDate": "2026-05-03T08:00:00+00:00"
+        },
+        {
           "title": "كواليس تأهل مصر التاريخي لكأس العالم 1990",
           "link": "https://www.youtube.com/watch?v=x6gNf22A7zY",
           "videoId": "x6gNf22A7zY",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=6nHpjTkNbpU",
           "videoId": "6nHpjTkNbpU",
           "pubDate": "2026-05-02T21:00:00+00:00"
-        },
-        {
-          "title": "داخل أحد الأسواق بالسودان ثمار غريبة لكنها تعالج الأمراض",
-          "link": "https://www.youtube.com/watch?v=dLMyt8uWsMU",
-          "videoId": "dLMyt8uWsMU",
-          "pubDate": "2026-05-02T20:00:01+00:00"
         }
       ],
       "ok": true
