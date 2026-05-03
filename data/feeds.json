@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-03T17:35:56.790961+00:00",
+  "updated": "2026-05-03T18:38:56.778368+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -293,6 +293,12 @@
       "feedTitle": "تكنوفلاش – AI & Tech",
       "items": [
         {
+          "title": "تجربتي صدمتني  Gemini 3.2 Flash الخارق مجاناً 🤯 (كيف تجربه الآن قبل الجميع؟)",
+          "link": "https://www.youtube.com/watch?v=nWGC-oDRvaE",
+          "videoId": "nWGC-oDRvaE",
+          "pubDate": "2026-05-03T18:01:53+00:00"
+        },
+        {
           "title": "امزج أغنيتين بالذكاء الاصطناعي واصنع لحن جديد!",
           "link": "https://www.youtube.com/watch?v=_wW3LTM3wYs",
           "videoId": "_wW3LTM3wYs",
@@ -303,12 +309,6 @@
           "link": "https://www.youtube.com/watch?v=IIiNJUvUvMM",
           "videoId": "IIiNJUvUvMM",
           "pubDate": "2026-05-01T17:17:39+00:00"
-        },
-        {
-          "title": "دمج الأغاني بالذكاء الاصطناعي: نتائج احترافية!",
-          "link": "https://www.youtube.com/watch?v=KziSrFQIpQg",
-          "videoId": "KziSrFQIpQg",
-          "pubDate": "2026-05-01T17:17:36+00:00"
         }
       ],
       "ok": true
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "من أجل فلسطين.. فرانكو فونتانا | مصور إيطالي حمل الكاميرا والبندقية حتى الاستشهاد",
+          "link": "https://www.youtube.com/watch?v=s5SUs0ucdpk",
+          "videoId": "s5SUs0ucdpk",
+          "pubDate": "2026-05-03T18:15:04+00:00"
+        },
+        {
+          "title": "صرخة بعد رصاصتين في جسد لينا",
+          "link": "https://www.youtube.com/watch?v=kGrdo0byqAE",
+          "videoId": "kGrdo0byqAE",
+          "pubDate": "2026-05-03T18:00:01+00:00"
+        },
+        {
           "title": "في مقابر الأقصر.. بحثوا عن مومياوات لكنهم وجدوا شيئا آخر",
           "link": "https://www.youtube.com/watch?v=F6oLvk0tJn4",
           "videoId": "F6oLvk0tJn4",
           "pubDate": "2026-05-03T16:10:01+00:00"
-        },
-        {
-          "title": "أخوات الأرض.. إرث الأمل | نساء كينيا يعدن الحياة للأراضي المدمرة | الحلقة الثالثة",
-          "link": "https://www.youtube.com/watch?v=-0CE1-iCmAI",
-          "videoId": "-0CE1-iCmAI",
-          "pubDate": "2026-05-03T16:00:00+00:00"
-        },
-        {
-          "title": "سر الطعم المر في الشوكولاتة",
-          "link": "https://www.youtube.com/watch?v=PaifASgp5qc",
-          "videoId": "PaifASgp5qc",
-          "pubDate": "2026-05-03T14:01:03+00:00"
         }
       ],
       "ok": true
