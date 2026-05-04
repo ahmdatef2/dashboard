@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-04T10:52:17.850936+00:00",
+  "updated": "2026-05-04T12:15:35.023175+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -111,6 +111,12 @@
       "feedTitle": "AMR SALEM _ عمرو سالم",
       "items": [
         {
+          "title": "متصفح مخصص للذكاء الاصطناعي وبه اقوي النماذج بالمجان |  Tabbit browser",
+          "link": "https://www.youtube.com/watch?v=UEAbSpzqqEQ",
+          "videoId": "UEAbSpzqqEQ",
+          "pubDate": "2026-05-04T11:00:55+00:00"
+        },
+        {
           "title": "MaxHermes وثورة البرمجة بالذكاء الاصطناعي",
           "link": "https://www.youtube.com/watch?v=v6XbtNZho00",
           "videoId": "v6XbtNZho00",
@@ -121,12 +127,6 @@
           "link": "https://www.youtube.com/watch?v=dV7Uis-Ggec",
           "videoId": "dV7Uis-Ggec",
           "pubDate": "2026-04-30T14:27:49+00:00"
-        },
-        {
-          "title": "اداة مجانية افضل من كل الادوات المدفوعة | JOPDF",
-          "link": "https://www.youtube.com/watch?v=nKtaOQYcvzA",
-          "videoId": "nKtaOQYcvzA",
-          "pubDate": "2026-04-29T12:07:55+00:00"
         }
       ],
       "ok": true
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
-          "title": "إحياء التراث الإفريقي للأمريكيين عبر كرة السلة",
-          "link": "https://www.youtube.com/watch?v=DiKN8w7umuE",
-          "videoId": "DiKN8w7umuE",
-          "pubDate": "2026-05-04T10:00:01+00:00"
+          "title": "الأغنية التي \"كسرت\" الدنيا في الثمانينيات",
+          "link": "https://www.youtube.com/watch?v=wDfTZAPXOFM",
+          "videoId": "wDfTZAPXOFM",
+          "pubDate": "2026-05-04T12:00:01+00:00"
         },
         {
-          "title": "\"أعجوبة في كوبا.. سيارة أمريكية بقلب روسي\"",
-          "link": "https://www.youtube.com/watch?v=nr3bnELIpmI",
-          "videoId": "nr3bnELIpmI",
-          "pubDate": "2026-05-04T08:00:00+00:00"
+          "title": "من أجل فلسطين.. حكاية الممرضة الفرنسية التي تحوّلت إلى مقاتلة واستشهدت في لبنان",
+          "link": "https://www.youtube.com/watch?v=xT6KgA76vUI",
+          "videoId": "xT6KgA76vUI",
+          "pubDate": "2026-05-04T11:02:36+00:00"
         },
         {
-          "title": "بين \"الثورة\" و\"الثروة\" عدالة هواري بومدين في الحكم",
-          "link": "https://www.youtube.com/watch?v=51jayC4v_I0",
-          "videoId": "51jayC4v_I0",
-          "pubDate": "2026-05-03T20:59:01+00:00"
+          "title": "\"ليس لدينا وقت للبكاء والغراميات\" رؤية هواري بومدين للتعريب",
+          "link": "https://www.youtube.com/watch?v=RtyRX6q-r-Q",
+          "videoId": "RtyRX6q-r-Q",
+          "pubDate": "2026-05-04T11:00:01+00:00"
         }
       ],
       "ok": true
