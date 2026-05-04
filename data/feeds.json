@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-04T16:44:55.483073+00:00",
+  "updated": "2026-05-04T18:08:02.139297+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -189,6 +189,12 @@
       "feedTitle": "ذكاء اصطناعي عربي",
       "items": [
         {
+          "title": "بناء ChatGPT من الصفر 🔥 | الحلقة 2: اختيار البيانات وParameters",
+          "link": "https://www.youtube.com/watch?v=3mZm7UW3N48",
+          "videoId": "3mZm7UW3N48",
+          "pubDate": "2026-05-04T17:00:04+00:00"
+        },
+        {
           "title": "بناء ChatGPT من الصفر 🔥 | الحلقة 1: البداية الحقيقية",
           "link": "https://www.youtube.com/watch?v=x15qa1wT80A",
           "videoId": "x15qa1wT80A",
@@ -199,12 +205,6 @@
           "link": "https://www.youtube.com/watch?v=gJKdacxiI_I",
           "videoId": "gJKdacxiI_I",
           "pubDate": "2026-04-27T17:00:06+00:00"
-        },
-        {
-          "title": "Claude Design و Images2 الجديدان من OpenAI و Anthropic!",
-          "link": "https://www.youtube.com/watch?v=9wgSZcIR87o",
-          "videoId": "9wgSZcIR87o",
-          "pubDate": "2026-04-23T18:30:06+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "من أجل فلسطين.. حكاية الممرضة الفرنسية التي تحوّلت إلى مقاتلة واستشهدت في لبنان",
+          "link": "https://www.youtube.com/watch?v=xT6KgA76vUI",
+          "videoId": "xT6KgA76vUI",
+          "pubDate": "2026-05-04T17:45:06+00:00"
+        },
+        {
           "title": "تشي جيفارا: حاولوا أن يذبحوا الجزائر لكنها تحررت",
           "link": "https://www.youtube.com/watch?v=CqxfFZpeduA",
           "videoId": "CqxfFZpeduA",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=wSHhk5ujsHQ",
           "videoId": "wSHhk5ujsHQ",
           "pubDate": "2026-05-04T14:00:47+00:00"
-        },
-        {
-          "title": "داخل كيلدر في المملكة المتحدة.. غابة تتحول إلى مصنع ضخم للأخشاب",
-          "link": "https://www.youtube.com/watch?v=WqX5ntlFhYA",
-          "videoId": "WqX5ntlFhYA",
-          "pubDate": "2026-05-04T13:00:01+00:00"
         }
       ],
       "ok": true
@@ -553,6 +553,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "ريبورتاج | الذئاب في ألمانيا: القتل أم الحماية؟ | وثائقية دي دبليو",
+          "link": "https://www.youtube.com/watch?v=1-VdfWMXyhU",
+          "videoId": "1-VdfWMXyhU",
+          "pubDate": "2026-05-04T17:00:02+00:00"
+        },
+        {
           "title": "وثائقي | عالم الألوان: من ترميم الفنون إلى تطبيقات الطب الحديث | وثائقية دي دبليو",
           "link": "https://www.youtube.com/watch?v=jy1vH-52KsA",
           "videoId": "jy1vH-52KsA",
@@ -563,12 +569,6 @@
           "link": "https://www.youtube.com/watch?v=zKWNiNuTT58",
           "videoId": "zKWNiNuTT58",
           "pubDate": "2026-05-02T17:01:13+00:00"
-        },
-        {
-          "title": "وثائقي | عمال التوصيل الهنود في ألمانيا: استغلال منظم تحت غطاء الدراسة والعمل | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=dkDI8oVv_ys",
-          "videoId": "dkDI8oVv_ys",
-          "pubDate": "2026-05-01T17:00:50+00:00"
         }
       ],
       "ok": true
