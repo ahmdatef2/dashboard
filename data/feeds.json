@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-04T12:15:35.023175+00:00",
+  "updated": "2026-05-04T14:59:47.666350+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -33,6 +33,12 @@
       "feedTitle": "كل يوم موقع جديد",
       "items": [
         {
+          "title": "Canva أصبح برنامج مونتاج بالذكاء الإصطناعي ؟ تجربة محرر الفيديو الجديد خطوة بخطوة",
+          "link": "https://www.youtube.com/watch?v=p6ZUHhmyq0A",
+          "videoId": "p6ZUHhmyq0A",
+          "pubDate": "2026-05-04T12:31:08+00:00"
+        },
+        {
           "title": "Claude Skills: ميزة كلود المجانية حتغير طريقة استخدامك تماماَ",
           "link": "https://www.youtube.com/watch?v=EIeApw7hsZI",
           "videoId": "EIeApw7hsZI",
@@ -43,12 +49,6 @@
           "link": "https://www.youtube.com/watch?v=UzcSi2VnY8Q",
           "videoId": "UzcSi2VnY8Q",
           "pubDate": "2026-05-01T07:45:01+00:00"
-        },
-        {
-          "title": "صممت إنفوجرافيك احترافي بالذكاء الاصطناعي ودعم فوق التوقعات  للعربية!",
-          "link": "https://www.youtube.com/watch?v=qPwEYdhyNGQ",
-          "videoId": "qPwEYdhyNGQ",
-          "pubDate": "2026-04-30T14:01:22+00:00"
         }
       ],
       "ok": true
@@ -85,6 +85,12 @@
       "feedTitle": "عبداللطيف سعيد Abdellatif Said",
       "items": [
         {
+          "title": "تحديث جبار من جوجل جيميناي 🚀 وداعاً لكتابة الجداول.. حول أي صورة لملف Excel و PDF مجاناً!",
+          "link": "https://www.youtube.com/watch?v=RLoDorKXbow",
+          "videoId": "RLoDorKXbow",
+          "pubDate": "2026-05-04T14:00:45+00:00"
+        },
+        {
           "title": "أسوأ قرار دمر شغلي.. إياك تستخدم Outlook أو Hotmail! ❌ (تجربة كارثية)",
           "link": "https://www.youtube.com/watch?v=U-B2Ysv8trg",
           "videoId": "U-B2Ysv8trg",
@@ -95,12 +101,6 @@
           "link": "https://www.youtube.com/watch?v=YFRIRKwlau0",
           "videoId": "YFRIRKwlau0",
           "pubDate": "2026-05-02T14:00:54+00:00"
-        },
-        {
-          "title": "وداعاً Copilot 🚀 أقوى شرح لدمج DeepSeek مع VS Code (الطريقة المجانية والمدفوعة)",
-          "link": "https://www.youtube.com/watch?v=36ZlZxTsens",
-          "videoId": "36ZlZxTsens",
-          "pubDate": "2026-04-30T14:00:05+00:00"
         }
       ],
       "ok": true
@@ -371,7 +371,7 @@
       "feedTitle": "أخضر",
       "items": [
         {
-          "title": "3 May 2026",
+          "title": "من التأتأة لبطولة العالم في الخطابة! 🏆",
           "link": "https://www.youtube.com/watch?v=_V96H-o8O2s",
           "videoId": "_V96H-o8O2s",
           "pubDate": "2026-05-03T14:37:31+00:00"
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "داخل مستشفى تشرين العسكري انتهاكات تطال جثامين المعتقلين في عهد نظام الأسد",
+          "link": "https://www.youtube.com/watch?v=wSHhk5ujsHQ",
+          "videoId": "wSHhk5ujsHQ",
+          "pubDate": "2026-05-04T14:00:47+00:00"
+        },
+        {
+          "title": "داخل كيلدر في المملكة المتحدة.. غابة تتحول إلى مصنع ضخم للأخشاب",
+          "link": "https://www.youtube.com/watch?v=WqX5ntlFhYA",
+          "videoId": "WqX5ntlFhYA",
+          "pubDate": "2026-05-04T13:00:01+00:00"
+        },
+        {
           "title": "الأغنية التي \"كسرت\" الدنيا في الثمانينيات",
           "link": "https://www.youtube.com/watch?v=wDfTZAPXOFM",
           "videoId": "wDfTZAPXOFM",
           "pubDate": "2026-05-04T12:00:01+00:00"
-        },
-        {
-          "title": "من أجل فلسطين.. حكاية الممرضة الفرنسية التي تحوّلت إلى مقاتلة واستشهدت في لبنان",
-          "link": "https://www.youtube.com/watch?v=xT6KgA76vUI",
-          "videoId": "xT6KgA76vUI",
-          "pubDate": "2026-05-04T11:02:36+00:00"
-        },
-        {
-          "title": "\"ليس لدينا وقت للبكاء والغراميات\" رؤية هواري بومدين للتعريب",
-          "link": "https://www.youtube.com/watch?v=RtyRX6q-r-Q",
-          "videoId": "RtyRX6q-r-Q",
-          "pubDate": "2026-05-04T11:00:01+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "في كوريا الشمالية ساعات محددة للعمل والنوم وكميات طعام مقنن.",
+          "link": "https://www.youtube.com/watch?v=9-9WGmZ9SPk",
+          "videoId": "9-9WGmZ9SPk",
+          "pubDate": "2026-05-04T12:49:56+00:00"
+        },
         {
           "title": "أزمة رهائن هزت أميركا | سلسلة وثائقي المفاوضون",
           "link": "https://www.youtube.com/watch?v=XtDX13OZNC8",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=kJOi1oYGcog",
           "videoId": "kJOi1oYGcog",
           "pubDate": "2026-05-03T16:22:27+00:00"
-        },
-        {
-          "title": "كيف يخدعك دماغك؟ أخطر خدع عقلك عليك | الحلقة الثانية أنا ودماغي والآخرين",
-          "link": "https://www.youtube.com/watch?v=a19hQz0dbaM",
-          "videoId": "a19hQz0dbaM",
-          "pubDate": "2026-05-02T20:00:01+00:00"
         }
       ],
       "ok": true
