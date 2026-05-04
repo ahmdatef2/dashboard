@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-04T08:10:41.550901+00:00",
+  "updated": "2026-05-04T10:52:17.850936+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -215,6 +215,12 @@
       "feedTitle": "Mohamed Ansary",
       "items": [
         {
+          "title": "أنشئ ملفاتك مباشرة داخل المحادثة! في Gemini",
+          "link": "https://www.youtube.com/watch?v=EvrR-fea0r4",
+          "videoId": "EvrR-fea0r4",
+          "pubDate": "2026-05-04T09:13:42+00:00"
+        },
+        {
           "title": "جيميناي Gemini يتحول إلى أداة عمل كاملة: أنشئ ملفاتك داخل المحادثة",
           "link": "https://www.youtube.com/watch?v=R7FQAHLMDAg",
           "videoId": "R7FQAHLMDAg",
@@ -225,12 +231,6 @@
           "link": "https://www.youtube.com/watch?v=XVW5bJhl_jg",
           "videoId": "XVW5bJhl_jg",
           "pubDate": "2026-05-03T05:00:52+00:00"
-        },
-        {
-          "title": "  رتب أولوياتك.. تظبط يومك!   كيف تصنع يومك المثالي؟",
-          "link": "https://www.youtube.com/watch?v=FOyz-jR-vag",
-          "videoId": "FOyz-jR-vag",
-          "pubDate": "2026-05-01T05:38:04+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "إحياء التراث الإفريقي للأمريكيين عبر كرة السلة",
+          "link": "https://www.youtube.com/watch?v=DiKN8w7umuE",
+          "videoId": "DiKN8w7umuE",
+          "pubDate": "2026-05-04T10:00:01+00:00"
+        },
+        {
           "title": "\"أعجوبة في كوبا.. سيارة أمريكية بقلب روسي\"",
           "link": "https://www.youtube.com/watch?v=nr3bnELIpmI",
           "videoId": "nr3bnELIpmI",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=51jayC4v_I0",
           "videoId": "51jayC4v_I0",
           "pubDate": "2026-05-03T20:59:01+00:00"
-        },
-        {
-          "title": "شهادة تقشعر لها الأبدان لناجٍ من جحيم سجن أبو غريب",
-          "link": "https://www.youtube.com/watch?v=mlfXQaYlz_0",
-          "videoId": "mlfXQaYlz_0",
-          "pubDate": "2026-05-03T19:00:01+00:00"
         }
       ],
       "ok": true
