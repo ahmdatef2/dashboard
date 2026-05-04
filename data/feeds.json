@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-04T18:08:02.139297+00:00",
+  "updated": "2026-05-04T20:08:03.148872+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "شبهة مؤامرة تقصي المغرب من كأس العالم",
+          "link": "https://www.youtube.com/watch?v=87GYbB0h8QY",
+          "videoId": "87GYbB0h8QY",
+          "pubDate": "2026-05-04T19:00:01+00:00"
+        },
+        {
           "title": "من أجل فلسطين.. حكاية الممرضة الفرنسية التي تحوّلت إلى مقاتلة واستشهدت في لبنان",
           "link": "https://www.youtube.com/watch?v=xT6KgA76vUI",
           "videoId": "xT6KgA76vUI",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=CqxfFZpeduA",
           "videoId": "CqxfFZpeduA",
           "pubDate": "2026-05-04T16:00:01+00:00"
-        },
-        {
-          "title": "داخل مستشفى تشرين العسكري انتهاكات تطال جثامين المعتقلين في عهد نظام الأسد",
-          "link": "https://www.youtube.com/watch?v=wSHhk5ujsHQ",
-          "videoId": "wSHhk5ujsHQ",
-          "pubDate": "2026-05-04T14:00:47+00:00"
         }
       ],
       "ok": true
@@ -501,22 +501,22 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "ويليام وكيت : قصة شراكة صنعت التاريخ | الشرق الوثائقية",
+          "link": "https://www.youtube.com/watch?v=zTdjgJ4cfUA",
+          "videoId": "zTdjgJ4cfUA",
+          "pubDate": "2026-05-04T20:00:42+00:00"
+        },
+        {
+          "title": "منطقة أصبحت الأخطر في العالم",
+          "link": "https://www.youtube.com/watch?v=xWwjm0Fvm6c",
+          "videoId": "xWwjm0Fvm6c",
+          "pubDate": "2026-05-04T18:22:28+00:00"
+        },
+        {
           "title": "بول البقر ليس نجاسة عند شعب المنداري",
           "link": "https://www.youtube.com/watch?v=Yz0Tif4CtKU",
           "videoId": "Yz0Tif4CtKU",
           "pubDate": "2026-05-04T16:43:08+00:00"
-        },
-        {
-          "title": "في كوريا الشمالية ساعات محددة للعمل والنوم وكميات طعام مقنن.",
-          "link": "https://www.youtube.com/watch?v=9-9WGmZ9SPk",
-          "videoId": "9-9WGmZ9SPk",
-          "pubDate": "2026-05-04T12:49:56+00:00"
-        },
-        {
-          "title": "أزمة رهائن هزت أميركا | سلسلة وثائقي المفاوضون",
-          "link": "https://www.youtube.com/watch?v=XtDX13OZNC8",
-          "videoId": "XtDX13OZNC8",
-          "pubDate": "2026-05-03T20:00:15+00:00"
         }
       ],
       "ok": true
