@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-04T14:59:47.666350+00:00",
+  "updated": "2026-05-04T16:44:55.483073+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "تشي جيفارا: حاولوا أن يذبحوا الجزائر لكنها تحررت",
+          "link": "https://www.youtube.com/watch?v=CqxfFZpeduA",
+          "videoId": "CqxfFZpeduA",
+          "pubDate": "2026-05-04T16:00:01+00:00"
+        },
+        {
           "title": "داخل مستشفى تشرين العسكري انتهاكات تطال جثامين المعتقلين في عهد نظام الأسد",
           "link": "https://www.youtube.com/watch?v=wSHhk5ujsHQ",
           "videoId": "wSHhk5ujsHQ",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=WqX5ntlFhYA",
           "videoId": "WqX5ntlFhYA",
           "pubDate": "2026-05-04T13:00:01+00:00"
-        },
-        {
-          "title": "الأغنية التي \"كسرت\" الدنيا في الثمانينيات",
-          "link": "https://www.youtube.com/watch?v=wDfTZAPXOFM",
-          "videoId": "wDfTZAPXOFM",
-          "pubDate": "2026-05-04T12:00:01+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "بول البقر ليس نجاسة عند شعب المنداري",
+          "link": "https://www.youtube.com/watch?v=Yz0Tif4CtKU",
+          "videoId": "Yz0Tif4CtKU",
+          "pubDate": "2026-05-04T16:43:08+00:00"
+        },
         {
           "title": "في كوريا الشمالية ساعات محددة للعمل والنوم وكميات طعام مقنن.",
           "link": "https://www.youtube.com/watch?v=9-9WGmZ9SPk",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=XtDX13OZNC8",
           "videoId": "XtDX13OZNC8",
           "pubDate": "2026-05-03T20:00:15+00:00"
-        },
-        {
-          "title": "كيف بُنيت أعمدة البانثيون؟",
-          "link": "https://www.youtube.com/watch?v=kJOi1oYGcog",
-          "videoId": "kJOi1oYGcog",
-          "pubDate": "2026-05-03T16:22:27+00:00"
         }
       ],
       "ok": true
