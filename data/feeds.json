@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-04T20:08:03.148872+00:00",
+  "updated": "2026-05-04T21:49:53.390032+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "تخيل جسدك سفينة، والحياة هي البحر الذي عليك أن تعبره.",
+          "link": "https://www.youtube.com/watch?v=kbYmJ2x5crk",
+          "videoId": "kbYmJ2x5crk",
+          "pubDate": "2026-05-04T21:00:01+00:00"
+        },
+        {
           "title": "شبهة مؤامرة تقصي المغرب من كأس العالم",
           "link": "https://www.youtube.com/watch?v=87GYbB0h8QY",
           "videoId": "87GYbB0h8QY",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=xT6KgA76vUI",
           "videoId": "xT6KgA76vUI",
           "pubDate": "2026-05-04T17:45:06+00:00"
-        },
-        {
-          "title": "تشي جيفارا: حاولوا أن يذبحوا الجزائر لكنها تحررت",
-          "link": "https://www.youtube.com/watch?v=CqxfFZpeduA",
-          "videoId": "CqxfFZpeduA",
-          "pubDate": "2026-05-04T16:00:01+00:00"
         }
       ],
       "ok": true
