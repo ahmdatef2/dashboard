@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-05T11:07:36.546250+00:00",
+  "updated": "2026-05-05T13:03:02.274788+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "\"ركل بطني وأنا في فترة النفاس\"",
+          "link": "https://www.youtube.com/watch?v=kj5m9L5e-OQ",
+          "videoId": "kj5m9L5e-OQ",
+          "pubDate": "2026-05-05T12:15:00+00:00"
+        },
+        {
           "title": "الشيخ محمد متولي الشعراوي: أنشأتُ أول بنك إسلامي في العالم",
           "link": "https://www.youtube.com/watch?v=_ik74vlqI6g",
           "videoId": "_ik74vlqI6g",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=cuS0oQ2aIo4",
           "videoId": "cuS0oQ2aIo4",
           "pubDate": "2026-05-05T09:55:45+00:00"
-        },
-        {
-          "title": "عارضة أزياء جزائرية: كنت أخشى أن يطلبوا مني ارتداء ملابس لا أريدها",
-          "link": "https://www.youtube.com/watch?v=BAhgB6GKbzc",
-          "videoId": "BAhgB6GKbzc",
-          "pubDate": "2026-05-05T08:00:01+00:00"
         }
       ],
       "ok": true
