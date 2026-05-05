@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-05T07:08:46.622429+00:00",
+  "updated": "2026-05-05T09:48:45.784450+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "عارضة أزياء جزائرية: كنت أخشى أن يطلبوا مني ارتداء ملابس لا أريدها",
+          "link": "https://www.youtube.com/watch?v=BAhgB6GKbzc",
+          "videoId": "BAhgB6GKbzc",
+          "pubDate": "2026-05-05T08:00:01+00:00"
+        },
+        {
           "title": "تخيل جسدك سفينة، والحياة هي البحر الذي عليك أن تعبره.",
           "link": "https://www.youtube.com/watch?v=kbYmJ2x5crk",
           "videoId": "kbYmJ2x5crk",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=87GYbB0h8QY",
           "videoId": "87GYbB0h8QY",
           "pubDate": "2026-05-04T19:00:01+00:00"
-        },
-        {
-          "title": "من أجل فلسطين.. الفرنسية فرانسواز كيستيمان | من ممرضة إلى مناضلة في لبنان | الحلقة الثانية",
-          "link": "https://www.youtube.com/watch?v=xT6KgA76vUI",
-          "videoId": "xT6KgA76vUI",
-          "pubDate": "2026-05-04T17:45:06+00:00"
         }
       ],
       "ok": true
@@ -501,7 +501,7 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
-          "title": "ويليام وكيت : قصة شراكة صنعت التاريخ | الشرق الوثائقية",
+          "title": "قصة ويليام وكيت… الحب، الضغوط، وأسرار العائلة الملكية",
           "link": "https://www.youtube.com/watch?v=zTdjgJ4cfUA",
           "videoId": "zTdjgJ4cfUA",
           "pubDate": "2026-05-04T20:00:42+00:00"
@@ -527,22 +527,22 @@
       "feedTitle": "Nat Geo Abu Dhabi",
       "items": [
         {
-          "title": "الحلقة الكاملة | الكوكب المعادي: أفريقيا | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=c0lNW_FyfGc",
-          "videoId": "c0lNW_FyfGc",
-          "pubDate": "2026-05-03T19:41:34+00:00"
+          "title": "الربع الخالي | ذكرى المعولي | شهر الأرض مع مستكشفي ناشونال جيوغرافيك | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=J687vg1Z3lg",
+          "videoId": "J687vg1Z3lg",
+          "pubDate": "2026-05-05T08:08:21+00:00"
         },
         {
-          "title": "أفريقيا | الأسرار البرية لخط الاستواء | ناشونال جيوغرافيك أبو ظبي",
-          "link": "https://www.youtube.com/watch?v=gkgSE1KFlG4",
-          "videoId": "gkgSE1KFlG4",
-          "pubDate": "2026-05-02T19:56:46+00:00"
+          "title": "الربع الخالي | ذكرى المعولي | شهر الأرض مع مستكشفي ناشونال جيوغرافيك | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=OmRrhwaKOOs",
+          "videoId": "OmRrhwaKOOs",
+          "pubDate": "2026-05-05T08:08:02+00:00"
         },
         {
-          "title": "عروض شهر مايو | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=2MC19pbZoHU",
-          "videoId": "2MC19pbZoHU",
-          "pubDate": "2026-05-01T11:26:24+00:00"
+          "title": "على دروب دربات | ذكرى المعولي | شهر الأرض مع مستكشفي ناشونال جيوغرافيك | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=hQS17_aEo9k",
+          "videoId": "hQS17_aEo9k",
+          "pubDate": "2026-05-05T08:06:29+00:00"
         }
       ],
       "ok": true
