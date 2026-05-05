@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-05T20:49:08.521263+00:00",
+  "updated": "2026-05-05T21:50:04.620788+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "رفض الاستسلام للندرة.. شاهد ماذا ابتكر هذا الرجل الكوبي",
+          "link": "https://www.youtube.com/watch?v=je_SsPJoZi8",
+          "videoId": "je_SsPJoZi8",
+          "pubDate": "2026-05-05T21:00:01+00:00"
+        },
+        {
           "title": "عندما قامت الكنيسة بــ\"تعميد\" القهوة !",
           "link": "https://www.youtube.com/watch?v=IniuWbKayDg",
           "videoId": "IniuWbKayDg",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=1oSfPJGEIuE",
           "videoId": "1oSfPJGEIuE",
           "pubDate": "2026-05-05T19:30:01+00:00"
-        },
-        {
-          "title": "من أجل فلسطين.. بشير جبريل | مقدسي أفريقي خطف طائرة أمريكية ودفع حياته ثمنا | الحلقة الثالثة",
-          "link": "https://www.youtube.com/watch?v=W7Fk9A01YZ4",
-          "videoId": "W7Fk9A01YZ4",
-          "pubDate": "2026-05-05T18:00:06+00:00"
         }
       ],
       "ok": true
