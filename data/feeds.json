@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-05T15:40:20.626933+00:00",
+  "updated": "2026-05-05T17:10:09.624917+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -59,22 +59,22 @@
       "feedTitle": "Infotech4you - مروي سليمان",
       "items": [
         {
+          "title": "جربت Claude Design لإنشاء Slide Deck… النتيجة مفاجئة",
+          "link": "https://www.youtube.com/watch?v=9Zx1AcS0LZ0",
+          "videoId": "9Zx1AcS0LZ0",
+          "pubDate": "2026-05-05T16:00:24+00:00"
+        },
+        {
           "title": "التحديث المنتظر: ميزة Projects الجديدة في Google Drive مع Gemini",
           "link": "https://www.youtube.com/watch?v=PLMNuxTrZkk",
           "videoId": "PLMNuxTrZkk",
           "pubDate": "2026-05-03T12:29:24+00:00"
         },
         {
-          "title": "دليلك الشامل: اعرف كيف تستخدم أقوى نماذج كلود داخل برامج الاوفيس !",
+          "title": "كيف يعمل كلود داخل برامج الأوفيس  Claude for Office ... شاهد الآن ؟",
           "link": "https://www.youtube.com/watch?v=oR8hrIeTn0w",
           "videoId": "oR8hrIeTn0w",
           "pubDate": "2026-05-02T12:01:22+00:00"
-        },
-        {
-          "title": "نموذج صيني مفتوح المصدر ينافس العمالقة  Kimi K2.6   #ai #aitools #ذكاء_اصطناعي #تقنية",
-          "link": "https://www.youtube.com/watch?v=5yVnNp3OxiI",
-          "videoId": "5yVnNp3OxiI",
-          "pubDate": "2026-05-01T11:00:10+00:00"
         }
       ],
       "ok": true
@@ -215,6 +215,12 @@
       "feedTitle": "Mohamed Ansary",
       "items": [
         {
+          "title": "أفضل أدوات كشف المحتوى المكتوب بالذكاء الاصطناعي",
+          "link": "https://www.youtube.com/watch?v=44UhVzeiu1E",
+          "videoId": "44UhVzeiu1E",
+          "pubDate": "2026-05-05T15:54:45+00:00"
+        },
+        {
           "title": "أنشئ ملفاتك مباشرة داخل المحادثة! في Gemini",
           "link": "https://www.youtube.com/watch?v=EvrR-fea0r4",
           "videoId": "EvrR-fea0r4",
@@ -225,12 +231,6 @@
           "link": "https://www.youtube.com/watch?v=R7FQAHLMDAg",
           "videoId": "R7FQAHLMDAg",
           "pubDate": "2026-05-03T12:39:20+00:00"
-        },
-        {
-          "title": "تحليل البيانات وبناء لوحات المعلومات (Dashboards) باستخدام الذكاء الاصطناعي (Claude",
-          "link": "https://www.youtube.com/watch?v=XVW5bJhl_jg",
-          "videoId": "XVW5bJhl_jg",
-          "pubDate": "2026-05-03T05:00:52+00:00"
         }
       ],
       "ok": true
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "منعطف خطير في مسار الأغنية الشعبية المصرية",
+          "link": "https://www.youtube.com/watch?v=hUqYCg229MQ",
+          "videoId": "hUqYCg229MQ",
+          "pubDate": "2026-05-05T17:00:01+00:00"
+        },
+        {
+          "title": "جمهور الرجاء: \"نحن عائلة واحدة\"'",
+          "link": "https://www.youtube.com/watch?v=CRhNGEoNRsM",
+          "videoId": "CRhNGEoNRsM",
+          "pubDate": "2026-05-05T15:45:01+00:00"
+        },
+        {
           "title": "قصة أغنية أحن إلى خبز أمي",
           "link": "https://www.youtube.com/watch?v=kqYjkKeQx0s",
           "videoId": "kqYjkKeQx0s",
           "pubDate": "2026-05-05T13:30:00+00:00"
-        },
-        {
-          "title": "\"ركل بطني وأنا في فترة النفاس\"",
-          "link": "https://www.youtube.com/watch?v=kj5m9L5e-OQ",
-          "videoId": "kj5m9L5e-OQ",
-          "pubDate": "2026-05-05T12:15:00+00:00"
-        },
-        {
-          "title": "الشيخ محمد متولي الشعراوي: أنشأتُ أول بنك إسلامي في العالم",
-          "link": "https://www.youtube.com/watch?v=_ik74vlqI6g",
-          "videoId": "_ik74vlqI6g",
-          "pubDate": "2026-05-05T10:45:01+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "مشروع القطار الجوي \"إيروترين\"",
+          "link": "https://www.youtube.com/watch?v=EZKkFQSEHkM",
+          "videoId": "EZKkFQSEHkM",
+          "pubDate": "2026-05-05T16:01:00+00:00"
+        },
         {
           "title": "قصة ويليام وكيت… الحب، الضغوط، وأسرار العائلة الملكية",
           "link": "https://www.youtube.com/watch?v=zTdjgJ4cfUA",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=xWwjm0Fvm6c",
           "videoId": "xWwjm0Fvm6c",
           "pubDate": "2026-05-04T18:22:28+00:00"
-        },
-        {
-          "title": "بول البقر ليس نجاسة عند شعب المنداري",
-          "link": "https://www.youtube.com/watch?v=Yz0Tif4CtKU",
-          "videoId": "Yz0Tif4CtKU",
-          "pubDate": "2026-05-04T16:43:08+00:00"
         }
       ],
       "ok": true
