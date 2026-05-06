@@ -1,11 +1,17 @@
 {
-  "updated": "2026-05-06T19:15:28.682270+00:00",
+  "updated": "2026-05-06T20:59:48.224200+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
       "name": "د. هبة أحمد",
       "feedTitle": "Heba Ahmed - هبة احمد",
       "items": [
+        {
+          "title": "جربت Codex… أهم اكتشاف AI عندي لحد دلوقتي",
+          "link": "https://www.youtube.com/watch?v=Y-QXzk9d-ds",
+          "videoId": "Y-QXzk9d-ds",
+          "pubDate": "2026-05-06T19:45:11+00:00"
+        },
         {
           "title": "أخيرًا Gemini يعمل ملفات كاملة بدل ما تكتبها بنفسك",
           "link": "https://www.youtube.com/watch?v=hisY6kJKBJE",
@@ -17,12 +23,6 @@
           "link": "https://www.youtube.com/watch?v=Kc86RBw-42A",
           "videoId": "Kc86RBw-42A",
           "pubDate": "2026-04-28T18:07:36+00:00"
-        },
-        {
-          "title": "إطلاق DeepSeek V4… النموذج اللي هيغيّر سباق الذكاء الاصطناعي؟",
-          "link": "https://www.youtube.com/watch?v=O_PsdrOR7Bw",
-          "videoId": "O_PsdrOR7Bw",
-          "pubDate": "2026-04-24T18:42:00+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "سمسار مرضى: \"نحن نعمل بما يرضي الله\"",
+          "link": "https://www.youtube.com/watch?v=klmoAK5tmzg",
+          "videoId": "klmoAK5tmzg",
+          "pubDate": "2026-05-06T20:15:01+00:00"
+        },
+        {
           "title": "هل نحن وحدنا في الكون؟ | مفاجآت قادمة من أعماق الفضاء",
           "link": "https://www.youtube.com/watch?v=dESI23ie2nA",
           "videoId": "dESI23ie2nA",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=wA689E6Ezn4",
           "videoId": "wA689E6Ezn4",
           "pubDate": "2026-05-06T18:45:01+00:00"
-        },
-        {
-          "title": "عندما نجا هتلر من موت محقق",
-          "link": "https://www.youtube.com/watch?v=0rnp2PEpsTU",
-          "videoId": "0rnp2PEpsTU",
-          "pubDate": "2026-05-06T18:00:01+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "في قلب نيجيريا: حكاية اختطاف انتهت بمعجزة | المفاوضون",
+          "link": "https://www.youtube.com/watch?v=hvF1RGapzM8",
+          "videoId": "hvF1RGapzM8",
+          "pubDate": "2026-05-06T20:00:36+00:00"
+        },
         {
           "title": "كيف تحولت شابة عشرينية من العمل خلف الكواليس إلى واحدة من أكثر الوجوه السياسية حضورًا في واشنطن؟",
           "link": "https://www.youtube.com/watch?v=em7tpG5HRlA",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=eViClYRFaS4",
           "videoId": "eViClYRFaS4",
           "pubDate": "2026-05-05T20:00:25+00:00"
-        },
-        {
-          "title": "نزلوا من السماء",
-          "link": "https://www.youtube.com/watch?v=__j6C6Hj0t0",
-          "videoId": "__j6C6Hj0t0",
-          "pubDate": "2026-05-05T19:00:33+00:00"
         }
       ],
       "ok": true
