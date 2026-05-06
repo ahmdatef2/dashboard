@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-06T17:18:25.665394+00:00",
+  "updated": "2026-05-06T19:15:28.682270+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
-          "title": "صوت البراري.. يوميات في بوهدمة | قصة سهيل وهيفاء في حماية الحيوانات المهددة بتونس",
-          "link": "https://www.youtube.com/watch?v=Sleg5PMTZng",
-          "videoId": "Sleg5PMTZng",
-          "pubDate": "2026-05-06T17:15:02+00:00"
+          "title": "هل نحن وحدنا في الكون؟ | مفاجآت قادمة من أعماق الفضاء",
+          "link": "https://www.youtube.com/watch?v=dESI23ie2nA",
+          "videoId": "dESI23ie2nA",
+          "pubDate": "2026-05-06T18:45:04+00:00"
         },
         {
-          "title": "عبد الحميد السراج.. \"أول من أدخل ريحة الدم إلى سوريا\"",
-          "link": "https://www.youtube.com/watch?v=j2kQYZED8Ms",
-          "videoId": "j2kQYZED8Ms",
-          "pubDate": "2026-05-06T16:15:01+00:00"
+          "title": "الدلافين تنام نصف مستيقظة!",
+          "link": "https://www.youtube.com/watch?v=wA689E6Ezn4",
+          "videoId": "wA689E6Ezn4",
+          "pubDate": "2026-05-06T18:45:01+00:00"
         },
         {
-          "title": "جرش- الأردن",
-          "link": "https://www.youtube.com/watch?v=EC4mjnJxx74",
-          "videoId": "EC4mjnJxx74",
-          "pubDate": "2026-05-06T15:45:01+00:00"
+          "title": "عندما نجا هتلر من موت محقق",
+          "link": "https://www.youtube.com/watch?v=0rnp2PEpsTU",
+          "videoId": "0rnp2PEpsTU",
+          "pubDate": "2026-05-06T18:00:01+00:00"
         }
       ],
       "ok": true
@@ -553,6 +553,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "وثائقي | كيف تغيّر الغربة الشباب؟ قصص عن الأمل والحنين والبدايات الجديدة | وثائقية دي دبليو",
+          "link": "https://www.youtube.com/watch?v=1KTvUyFPlRw",
+          "videoId": "1KTvUyFPlRw",
+          "pubDate": "2026-05-06T18:00:01+00:00"
+        },
+        {
           "title": "مكافحة الدبور الآسيوي",
           "link": "https://www.youtube.com/watch?v=o63lYu4Wa9U",
           "videoId": "o63lYu4Wa9U",
@@ -563,12 +569,6 @@
           "link": "https://www.youtube.com/watch?v=0f_4aWLwl1Y",
           "videoId": "0f_4aWLwl1Y",
           "pubDate": "2026-05-05T18:00:03+00:00"
-        },
-        {
-          "title": "ريبورتاج | الذئاب في ألمانيا: القتل أم الحماية؟ | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=1-VdfWMXyhU",
-          "videoId": "1-VdfWMXyhU",
-          "pubDate": "2026-05-04T17:00:02+00:00"
         }
       ],
       "ok": true
