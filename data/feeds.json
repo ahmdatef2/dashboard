@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-06T20:59:48.224200+00:00",
+  "updated": "2026-05-06T21:57:02.853659+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -137,6 +137,12 @@
       "feedTitle": "Python Arabic Community",
       "items": [
         {
+          "title": "لا تدفع اشتراكات بعد اليوم: أداة OpenCode أنهت كلود وجوجل 🤯",
+          "link": "https://www.youtube.com/watch?v=v_GOK6WL9kg",
+          "videoId": "v_GOK6WL9kg",
+          "pubDate": "2026-05-06T21:31:11+00:00"
+        },
+        {
           "title": "وداعاً للتشتت: كيف تنهي بحثك العلمي في 30 دقيقة باستخدام Super Agent واحد 🚀",
           "link": "https://www.youtube.com/watch?v=23pD10tz3rs",
           "videoId": "23pD10tz3rs",
@@ -147,12 +153,6 @@
           "link": "https://www.youtube.com/watch?v=cmQB0xrSQ0o",
           "videoId": "cmQB0xrSQ0o",
           "pubDate": "2026-04-28T14:58:56+00:00"
-        },
-        {
-          "title": "لا تستخدم Claude Opus 4.7 قبل مشاهدة هذا الفيديو! (الجانب المظلم للتحديث)",
-          "link": "https://www.youtube.com/watch?v=6WHQ-CFAKks",
-          "videoId": "6WHQ-CFAKks",
-          "pubDate": "2026-04-17T19:03:01+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "قرار تحكيمي غريب في أول مباريات العراق بكأس العالم",
+          "link": "https://www.youtube.com/watch?v=zwSyFe1fx04",
+          "videoId": "zwSyFe1fx04",
+          "pubDate": "2026-05-06T21:00:01+00:00"
+        },
+        {
           "title": "سمسار مرضى: \"نحن نعمل بما يرضي الله\"",
           "link": "https://www.youtube.com/watch?v=klmoAK5tmzg",
           "videoId": "klmoAK5tmzg",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=dESI23ie2nA",
           "videoId": "dESI23ie2nA",
           "pubDate": "2026-05-06T18:45:04+00:00"
-        },
-        {
-          "title": "الدلافين تنام نصف مستيقظة!",
-          "link": "https://www.youtube.com/watch?v=wA689E6Ezn4",
-          "videoId": "wA689E6Ezn4",
-          "pubDate": "2026-05-06T18:45:01+00:00"
         }
       ],
       "ok": true
