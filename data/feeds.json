@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-06T15:17:39.500460+00:00",
+  "updated": "2026-05-06T17:18:25.665394+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
-          "title": "حين رأى ابن خلدون القاهرة لأول مرة",
-          "link": "https://www.youtube.com/watch?v=uK51BCg9PA8",
-          "videoId": "uK51BCg9PA8",
-          "pubDate": "2026-05-06T13:49:30+00:00"
+          "title": "صوت البراري.. يوميات في بوهدمة | قصة سهيل وهيفاء في حماية الحيوانات المهددة بتونس",
+          "link": "https://www.youtube.com/watch?v=Sleg5PMTZng",
+          "videoId": "Sleg5PMTZng",
+          "pubDate": "2026-05-06T17:15:02+00:00"
         },
         {
-          "title": "\"الشاهد\".. مسرحية الأطفال التي تنبأت بالانتفاضة الفلسطينية عام 1987",
-          "link": "https://www.youtube.com/watch?v=3y4ycWHK0a4",
-          "videoId": "3y4ycWHK0a4",
-          "pubDate": "2026-05-06T12:30:01+00:00"
+          "title": "عبد الحميد السراج.. \"أول من أدخل ريحة الدم إلى سوريا\"",
+          "link": "https://www.youtube.com/watch?v=j2kQYZED8Ms",
+          "videoId": "j2kQYZED8Ms",
+          "pubDate": "2026-05-06T16:15:01+00:00"
         },
         {
-          "title": "عنف نابليون في يافا يواسي جنوده.. ويقتل السكان",
-          "link": "https://www.youtube.com/watch?v=DZ_AF-elksQ",
-          "videoId": "DZ_AF-elksQ",
-          "pubDate": "2026-05-06T11:11:03+00:00"
+          "title": "جرش- الأردن",
+          "link": "https://www.youtube.com/watch?v=EC4mjnJxx74",
+          "videoId": "EC4mjnJxx74",
+          "pubDate": "2026-05-06T15:45:01+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "كيف تحولت شابة عشرينية من العمل خلف الكواليس إلى واحدة من أكثر الوجوه السياسية حضورًا في واشنطن؟",
+          "link": "https://www.youtube.com/watch?v=em7tpG5HRlA",
+          "videoId": "em7tpG5HRlA",
+          "pubDate": "2026-05-06T17:04:35+00:00"
+        },
         {
           "title": "روسيا والاستراتيجية الجديدة  - وثائقي الشرق",
           "link": "https://www.youtube.com/watch?v=eViClYRFaS4",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=__j6C6Hj0t0",
           "videoId": "__j6C6Hj0t0",
           "pubDate": "2026-05-05T19:00:33+00:00"
-        },
-        {
-          "title": "مشروع القطار الجوي \"إيروترين\"",
-          "link": "https://www.youtube.com/watch?v=EZKkFQSEHkM",
-          "videoId": "EZKkFQSEHkM",
-          "pubDate": "2026-05-05T16:01:00+00:00"
         }
       ],
       "ok": true
