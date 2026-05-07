@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-07T08:08:28.234452+00:00",
+  "updated": "2026-05-07T10:56:25.741989+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -215,6 +215,12 @@
       "feedTitle": "Mohamed Ansary",
       "items": [
         {
+          "title": "أداة Originality: الخيار الأقوى لكشف نصوص الذكاء الاصطناعي",
+          "link": "https://www.youtube.com/watch?v=M5ckwDtaPyc",
+          "videoId": "M5ckwDtaPyc",
+          "pubDate": "2026-05-07T08:12:15+00:00"
+        },
+        {
           "title": "أفضل أدوات كشف المحتوى المكتوب بالذكاء الاصطناعي",
           "link": "https://www.youtube.com/watch?v=44UhVzeiu1E",
           "videoId": "44UhVzeiu1E",
@@ -225,12 +231,6 @@
           "link": "https://www.youtube.com/watch?v=EvrR-fea0r4",
           "videoId": "EvrR-fea0r4",
           "pubDate": "2026-05-04T09:13:42+00:00"
-        },
-        {
-          "title": "جيميناي Gemini يتحول إلى أداة عمل كاملة: أنشئ ملفاتك داخل المحادثة",
-          "link": "https://www.youtube.com/watch?v=R7FQAHLMDAg",
-          "videoId": "R7FQAHLMDAg",
-          "pubDate": "2026-05-03T12:39:20+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "صوت صباحي أيقظ أجيالا في شوارع الوطن العربي",
+          "link": "https://www.youtube.com/watch?v=GDXn_4CMFeY",
+          "videoId": "GDXn_4CMFeY",
+          "pubDate": "2026-05-07T08:01:39+00:00"
+        },
+        {
           "title": "قرار تحكيمي غريب في أول مباريات العراق بكأس العالم",
           "link": "https://www.youtube.com/watch?v=zwSyFe1fx04",
           "videoId": "zwSyFe1fx04",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=klmoAK5tmzg",
           "videoId": "klmoAK5tmzg",
           "pubDate": "2026-05-06T20:15:01+00:00"
-        },
-        {
-          "title": "هل نحن وحدنا في الكون؟ | مفاجآت قادمة من أعماق الفضاء",
-          "link": "https://www.youtube.com/watch?v=dESI23ie2nA",
-          "videoId": "dESI23ie2nA",
-          "pubDate": "2026-05-06T18:45:04+00:00"
         }
       ],
       "ok": true
