@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-07T15:22:52.829903+00:00",
+  "updated": "2026-05-07T17:28:46.197475+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -59,7 +59,7 @@
       "feedTitle": "Infotech4you - مروي سليمان",
       "items": [
         {
-          "title": "ضاعف انتاجيتك ب 5 اوامر داخل كلود Claude لا يعرفها الكثيرين!",
+          "title": "5 اوامر سرية  داخل كلود Claude لا يعرفها الكثيرين حتغير طريقة شغلك تماماً!",
           "link": "https://www.youtube.com/watch?v=z_S1hHoTDps",
           "videoId": "z_S1hHoTDps",
           "pubDate": "2026-05-07T13:45:33+00:00"
@@ -267,6 +267,12 @@
       "feedTitle": "أكاديمية ريان | Ryan Academy",
       "items": [
         {
+          "title": "أرخص اشتراكات قانونية لـ ChatGPT - Grok - Adobe - Canva - Gemini 🔥",
+          "link": "https://www.youtube.com/watch?v=RXop0SgX_9o",
+          "videoId": "RXop0SgX_9o",
+          "pubDate": "2026-05-07T16:00:50+00:00"
+        },
+        {
           "title": "وفرت تمن إضافة مدفوعة وعملت إضافة كروم ذكية بنفسي Chrome Extension 🔥 | حاجات وفرت تمنها #2",
           "link": "https://www.youtube.com/watch?v=K72r8YJsUs8",
           "videoId": "K72r8YJsUs8",
@@ -277,12 +283,6 @@
           "link": "https://www.youtube.com/watch?v=k9wJ8uEKDh8",
           "videoId": "k9wJ8uEKDh8",
           "pubDate": "2026-05-02T16:01:10+00:00"
-        },
-        {
-          "title": "ازاي تعمل منصة Vibe Coding من الصفر (مشروع SaaS ترند 🔥)",
-          "link": "https://www.youtube.com/watch?v=zQmr6iFTDpw",
-          "videoId": "zQmr6iFTDpw",
-          "pubDate": "2026-04-30T16:01:44+00:00"
         }
       ],
       "ok": true
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "حينما أحرج المصريون بطل أوروبا في كأس العالم",
+          "link": "https://www.youtube.com/watch?v=r_uIwjdUMmA",
+          "videoId": "r_uIwjdUMmA",
+          "pubDate": "2026-05-07T16:15:06+00:00"
+        },
+        {
+          "title": "مهرجان \"الأقصى في خطر\" عام 1996 صرخة تحذير",
+          "link": "https://www.youtube.com/watch?v=2AEced8UhX4",
+          "videoId": "2AEced8UhX4",
+          "pubDate": "2026-05-07T15:45:01+00:00"
+        },
+        {
           "title": "من الإذلال إلى الرغبة بالسلطة",
           "link": "https://www.youtube.com/watch?v=ce2jvOuK2AY",
           "videoId": "ce2jvOuK2AY",
           "pubDate": "2026-05-07T14:30:01+00:00"
-        },
-        {
-          "title": "كيف استباح جنود من الحلفاء أجساد الفرنسيات؟",
-          "link": "https://www.youtube.com/watch?v=bsCU9LTbaWg",
-          "videoId": "bsCU9LTbaWg",
-          "pubDate": "2026-05-07T13:05:52+00:00"
-        },
-        {
-          "title": "اللبنانيون والقهوة",
-          "link": "https://www.youtube.com/watch?v=tUXS0wjK-FE",
-          "videoId": "tUXS0wjK-FE",
-          "pubDate": "2026-05-07T12:30:00+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "نجمٌ وُلِد قبل أكثر من 4 مليار سنة",
+          "link": "https://www.youtube.com/watch?v=9lzZ--XsE48",
+          "videoId": "9lzZ--XsE48",
+          "pubDate": "2026-05-07T16:54:29+00:00"
+        },
         {
           "title": "إعجاب إبراهيم بالسينما الهندية",
           "link": "https://www.youtube.com/watch?v=yJzy4918V2M",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=hvF1RGapzM8",
           "videoId": "hvF1RGapzM8",
           "pubDate": "2026-05-06T20:00:36+00:00"
-        },
-        {
-          "title": "كيف تحولت شابة عشرينية من العمل خلف الكواليس إلى واحدة من أكثر الوجوه السياسية حضورًا في واشنطن؟",
-          "link": "https://www.youtube.com/watch?v=em7tpG5HRlA",
-          "videoId": "em7tpG5HRlA",
-          "pubDate": "2026-05-06T17:04:35+00:00"
         }
       ],
       "ok": true
