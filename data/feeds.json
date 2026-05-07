@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-07T19:20:51.701026+00:00",
+  "updated": "2026-05-07T20:54:16.442327+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "دوري السلة الإفريقي.. أكثر من مجرد لعبة | الحلقة الثالثة",
+          "link": "https://www.youtube.com/watch?v=Cw9J0BhwD8A",
+          "videoId": "Cw9J0BhwD8A",
+          "pubDate": "2026-05-07T20:00:09+00:00"
+        },
+        {
+          "title": "من يرقة إلى فراشة.. في 30 ثانية",
+          "link": "https://www.youtube.com/watch?v=hNHxrETcfFI",
+          "videoId": "hNHxrETcfFI",
+          "pubDate": "2026-05-07T20:00:01+00:00"
+        },
+        {
           "title": "الرجل الذي سرق دماغ أينشتاين.. القصة الحقيقية وراء أغرب سر في تاريخ العلم",
           "link": "https://www.youtube.com/watch?v=HwScuumzWy8",
           "videoId": "HwScuumzWy8",
           "pubDate": "2026-05-07T19:15:00+00:00"
-        },
-        {
-          "title": "الوظيفة.. عبودية هذا الزمان؟",
-          "link": "https://www.youtube.com/watch?v=7bf8xQApTJE",
-          "videoId": "7bf8xQApTJE",
-          "pubDate": "2026-05-07T18:00:01+00:00"
-        },
-        {
-          "title": "حينما أحرج المصريون بطل أوروبا في كأس العالم",
-          "link": "https://www.youtube.com/watch?v=r_uIwjdUMmA",
-          "videoId": "r_uIwjdUMmA",
-          "pubDate": "2026-05-07T16:15:06+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "قصة اختطاف \"دانيال\" في المكسيك المفاوضون",
+          "link": "https://www.youtube.com/watch?v=Z3hI-SqbuGg",
+          "videoId": "Z3hI-SqbuGg",
+          "pubDate": "2026-05-07T20:00:20+00:00"
+        },
         {
           "title": "نجمٌ وُلِد قبل أكثر من 4 مليار سنة",
           "link": "https://www.youtube.com/watch?v=9lzZ--XsE48",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=yJzy4918V2M",
           "videoId": "yJzy4918V2M",
           "pubDate": "2026-05-07T14:26:41+00:00"
-        },
-        {
-          "title": "في قلب نيجيريا: حكاية اختطاف انتهت بمعجزة | المفاوضون",
-          "link": "https://www.youtube.com/watch?v=hvF1RGapzM8",
-          "videoId": "hvF1RGapzM8",
-          "pubDate": "2026-05-06T20:00:36+00:00"
         }
       ],
       "ok": true
