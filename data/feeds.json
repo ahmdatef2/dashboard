@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-07T10:56:25.741989+00:00",
+  "updated": "2026-05-07T12:24:24.920375+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -371,6 +371,12 @@
       "feedTitle": "أخضر",
       "items": [
         {
+          "title": "إذا أردت التأثير، تحدث بلغة الناس وبساطتهم ⁩",
+          "link": "https://www.youtube.com/watch?v=PfUCx4POwyQ",
+          "videoId": "PfUCx4POwyQ",
+          "pubDate": "2026-05-07T11:03:10+00:00"
+        },
+        {
           "title": "وجهك يتحدث بصوتٍ أعلى من كلماتك",
           "link": "https://www.youtube.com/watch?v=-Wm79BzaddU",
           "videoId": "-Wm79BzaddU",
@@ -381,12 +387,6 @@
           "link": "https://www.youtube.com/watch?v=eP_cuBwLD7M",
           "videoId": "eP_cuBwLD7M",
           "pubDate": "2026-05-05T15:01:19+00:00"
-        },
-        {
-          "title": "من التأتأة لبطولة العالم في الخطابة! 🏆",
-          "link": "https://www.youtube.com/watch?v=_V96H-o8O2s",
-          "videoId": "_V96H-o8O2s",
-          "pubDate": "2026-05-03T14:37:31+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "في مملكة كوش.. نظام أمومي يمنح المرأة الأولوية في النسب",
+          "link": "https://www.youtube.com/watch?v=0g8ckfx40FQ",
+          "videoId": "0g8ckfx40FQ",
+          "pubDate": "2026-05-07T11:15:01+00:00"
+        },
+        {
           "title": "صوت صباحي أيقظ أجيالا في شوارع الوطن العربي",
           "link": "https://www.youtube.com/watch?v=GDXn_4CMFeY",
           "videoId": "GDXn_4CMFeY",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=zwSyFe1fx04",
           "videoId": "zwSyFe1fx04",
           "pubDate": "2026-05-06T21:00:01+00:00"
-        },
-        {
-          "title": "سمسار مرضى: \"نحن نعمل بما يرضي الله\"",
-          "link": "https://www.youtube.com/watch?v=klmoAK5tmzg",
-          "videoId": "klmoAK5tmzg",
-          "pubDate": "2026-05-06T20:15:01+00:00"
         }
       ],
       "ok": true
