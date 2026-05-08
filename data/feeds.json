@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-08T04:44:53.473231+00:00",
+  "updated": "2026-05-08T06:25:37.806861+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -25,28 +25,9 @@
     "UCSRy-3lglM2QKJ_xF2zuPlQ": {
       "handle": "AbdellatifSaidA",
       "name": "عبداللطيف سعيد",
-      "feedTitle": "عبداللطيف سعيد Abdellatif Said",
-      "items": [
-        {
-          "title": "الكمبيوتر هيشتغل لوحده! تسريبات مشروع Project Jarvis و Gemini الجديد من جوجل 🤖🔥",
-          "link": "https://www.youtube.com/watch?v=eji8ZrgEqwY",
-          "videoId": "eji8ZrgEqwY",
-          "pubDate": "2026-05-07T14:01:06+00:00"
-        },
-        {
-          "title": "تحديث جبار من جوجل جيميناي 🚀 وداعاً لكتابة الجداول.. حول أي صورة لملف Excel و PDF مجاناً!",
-          "link": "https://www.youtube.com/watch?v=RLoDorKXbow",
-          "videoId": "RLoDorKXbow",
-          "pubDate": "2026-05-04T14:00:45+00:00"
-        },
-        {
-          "title": "أسوأ قرار دمر شغلي.. إياك تستخدم Outlook أو Hotmail! ❌ (تجربة كارثية)",
-          "link": "https://www.youtube.com/watch?v=U-B2Ysv8trg",
-          "videoId": "U-B2Ysv8trg",
-          "pubDate": "2026-05-03T14:00:42+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "عبداللطيف سعيد",
+      "items": [],
+      "ok": false
     },
     "UC81Ks7DR9JFgZc14nmZ07EA": {
       "handle": "AMRSALEM800",
@@ -79,54 +60,16 @@
     "UCSXcmF4Gxl6Hc-m6cHYD_Vg": {
       "handle": "MohamedAnsary",
       "name": "محمد أنصاري",
-      "feedTitle": "Mohamed Ansary",
-      "items": [
-        {
-          "title": "أداة Originality: الخيار الأقوى لكشف نصوص الذكاء الاصطناعي",
-          "link": "https://www.youtube.com/watch?v=M5ckwDtaPyc",
-          "videoId": "M5ckwDtaPyc",
-          "pubDate": "2026-05-07T08:12:15+00:00"
-        },
-        {
-          "title": "أفضل أدوات كشف المحتوى المكتوب بالذكاء الاصطناعي",
-          "link": "https://www.youtube.com/watch?v=44UhVzeiu1E",
-          "videoId": "44UhVzeiu1E",
-          "pubDate": "2026-05-05T15:54:45+00:00"
-        },
-        {
-          "title": "أنشئ ملفاتك مباشرة داخل المحادثة! في Gemini",
-          "link": "https://www.youtube.com/watch?v=EvrR-fea0r4",
-          "videoId": "EvrR-fea0r4",
-          "pubDate": "2026-05-04T09:13:42+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "محمد أنصاري",
+      "items": [],
+      "ok": false
     },
     "UCDqp23rTdCo_tXsuHLYF47Q": {
       "handle": "ArabianAiSchool",
       "name": "Arabian AI School",
-      "feedTitle": "مدرسة الذكاء الاصطناعي",
-      "items": [
-        {
-          "title": "قضيت شهرين مع Claude Cowork… ودي أفضل طريقة تستخدمه بيها",
-          "link": "https://www.youtube.com/watch?v=NQf6FqCG7tc",
-          "videoId": "NQf6FqCG7tc",
-          "pubDate": "2026-05-03T19:31:44+00:00"
-        },
-        {
-          "title": "وفر 20 دولار واستخدم Claude Cowork مجانا بطريقة رسمية",
-          "link": "https://www.youtube.com/watch?v=pxRzCDNMnf4",
-          "videoId": "pxRzCDNMnf4",
-          "pubDate": "2026-04-28T17:28:19+00:00"
-        },
-        {
-          "title": "وداعا After Effects ؟ أداة ذكاء اصطناعي بتعمل فيديوهات موشن جرافيكس بضغطة زر",
-          "link": "https://www.youtube.com/watch?v=yMb7sr_0-YM",
-          "videoId": "yMb7sr_0-YM",
-          "pubDate": "2026-04-23T20:43:26+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "Arabian AI School",
+      "items": [],
+      "ok": false
     },
     "UCz0N3nKrJiDhNdKQvM6r93w": {
       "handle": "ryan.academy",
