@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-08T16:06:10.562802+00:00",
+  "updated": "2026-05-08T18:01:45.042090+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -111,6 +111,12 @@
       "feedTitle": "AMR SALEM _ عمرو سالم",
       "items": [
         {
+          "title": "كلود + كاب كات = احلي مونتاج",
+          "link": "https://www.youtube.com/watch?v=agMab2QvPqs",
+          "videoId": "agMab2QvPqs",
+          "pubDate": "2026-05-08T16:25:06+00:00"
+        },
+        {
           "title": "صمم مشاريعك البرمجية باحترافية وبأعلي جودة | HitPaw FotorPea",
           "link": "https://www.youtube.com/watch?v=qH5QaOBh1Io",
           "videoId": "qH5QaOBh1Io",
@@ -121,12 +127,6 @@
           "link": "https://www.youtube.com/watch?v=UEAbSpzqqEQ",
           "videoId": "UEAbSpzqqEQ",
           "pubDate": "2026-05-04T11:00:55+00:00"
-        },
-        {
-          "title": "MaxHermes وثورة البرمجة بالذكاء الاصطناعي",
-          "link": "https://www.youtube.com/watch?v=v6XbtNZho00",
-          "videoId": "v6XbtNZho00",
-          "pubDate": "2026-05-03T11:01:26+00:00"
         }
       ],
       "ok": true
@@ -189,6 +189,12 @@
       "feedTitle": "ذكاء اصطناعي عربي",
       "items": [
         {
+          "title": "كيف يعمل ChatGPT فعليًا؟ 🧠 شرح Transformers و Attention",
+          "link": "https://www.youtube.com/watch?v=5CpWxNxkH5k",
+          "videoId": "5CpWxNxkH5k",
+          "pubDate": "2026-05-08T18:00:06+00:00"
+        },
+        {
           "title": "بناء ChatGPT من الصفر 🔥 | الحلقة 2: اختيار البيانات وParameters",
           "link": "https://www.youtube.com/watch?v=3mZm7UW3N48",
           "videoId": "3mZm7UW3N48",
@@ -199,12 +205,6 @@
           "link": "https://www.youtube.com/watch?v=x15qa1wT80A",
           "videoId": "x15qa1wT80A",
           "pubDate": "2026-04-30T17:00:06+00:00"
-        },
-        {
-          "title": "🚨 نموذج جديد يرعب OpenAI! هل DeepSeek V4 هو الأفضل؟",
-          "link": "https://www.youtube.com/watch?v=gJKdacxiI_I",
-          "videoId": "gJKdacxiI_I",
-          "pubDate": "2026-04-27T17:00:06+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "كيف تنقذ أسماك الببغاء المحيطات؟",
+          "link": "https://www.youtube.com/watch?v=wLlslDTX38o",
+          "videoId": "wLlslDTX38o",
+          "pubDate": "2026-05-08T16:00:01+00:00"
+        },
+        {
           "title": "كيف ضحى \"الحلفاء\" بالمدنيين لتحرير فرنسا من النازية؟",
           "link": "https://www.youtube.com/watch?v=DYNmb7g909g",
           "videoId": "DYNmb7g909g",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=b68Hgt5whSo",
           "videoId": "b68Hgt5whSo",
           "pubDate": "2026-05-08T12:00:51+00:00"
-        },
-        {
-          "title": "8 مايو 1945 .. فرح في فرنسا ومجازر في الجزائر",
-          "link": "https://www.youtube.com/watch?v=6tO8ZT2Qqqs",
-          "videoId": "6tO8ZT2Qqqs",
-          "pubDate": "2026-05-08T11:02:54+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "منظر رائع للنجم الأم!",
+          "link": "https://www.youtube.com/watch?v=8i4_hIjwRKY",
+          "videoId": "8i4_hIjwRKY",
+          "pubDate": "2026-05-08T17:00:21+00:00"
+        },
         {
           "title": "ثعبان في كل متر مربع!",
           "link": "https://www.youtube.com/watch?v=wkhQwo-2hp0",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=UP3PyvSjL0U",
           "videoId": "UP3PyvSjL0U",
           "pubDate": "2026-05-08T13:00:25+00:00"
-        },
-        {
-          "title": "ثعبان في كل متر مربع!",
-          "link": "https://www.youtube.com/watch?v=6IkEHeCylmA",
-          "videoId": "6IkEHeCylmA",
-          "pubDate": "2026-05-08T11:00:30+00:00"
         }
       ],
       "ok": true
