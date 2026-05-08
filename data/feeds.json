@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-08T10:13:35.962262+00:00",
+  "updated": "2026-05-08T12:01:54.960421+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "8 مايو 1945 .. فرح في فرنسا ومجازر في الجزائر",
+          "link": "https://www.youtube.com/watch?v=6tO8ZT2Qqqs",
+          "videoId": "6tO8ZT2Qqqs",
+          "pubDate": "2026-05-08T11:02:54+00:00"
+        },
+        {
           "title": "مسرحية \"كاسك يا وطن\" 1979 .. مرآة الواقع القاسي في عقد السبعينيات",
           "link": "https://www.youtube.com/watch?v=KDaqvSRlZds",
           "videoId": "KDaqvSRlZds",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=4VWU_fjPodI",
           "videoId": "4VWU_fjPodI",
           "pubDate": "2026-05-08T08:00:01+00:00"
-        },
-        {
-          "title": "دوري السلة الإفريقي.. أكثر من مجرد لعبة | الحلقة الثالثة",
-          "link": "https://www.youtube.com/watch?v=Cw9J0BhwD8A",
-          "videoId": "Cw9J0BhwD8A",
-          "pubDate": "2026-05-07T20:00:09+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "ثعبان في كل متر مربع!",
+          "link": "https://www.youtube.com/watch?v=6IkEHeCylmA",
+          "videoId": "6IkEHeCylmA",
+          "pubDate": "2026-05-08T11:00:30+00:00"
+        },
         {
           "title": "ملك... رسب 3 مرات في الرياضيات!",
           "link": "https://www.youtube.com/watch?v=HmomIp6cURs",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=Z3hI-SqbuGg",
           "videoId": "Z3hI-SqbuGg",
           "pubDate": "2026-05-07T20:00:20+00:00"
-        },
-        {
-          "title": "نجمٌ وُلِد قبل أكثر من 4 مليار سنة",
-          "link": "https://www.youtube.com/watch?v=9lzZ--XsE48",
-          "videoId": "9lzZ--XsE48",
-          "pubDate": "2026-05-07T16:54:29+00:00"
         }
       ],
       "ok": true
