@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-08T20:01:10.268840+00:00",
+  "updated": "2026-05-08T21:45:13.625360+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "عندما واجهت الإمارات الآلات الألمانية في كأس العالم",
+          "link": "https://www.youtube.com/watch?v=itrK3309KXQ",
+          "videoId": "itrK3309KXQ",
+          "pubDate": "2026-05-08T20:45:02+00:00"
+        },
+        {
+          "title": "الشروط الأساسية لوجود كواكب صالحة للحياة خارج الأرض",
+          "link": "https://www.youtube.com/watch?v=N7lfhE3Zrmw",
+          "videoId": "N7lfhE3Zrmw",
+          "pubDate": "2026-05-08T20:00:01+00:00"
+        },
+        {
           "title": "أخوات الأرض.. معالجات الأرض | حدائق تنقذ جزيرة من كارثة بيئية | الحلقة الرابعة",
           "link": "https://www.youtube.com/watch?v=x-JKcBouyMI",
           "videoId": "x-JKcBouyMI",
           "pubDate": "2026-05-08T18:01:02+00:00"
-        },
-        {
-          "title": "إثنا عشر سريرا.. ذاكرة أبناء الشهداء الفلسطينيين في لبنان بين الحلم والمنفى | الجزء الأول",
-          "link": "https://www.youtube.com/watch?v=mdZcumd90tc",
-          "videoId": "mdZcumd90tc",
-          "pubDate": "2026-05-08T18:00:46+00:00"
-        },
-        {
-          "title": "\"من جبالنا\".. صوت الجزائر الذي سبق المجازر",
-          "link": "https://www.youtube.com/watch?v=nlxXbACiy7k",
-          "videoId": "nlxXbACiy7k",
-          "pubDate": "2026-05-08T18:00:01+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "بن فيرينتز: شاهد على أبشع جرائم التاريخ | محاكمة الشر",
+          "link": "https://www.youtube.com/watch?v=6_QvWQ7UHgE",
+          "videoId": "6_QvWQ7UHgE",
+          "pubDate": "2026-05-08T20:00:08+00:00"
+        },
         {
           "title": "منظر رائع للنجم الأم!",
           "link": "https://www.youtube.com/watch?v=8i4_hIjwRKY",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=wkhQwo-2hp0",
           "videoId": "wkhQwo-2hp0",
           "pubDate": "2026-05-08T15:00:28+00:00"
-        },
-        {
-          "title": "سيارات أميركا",
-          "link": "https://www.youtube.com/watch?v=UP3PyvSjL0U",
-          "videoId": "UP3PyvSjL0U",
-          "pubDate": "2026-05-08T13:00:25+00:00"
         }
       ],
       "ok": true
