@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-08T01:44:54.245185+00:00",
+  "updated": "2026-05-08T04:44:53.473231+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -11,87 +11,49 @@
     "UC2jjW7c63dqOPkfMm3P-u3w": {
       "handle": "every_day_a_new_website",
       "name": "موقع كل يوم",
-      "feedTitle": "كل يوم موقع جديد",
-      "items": [
-        {
-          "title": "حوّل تقاريرك إلى لوحة تفاعلية واختار تصميمها بنفسك بدون أوامر معقدة!",
-          "link": "https://www.youtube.com/watch?v=qREEmoNWZ-U",
-          "videoId": "qREEmoNWZ-U",
-          "pubDate": "2026-05-06T13:30:56+00:00"
-        },
-        {
-          "title": "Canva أصبح برنامج مونتاج بالذكاء الإصطناعي ؟ تجربة محرر الفيديو الجديد خطوة بخطوة",
-          "link": "https://www.youtube.com/watch?v=p6ZUHhmyq0A",
-          "videoId": "p6ZUHhmyq0A",
-          "pubDate": "2026-05-04T12:31:08+00:00"
-        },
-        {
-          "title": "Claude Skills: ميزة كلود المجانية حتغير طريقة استخدامك تماماَ",
-          "link": "https://www.youtube.com/watch?v=EIeApw7hsZI",
-          "videoId": "EIeApw7hsZI",
-          "pubDate": "2026-05-02T11:30:10+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "موقع كل يوم",
+      "items": [],
+      "ok": false
     },
     "UCKD8vOz3maRPyLAbMXhr-Pw": {
       "handle": "infotech4you_Marwasoliman",
       "name": "مروة سليمان",
-      "feedTitle": "Infotech4you - مروي سليمان",
-      "items": [
-        {
-          "title": "5 اوامر سرية  داخل كلود Claude لا يعرفها الكثيرين حتغير طريقة شغلك تماماً!",
-          "link": "https://www.youtube.com/watch?v=z_S1hHoTDps",
-          "videoId": "z_S1hHoTDps",
-          "pubDate": "2026-05-07T13:45:33+00:00"
-        },
-        {
-          "title": "جربت Claude Design لإنشاء Slide Deck… النتيجة مفاجئة",
-          "link": "https://www.youtube.com/watch?v=9Zx1AcS0LZ0",
-          "videoId": "9Zx1AcS0LZ0",
-          "pubDate": "2026-05-05T16:00:24+00:00"
-        },
-        {
-          "title": "التحديث المنتظر: ميزة Projects الجديدة في Google Drive مع Gemini",
-          "link": "https://www.youtube.com/watch?v=PLMNuxTrZkk",
-          "videoId": "PLMNuxTrZkk",
-          "pubDate": "2026-05-03T12:29:24+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "مروة سليمان",
+      "items": [],
+      "ok": false
     },
     "UCSRy-3lglM2QKJ_xF2zuPlQ": {
       "handle": "AbdellatifSaidA",
       "name": "عبداللطيف سعيد",
-      "feedTitle": "عبداللطيف سعيد",
-      "items": [],
-      "ok": false
+      "feedTitle": "عبداللطيف سعيد Abdellatif Said",
+      "items": [
+        {
+          "title": "الكمبيوتر هيشتغل لوحده! تسريبات مشروع Project Jarvis و Gemini الجديد من جوجل 🤖🔥",
+          "link": "https://www.youtube.com/watch?v=eji8ZrgEqwY",
+          "videoId": "eji8ZrgEqwY",
+          "pubDate": "2026-05-07T14:01:06+00:00"
+        },
+        {
+          "title": "تحديث جبار من جوجل جيميناي 🚀 وداعاً لكتابة الجداول.. حول أي صورة لملف Excel و PDF مجاناً!",
+          "link": "https://www.youtube.com/watch?v=RLoDorKXbow",
+          "videoId": "RLoDorKXbow",
+          "pubDate": "2026-05-04T14:00:45+00:00"
+        },
+        {
+          "title": "أسوأ قرار دمر شغلي.. إياك تستخدم Outlook أو Hotmail! ❌ (تجربة كارثية)",
+          "link": "https://www.youtube.com/watch?v=U-B2Ysv8trg",
+          "videoId": "U-B2Ysv8trg",
+          "pubDate": "2026-05-03T14:00:42+00:00"
+        }
+      ],
+      "ok": true
     },
     "UC81Ks7DR9JFgZc14nmZ07EA": {
       "handle": "AMRSALEM800",
       "name": "عمرو سالم",
-      "feedTitle": "AMR SALEM _ عمرو سالم",
-      "items": [
-        {
-          "title": "صمم مشاريعك البرمجية باحترافية وبأعلي جودة | HitPaw FotorPea",
-          "link": "https://www.youtube.com/watch?v=qH5QaOBh1Io",
-          "videoId": "qH5QaOBh1Io",
-          "pubDate": "2026-05-06T11:55:51+00:00"
-        },
-        {
-          "title": "متصفح مخصص للذكاء الاصطناعي وبه اقوي النماذج بالمجان |  Tabbit browser",
-          "link": "https://www.youtube.com/watch?v=UEAbSpzqqEQ",
-          "videoId": "UEAbSpzqqEQ",
-          "pubDate": "2026-05-04T11:00:55+00:00"
-        },
-        {
-          "title": "MaxHermes وثورة البرمجة بالذكاء الاصطناعي",
-          "link": "https://www.youtube.com/watch?v=v6XbtNZho00",
-          "videoId": "v6XbtNZho00",
-          "pubDate": "2026-05-03T11:01:26+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "عمرو سالم",
+      "items": [],
+      "ok": false
     },
     "UC9ocsRoOwj9tkAQNfUt8ZJg": {
       "handle": "PythonArab",
@@ -117,42 +79,61 @@
     "UCSXcmF4Gxl6Hc-m6cHYD_Vg": {
       "handle": "MohamedAnsary",
       "name": "محمد أنصاري",
-      "feedTitle": "محمد أنصاري",
-      "items": [],
-      "ok": false
+      "feedTitle": "Mohamed Ansary",
+      "items": [
+        {
+          "title": "أداة Originality: الخيار الأقوى لكشف نصوص الذكاء الاصطناعي",
+          "link": "https://www.youtube.com/watch?v=M5ckwDtaPyc",
+          "videoId": "M5ckwDtaPyc",
+          "pubDate": "2026-05-07T08:12:15+00:00"
+        },
+        {
+          "title": "أفضل أدوات كشف المحتوى المكتوب بالذكاء الاصطناعي",
+          "link": "https://www.youtube.com/watch?v=44UhVzeiu1E",
+          "videoId": "44UhVzeiu1E",
+          "pubDate": "2026-05-05T15:54:45+00:00"
+        },
+        {
+          "title": "أنشئ ملفاتك مباشرة داخل المحادثة! في Gemini",
+          "link": "https://www.youtube.com/watch?v=EvrR-fea0r4",
+          "videoId": "EvrR-fea0r4",
+          "pubDate": "2026-05-04T09:13:42+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCDqp23rTdCo_tXsuHLYF47Q": {
       "handle": "ArabianAiSchool",
       "name": "Arabian AI School",
-      "feedTitle": "Arabian AI School",
-      "items": [],
-      "ok": false
+      "feedTitle": "مدرسة الذكاء الاصطناعي",
+      "items": [
+        {
+          "title": "قضيت شهرين مع Claude Cowork… ودي أفضل طريقة تستخدمه بيها",
+          "link": "https://www.youtube.com/watch?v=NQf6FqCG7tc",
+          "videoId": "NQf6FqCG7tc",
+          "pubDate": "2026-05-03T19:31:44+00:00"
+        },
+        {
+          "title": "وفر 20 دولار واستخدم Claude Cowork مجانا بطريقة رسمية",
+          "link": "https://www.youtube.com/watch?v=pxRzCDNMnf4",
+          "videoId": "pxRzCDNMnf4",
+          "pubDate": "2026-04-28T17:28:19+00:00"
+        },
+        {
+          "title": "وداعا After Effects ؟ أداة ذكاء اصطناعي بتعمل فيديوهات موشن جرافيكس بضغطة زر",
+          "link": "https://www.youtube.com/watch?v=yMb7sr_0-YM",
+          "videoId": "yMb7sr_0-YM",
+          "pubDate": "2026-04-23T20:43:26+00:00"
+        }
+      ],
+      "ok": true
     },
     "UCz0N3nKrJiDhNdKQvM6r93w": {
       "handle": "ryan.academy",
       "name": "Ryan Academy",
-      "feedTitle": "أكاديمية ريان | Ryan Academy",
-      "items": [
-        {
-          "title": "أرخص اشتراكات قانونية لـ ChatGPT - Grok - Adobe - Canva - Gemini 🔥",
-          "link": "https://www.youtube.com/watch?v=RXop0SgX_9o",
-          "videoId": "RXop0SgX_9o",
-          "pubDate": "2026-05-07T16:00:50+00:00"
-        },
-        {
-          "title": "وفرت تمن إضافة مدفوعة وعملت إضافة كروم ذكية بنفسي Chrome Extension 🔥 | حاجات وفرت تمنها #2",
-          "link": "https://www.youtube.com/watch?v=K72r8YJsUs8",
-          "videoId": "K72r8YJsUs8",
-          "pubDate": "2026-05-05T19:00:17+00:00"
-        },
-        {
-          "title": "قبول أدسنس + زيارات بالآلاف؟ السر في مواقع ألعاب الفلاش! 😳 سكربت الأسبوع #11",
-          "link": "https://www.youtube.com/watch?v=k9wJ8uEKDh8",
-          "videoId": "k9wJ8uEKDh8",
-          "pubDate": "2026-05-02T16:01:10+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "Ryan Academy",
+      "items": [],
+      "ok": false
     },
     "UCXVSIaWCZBxqZ5eCxwIqRGw": {
       "handle": "TechnoFlashAITech",
@@ -192,28 +173,9 @@
     "UChbuH4HULlesX_rzlozkT6Q": {
       "handle": "AliMuhammadAli",
       "name": "علي محمد علي",
-      "feedTitle": "Ali Muhammad Ali",
-      "items": [
-        {
-          "title": "هل أنت صباحي أم مسائي؟",
-          "link": "https://www.youtube.com/watch?v=ukWJmItc_BQ",
-          "videoId": "ukWJmItc_BQ",
-          "pubDate": "2026-04-25T14:10:40+00:00"
-        },
-        {
-          "title": "تقليل تشتت اليوتيوب",
-          "link": "https://www.youtube.com/watch?v=Xe5jIqOJ9Uo",
-          "videoId": "Xe5jIqOJ9Uo",
-          "pubDate": "2026-04-23T15:05:28+00:00"
-        },
-        {
-          "title": "تطبيق ReadEra لقراءة الكتب الإلكترونية",
-          "link": "https://www.youtube.com/watch?v=-Y2wUJuh-xQ",
-          "videoId": "-Y2wUJuh-xQ",
-          "pubDate": "2026-04-16T18:06:13+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "علي محمد علي",
+      "items": [],
+      "ok": false
     },
     "UCJlu6BjPWHZhzuCc0zVME0Q": {
       "handle": "Dupamicaffeine",
@@ -225,80 +187,23 @@
     "UC0LSnqrwqtMwl2YwfUpO66g": {
       "handle": "aljazeeradocumentary",
       "name": "الجزيرة الوثائقية",
-      "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
-      "items": [
-        {
-          "title": "دوري السلة الإفريقي.. أكثر من مجرد لعبة | الحلقة الثالثة",
-          "link": "https://www.youtube.com/watch?v=Cw9J0BhwD8A",
-          "videoId": "Cw9J0BhwD8A",
-          "pubDate": "2026-05-07T20:00:09+00:00"
-        },
-        {
-          "title": "من يرقة إلى فراشة.. في 30 ثانية",
-          "link": "https://www.youtube.com/watch?v=hNHxrETcfFI",
-          "videoId": "hNHxrETcfFI",
-          "pubDate": "2026-05-07T20:00:01+00:00"
-        },
-        {
-          "title": "الرجل الذي سرق دماغ أينشتاين.. القصة الحقيقية وراء أغرب سر في تاريخ العلم",
-          "link": "https://www.youtube.com/watch?v=HwScuumzWy8",
-          "videoId": "HwScuumzWy8",
-          "pubDate": "2026-05-07T19:15:00+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "الجزيرة الوثائقية",
+      "items": [],
+      "ok": false
     },
     "UCArK7aSQ68vRCiJY2m7spkA": {
       "handle": "AsharqDoc",
       "name": "الشرق الوثائقية",
-      "feedTitle": "Asharq Documentary الشرق الوثائقية",
-      "items": [
-        {
-          "title": "قصة اختطاف \"دانيال\" في المكسيك المفاوضون",
-          "link": "https://www.youtube.com/watch?v=Z3hI-SqbuGg",
-          "videoId": "Z3hI-SqbuGg",
-          "pubDate": "2026-05-07T20:00:20+00:00"
-        },
-        {
-          "title": "نجمٌ وُلِد قبل أكثر من 4 مليار سنة",
-          "link": "https://www.youtube.com/watch?v=9lzZ--XsE48",
-          "videoId": "9lzZ--XsE48",
-          "pubDate": "2026-05-07T16:54:29+00:00"
-        },
-        {
-          "title": "إعجاب إبراهيم بالسينما الهندية",
-          "link": "https://www.youtube.com/watch?v=yJzy4918V2M",
-          "videoId": "yJzy4918V2M",
-          "pubDate": "2026-05-07T14:26:41+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "الشرق الوثائقية",
+      "items": [],
+      "ok": false
     },
     "UCLiTe0aOHShx7hXGyqZ9UIw": {
       "handle": "natgeoabudhabime",
       "name": "ناشيونال جيوغرافيك",
-      "feedTitle": "Nat Geo Abu Dhabi",
-      "items": [
-        {
-          "title": "كبرياء وتحامل | صيادو أفريقيا | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=sOZsrgDMMwY",
-          "videoId": "sOZsrgDMMwY",
-          "pubDate": "2026-05-05T17:53:38+00:00"
-        },
-        {
-          "title": "الربع الخالي | ذكرى المعولي | شهر الأرض مع مستكشفي ناشونال جيوغرافيك | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=J687vg1Z3lg",
-          "videoId": "J687vg1Z3lg",
-          "pubDate": "2026-05-05T08:08:21+00:00"
-        },
-        {
-          "title": "الربع الخالي | ذكرى المعولي | شهر الأرض مع مستكشفي ناشونال جيوغرافيك | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=OmRrhwaKOOs",
-          "videoId": "OmRrhwaKOOs",
-          "pubDate": "2026-05-05T08:08:02+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "ناشيونال جيوغرافيك",
+      "items": [],
+      "ok": false
     },
     "UCET6sWl4Xcu-U8Ka9PJPrwA": {
       "handle": "dwdocarabia",
