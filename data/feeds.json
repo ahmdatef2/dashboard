@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-08T18:01:45.042090+00:00",
+  "updated": "2026-05-08T20:01:10.268840+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
-          "title": "كيف تنقذ أسماك الببغاء المحيطات؟",
-          "link": "https://www.youtube.com/watch?v=wLlslDTX38o",
-          "videoId": "wLlslDTX38o",
-          "pubDate": "2026-05-08T16:00:01+00:00"
+          "title": "أخوات الأرض.. معالجات الأرض | حدائق تنقذ جزيرة من كارثة بيئية | الحلقة الرابعة",
+          "link": "https://www.youtube.com/watch?v=x-JKcBouyMI",
+          "videoId": "x-JKcBouyMI",
+          "pubDate": "2026-05-08T18:01:02+00:00"
         },
         {
-          "title": "كيف ضحى \"الحلفاء\" بالمدنيين لتحرير فرنسا من النازية؟",
-          "link": "https://www.youtube.com/watch?v=DYNmb7g909g",
-          "videoId": "DYNmb7g909g",
-          "pubDate": "2026-05-08T15:00:00+00:00"
+          "title": "إثنا عشر سريرا.. ذاكرة أبناء الشهداء الفلسطينيين في لبنان بين الحلم والمنفى | الجزء الأول",
+          "link": "https://www.youtube.com/watch?v=mdZcumd90tc",
+          "videoId": "mdZcumd90tc",
+          "pubDate": "2026-05-08T18:00:46+00:00"
         },
         {
-          "title": "قتله الاستعمار ممسكا بعلم بلاده",
-          "link": "https://www.youtube.com/watch?v=b68Hgt5whSo",
-          "videoId": "b68Hgt5whSo",
-          "pubDate": "2026-05-08T12:00:51+00:00"
+          "title": "\"من جبالنا\".. صوت الجزائر الذي سبق المجازر",
+          "link": "https://www.youtube.com/watch?v=nlxXbACiy7k",
+          "videoId": "nlxXbACiy7k",
+          "pubDate": "2026-05-08T18:00:01+00:00"
         }
       ],
       "ok": true
@@ -553,6 +553,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "وثائقي | الاعتداء الغادر بقطرات التخدير (1/2) | وثائقية دي دبليو",
+          "link": "https://www.youtube.com/watch?v=0mDEFWmx-7s",
+          "videoId": "0mDEFWmx-7s",
+          "pubDate": "2026-05-08T18:00:02+00:00"
+        },
+        {
           "title": "من أوقف الغذاء عن مليون لاجئ؟",
           "link": "https://www.youtube.com/watch?v=FOFiv451kbg",
           "videoId": "FOFiv451kbg",
@@ -563,12 +569,6 @@
           "link": "https://www.youtube.com/watch?v=1KTvUyFPlRw",
           "videoId": "1KTvUyFPlRw",
           "pubDate": "2026-05-06T18:00:01+00:00"
-        },
-        {
-          "title": "مكافحة الدبور الآسيوي",
-          "link": "https://www.youtube.com/watch?v=o63lYu4Wa9U",
-          "videoId": "o63lYu4Wa9U",
-          "pubDate": "2026-05-06T12:24:14+00:00"
         }
       ],
       "ok": true
