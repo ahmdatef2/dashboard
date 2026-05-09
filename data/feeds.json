@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-09T14:10:49.245134+00:00",
+  "updated": "2026-05-09T15:38:45.065049+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -59,6 +59,12 @@
       "feedTitle": "Infotech4you - مروي سليمان",
       "items": [
         {
+          "title": "جوجل تعود بقوة: وكلاء بحث عميق ينافسون الجميع!",
+          "link": "https://www.youtube.com/watch?v=KBoHFZCyjT8",
+          "videoId": "KBoHFZCyjT8",
+          "pubDate": "2026-05-09T15:00:35+00:00"
+        },
+        {
           "title": "5 اوامر سرية  داخل كلود Claude لا يعرفها الكثيرين حتغير طريقة شغلك تماماً!",
           "link": "https://www.youtube.com/watch?v=z_S1hHoTDps",
           "videoId": "z_S1hHoTDps",
@@ -69,12 +75,6 @@
           "link": "https://www.youtube.com/watch?v=9Zx1AcS0LZ0",
           "videoId": "9Zx1AcS0LZ0",
           "pubDate": "2026-05-05T16:00:24+00:00"
-        },
-        {
-          "title": "التحديث المنتظر: ميزة Projects الجديدة في Google Drive مع Gemini",
-          "link": "https://www.youtube.com/watch?v=PLMNuxTrZkk",
-          "videoId": "PLMNuxTrZkk",
-          "pubDate": "2026-05-03T12:29:24+00:00"
         }
       ],
       "ok": true
@@ -84,6 +84,12 @@
       "name": "عبداللطيف سعيد",
       "feedTitle": "عبداللطيف سعيد Abdellatif Said",
       "items": [
+        {
+          "title": "وداعاً Claude Code 👋 الوحش الجديد للمبرمجين DeepSeek TUI (أرخص 20 مرة!)",
+          "link": "https://www.youtube.com/watch?v=9w-ukO5OG-Q",
+          "videoId": "9w-ukO5OG-Q",
+          "pubDate": "2026-05-09T14:52:11+00:00"
+        },
         {
           "title": "الكمبيوتر هيشتغل لوحده! تسريبات مشروع Project Jarvis و Gemini الجديد من جوجل 🤖🔥",
           "link": "https://www.youtube.com/watch?v=eji8ZrgEqwY",
@@ -95,12 +101,6 @@
           "link": "https://www.youtube.com/watch?v=RLoDorKXbow",
           "videoId": "RLoDorKXbow",
           "pubDate": "2026-05-04T14:00:45+00:00"
-        },
-        {
-          "title": "أسوأ قرار دمر شغلي.. إياك تستخدم Outlook أو Hotmail! ❌ (تجربة كارثية)",
-          "link": "https://www.youtube.com/watch?v=U-B2Ysv8trg",
-          "videoId": "U-B2Ysv8trg",
-          "pubDate": "2026-05-03T14:00:42+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "في قبور الفراعنة.. 4 أوانٍ كانت تستخدم لحفظ أعضاء الموتى",
+          "link": "https://www.youtube.com/watch?v=x6NP8_u_KlA",
+          "videoId": "x6NP8_u_KlA",
+          "pubDate": "2026-05-09T15:00:01+00:00"
+        },
+        {
           "title": "الجزائر تنال استقلالها على صوت دحمان الحراشي",
           "link": "https://www.youtube.com/watch?v=k4GTVyq10jo",
           "videoId": "k4GTVyq10jo",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=j6n-c0kNPvE",
           "videoId": "j6n-c0kNPvE",
           "pubDate": "2026-05-09T10:00:01+00:00"
-        },
-        {
-          "title": "\"السرطان السارق\" كيف يعيش لـ90 عاما؟",
-          "link": "https://www.youtube.com/watch?v=D4M3CprLSXs",
-          "videoId": "D4M3CprLSXs",
-          "pubDate": "2026-05-09T08:00:01+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "ماذا يخبّئ الحمض النووي في أعماقه؟",
+          "link": "https://www.youtube.com/watch?v=G-aUGKjx3VI",
+          "videoId": "G-aUGKjx3VI",
+          "pubDate": "2026-05-09T15:20:23+00:00"
+        },
         {
           "title": "لماذا أعلن هتلر الحرب على الخبز الأبيض؟",
           "link": "https://www.youtube.com/watch?v=CCyOTsSpAcg",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=aoisz1eg39s",
           "videoId": "aoisz1eg39s",
           "pubDate": "2026-05-09T13:16:58+00:00"
-        },
-        {
-          "title": "الزعيم الذي كان ينام وحذاؤة تحت وسادته",
-          "link": "https://www.youtube.com/watch?v=5IDlJubsY5E",
-          "videoId": "5IDlJubsY5E",
-          "pubDate": "2026-05-09T13:16:57+00:00"
         }
       ],
       "ok": true
