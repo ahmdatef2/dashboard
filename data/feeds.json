@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-09T18:39:39.658041+00:00",
+  "updated": "2026-05-09T19:47:08.370926+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -163,6 +163,12 @@
       "feedTitle": "Elzero Web School",
       "items": [
         {
+          "title": "عشر حاجات لو سمعتهم وانت بتتفق مع المبرمج على شغل اهرب فورا",
+          "link": "https://www.youtube.com/watch?v=2a48Uu0kH8E",
+          "videoId": "2a48Uu0kH8E",
+          "pubDate": "2026-05-09T18:49:46+00:00"
+        },
+        {
           "title": "كورسات البرمجة في عصر الذكاء الاصطناعي",
           "link": "https://www.youtube.com/watch?v=rULLqZhsn5w",
           "videoId": "rULLqZhsn5w",
@@ -173,12 +179,6 @@
           "link": "https://www.youtube.com/watch?v=jD9VdUmdVVc",
           "videoId": "jD9VdUmdVVc",
           "pubDate": "2026-04-18T13:46:09+00:00"
-        },
-        {
-          "title": "عشر حاجات لو سمعتهم وانت بتتفق على شغل اهرب فورا",
-          "link": "https://www.youtube.com/watch?v=ER_CzhR6JVQ",
-          "videoId": "ER_CzhR6JVQ",
-          "pubDate": "2026-03-26T20:11:50+00:00"
         }
       ],
       "ok": true
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "إثنا عشر سريرا.. ذاكرة أبناء الشهداء الفلسطينيين في لبنان بين الحلم والمنفى | الجزء الثاني",
+          "link": "https://www.youtube.com/watch?v=kxhNGXn7910",
+          "videoId": "kxhNGXn7910",
+          "pubDate": "2026-05-09T19:00:40+00:00"
+        },
+        {
+          "title": "معتقلي سجون الأسد كتبوا أسماءهم بدمائهم لطمأنة عائلاتهم",
+          "link": "https://www.youtube.com/watch?v=DH5BUVeMF9U",
+          "videoId": "DH5BUVeMF9U",
+          "pubDate": "2026-05-09T19:00:01+00:00"
+        },
+        {
           "title": "البحث عن حريفة الشوارع | من أطفال بلا مأوى إلى تمثيل مصر في كأس العالم",
           "link": "https://www.youtube.com/watch?v=vb6kpuuxSzs",
           "videoId": "vb6kpuuxSzs",
           "pubDate": "2026-05-09T18:00:58+00:00"
-        },
-        {
-          "title": "أنشودة ندم الاغتراب والحنين إلى الوطن",
-          "link": "https://www.youtube.com/watch?v=dS3qFRkESNI",
-          "videoId": "dS3qFRkESNI",
-          "pubDate": "2026-05-09T17:00:02+00:00"
-        },
-        {
-          "title": "عندما تتحول الوحدة إلى هوس بالمجد",
-          "link": "https://www.youtube.com/watch?v=54_viSm0piE",
-          "videoId": "54_viSm0piE",
-          "pubDate": "2026-05-09T16:00:01+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "فرديناند بورش",
+          "link": "https://www.youtube.com/watch?v=AdDc_3oWgt0",
+          "videoId": "AdDc_3oWgt0",
+          "pubDate": "2026-05-09T19:43:27+00:00"
+        },
         {
           "title": "غاليليو غاليلي",
           "link": "https://www.youtube.com/watch?v=vNImEIWBRoM",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=G-aUGKjx3VI",
           "videoId": "G-aUGKjx3VI",
           "pubDate": "2026-05-09T15:20:23+00:00"
-        },
-        {
-          "title": "لماذا أعلن هتلر الحرب على الخبز الأبيض؟",
-          "link": "https://www.youtube.com/watch?v=CCyOTsSpAcg",
-          "videoId": "CCyOTsSpAcg",
-          "pubDate": "2026-05-09T13:16:58+00:00"
         }
       ],
       "ok": true
