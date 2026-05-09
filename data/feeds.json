@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-09T09:04:29.985867+00:00",
+  "updated": "2026-05-09T10:43:34.866795+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "قبل اكتشاف المومياء.. انهيار قبر فرعوني في اللحظات الأخيرة وفقدانه للأبد",
+          "link": "https://www.youtube.com/watch?v=j6n-c0kNPvE",
+          "videoId": "j6n-c0kNPvE",
+          "pubDate": "2026-05-09T10:00:01+00:00"
+        },
+        {
           "title": "\"السرطان السارق\" كيف يعيش لـ90 عاما؟",
           "link": "https://www.youtube.com/watch?v=D4M3CprLSXs",
           "videoId": "D4M3CprLSXs",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=itrK3309KXQ",
           "videoId": "itrK3309KXQ",
           "pubDate": "2026-05-08T20:45:02+00:00"
-        },
-        {
-          "title": "الشروط الأساسية لوجود كواكب صالحة للحياة خارج الأرض",
-          "link": "https://www.youtube.com/watch?v=N7lfhE3Zrmw",
-          "videoId": "N7lfhE3Zrmw",
-          "pubDate": "2026-05-08T20:00:01+00:00"
         }
       ],
       "ok": true
