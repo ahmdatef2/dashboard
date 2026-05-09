@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-09T12:44:53.773783+00:00",
+  "updated": "2026-05-09T14:10:49.245134+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "الجزائر تنال استقلالها على صوت دحمان الحراشي",
+          "link": "https://www.youtube.com/watch?v=k4GTVyq10jo",
+          "videoId": "k4GTVyq10jo",
+          "pubDate": "2026-05-09T14:00:01+00:00"
+        },
+        {
           "title": "قبل اكتشاف المومياء.. انهيار قبر فرعوني في اللحظات الأخيرة وفقدانه للأبد",
           "link": "https://www.youtube.com/watch?v=j6n-c0kNPvE",
           "videoId": "j6n-c0kNPvE",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=D4M3CprLSXs",
           "videoId": "D4M3CprLSXs",
           "pubDate": "2026-05-09T08:00:01+00:00"
-        },
-        {
-          "title": "عندما واجهت الإمارات الآلات الألمانية في كأس العالم",
-          "link": "https://www.youtube.com/watch?v=itrK3309KXQ",
-          "videoId": "itrK3309KXQ",
-          "pubDate": "2026-05-08T20:45:02+00:00"
         }
       ],
       "ok": true
@@ -501,22 +501,22 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
-          "title": "بن فيرينتز: شاهد على أبشع جرائم التاريخ | محاكمة الشر",
-          "link": "https://www.youtube.com/watch?v=6_QvWQ7UHgE",
-          "videoId": "6_QvWQ7UHgE",
-          "pubDate": "2026-05-08T20:00:08+00:00"
+          "title": "لماذا أعلن هتلر الحرب على الخبز الأبيض؟",
+          "link": "https://www.youtube.com/watch?v=CCyOTsSpAcg",
+          "videoId": "CCyOTsSpAcg",
+          "pubDate": "2026-05-09T13:16:58+00:00"
         },
         {
-          "title": "منظر رائع للنجم الأم!",
-          "link": "https://www.youtube.com/watch?v=8i4_hIjwRKY",
-          "videoId": "8i4_hIjwRKY",
-          "pubDate": "2026-05-08T17:00:21+00:00"
+          "title": "الرجل أكثر ثراءً في العالم",
+          "link": "https://www.youtube.com/watch?v=aoisz1eg39s",
+          "videoId": "aoisz1eg39s",
+          "pubDate": "2026-05-09T13:16:58+00:00"
         },
         {
-          "title": "ثعبان في كل متر مربع!",
-          "link": "https://www.youtube.com/watch?v=wkhQwo-2hp0",
-          "videoId": "wkhQwo-2hp0",
-          "pubDate": "2026-05-08T15:00:28+00:00"
+          "title": "الزعيم الذي كان ينام وحذاؤة تحت وسادته",
+          "link": "https://www.youtube.com/watch?v=5IDlJubsY5E",
+          "videoId": "5IDlJubsY5E",
+          "pubDate": "2026-05-09T13:16:57+00:00"
         }
       ],
       "ok": true
