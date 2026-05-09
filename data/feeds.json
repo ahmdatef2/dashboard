@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-09T10:43:34.866795+00:00",
+  "updated": "2026-05-09T11:39:02.082860+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -111,6 +111,12 @@
       "feedTitle": "AMR SALEM _ عمرو سالم",
       "items": [
         {
+          "title": "MaxClaw = موظف AI بيشتغل 24 ساعة! . وانت مرتاح",
+          "link": "https://www.youtube.com/watch?v=VtiYOmCcv2U",
+          "videoId": "VtiYOmCcv2U",
+          "pubDate": "2026-05-09T10:44:57+00:00"
+        },
+        {
           "title": "كلود + كاب كات = احلي مونتاج",
           "link": "https://www.youtube.com/watch?v=agMab2QvPqs",
           "videoId": "agMab2QvPqs",
@@ -121,12 +127,6 @@
           "link": "https://www.youtube.com/watch?v=qH5QaOBh1Io",
           "videoId": "qH5QaOBh1Io",
           "pubDate": "2026-05-06T11:55:51+00:00"
-        },
-        {
-          "title": "متصفح مخصص للذكاء الاصطناعي وبه اقوي النماذج بالمجان |  Tabbit browser",
-          "link": "https://www.youtube.com/watch?v=UEAbSpzqqEQ",
-          "videoId": "UEAbSpzqqEQ",
-          "pubDate": "2026-05-04T11:00:55+00:00"
         }
       ],
       "ok": true
