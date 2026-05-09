@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-09T19:47:08.370926+00:00",
+  "updated": "2026-05-09T20:31:29.041639+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "\"لا يمكن أن نعمل إن لم يوافق أزواجنا\"",
+          "link": "https://www.youtube.com/watch?v=LizgTuTBPP8",
+          "videoId": "LizgTuTBPP8",
+          "pubDate": "2026-05-09T20:00:01+00:00"
+        },
+        {
           "title": "إثنا عشر سريرا.. ذاكرة أبناء الشهداء الفلسطينيين في لبنان بين الحلم والمنفى | الجزء الثاني",
           "link": "https://www.youtube.com/watch?v=kxhNGXn7910",
           "videoId": "kxhNGXn7910",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=DH5BUVeMF9U",
           "videoId": "DH5BUVeMF9U",
           "pubDate": "2026-05-09T19:00:01+00:00"
-        },
-        {
-          "title": "البحث عن حريفة الشوارع | من أطفال بلا مأوى إلى تمثيل مصر في كأس العالم",
-          "link": "https://www.youtube.com/watch?v=vb6kpuuxSzs",
-          "videoId": "vb6kpuuxSzs",
-          "pubDate": "2026-05-09T18:00:58+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "تحول صناعة الإعلانات .. الجمهور أسير الإعلان | الجزء الأول",
+          "link": "https://www.youtube.com/watch?v=mv3SmZY8XtI",
+          "videoId": "mv3SmZY8XtI",
+          "pubDate": "2026-05-09T20:00:27+00:00"
+        },
         {
           "title": "فرديناند بورش",
           "link": "https://www.youtube.com/watch?v=AdDc_3oWgt0",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=vNImEIWBRoM",
           "videoId": "vNImEIWBRoM",
           "pubDate": "2026-05-09T17:06:39+00:00"
-        },
-        {
-          "title": "ماذا يخبّئ الحمض النووي في أعماقه؟",
-          "link": "https://www.youtube.com/watch?v=G-aUGKjx3VI",
-          "videoId": "G-aUGKjx3VI",
-          "pubDate": "2026-05-09T15:20:23+00:00"
         }
       ],
       "ok": true
@@ -528,6 +528,12 @@
       "items": [
         {
           "title": "كبرياء وتحامل | صيادو أفريقيا | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=DvdEEfrzbPE",
+          "videoId": "DvdEEfrzbPE",
+          "pubDate": "2026-05-09T19:59:31+00:00"
+        },
+        {
+          "title": "كبرياء وتحامل | صيادو أفريقيا | ناشونال جيوغرافيك أبوظبي",
           "link": "https://www.youtube.com/watch?v=sOZsrgDMMwY",
           "videoId": "sOZsrgDMMwY",
           "pubDate": "2026-05-05T17:53:38+00:00"
@@ -537,12 +543,6 @@
           "link": "https://www.youtube.com/watch?v=J687vg1Z3lg",
           "videoId": "J687vg1Z3lg",
           "pubDate": "2026-05-05T08:08:21+00:00"
-        },
-        {
-          "title": "الربع الخالي | ذكرى المعولي | شهر الأرض مع مستكشفي ناشونال جيوغرافيك | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=OmRrhwaKOOs",
-          "videoId": "OmRrhwaKOOs",
-          "pubDate": "2026-05-05T08:08:02+00:00"
         }
       ],
       "ok": true
