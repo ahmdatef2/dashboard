@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-09T16:37:54.526084+00:00",
+  "updated": "2026-05-09T17:39:03.119657+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -423,6 +423,12 @@
       "feedTitle": "Ali Muhammad Ali",
       "items": [
         {
+          "title": "تجارب صغيرة  لتحسين حياتك - علي وكتاب",
+          "link": "https://www.youtube.com/watch?v=kJUIO2sLWlw",
+          "videoId": "kJUIO2sLWlw",
+          "pubDate": "2026-05-09T17:09:34+00:00"
+        },
+        {
           "title": "هل أنت صباحي أم مسائي؟",
           "link": "https://www.youtube.com/watch?v=ukWJmItc_BQ",
           "videoId": "ukWJmItc_BQ",
@@ -433,12 +439,6 @@
           "link": "https://www.youtube.com/watch?v=Xe5jIqOJ9Uo",
           "videoId": "Xe5jIqOJ9Uo",
           "pubDate": "2026-04-23T15:05:28+00:00"
-        },
-        {
-          "title": "تطبيق ReadEra لقراءة الكتب الإلكترونية",
-          "link": "https://www.youtube.com/watch?v=-Y2wUJuh-xQ",
-          "videoId": "-Y2wUJuh-xQ",
-          "pubDate": "2026-04-16T18:06:13+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "أنشودة ندم الاغتراب والحنين إلى الوطن",
+          "link": "https://www.youtube.com/watch?v=dS3qFRkESNI",
+          "videoId": "dS3qFRkESNI",
+          "pubDate": "2026-05-09T17:00:02+00:00"
+        },
+        {
           "title": "عندما تتحول الوحدة إلى هوس بالمجد",
           "link": "https://www.youtube.com/watch?v=54_viSm0piE",
           "videoId": "54_viSm0piE",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=x6NP8_u_KlA",
           "videoId": "x6NP8_u_KlA",
           "pubDate": "2026-05-09T15:00:01+00:00"
-        },
-        {
-          "title": "الجزائر تنال استقلالها على صوت دحمان الحراشي",
-          "link": "https://www.youtube.com/watch?v=k4GTVyq10jo",
-          "videoId": "k4GTVyq10jo",
-          "pubDate": "2026-05-09T14:00:01+00:00"
         }
       ],
       "ok": true
@@ -501,6 +501,12 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "غاليليو غاليلي",
+          "link": "https://www.youtube.com/watch?v=vNImEIWBRoM",
+          "videoId": "vNImEIWBRoM",
+          "pubDate": "2026-05-09T17:06:39+00:00"
+        },
+        {
           "title": "ماذا يخبّئ الحمض النووي في أعماقه؟",
           "link": "https://www.youtube.com/watch?v=G-aUGKjx3VI",
           "videoId": "G-aUGKjx3VI",
@@ -510,12 +516,6 @@
           "title": "لماذا أعلن هتلر الحرب على الخبز الأبيض؟",
           "link": "https://www.youtube.com/watch?v=CCyOTsSpAcg",
           "videoId": "CCyOTsSpAcg",
-          "pubDate": "2026-05-09T13:16:58+00:00"
-        },
-        {
-          "title": "الرجل أكثر ثراءً في العالم",
-          "link": "https://www.youtube.com/watch?v=aoisz1eg39s",
-          "videoId": "aoisz1eg39s",
           "pubDate": "2026-05-09T13:16:58+00:00"
         }
       ],
