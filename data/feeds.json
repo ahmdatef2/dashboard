@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-09T17:39:03.119657+00:00",
+  "updated": "2026-05-09T18:39:39.658041+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "البحث عن حريفة الشوارع | من أطفال بلا مأوى إلى تمثيل مصر في كأس العالم",
+          "link": "https://www.youtube.com/watch?v=vb6kpuuxSzs",
+          "videoId": "vb6kpuuxSzs",
+          "pubDate": "2026-05-09T18:00:58+00:00"
+        },
+        {
           "title": "أنشودة ندم الاغتراب والحنين إلى الوطن",
           "link": "https://www.youtube.com/watch?v=dS3qFRkESNI",
           "videoId": "dS3qFRkESNI",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=54_viSm0piE",
           "videoId": "54_viSm0piE",
           "pubDate": "2026-05-09T16:00:01+00:00"
-        },
-        {
-          "title": "في قبور الفراعنة.. 4 أوانٍ كانت تستخدم لحفظ أعضاء الموتى",
-          "link": "https://www.youtube.com/watch?v=x6NP8_u_KlA",
-          "videoId": "x6NP8_u_KlA",
-          "pubDate": "2026-05-09T15:00:01+00:00"
         }
       ],
       "ok": true
@@ -553,6 +553,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "وثائقي | أسرار سانت موريتز: المقر الشتوي للأثرياء وأصحاب النفوذ | وثائقية دي دبليو",
+          "link": "https://www.youtube.com/watch?v=dmBJSjEtvEE",
+          "videoId": "dmBJSjEtvEE",
+          "pubDate": "2026-05-09T18:00:38+00:00"
+        },
+        {
           "title": "وثائقي | الاعتداء الغادر بقطرات التخدير (1/2) | وثائقية دي دبليو",
           "link": "https://www.youtube.com/watch?v=0mDEFWmx-7s",
           "videoId": "0mDEFWmx-7s",
@@ -563,12 +569,6 @@
           "link": "https://www.youtube.com/watch?v=FOFiv451kbg",
           "videoId": "FOFiv451kbg",
           "pubDate": "2026-05-08T12:17:55+00:00"
-        },
-        {
-          "title": "وثائقي | كيف تغيّر الغربة الشباب؟ قصص عن الأمل والحنين والبدايات الجديدة | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=1KTvUyFPlRw",
-          "videoId": "1KTvUyFPlRw",
-          "pubDate": "2026-05-06T18:00:01+00:00"
         }
       ],
       "ok": true
