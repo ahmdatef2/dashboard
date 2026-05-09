@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-09T07:02:39.094657+00:00",
+  "updated": "2026-05-09T09:04:29.985867+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "\"السرطان السارق\" كيف يعيش لـ90 عاما؟",
+          "link": "https://www.youtube.com/watch?v=D4M3CprLSXs",
+          "videoId": "D4M3CprLSXs",
+          "pubDate": "2026-05-09T08:00:01+00:00"
+        },
+        {
           "title": "عندما واجهت الإمارات الآلات الألمانية في كأس العالم",
           "link": "https://www.youtube.com/watch?v=itrK3309KXQ",
           "videoId": "itrK3309KXQ",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=N7lfhE3Zrmw",
           "videoId": "N7lfhE3Zrmw",
           "pubDate": "2026-05-08T20:00:01+00:00"
-        },
-        {
-          "title": "أخوات الأرض.. معالجات الأرض | حدائق تنقذ جزيرة من كارثة بيئية | الحلقة الرابعة",
-          "link": "https://www.youtube.com/watch?v=x-JKcBouyMI",
-          "videoId": "x-JKcBouyMI",
-          "pubDate": "2026-05-08T18:01:02+00:00"
         }
       ],
       "ok": true
