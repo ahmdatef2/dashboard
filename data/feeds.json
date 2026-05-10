@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-10T14:13:51.730997+00:00",
+  "updated": "2026-05-10T15:40:00.270637+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "هل نحن وحدنا في الكون؟ أم هناك كائنات أخرى؟",
+          "link": "https://www.youtube.com/watch?v=_BoKhdiDqpM",
+          "videoId": "_BoKhdiDqpM",
+          "pubDate": "2026-05-10T15:00:01+00:00"
+        },
+        {
           "title": "كمال الحراشي.. نجل دحمان الحراشي يغني أغنية أبيه الخالدة",
           "link": "https://www.youtube.com/watch?v=ARuiTzlcrwc",
           "videoId": "ARuiTzlcrwc",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=oHNt_JuMYnI",
           "videoId": "oHNt_JuMYnI",
           "pubDate": "2026-05-10T11:15:10+00:00"
-        },
-        {
-          "title": "\"الهدية\".. تقليد يحافظ عليه المغاربة",
-          "link": "https://www.youtube.com/watch?v=eVuAx_6-Cd8",
-          "videoId": "eVuAx_6-Cd8",
-          "pubDate": "2026-05-10T10:00:02+00:00"
         }
       ],
       "ok": true
@@ -553,6 +553,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "وثائقي | العودة إلى الاستبداد - الربيع القصير للديمقراطية في تونس | وثائقية دي دبليو",
+          "link": "https://www.youtube.com/watch?v=QqFitVZWbyo",
+          "videoId": "QqFitVZWbyo",
+          "pubDate": "2026-05-10T15:00:40+00:00"
+        },
+        {
           "title": "وثائقي | أسرار سانت موريتز: المقر الشتوي للأثرياء وأصحاب النفوذ | وثائقية دي دبليو",
           "link": "https://www.youtube.com/watch?v=dmBJSjEtvEE",
           "videoId": "dmBJSjEtvEE",
@@ -563,12 +569,6 @@
           "link": "https://www.youtube.com/watch?v=0mDEFWmx-7s",
           "videoId": "0mDEFWmx-7s",
           "pubDate": "2026-05-08T18:00:02+00:00"
-        },
-        {
-          "title": "من أوقف الغذاء عن مليون لاجئ؟",
-          "link": "https://www.youtube.com/watch?v=FOFiv451kbg",
-          "videoId": "FOFiv451kbg",
-          "pubDate": "2026-05-08T12:17:55+00:00"
         }
       ],
       "ok": true
