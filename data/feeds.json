@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-10T16:38:50.064213+00:00",
+  "updated": "2026-05-10T17:39:50.636233+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "اللعب وسيلة لتثبيت حفظ القرآن بين الأب وطفله",
+          "link": "https://www.youtube.com/watch?v=Ww9XHjtLJv8",
+          "videoId": "Ww9XHjtLJv8",
+          "pubDate": "2026-05-10T17:28:51+00:00"
+        },
+        {
+          "title": "توب مانتا.. من بائعي أرصفة إلى مؤسسي علامة أزياء في برشلونة",
+          "link": "https://www.youtube.com/watch?v=FsEb2agX4Ak",
+          "videoId": "FsEb2agX4Ak",
+          "pubDate": "2026-05-10T16:45:01+00:00"
+        },
+        {
           "title": "هل نحن وحدنا في الكون؟ أم هناك كائنات أخرى؟",
           "link": "https://www.youtube.com/watch?v=_BoKhdiDqpM",
           "videoId": "_BoKhdiDqpM",
           "pubDate": "2026-05-10T15:00:01+00:00"
-        },
-        {
-          "title": "كمال الحراشي.. نجل دحمان الحراشي يغني أغنية أبيه الخالدة",
-          "link": "https://www.youtube.com/watch?v=ARuiTzlcrwc",
-          "videoId": "ARuiTzlcrwc",
-          "pubDate": "2026-05-10T13:00:00+00:00"
-        },
-        {
-          "title": "\"مولاي إني ببابك\".. ابتهال غيّر تاريخ الإنشاد الديني",
-          "link": "https://www.youtube.com/watch?v=oHNt_JuMYnI",
-          "videoId": "oHNt_JuMYnI",
-          "pubDate": "2026-05-10T11:15:10+00:00"
         }
       ],
       "ok": true
