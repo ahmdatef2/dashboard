@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-10T11:38:34.694964+00:00",
+  "updated": "2026-05-10T12:45:14.809109+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -59,7 +59,7 @@
       "feedTitle": "Infotech4you - مروي سليمان",
       "items": [
         {
-          "title": "جوجل تعود بقوة: وكلاء بحث عميق ينافسون الجميع!",
+          "title": "جوجل تعود بقوة إلى السباق وأقوى وكيل بحث عميق Deep Research Max",
           "link": "https://www.youtube.com/watch?v=KBoHFZCyjT8",
           "videoId": "KBoHFZCyjT8",
           "pubDate": "2026-05-09T15:00:35+00:00"
@@ -215,6 +215,12 @@
       "feedTitle": "Mohamed Ansary",
       "items": [
         {
+          "title": "ثورة البحث العلمي: ChatGPT يلتقي بـ Consensus",
+          "link": "https://www.youtube.com/watch?v=RN8wayFP8hs",
+          "videoId": "RN8wayFP8hs",
+          "pubDate": "2026-05-10T11:54:11+00:00"
+        },
+        {
           "title": "أداة Originality: الخيار الأقوى لكشف نصوص الذكاء الاصطناعي",
           "link": "https://www.youtube.com/watch?v=M5ckwDtaPyc",
           "videoId": "M5ckwDtaPyc",
@@ -225,12 +231,6 @@
           "link": "https://www.youtube.com/watch?v=44UhVzeiu1E",
           "videoId": "44UhVzeiu1E",
           "pubDate": "2026-05-05T15:54:45+00:00"
-        },
-        {
-          "title": "أنشئ ملفاتك مباشرة داخل المحادثة! في Gemini",
-          "link": "https://www.youtube.com/watch?v=EvrR-fea0r4",
-          "videoId": "EvrR-fea0r4",
-          "pubDate": "2026-05-04T09:13:42+00:00"
         }
       ],
       "ok": true
