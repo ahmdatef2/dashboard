@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-10T18:41:47.299761+00:00",
+  "updated": "2026-05-10T19:49:58.611386+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -501,6 +501,12 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "السياسي الفرنسي المحتمل لرئاسة فرنسا",
+          "link": "https://www.youtube.com/watch?v=YJcmE0e4Tvw",
+          "videoId": "YJcmE0e4Tvw",
+          "pubDate": "2026-05-10T19:42:17+00:00"
+        },
+        {
           "title": "من كان يملك سيارة قديماً؟",
           "link": "https://www.youtube.com/watch?v=7t_w2q6ydaY",
           "videoId": "7t_w2q6ydaY",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=l4CzdLbVzK0",
           "videoId": "l4CzdLbVzK0",
           "pubDate": "2026-05-10T10:35:56+00:00"
-        },
-        {
-          "title": "تحول صناعة الإعلانات .. الجمهور أسير الإعلان | الجزء الأول",
-          "link": "https://www.youtube.com/watch?v=mv3SmZY8XtI",
-          "videoId": "mv3SmZY8XtI",
-          "pubDate": "2026-05-09T20:00:27+00:00"
         }
       ],
       "ok": true
