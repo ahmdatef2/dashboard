@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-10T07:51:16.324543+00:00",
+  "updated": "2026-05-10T09:18:06.227504+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "القهوة كلمة أصلها عربي",
+          "link": "https://www.youtube.com/watch?v=G7pkWGMsgC4",
+          "videoId": "G7pkWGMsgC4",
+          "pubDate": "2026-05-10T08:07:17+00:00"
+        },
+        {
           "title": "\"لا يمكن أن نعمل إن لم يوافق أزواجنا\"",
           "link": "https://www.youtube.com/watch?v=LizgTuTBPP8",
           "videoId": "LizgTuTBPP8",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=kxhNGXn7910",
           "videoId": "kxhNGXn7910",
           "pubDate": "2026-05-09T19:00:40+00:00"
-        },
-        {
-          "title": "معتقلي سجون الأسد كتبوا أسماءهم بدمائهم لطمأنة عائلاتهم",
-          "link": "https://www.youtube.com/watch?v=DH5BUVeMF9U",
-          "videoId": "DH5BUVeMF9U",
-          "pubDate": "2026-05-09T19:00:01+00:00"
         }
       ],
       "ok": true
