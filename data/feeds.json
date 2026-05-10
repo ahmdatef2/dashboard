@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-10T09:18:06.227504+00:00",
+  "updated": "2026-05-10T10:50:44.697675+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "\"الهدية\".. تقليد يحافظ عليه المغاربة",
+          "link": "https://www.youtube.com/watch?v=eVuAx_6-Cd8",
+          "videoId": "eVuAx_6-Cd8",
+          "pubDate": "2026-05-10T10:00:02+00:00"
+        },
+        {
           "title": "القهوة كلمة أصلها عربي",
           "link": "https://www.youtube.com/watch?v=G7pkWGMsgC4",
           "videoId": "G7pkWGMsgC4",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=LizgTuTBPP8",
           "videoId": "LizgTuTBPP8",
           "pubDate": "2026-05-09T20:00:01+00:00"
-        },
-        {
-          "title": "إثنا عشر سريرا.. ذاكرة أبناء الشهداء الفلسطينيين في لبنان بين الحلم والمنفى | الجزء الثاني",
-          "link": "https://www.youtube.com/watch?v=kxhNGXn7910",
-          "videoId": "kxhNGXn7910",
-          "pubDate": "2026-05-09T19:00:40+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "منذ متى وُجد الإنسان في القارة الأميركية؟",
+          "link": "https://www.youtube.com/watch?v=l4CzdLbVzK0",
+          "videoId": "l4CzdLbVzK0",
+          "pubDate": "2026-05-10T10:35:56+00:00"
+        },
         {
           "title": "تحول صناعة الإعلانات .. الجمهور أسير الإعلان | الجزء الأول",
           "link": "https://www.youtube.com/watch?v=mv3SmZY8XtI",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=AdDc_3oWgt0",
           "videoId": "AdDc_3oWgt0",
           "pubDate": "2026-05-09T19:43:27+00:00"
-        },
-        {
-          "title": "غاليليو غاليلي",
-          "link": "https://www.youtube.com/watch?v=vNImEIWBRoM",
-          "videoId": "vNImEIWBRoM",
-          "pubDate": "2026-05-09T17:06:39+00:00"
         }
       ],
       "ok": true
