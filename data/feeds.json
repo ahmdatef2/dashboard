@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-10T17:39:50.636233+00:00",
+  "updated": "2026-05-10T18:41:47.299761+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -59,6 +59,12 @@
       "feedTitle": "Infotech4you - مروي سليمان",
       "items": [
         {
+          "title": "جوجل تجهز مفاجأة ضخمة: وكيل AI جديد يشتغل مكانك وظهور Gemini 3.2 flash للإختبار!",
+          "link": "https://www.youtube.com/watch?v=1ED6TACbfOU",
+          "videoId": "1ED6TACbfOU",
+          "pubDate": "2026-05-10T17:49:46+00:00"
+        },
+        {
           "title": "جوجل تعود بقوة إلى السباق وأقوى وكيل بحث عميق Deep Research Max",
           "link": "https://www.youtube.com/watch?v=KBoHFZCyjT8",
           "videoId": "KBoHFZCyjT8",
@@ -69,12 +75,6 @@
           "link": "https://www.youtube.com/watch?v=z_S1hHoTDps",
           "videoId": "z_S1hHoTDps",
           "pubDate": "2026-05-07T13:45:33+00:00"
-        },
-        {
-          "title": "جربت Claude Design لإنشاء Slide Deck… النتيجة مفاجئة",
-          "link": "https://www.youtube.com/watch?v=9Zx1AcS0LZ0",
-          "videoId": "9Zx1AcS0LZ0",
-          "pubDate": "2026-05-05T16:00:24+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "قصة تلحين النشيد الجزائري",
+          "link": "https://www.youtube.com/watch?v=JVR0DBOfTBo",
+          "videoId": "JVR0DBOfTBo",
+          "pubDate": "2026-05-10T18:00:00+00:00"
+        },
+        {
           "title": "اللعب وسيلة لتثبيت حفظ القرآن بين الأب وطفله",
           "link": "https://www.youtube.com/watch?v=Ww9XHjtLJv8",
           "videoId": "Ww9XHjtLJv8",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=FsEb2agX4Ak",
           "videoId": "FsEb2agX4Ak",
           "pubDate": "2026-05-10T16:45:01+00:00"
-        },
-        {
-          "title": "هل نحن وحدنا في الكون؟ أم هناك كائنات أخرى؟",
-          "link": "https://www.youtube.com/watch?v=_BoKhdiDqpM",
-          "videoId": "_BoKhdiDqpM",
-          "pubDate": "2026-05-10T15:00:01+00:00"
         }
       ],
       "ok": true
