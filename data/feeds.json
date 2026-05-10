@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-10T12:45:14.809109+00:00",
+  "updated": "2026-05-10T14:13:51.730997+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -371,6 +371,12 @@
       "feedTitle": "أخضر",
       "items": [
         {
+          "title": "استراتيجيات عملية لاتخاذ قرارات أذكى في زمن السرعة والذكاء الاصطناعي 🧠",
+          "link": "https://www.youtube.com/watch?v=NKAOBg0F-yg",
+          "videoId": "NKAOBg0F-yg",
+          "pubDate": "2026-05-10T14:05:13+00:00"
+        },
+        {
           "title": "أنت عندك تعفن دماغ 💀 - كتاب: صيام الدوبامين لـ ثيبوت موريس #أخضر",
           "link": "https://www.youtube.com/watch?v=O8eUh0BdlEE",
           "videoId": "O8eUh0BdlEE",
@@ -381,12 +387,6 @@
           "link": "https://www.youtube.com/watch?v=PfUCx4POwyQ",
           "videoId": "PfUCx4POwyQ",
           "pubDate": "2026-05-07T11:03:10+00:00"
-        },
-        {
-          "title": "وجهك يتحدث بصوتٍ أعلى من كلماتك",
-          "link": "https://www.youtube.com/watch?v=-Wm79BzaddU",
-          "videoId": "-Wm79BzaddU",
-          "pubDate": "2026-05-06T11:56:38+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "كمال الحراشي.. نجل دحمان الحراشي يغني أغنية أبيه الخالدة",
+          "link": "https://www.youtube.com/watch?v=ARuiTzlcrwc",
+          "videoId": "ARuiTzlcrwc",
+          "pubDate": "2026-05-10T13:00:00+00:00"
+        },
+        {
           "title": "\"مولاي إني ببابك\".. ابتهال غيّر تاريخ الإنشاد الديني",
           "link": "https://www.youtube.com/watch?v=oHNt_JuMYnI",
           "videoId": "oHNt_JuMYnI",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=eVuAx_6-Cd8",
           "videoId": "eVuAx_6-Cd8",
           "pubDate": "2026-05-10T10:00:02+00:00"
-        },
-        {
-          "title": "القهوة كلمة أصلها عربي",
-          "link": "https://www.youtube.com/watch?v=G7pkWGMsgC4",
-          "videoId": "G7pkWGMsgC4",
-          "pubDate": "2026-05-10T08:07:17+00:00"
         }
       ],
       "ok": true
