@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-10T15:40:00.270637+00:00",
+  "updated": "2026-05-10T16:38:50.064213+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -241,6 +241,12 @@
       "feedTitle": "مدرسة الذكاء الاصطناعي",
       "items": [
         {
+          "title": "ازاي تعمل فلوس من الفيديوهات الطويلة بالذكاء الاصطناعي",
+          "link": "https://www.youtube.com/watch?v=5KB6NmYfBIU",
+          "videoId": "5KB6NmYfBIU",
+          "pubDate": "2026-05-10T16:21:12+00:00"
+        },
+        {
           "title": "قضيت شهرين مع Claude Cowork… ودي أفضل طريقة تستخدمه بيها",
           "link": "https://www.youtube.com/watch?v=NQf6FqCG7tc",
           "videoId": "NQf6FqCG7tc",
@@ -251,12 +257,6 @@
           "link": "https://www.youtube.com/watch?v=pxRzCDNMnf4",
           "videoId": "pxRzCDNMnf4",
           "pubDate": "2026-04-28T17:28:19+00:00"
-        },
-        {
-          "title": "وداعا After Effects ؟ أداة ذكاء اصطناعي بتعمل فيديوهات موشن جرافيكس بضغطة زر",
-          "link": "https://www.youtube.com/watch?v=yMb7sr_0-YM",
-          "videoId": "yMb7sr_0-YM",
-          "pubDate": "2026-04-23T20:43:26+00:00"
         }
       ],
       "ok": true
@@ -266,6 +266,12 @@
       "name": "Ryan Academy",
       "feedTitle": "أكاديمية ريان | Ryan Academy",
       "items": [
+        {
+          "title": "عملت برنامج ويندوز بيعمل فيديوهات دينية بالذكاء الاصطناعي… حمله مجانًا 🔥",
+          "link": "https://www.youtube.com/watch?v=cQbbAGlMIGQ",
+          "videoId": "cQbbAGlMIGQ",
+          "pubDate": "2026-05-10T16:01:02+00:00"
+        },
         {
           "title": "أرخص اشتراكات قانونية لـ ChatGPT - Grok - Adobe - Canva - Gemini 🔥",
           "link": "https://www.youtube.com/watch?v=RXop0SgX_9o",
@@ -277,12 +283,6 @@
           "link": "https://www.youtube.com/watch?v=K72r8YJsUs8",
           "videoId": "K72r8YJsUs8",
           "pubDate": "2026-05-05T19:00:17+00:00"
-        },
-        {
-          "title": "قبول أدسنس + زيارات بالآلاف؟ السر في مواقع ألعاب الفلاش! 😳 سكربت الأسبوع #11",
-          "link": "https://www.youtube.com/watch?v=k9wJ8uEKDh8",
-          "videoId": "k9wJ8uEKDh8",
-          "pubDate": "2026-05-02T16:01:10+00:00"
         }
       ],
       "ok": true
@@ -501,6 +501,12 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "من كان يملك سيارة قديماً؟",
+          "link": "https://www.youtube.com/watch?v=7t_w2q6ydaY",
+          "videoId": "7t_w2q6ydaY",
+          "pubDate": "2026-05-10T15:55:21+00:00"
+        },
+        {
           "title": "منذ متى وُجد الإنسان في القارة الأميركية؟",
           "link": "https://www.youtube.com/watch?v=l4CzdLbVzK0",
           "videoId": "l4CzdLbVzK0",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=mv3SmZY8XtI",
           "videoId": "mv3SmZY8XtI",
           "pubDate": "2026-05-09T20:00:27+00:00"
-        },
-        {
-          "title": "فرديناند بورش",
-          "link": "https://www.youtube.com/watch?v=AdDc_3oWgt0",
-          "videoId": "AdDc_3oWgt0",
-          "pubDate": "2026-05-09T19:43:27+00:00"
         }
       ],
       "ok": true
