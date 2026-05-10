@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-10T10:50:44.697675+00:00",
+  "updated": "2026-05-10T11:38:34.694964+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "\"مولاي إني ببابك\".. ابتهال غيّر تاريخ الإنشاد الديني",
+          "link": "https://www.youtube.com/watch?v=oHNt_JuMYnI",
+          "videoId": "oHNt_JuMYnI",
+          "pubDate": "2026-05-10T11:15:10+00:00"
+        },
+        {
           "title": "\"الهدية\".. تقليد يحافظ عليه المغاربة",
           "link": "https://www.youtube.com/watch?v=eVuAx_6-Cd8",
           "videoId": "eVuAx_6-Cd8",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=G7pkWGMsgC4",
           "videoId": "G7pkWGMsgC4",
           "pubDate": "2026-05-10T08:07:17+00:00"
-        },
-        {
-          "title": "\"لا يمكن أن نعمل إن لم يوافق أزواجنا\"",
-          "link": "https://www.youtube.com/watch?v=LizgTuTBPP8",
-          "videoId": "LizgTuTBPP8",
-          "pubDate": "2026-05-09T20:00:01+00:00"
         }
       ],
       "ok": true
