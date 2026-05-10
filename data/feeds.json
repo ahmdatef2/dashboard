@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-10T19:49:58.611386+00:00",
+  "updated": "2026-05-10T20:34:21.865190+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "ما علاقة الماعز باختفاء شجرة الأرغان؟",
+          "link": "https://www.youtube.com/watch?v=Y8JqSFAiqxw",
+          "videoId": "Y8JqSFAiqxw",
+          "pubDate": "2026-05-10T20:00:01+00:00"
+        },
+        {
           "title": "قصة تلحين النشيد الجزائري",
           "link": "https://www.youtube.com/watch?v=JVR0DBOfTBo",
           "videoId": "JVR0DBOfTBo",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=Ww9XHjtLJv8",
           "videoId": "Ww9XHjtLJv8",
           "pubDate": "2026-05-10T17:28:51+00:00"
-        },
-        {
-          "title": "توب مانتا.. من بائعي أرصفة إلى مؤسسي علامة أزياء في برشلونة",
-          "link": "https://www.youtube.com/watch?v=FsEb2agX4Ak",
-          "videoId": "FsEb2agX4Ak",
-          "pubDate": "2026-05-10T16:45:01+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "تحول صناعة الإعلانات .. الإنترنت سرق الإعلانات  | الجزء الثاني",
+          "link": "https://www.youtube.com/watch?v=JwN2JFoMpHE",
+          "videoId": "JwN2JFoMpHE",
+          "pubDate": "2026-05-10T20:00:09+00:00"
+        },
         {
           "title": "السياسي الفرنسي المحتمل لرئاسة فرنسا",
           "link": "https://www.youtube.com/watch?v=YJcmE0e4Tvw",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=7t_w2q6ydaY",
           "videoId": "7t_w2q6ydaY",
           "pubDate": "2026-05-10T15:55:21+00:00"
-        },
-        {
-          "title": "منذ متى وُجد الإنسان في القارة الأميركية؟",
-          "link": "https://www.youtube.com/watch?v=l4CzdLbVzK0",
-          "videoId": "l4CzdLbVzK0",
-          "pubDate": "2026-05-10T10:35:56+00:00"
         }
       ],
       "ok": true
@@ -527,22 +527,22 @@
       "feedTitle": "Nat Geo Abu Dhabi",
       "items": [
         {
+          "title": "الحلقة الثانية | أمن المطارات: البرازيل | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=pgluFb9Iysk",
+          "videoId": "pgluFb9Iysk",
+          "pubDate": "2026-05-10T19:48:22+00:00"
+        },
+        {
           "title": "كبرياء وتحامل | صيادو أفريقيا | ناشونال جيوغرافيك أبوظبي",
           "link": "https://www.youtube.com/watch?v=DvdEEfrzbPE",
           "videoId": "DvdEEfrzbPE",
           "pubDate": "2026-05-09T19:59:31+00:00"
         },
         {
-          "title": "كبرياء وتحامل | صيادو أفريقيا | ناشونال جيوغرافيك أبوظبي",
+          "title": "الحلقة الكاملة | الحيوانات الخمسة الأكثر شهرة في أفريقيا | ناشونال جيوغرافيك أبوظبي",
           "link": "https://www.youtube.com/watch?v=sOZsrgDMMwY",
           "videoId": "sOZsrgDMMwY",
           "pubDate": "2026-05-05T17:53:38+00:00"
-        },
-        {
-          "title": "الربع الخالي | ذكرى المعولي | شهر الأرض مع مستكشفي ناشونال جيوغرافيك | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=J687vg1Z3lg",
-          "videoId": "J687vg1Z3lg",
-          "pubDate": "2026-05-05T08:08:21+00:00"
         }
       ],
       "ok": true
