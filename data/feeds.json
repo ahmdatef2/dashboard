@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-11T21:06:51.477490+00:00",
+  "updated": "2026-05-11T22:42:56.136194+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -241,7 +241,7 @@
       "feedTitle": "مدرسة الذكاء الاصطناعي",
       "items": [
         {
-          "title": "ازاي تعمل فلوس من الفيديوهات الطويلة بالذكاء الاصطناعي",
+          "title": "عملت أداة مجانية تحول الفيديوهات الطويلة الى شورتس بالذكاء الاصطناعي",
           "link": "https://www.youtube.com/watch?v=5KB6NmYfBIU",
           "videoId": "5KB6NmYfBIU",
           "pubDate": "2026-05-10T16:21:12+00:00"
@@ -501,6 +501,12 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "شرايين الحياة: كيف تعمل سلسلة الإمداد الغذائي في العالم؟ | سلاسل الاستهلاك",
+          "link": "https://www.youtube.com/watch?v=M3KrWp3QvcY",
+          "videoId": "M3KrWp3QvcY",
+          "pubDate": "2026-05-11T21:26:25+00:00"
+        },
+        {
           "title": "كيف غيّرت السيارات حياة الأميركيين؟",
           "link": "https://www.youtube.com/watch?v=a_1PJEkXOvI",
           "videoId": "a_1PJEkXOvI",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=-FyKk8tVCts",
           "videoId": "-FyKk8tVCts",
           "pubDate": "2026-05-11T18:30:23+00:00"
-        },
-        {
-          "title": "قوة الشمس التي لا يعرفها الجميع",
-          "link": "https://www.youtube.com/watch?v=-xNaSgVqAm0",
-          "videoId": "-xNaSgVqAm0",
-          "pubDate": "2026-05-11T17:00:29+00:00"
         }
       ],
       "ok": true
