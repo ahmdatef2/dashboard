@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-11T08:51:26.400239+00:00",
+  "updated": "2026-05-11T11:53:27.764713+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -215,6 +215,12 @@
       "feedTitle": "Mohamed Ansary",
       "items": [
         {
+          "title": "كنز مجاني لإتقان المصطلحات الإنجليزية في سياقها الصحيح Youglish",
+          "link": "https://www.youtube.com/watch?v=8mDTGjLA1C8",
+          "videoId": "8mDTGjLA1C8",
+          "pubDate": "2026-05-11T08:51:34+00:00"
+        },
+        {
           "title": "ثورة البحث العلمي: ChatGPT يلتقي بـ Consensus",
           "link": "https://www.youtube.com/watch?v=RN8wayFP8hs",
           "videoId": "RN8wayFP8hs",
@@ -225,12 +231,6 @@
           "link": "https://www.youtube.com/watch?v=M5ckwDtaPyc",
           "videoId": "M5ckwDtaPyc",
           "pubDate": "2026-05-07T08:12:15+00:00"
-        },
-        {
-          "title": "أفضل أدوات كشف المحتوى المكتوب بالذكاء الاصطناعي",
-          "link": "https://www.youtube.com/watch?v=44UhVzeiu1E",
-          "videoId": "44UhVzeiu1E",
-          "pubDate": "2026-05-05T15:54:45+00:00"
         }
       ],
       "ok": true
@@ -241,7 +241,7 @@
       "feedTitle": "مدرسة الذكاء الاصطناعي",
       "items": [
         {
-          "title": "عملت أداة مجانية بتعمل ريلز من الفيديوهات الطويلة بالذكاء الاصطناعي ",
+          "title": "ازاي تعمل فلوس من الفيديوهات الطويلة بالذكاء الاصطناعي",
           "link": "https://www.youtube.com/watch?v=5KB6NmYfBIU",
           "videoId": "5KB6NmYfBIU",
           "pubDate": "2026-05-10T16:21:12+00:00"
@@ -319,6 +319,12 @@
       "feedTitle": "خير جليس",
       "items": [
         {
+          "title": "ملخص كتاب أربعة آلاف أسبوع بقلم أوليفر بوركمان",
+          "link": "https://www.youtube.com/watch?v=WYSKTWSzVs0",
+          "videoId": "WYSKTWSzVs0",
+          "pubDate": "2026-05-11T10:25:40+00:00"
+        },
+        {
           "title": "استخدم المال عندما يخلق أعلى قيمة - من  كتاب الموت مع الصفر",
           "link": "https://www.youtube.com/watch?v=3N7rKbfqdW4",
           "videoId": "3N7rKbfqdW4",
@@ -329,12 +335,6 @@
           "link": "https://www.youtube.com/watch?v=bI0eb5rNEsI",
           "videoId": "bI0eb5rNEsI",
           "pubDate": "2026-05-09T06:00:23+00:00"
-        },
-        {
-          "title": "شارك التجارب مبكرًا لتضاعف قيمتها  - من  كتاب الموت مع الصفر",
-          "link": "https://www.youtube.com/watch?v=fbsQpQWgdMs",
-          "videoId": "fbsQpQWgdMs",
-          "pubDate": "2026-05-08T06:00:28+00:00"
         }
       ],
       "ok": true
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "حينما كتب مفدي زكرياء تمجيدا لثورة ريف المغرب",
+          "link": "https://www.youtube.com/watch?v=4QDVxxG_8OM",
+          "videoId": "4QDVxxG_8OM",
+          "pubDate": "2026-05-11T11:00:01+00:00"
+        },
+        {
+          "title": "سترة الصحافة.. من درع حماية إلى علامة تصويب",
+          "link": "https://www.youtube.com/watch?v=QnH4lsADIks",
+          "videoId": "QnH4lsADIks",
+          "pubDate": "2026-05-11T10:10:45+00:00"
+        },
+        {
           "title": "جزر القمر",
           "link": "https://www.youtube.com/watch?v=1djZT01vXB4",
           "videoId": "1djZT01vXB4",
           "pubDate": "2026-05-11T08:27:45+00:00"
-        },
-        {
-          "title": "ما علاقة الماعز باختفاء شجرة الأرغان؟",
-          "link": "https://www.youtube.com/watch?v=Y8JqSFAiqxw",
-          "videoId": "Y8JqSFAiqxw",
-          "pubDate": "2026-05-10T20:00:01+00:00"
-        },
-        {
-          "title": "قصة تلحين النشيد الجزائري",
-          "link": "https://www.youtube.com/watch?v=JVR0DBOfTBo",
-          "videoId": "JVR0DBOfTBo",
-          "pubDate": "2026-05-10T18:00:00+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "كيف تفوز برئاسة أميركا؟",
+          "link": "https://www.youtube.com/watch?v=aEP606OaXGo",
+          "videoId": "aEP606OaXGo",
+          "pubDate": "2026-05-11T10:34:10+00:00"
+        },
         {
           "title": "تحول صناعة الإعلانات .. الإنترنت سرق الإعلانات  | الجزء الثاني",
           "link": "https://www.youtube.com/watch?v=JwN2JFoMpHE",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=YJcmE0e4Tvw",
           "videoId": "YJcmE0e4Tvw",
           "pubDate": "2026-05-10T19:42:17+00:00"
-        },
-        {
-          "title": "من كان يملك سيارة قديماً؟",
-          "link": "https://www.youtube.com/watch?v=7t_w2q6ydaY",
-          "videoId": "7t_w2q6ydaY",
-          "pubDate": "2026-05-10T15:55:21+00:00"
         }
       ],
       "ok": true
