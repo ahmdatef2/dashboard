@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-11T17:15:02.877069+00:00",
+  "updated": "2026-05-11T19:22:35.246793+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -59,6 +59,12 @@
       "feedTitle": "Infotech4you - مروي سليمان",
       "items": [
         {
+          "title": "جوجل تفاجئ المستخدمين بـ 4 ميزات جديدة في NotebookLM",
+          "link": "https://www.youtube.com/watch?v=qBgZNvCoy6Q",
+          "videoId": "qBgZNvCoy6Q",
+          "pubDate": "2026-05-11T18:16:49+00:00"
+        },
+        {
           "title": "جوجل تجهز مفاجأة ضخمة: وكيل AI جديد يشتغل مكانك وظهور Gemini 3.2 flash للإختبار!",
           "link": "https://www.youtube.com/watch?v=1ED6TACbfOU",
           "videoId": "1ED6TACbfOU",
@@ -69,12 +75,6 @@
           "link": "https://www.youtube.com/watch?v=KBoHFZCyjT8",
           "videoId": "KBoHFZCyjT8",
           "pubDate": "2026-05-09T15:00:35+00:00"
-        },
-        {
-          "title": "5 اوامر سرية  داخل كلود Claude لا يعرفها الكثيرين حتغير طريقة شغلك تماماً!",
-          "link": "https://www.youtube.com/watch?v=z_S1hHoTDps",
-          "videoId": "z_S1hHoTDps",
-          "pubDate": "2026-05-07T13:45:33+00:00"
         }
       ],
       "ok": true
@@ -293,7 +293,7 @@
       "feedTitle": "تكنوفلاش – AI & Tech",
       "items": [
         {
-          "title": " اصنع تطبيقات ويب و مواقع Full-Stack كاملة مجانًا (تسجيل دخول + قواعد بيانات + نشر) | شرح Atoms Dev",
+          "title": "اصنع تطبيقات ويب و مواقع Full-Stack كاملة مجانًا (تسجيل دخول + قواعد بيانات + نشر) | شرح Atoms.dev",
           "link": "https://www.youtube.com/watch?v=KcdDXdZo_vU",
           "videoId": "KcdDXdZo_vU",
           "pubDate": "2026-05-11T11:59:55+00:00"
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "\"لا شيء يصنع في العراق كله إيراني وتركي\"",
+          "link": "https://www.youtube.com/watch?v=BmXZk8hEGKo",
+          "videoId": "BmXZk8hEGKo",
+          "pubDate": "2026-05-11T19:00:02+00:00"
+        },
+        {
+          "title": "تحت السور.. حكاية جماعة غيرت تونس ثقافيا",
+          "link": "https://www.youtube.com/watch?v=fxgiTtYbO8o",
+          "videoId": "fxgiTtYbO8o",
+          "pubDate": "2026-05-11T18:00:41+00:00"
+        },
+        {
           "title": "المحطة التالية.. أسرار شبه الجزيرة الأيبيرية | الحلقة الرابعة",
           "link": "https://www.youtube.com/watch?v=OdLbTgGEaFM",
           "videoId": "OdLbTgGEaFM",
           "pubDate": "2026-05-11T17:00:26+00:00"
-        },
-        {
-          "title": "ماذا يعني أن يكون أخوك صحفيا في الحرب؟",
-          "link": "https://www.youtube.com/watch?v=4oyxS1_5Sz8",
-          "videoId": "4oyxS1_5Sz8",
-          "pubDate": "2026-05-11T17:00:02+00:00"
-        },
-        {
-          "title": "كيف تفاعلت الصحف الفلسطينية مع زيارة بلفور لفلسطين عام 1925؟",
-          "link": "https://www.youtube.com/watch?v=iOjdE7fFTe8",
-          "videoId": "iOjdE7fFTe8",
-          "pubDate": "2026-05-11T16:00:02+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "وادي الموت… الأرض التي لا ترحم",
+          "link": "https://www.youtube.com/watch?v=-FyKk8tVCts",
+          "videoId": "-FyKk8tVCts",
+          "pubDate": "2026-05-11T18:30:23+00:00"
+        },
         {
           "title": "قوة الشمس التي لا يعرفها الجميع",
           "link": "https://www.youtube.com/watch?v=-xNaSgVqAm0",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=Xva7HN0qJhU",
           "videoId": "Xva7HN0qJhU",
           "pubDate": "2026-05-11T12:04:01+00:00"
-        },
-        {
-          "title": "كيف تفوز برئاسة أميركا؟",
-          "link": "https://www.youtube.com/watch?v=aEP606OaXGo",
-          "videoId": "aEP606OaXGo",
-          "pubDate": "2026-05-11T10:34:10+00:00"
         }
       ],
       "ok": true
