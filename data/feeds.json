@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-11T19:22:35.246793+00:00",
+  "updated": "2026-05-11T21:06:51.477490+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "قرصان السماء الذي يعيش من السرقة",
+          "link": "https://www.youtube.com/watch?v=3TSUB86bDac",
+          "videoId": "3TSUB86bDac",
+          "pubDate": "2026-05-11T21:00:01+00:00"
+        },
+        {
+          "title": "\"صناعة الأعداء\".. استراتيجية ستالين لإحكام قبضته على الاتحاد السوفيتي",
+          "link": "https://www.youtube.com/watch?v=ybfUzsUuTaA",
+          "videoId": "ybfUzsUuTaA",
+          "pubDate": "2026-05-11T20:00:01+00:00"
+        },
+        {
           "title": "\"لا شيء يصنع في العراق كله إيراني وتركي\"",
           "link": "https://www.youtube.com/watch?v=BmXZk8hEGKo",
           "videoId": "BmXZk8hEGKo",
           "pubDate": "2026-05-11T19:00:02+00:00"
-        },
-        {
-          "title": "تحت السور.. حكاية جماعة غيرت تونس ثقافيا",
-          "link": "https://www.youtube.com/watch?v=fxgiTtYbO8o",
-          "videoId": "fxgiTtYbO8o",
-          "pubDate": "2026-05-11T18:00:41+00:00"
-        },
-        {
-          "title": "المحطة التالية.. أسرار شبه الجزيرة الأيبيرية | الحلقة الرابعة",
-          "link": "https://www.youtube.com/watch?v=OdLbTgGEaFM",
-          "videoId": "OdLbTgGEaFM",
-          "pubDate": "2026-05-11T17:00:26+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "كيف غيّرت السيارات حياة الأميركيين؟",
+          "link": "https://www.youtube.com/watch?v=a_1PJEkXOvI",
+          "videoId": "a_1PJEkXOvI",
+          "pubDate": "2026-05-11T21:00:32+00:00"
+        },
         {
           "title": "وادي الموت… الأرض التي لا ترحم",
           "link": "https://www.youtube.com/watch?v=-FyKk8tVCts",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=-xNaSgVqAm0",
           "videoId": "-xNaSgVqAm0",
           "pubDate": "2026-05-11T17:00:29+00:00"
-        },
-        {
-          "title": "ساحرات عدّلن قانون الضرائب في رومانيا..",
-          "link": "https://www.youtube.com/watch?v=Xva7HN0qJhU",
-          "videoId": "Xva7HN0qJhU",
-          "pubDate": "2026-05-11T12:04:01+00:00"
         }
       ],
       "ok": true
