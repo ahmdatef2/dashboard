@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-12T11:08:23.629740+00:00",
+  "updated": "2026-05-12T13:29:28.975405+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "مجاعة \"هولودومور\" 1932-1933 كيف مات الملايين في أوكرانيا؟",
+          "link": "https://www.youtube.com/watch?v=jrsRIyhgzEs",
+          "videoId": "jrsRIyhgzEs",
+          "pubDate": "2026-05-12T11:07:44+00:00"
+        },
+        {
           "title": "عام 1986.. نظام بورقيبة يقمع الحركة الطلابية وينفيها إلى الصحراء",
           "link": "https://www.youtube.com/watch?v=WPG4TfJNOQk",
           "videoId": "WPG4TfJNOQk",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=uzrAaffsFsw",
           "videoId": "uzrAaffsFsw",
           "pubDate": "2026-05-12T08:15:17+00:00"
-        },
-        {
-          "title": "قرصان السماء الذي يعيش من السرقة",
-          "link": "https://www.youtube.com/watch?v=3TSUB86bDac",
-          "videoId": "3TSUB86bDac",
-          "pubDate": "2026-05-11T21:00:01+00:00"
         }
       ],
       "ok": true
