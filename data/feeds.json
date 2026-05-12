@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-12T18:30:47.392052+00:00",
+  "updated": "2026-05-12T20:22:38.581013+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "فتاة تتحدث 3 لغات: نحن اللبنانيون لدينا شيء مميز",
+          "link": "https://www.youtube.com/watch?v=nDbpVFqs9Ao",
+          "videoId": "nDbpVFqs9Ao",
+          "pubDate": "2026-05-12T20:00:01+00:00"
+        },
+        {
           "title": "الأعوام الثقافية.. إندونيسيا | رحلة بالدراجة من جاكرتا إلى براكين جاوة",
           "link": "https://www.youtube.com/watch?v=QfRES3grBoA",
           "videoId": "QfRES3grBoA",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=B4Q0N8cVXpI",
           "videoId": "B4Q0N8cVXpI",
           "pubDate": "2026-05-12T16:21:05+00:00"
-        },
-        {
-          "title": "ممرضة فرنسية تقاتل من أجل فلسطين",
-          "link": "https://www.youtube.com/watch?v=xPPnvzlV1Lo",
-          "videoId": "xPPnvzlV1Lo",
-          "pubDate": "2026-05-12T16:02:13+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "كيف تستعد فتاة لم تتجاوز 19 عامًا لتصبح ملكة واحدة من أقدم الممالك في أوروبا؟",
+          "link": "https://www.youtube.com/watch?v=2_2CxfvBk1M",
+          "videoId": "2_2CxfvBk1M",
+          "pubDate": "2026-05-12T19:00:39+00:00"
+        },
         {
           "title": "يلبسن خصلات من شعر أمهاتهن وجداتهن",
           "link": "https://www.youtube.com/watch?v=jkyKlpPQ4fI",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=tk0_ht445M8",
           "videoId": "tk0_ht445M8",
           "pubDate": "2026-05-12T15:49:39+00:00"
-        },
-        {
-          "title": "كاثي ويليامز",
-          "link": "https://www.youtube.com/watch?v=6H-catCDIQ0",
-          "videoId": "6H-catCDIQ0",
-          "pubDate": "2026-05-12T10:29:52+00:00"
         }
       ],
       "ok": true
@@ -526,6 +526,12 @@
       "name": "ناشيونال جيوغرافيك",
       "feedTitle": "Nat Geo Abu Dhabi",
       "items": [
+        {
+          "title": "الحلقة الثالثة | مطار دبي الدولي | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=UDk8ccrr5Ok",
+          "videoId": "UDk8ccrr5Ok",
+          "pubDate": "2026-05-12T19:27:39+00:00"
+        },
         {
           "title": "الحلقة الثانية | أمن المطارات: البرازيل | ناشونال جيوغرافيك أبوظبي",
           "link": "https://www.youtube.com/watch?v=pgluFb9Iysk",
@@ -537,12 +543,6 @@
           "link": "https://www.youtube.com/watch?v=DvdEEfrzbPE",
           "videoId": "DvdEEfrzbPE",
           "pubDate": "2026-05-09T19:59:31+00:00"
-        },
-        {
-          "title": "الحلقة الكاملة | الحيوانات الخمسة الأكثر شهرة في أفريقيا | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=sOZsrgDMMwY",
-          "videoId": "sOZsrgDMMwY",
-          "pubDate": "2026-05-05T17:53:38+00:00"
         }
       ],
       "ok": true
