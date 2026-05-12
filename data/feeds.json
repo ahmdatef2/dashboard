@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-12T08:16:41.621741+00:00",
+  "updated": "2026-05-12T11:08:23.629740+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -397,6 +397,12 @@
       "feedTitle": "شخبطة Sha5bata",
       "items": [
         {
+          "title": "القوة السحرية للعادات الصغيرة جدا",
+          "link": "https://www.youtube.com/watch?v=wqASaGl21uU",
+          "videoId": "wqASaGl21uU",
+          "pubDate": "2026-05-12T08:55:16+00:00"
+        },
+        {
           "title": "عيشها صح .. اعتبر الفيديو دا إشارة ليك",
           "link": "https://www.youtube.com/watch?v=LQpC4Q8BHSk",
           "videoId": "LQpC4Q8BHSk",
@@ -407,12 +413,6 @@
           "link": "https://www.youtube.com/watch?v=rIIZajWCHFQ",
           "videoId": "rIIZajWCHFQ",
           "pubDate": "2026-04-15T11:25:31+00:00"
-        },
-        {
-          "title": "حرر نفسك من التفكير في اللي ظلمك؟ (آية هتغير حياتك) #شخبطة",
-          "link": "https://www.youtube.com/watch?v=iUJI5T94jbc",
-          "videoId": "iUJI5T94jbc",
-          "pubDate": "2026-04-10T11:15:05+00:00"
         }
       ],
       "ok": true
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "عام 1986.. نظام بورقيبة يقمع الحركة الطلابية وينفيها إلى الصحراء",
+          "link": "https://www.youtube.com/watch?v=WPG4TfJNOQk",
+          "videoId": "WPG4TfJNOQk",
+          "pubDate": "2026-05-12T10:00:01+00:00"
+        },
+        {
+          "title": "لماذا لم يُتواصل بعد مع الكائنات الفضائية؟",
+          "link": "https://www.youtube.com/watch?v=uzrAaffsFsw",
+          "videoId": "uzrAaffsFsw",
+          "pubDate": "2026-05-12T08:15:17+00:00"
+        },
+        {
           "title": "قرصان السماء الذي يعيش من السرقة",
           "link": "https://www.youtube.com/watch?v=3TSUB86bDac",
           "videoId": "3TSUB86bDac",
           "pubDate": "2026-05-11T21:00:01+00:00"
-        },
-        {
-          "title": "\"صناعة الأعداء\".. استراتيجية ستالين لإحكام قبضته على الاتحاد السوفيتي",
-          "link": "https://www.youtube.com/watch?v=ybfUzsUuTaA",
-          "videoId": "ybfUzsUuTaA",
-          "pubDate": "2026-05-11T20:00:01+00:00"
-        },
-        {
-          "title": "\"لا شيء يصنع في العراق كله إيراني وتركي\"",
-          "link": "https://www.youtube.com/watch?v=BmXZk8hEGKo",
-          "videoId": "BmXZk8hEGKo",
-          "pubDate": "2026-05-11T19:00:02+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "كاثي ويليامز",
+          "link": "https://www.youtube.com/watch?v=6H-catCDIQ0",
+          "videoId": "6H-catCDIQ0",
+          "pubDate": "2026-05-12T10:29:52+00:00"
+        },
         {
           "title": "شرايين الحياة: كيف تعمل سلسلة الإمداد الغذائي في العالم؟ | سلاسل الاستهلاك",
           "link": "https://www.youtube.com/watch?v=M3KrWp3QvcY",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=a_1PJEkXOvI",
           "videoId": "a_1PJEkXOvI",
           "pubDate": "2026-05-11T21:00:32+00:00"
-        },
-        {
-          "title": "وادي الموت… الأرض التي لا ترحم",
-          "link": "https://www.youtube.com/watch?v=-FyKk8tVCts",
-          "videoId": "-FyKk8tVCts",
-          "pubDate": "2026-05-11T18:30:23+00:00"
         }
       ],
       "ok": true
