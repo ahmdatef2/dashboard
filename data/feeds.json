@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-12T16:09:42.127148+00:00",
+  "updated": "2026-05-12T18:30:47.392052+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -267,6 +267,12 @@
       "feedTitle": "أكاديمية ريان | Ryan Academy",
       "items": [
         {
+          "title": "وفّر فلوس Claude Code و OpenAI API… خد Baseten API وجرب موديلات AI مجانًا 🔥",
+          "link": "https://www.youtube.com/watch?v=3EOvFItkWDM",
+          "videoId": "3EOvFItkWDM",
+          "pubDate": "2026-05-12T17:00:04+00:00"
+        },
+        {
           "title": "عملت برنامج ويندوز بيعمل فيديوهات دينية بالذكاء الاصطناعي… حمله مجانًا 🔥",
           "link": "https://www.youtube.com/watch?v=cQbbAGlMIGQ",
           "videoId": "cQbbAGlMIGQ",
@@ -277,12 +283,6 @@
           "link": "https://www.youtube.com/watch?v=RXop0SgX_9o",
           "videoId": "RXop0SgX_9o",
           "pubDate": "2026-05-07T16:00:50+00:00"
-        },
-        {
-          "title": "وفرت تمن إضافة مدفوعة وعملت إضافة كروم ذكية بنفسي Chrome Extension 🔥 | حاجات وفرت تمنها #2",
-          "link": "https://www.youtube.com/watch?v=K72r8YJsUs8",
-          "videoId": "K72r8YJsUs8",
-          "pubDate": "2026-05-05T19:00:17+00:00"
         }
       ],
       "ok": true
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "الأعوام الثقافية.. إندونيسيا | رحلة بالدراجة من جاكرتا إلى براكين جاوة",
+          "link": "https://www.youtube.com/watch?v=QfRES3grBoA",
+          "videoId": "QfRES3grBoA",
+          "pubDate": "2026-05-12T17:45:00+00:00"
+        },
+        {
+          "title": "موشح يمر عجبا بصوت حسن الحفار",
+          "link": "https://www.youtube.com/watch?v=B4Q0N8cVXpI",
+          "videoId": "B4Q0N8cVXpI",
+          "pubDate": "2026-05-12T16:21:05+00:00"
+        },
+        {
           "title": "ممرضة فرنسية تقاتل من أجل فلسطين",
           "link": "https://www.youtube.com/watch?v=xPPnvzlV1Lo",
           "videoId": "xPPnvzlV1Lo",
           "pubDate": "2026-05-12T16:02:13+00:00"
-        },
-        {
-          "title": "أيهما أقوى تسونامي أم قنبلة هيروشيما؟",
-          "link": "https://www.youtube.com/watch?v=xwUdox7H8BI",
-          "videoId": "xwUdox7H8BI",
-          "pubDate": "2026-05-12T15:00:01+00:00"
-        },
-        {
-          "title": "كيف خطط الاستعمار لاحتلال مصر عام 1956؟",
-          "link": "https://www.youtube.com/watch?v=hZgxDD7FEo0",
-          "videoId": "hZgxDD7FEo0",
-          "pubDate": "2026-05-12T13:55:21+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "يلبسن خصلات من شعر أمهاتهن وجداتهن",
+          "link": "https://www.youtube.com/watch?v=jkyKlpPQ4fI",
+          "videoId": "jkyKlpPQ4fI",
+          "pubDate": "2026-05-12T17:00:30+00:00"
+        },
         {
           "title": "تحول القتل إلى عادة يومية",
           "link": "https://www.youtube.com/watch?v=tk0_ht445M8",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=6H-catCDIQ0",
           "videoId": "6H-catCDIQ0",
           "pubDate": "2026-05-12T10:29:52+00:00"
-        },
-        {
-          "title": "شرايين الحياة: كيف تعمل سلسلة الإمداد الغذائي في العالم؟ | سلاسل الاستهلاك",
-          "link": "https://www.youtube.com/watch?v=M3KrWp3QvcY",
-          "videoId": "M3KrWp3QvcY",
-          "pubDate": "2026-05-11T21:26:25+00:00"
         }
       ],
       "ok": true
@@ -553,6 +553,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "ريبورتاج | بعد القصف الإسرائيلي - البحث بين أنقاض بيروت | وثائقية دي دبليو",
+          "link": "https://www.youtube.com/watch?v=NTwPAZCls0s",
+          "videoId": "NTwPAZCls0s",
+          "pubDate": "2026-05-12T17:00:33+00:00"
+        },
+        {
           "title": "وثائقي | العودة إلى الاستبداد - الربيع القصير للديمقراطية في تونس | وثائقية دي دبليو",
           "link": "https://www.youtube.com/watch?v=QqFitVZWbyo",
           "videoId": "QqFitVZWbyo",
@@ -563,12 +569,6 @@
           "link": "https://www.youtube.com/watch?v=dmBJSjEtvEE",
           "videoId": "dmBJSjEtvEE",
           "pubDate": "2026-05-09T18:00:38+00:00"
-        },
-        {
-          "title": "وثائقي | الاعتداء الغادر بقطرات التخدير (1/2) | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=0mDEFWmx-7s",
-          "videoId": "0mDEFWmx-7s",
-          "pubDate": "2026-05-08T18:00:02+00:00"
         }
       ],
       "ok": true
