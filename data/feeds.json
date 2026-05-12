@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-12T20:22:38.581013+00:00",
+  "updated": "2026-05-12T21:59:15.009604+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "صاحب مقولة \"وإنه لجهاد.. نصر أو استشهاد\"",
+          "link": "https://www.youtube.com/watch?v=Ofc8H18PVEk",
+          "videoId": "Ofc8H18PVEk",
+          "pubDate": "2026-05-12T21:00:01+00:00"
+        },
+        {
           "title": "فتاة تتحدث 3 لغات: نحن اللبنانيون لدينا شيء مميز",
           "link": "https://www.youtube.com/watch?v=nDbpVFqs9Ao",
           "videoId": "nDbpVFqs9Ao",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=QfRES3grBoA",
           "videoId": "QfRES3grBoA",
           "pubDate": "2026-05-12T17:45:00+00:00"
-        },
-        {
-          "title": "موشح يمر عجبا بصوت حسن الحفار",
-          "link": "https://www.youtube.com/watch?v=B4Q0N8cVXpI",
-          "videoId": "B4Q0N8cVXpI",
-          "pubDate": "2026-05-12T16:21:05+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "مزارعو الفضاء: الثورة القادمة في إنتاج الغذاء على كوكب الأرض - الجزء الثاني  | الشرق الوثائقية",
+          "link": "https://www.youtube.com/watch?v=XqSyMX7OrYA",
+          "videoId": "XqSyMX7OrYA",
+          "pubDate": "2026-05-12T21:01:47+00:00"
+        },
         {
           "title": "كيف تستعد فتاة لم تتجاوز 19 عامًا لتصبح ملكة واحدة من أقدم الممالك في أوروبا؟",
           "link": "https://www.youtube.com/watch?v=2_2CxfvBk1M",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=jkyKlpPQ4fI",
           "videoId": "jkyKlpPQ4fI",
           "pubDate": "2026-05-12T17:00:30+00:00"
-        },
-        {
-          "title": "تحول القتل إلى عادة يومية",
-          "link": "https://www.youtube.com/watch?v=tk0_ht445M8",
-          "videoId": "tk0_ht445M8",
-          "pubDate": "2026-05-12T15:49:39+00:00"
         }
       ],
       "ok": true
