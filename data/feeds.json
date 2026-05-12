@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-12T13:29:28.975405+00:00",
+  "updated": "2026-05-12T16:09:42.127148+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
-          "title": "مجاعة \"هولودومور\" 1932-1933 كيف مات الملايين في أوكرانيا؟",
-          "link": "https://www.youtube.com/watch?v=jrsRIyhgzEs",
-          "videoId": "jrsRIyhgzEs",
-          "pubDate": "2026-05-12T11:07:44+00:00"
+          "title": "ممرضة فرنسية تقاتل من أجل فلسطين",
+          "link": "https://www.youtube.com/watch?v=xPPnvzlV1Lo",
+          "videoId": "xPPnvzlV1Lo",
+          "pubDate": "2026-05-12T16:02:13+00:00"
         },
         {
-          "title": "عام 1986.. نظام بورقيبة يقمع الحركة الطلابية وينفيها إلى الصحراء",
-          "link": "https://www.youtube.com/watch?v=WPG4TfJNOQk",
-          "videoId": "WPG4TfJNOQk",
-          "pubDate": "2026-05-12T10:00:01+00:00"
+          "title": "أيهما أقوى تسونامي أم قنبلة هيروشيما؟",
+          "link": "https://www.youtube.com/watch?v=xwUdox7H8BI",
+          "videoId": "xwUdox7H8BI",
+          "pubDate": "2026-05-12T15:00:01+00:00"
         },
         {
-          "title": "لماذا لم يُتواصل بعد مع الكائنات الفضائية؟",
-          "link": "https://www.youtube.com/watch?v=uzrAaffsFsw",
-          "videoId": "uzrAaffsFsw",
-          "pubDate": "2026-05-12T08:15:17+00:00"
+          "title": "كيف خطط الاستعمار لاحتلال مصر عام 1956؟",
+          "link": "https://www.youtube.com/watch?v=hZgxDD7FEo0",
+          "videoId": "hZgxDD7FEo0",
+          "pubDate": "2026-05-12T13:55:21+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "تحول القتل إلى عادة يومية",
+          "link": "https://www.youtube.com/watch?v=tk0_ht445M8",
+          "videoId": "tk0_ht445M8",
+          "pubDate": "2026-05-12T15:49:39+00:00"
+        },
         {
           "title": "كاثي ويليامز",
           "link": "https://www.youtube.com/watch?v=6H-catCDIQ0",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=M3KrWp3QvcY",
           "videoId": "M3KrWp3QvcY",
           "pubDate": "2026-05-11T21:26:25+00:00"
-        },
-        {
-          "title": "كيف غيّرت السيارات حياة الأميركيين؟",
-          "link": "https://www.youtube.com/watch?v=a_1PJEkXOvI",
-          "videoId": "a_1PJEkXOvI",
-          "pubDate": "2026-05-11T21:00:32+00:00"
         }
       ],
       "ok": true
