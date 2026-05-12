@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-12T01:30:51.091744+00:00",
+  "updated": "2026-05-12T05:27:06.669673+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -11,28 +11,9 @@
     "UC2jjW7c63dqOPkfMm3P-u3w": {
       "handle": "every_day_a_new_website",
       "name": "موقع كل يوم",
-      "feedTitle": "كل يوم موقع جديد",
-      "items": [
-        {
-          "title": "جوجل تتفوق على نفسها وتحديث أكثر من رائع ... مش بس شات ده بيصنع الملفات!",
-          "link": "https://www.youtube.com/watch?v=9Vd_Lg7q3E0",
-          "videoId": "9Vd_Lg7q3E0",
-          "pubDate": "2026-05-11T15:00:14+00:00"
-        },
-        {
-          "title": "جوجل تفعلها من جديد في NotebookLM… وداعًا لفوضى المصادر!",
-          "link": "https://www.youtube.com/watch?v=htXp8zF-MRs",
-          "videoId": "htXp8zF-MRs",
-          "pubDate": "2026-05-09T16:01:09+00:00"
-        },
-        {
-          "title": "جوجل تفعلها مجدداً : نموذج صوت ذكاء اصطناعي لا يمكن تفريقه عن البشر! 🤯",
-          "link": "https://www.youtube.com/watch?v=SsSUaF1m1sw",
-          "videoId": "SsSUaF1m1sw",
-          "pubDate": "2026-05-08T13:00:55+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "موقع كل يوم",
+      "items": [],
+      "ok": false
     },
     "UCKD8vOz3maRPyLAbMXhr-Pw": {
       "handle": "infotech4you_Marwasoliman",
@@ -72,28 +53,9 @@
     "UCGrVvqu8PlVv0wPqA5kgY8A": {
       "handle": "ArabicArtificialIntelligence",
       "name": "الذكاء الاصطناعي العربي",
-      "feedTitle": "ذكاء اصطناعي عربي",
-      "items": [
-        {
-          "title": "كتبنا أول نسخة من ChatGPT 🤖 | Episode 4",
-          "link": "https://www.youtube.com/watch?v=BlVdvHnWY0Q",
-          "videoId": "BlVdvHnWY0Q",
-          "pubDate": "2026-05-11T17:00:21+00:00"
-        },
-        {
-          "title": "كيف يعمل ChatGPT فعليًا؟ 🧠 شرح Transformers و Attention",
-          "link": "https://www.youtube.com/watch?v=5CpWxNxkH5k",
-          "videoId": "5CpWxNxkH5k",
-          "pubDate": "2026-05-08T18:00:06+00:00"
-        },
-        {
-          "title": "بناء ChatGPT من الصفر 🔥 | الحلقة 2: اختيار البيانات وParameters",
-          "link": "https://www.youtube.com/watch?v=3mZm7UW3N48",
-          "videoId": "3mZm7UW3N48",
-          "pubDate": "2026-05-04T17:00:04+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "الذكاء الاصطناعي العربي",
+      "items": [],
+      "ok": false
     },
     "UCSXcmF4Gxl6Hc-m6cHYD_Vg": {
       "handle": "MohamedAnsary",
