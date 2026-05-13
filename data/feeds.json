@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-13T18:50:40.008748+00:00",
+  "updated": "2026-05-13T20:25:04.861960+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "\"إذا طلبت مني التكلم بالعربية الفصحى فلن أستطيع وهذا مؤسف\"",
+          "link": "https://www.youtube.com/watch?v=JqzbUoAd-QE",
+          "videoId": "JqzbUoAd-QE",
+          "pubDate": "2026-05-13T20:00:01+00:00"
+        },
+        {
+          "title": "من مخيم الرشيدية.. هكذا وقعت ممرضة فرنسية في حب فلسطين",
+          "link": "https://www.youtube.com/watch?v=P4UZMpLfiJo",
+          "videoId": "P4UZMpLfiJo",
+          "pubDate": "2026-05-13T19:00:00+00:00"
+        },
+        {
           "title": "البشري.. القاضي الفقيه | من العلمانية إلى الفكر الإسلامي",
           "link": "https://www.youtube.com/watch?v=BNcquvZpJEs",
           "videoId": "BNcquvZpJEs",
           "pubDate": "2026-05-13T17:45:00+00:00"
-        },
-        {
-          "title": "أعجوبة في قلب الصحراء الجزائرية",
-          "link": "https://www.youtube.com/watch?v=UIQK_y2b0Mc",
-          "videoId": "UIQK_y2b0Mc",
-          "pubDate": "2026-05-13T16:00:01+00:00"
-        },
-        {
-          "title": "\"لم أستوعب ما رأيته\" ابن ممرضة فرنسية يستعيد ذكريات مخيم الرشيدية 1980",
-          "link": "https://www.youtube.com/watch?v=XSJXQsXT2MI",
-          "videoId": "XSJXQsXT2MI",
-          "pubDate": "2026-05-13T14:28:45+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "إل تشابو",
+          "link": "https://www.youtube.com/watch?v=Z-abSc_vF1U",
+          "videoId": "Z-abSc_vF1U",
+          "pubDate": "2026-05-13T19:00:26+00:00"
+        },
         {
           "title": "كلمة “Algorithm”",
           "link": "https://www.youtube.com/watch?v=Bc6BAq-Dmc4",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=U0-dvMlD6-U",
           "videoId": "U0-dvMlD6-U",
           "pubDate": "2026-05-13T15:30:15+00:00"
-        },
-        {
-          "title": "رجل اشتهر بالعنف الشديد",
-          "link": "https://www.youtube.com/watch?v=ke3b9EVsp60",
-          "videoId": "ke3b9EVsp60",
-          "pubDate": "2026-05-13T13:27:37+00:00"
         }
       ],
       "ok": true
@@ -526,6 +526,12 @@
       "name": "ناشيونال جيوغرافيك",
       "feedTitle": "Nat Geo Abu Dhabi",
       "items": [
+        {
+          "title": "الحلقة الكاملة | أسماك القرش في مثلث برمودا | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=uNFyeN3b3EQ",
+          "videoId": "uNFyeN3b3EQ",
+          "pubDate": "2026-05-13T19:50:51+00:00"
+        },
         {
           "title": "الحلقة الثالثة | مطار دبي الدولي | ناشونال جيوغرافيك أبوظبي",
           "link": "https://www.youtube.com/watch?v=UDk8ccrr5Ok",
@@ -537,12 +543,6 @@
           "link": "https://www.youtube.com/watch?v=pgluFb9Iysk",
           "videoId": "pgluFb9Iysk",
           "pubDate": "2026-05-10T19:48:22+00:00"
-        },
-        {
-          "title": "كبرياء وتحامل | صيادو أفريقيا | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=DvdEEfrzbPE",
-          "videoId": "DvdEEfrzbPE",
-          "pubDate": "2026-05-09T19:59:31+00:00"
         }
       ],
       "ok": true
