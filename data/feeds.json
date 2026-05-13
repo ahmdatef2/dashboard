@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-13T20:25:04.861960+00:00",
+  "updated": "2026-05-13T22:02:17.269036+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "أطفال يحفظون القرآن على ارتفاع 3000 متر في سلطنة عمان",
+          "link": "https://www.youtube.com/watch?v=SRKwtS0sTiY",
+          "videoId": "SRKwtS0sTiY",
+          "pubDate": "2026-05-13T21:00:01+00:00"
+        },
+        {
           "title": "\"إذا طلبت مني التكلم بالعربية الفصحى فلن أستطيع وهذا مؤسف\"",
           "link": "https://www.youtube.com/watch?v=JqzbUoAd-QE",
           "videoId": "JqzbUoAd-QE",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=P4UZMpLfiJo",
           "videoId": "P4UZMpLfiJo",
           "pubDate": "2026-05-13T19:00:00+00:00"
-        },
-        {
-          "title": "البشري.. القاضي الفقيه | من العلمانية إلى الفكر الإسلامي",
-          "link": "https://www.youtube.com/watch?v=BNcquvZpJEs",
-          "videoId": "BNcquvZpJEs",
-          "pubDate": "2026-05-13T17:45:00+00:00"
         }
       ],
       "ok": true
@@ -501,22 +501,22 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "عمالقة الدفاع .. الدبابات والمدرعات | الشرق الوثائقية",
+          "link": "https://www.youtube.com/watch?v=VehnPlxIYZI",
+          "videoId": "VehnPlxIYZI",
+          "pubDate": "2026-05-13T21:14:32+00:00"
+        },
+        {
+          "title": "عدد من النساء في سجون أوكلاهوما",
+          "link": "https://www.youtube.com/watch?v=HCeIzOGHEYk",
+          "videoId": "HCeIzOGHEYk",
+          "pubDate": "2026-05-13T21:00:25+00:00"
+        },
+        {
           "title": "إل تشابو",
           "link": "https://www.youtube.com/watch?v=Z-abSc_vF1U",
           "videoId": "Z-abSc_vF1U",
           "pubDate": "2026-05-13T19:00:26+00:00"
-        },
-        {
-          "title": "كلمة “Algorithm”",
-          "link": "https://www.youtube.com/watch?v=Bc6BAq-Dmc4",
-          "videoId": "Bc6BAq-Dmc4",
-          "pubDate": "2026-05-13T17:00:29+00:00"
-        },
-        {
-          "title": "لماذا احتشد نحو 3 ملايين جندي؟",
-          "link": "https://www.youtube.com/watch?v=U0-dvMlD6-U",
-          "videoId": "U0-dvMlD6-U",
-          "pubDate": "2026-05-13T15:30:15+00:00"
         }
       ],
       "ok": true
