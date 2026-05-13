@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-13T16:14:28.819467+00:00",
+  "updated": "2026-05-13T18:50:40.008748+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -111,6 +111,12 @@
       "feedTitle": "AMR SALEM _ عمرو سالم",
       "items": [
         {
+          "title": "استخدم claude علي antigravity مجانا بلا حدود",
+          "link": "https://www.youtube.com/watch?v=8bYsmoXGlEE",
+          "videoId": "8bYsmoXGlEE",
+          "pubDate": "2026-05-13T17:02:20+00:00"
+        },
+        {
           "title": "Codex طلع رهيب .  تقدر تعمل عليه اي حاجة حرفيا",
           "link": "https://www.youtube.com/watch?v=fXDQbHsUDC4",
           "videoId": "fXDQbHsUDC4",
@@ -121,12 +127,6 @@
           "link": "https://www.youtube.com/watch?v=VtiYOmCcv2U",
           "videoId": "VtiYOmCcv2U",
           "pubDate": "2026-05-09T10:44:57+00:00"
-        },
-        {
-          "title": "كلود + كاب كات = احلي مونتاج",
-          "link": "https://www.youtube.com/watch?v=agMab2QvPqs",
-          "videoId": "agMab2QvPqs",
-          "pubDate": "2026-05-08T16:25:06+00:00"
         }
       ],
       "ok": true
@@ -293,22 +293,22 @@
       "feedTitle": "تكنوفلاش – AI & Tech",
       "items": [
         {
-          "title": "برنامج UPDF 2.5 الأقوى من Adobe Acrobat؟ الذكاء الاصطناعي غيّر كل شيء",
-          "link": "https://www.youtube.com/watch?v=wcOS2gBtN4c",
-          "videoId": "wcOS2gBtN4c",
-          "pubDate": "2026-05-13T12:15:37+00:00"
+          "title": "حول ملفاتك إلى خرائط ذهنية مبتكرة بالذكاء الاصطناعي!",
+          "link": "https://www.youtube.com/watch?v=0Gqhbu_N7FQ",
+          "videoId": "0Gqhbu_N7FQ",
+          "pubDate": "2026-05-13T18:25:00+00:00"
         },
         {
-          "title": "اصنع تطبيقات ويب و مواقع Full-Stack كاملة مجانًا (تسجيل دخول + قواعد بيانات + نشر) | شرح Atoms.dev",
-          "link": "https://www.youtube.com/watch?v=KcdDXdZo_vU",
-          "videoId": "KcdDXdZo_vU",
-          "pubDate": "2026-05-11T11:59:55+00:00"
+          "title": "ذكاء اصطناعي يجيب عن أسئلتك من أي ملف PDF!",
+          "link": "https://www.youtube.com/watch?v=diWtOcLgp3w",
+          "videoId": "diWtOcLgp3w",
+          "pubDate": "2026-05-13T18:20:00+00:00"
         },
         {
-          "title": "عاجل: موديل جوجل السري Gemini 3.2 يتفوق في البرمجة (تسريب خطير)",
-          "link": "https://www.youtube.com/watch?v=nWGC-oDRvaE",
-          "videoId": "nWGC-oDRvaE",
-          "pubDate": "2026-05-03T18:01:53+00:00"
+          "title": "أنجز مهامك بسرعة خارقة مع هذا البرنامج!",
+          "link": "https://www.youtube.com/watch?v=iTc-3x_jXDQ",
+          "videoId": "iTc-3x_jXDQ",
+          "pubDate": "2026-05-13T18:15:34+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "البشري.. القاضي الفقيه | من العلمانية إلى الفكر الإسلامي",
+          "link": "https://www.youtube.com/watch?v=BNcquvZpJEs",
+          "videoId": "BNcquvZpJEs",
+          "pubDate": "2026-05-13T17:45:00+00:00"
+        },
+        {
           "title": "أعجوبة في قلب الصحراء الجزائرية",
           "link": "https://www.youtube.com/watch?v=UIQK_y2b0Mc",
           "videoId": "UIQK_y2b0Mc",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=XSJXQsXT2MI",
           "videoId": "XSJXQsXT2MI",
           "pubDate": "2026-05-13T14:28:45+00:00"
-        },
-        {
-          "title": "موسم الفريكة.. فلسطين",
-          "link": "https://www.youtube.com/watch?v=1_hAu1sGuNE",
-          "videoId": "1_hAu1sGuNE",
-          "pubDate": "2026-05-13T11:38:50+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "كلمة “Algorithm”",
+          "link": "https://www.youtube.com/watch?v=Bc6BAq-Dmc4",
+          "videoId": "Bc6BAq-Dmc4",
+          "pubDate": "2026-05-13T17:00:29+00:00"
+        },
         {
           "title": "لماذا احتشد نحو 3 ملايين جندي؟",
           "link": "https://www.youtube.com/watch?v=U0-dvMlD6-U",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=ke3b9EVsp60",
           "videoId": "ke3b9EVsp60",
           "pubDate": "2026-05-13T13:27:37+00:00"
-        },
-        {
-          "title": "مزارعو الفضاء: الثورة القادمة في إنتاج الغذاء على كوكب الأرض - الجزء الثاني  | الشرق الوثائقية",
-          "link": "https://www.youtube.com/watch?v=XqSyMX7OrYA",
-          "videoId": "XqSyMX7OrYA",
-          "pubDate": "2026-05-12T21:01:47+00:00"
         }
       ],
       "ok": true
@@ -553,6 +553,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "وثائقي | أومواموا - الجسم الغامض القادم من نجم آخر | وثائقية دي دبليو",
+          "link": "https://www.youtube.com/watch?v=5jh9BNZoVLk",
+          "videoId": "5jh9BNZoVLk",
+          "pubDate": "2026-05-13T17:00:11+00:00"
+        },
+        {
           "title": "ريبورتاج | بعد القصف الإسرائيلي - البحث بين أنقاض بيروت | وثائقية دي دبليو",
           "link": "https://www.youtube.com/watch?v=NTwPAZCls0s",
           "videoId": "NTwPAZCls0s",
@@ -563,12 +569,6 @@
           "link": "https://www.youtube.com/watch?v=QqFitVZWbyo",
           "videoId": "QqFitVZWbyo",
           "pubDate": "2026-05-10T15:00:40+00:00"
-        },
-        {
-          "title": "وثائقي | أسرار سانت موريتز: المقر الشتوي للأثرياء وأصحاب النفوذ | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=dmBJSjEtvEE",
-          "videoId": "dmBJSjEtvEE",
-          "pubDate": "2026-05-09T18:00:38+00:00"
         }
       ],
       "ok": true
