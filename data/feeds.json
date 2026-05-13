@@ -1,577 +1,159 @@
 {
-  "updated": "2026-05-12T23:57:48.266250+00:00",
+  "updated": "2026-05-13T02:37:46.271653+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
       "name": "د. هبة أحمد",
-      "feedTitle": "Heba Ahmed - هبة احمد",
-      "items": [
-        {
-          "title": "تحديثات مهمة و مجانية داخل NotebookLM",
-          "link": "https://www.youtube.com/watch?v=8p_XVhP2xfI",
-          "videoId": "8p_XVhP2xfI",
-          "pubDate": "2026-05-11T16:46:26+00:00"
-        },
-        {
-          "title": "جربت Codex… أهم اكتشاف AI عندي لحد دلوقتي",
-          "link": "https://www.youtube.com/watch?v=Y-QXzk9d-ds",
-          "videoId": "Y-QXzk9d-ds",
-          "pubDate": "2026-05-06T19:45:11+00:00"
-        },
-        {
-          "title": "أخيرًا Gemini يعمل ملفات كاملة بدل ما تكتبها بنفسك",
-          "link": "https://www.youtube.com/watch?v=hisY6kJKBJE",
-          "videoId": "hisY6kJKBJE",
-          "pubDate": "2026-05-01T17:02:00+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "د. هبة أحمد",
+      "items": [],
+      "ok": false
     },
     "UC2jjW7c63dqOPkfMm3P-u3w": {
       "handle": "every_day_a_new_website",
       "name": "موقع كل يوم",
-      "feedTitle": "كل يوم موقع جديد",
-      "items": [
-        {
-          "title": "جوجل تتفوق على نفسها وتحديث أكثر من رائع ... مش بس شات ده بيصنع الملفات!",
-          "link": "https://www.youtube.com/watch?v=9Vd_Lg7q3E0",
-          "videoId": "9Vd_Lg7q3E0",
-          "pubDate": "2026-05-11T15:00:14+00:00"
-        },
-        {
-          "title": "جوجل تفعلها من جديد في NotebookLM… وداعًا لفوضى المصادر!",
-          "link": "https://www.youtube.com/watch?v=htXp8zF-MRs",
-          "videoId": "htXp8zF-MRs",
-          "pubDate": "2026-05-09T16:01:09+00:00"
-        },
-        {
-          "title": "جوجل تفعلها مجدداً : نموذج صوت ذكاء اصطناعي لا يمكن تفريقه عن البشر! 🤯",
-          "link": "https://www.youtube.com/watch?v=SsSUaF1m1sw",
-          "videoId": "SsSUaF1m1sw",
-          "pubDate": "2026-05-08T13:00:55+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "موقع كل يوم",
+      "items": [],
+      "ok": false
     },
     "UCKD8vOz3maRPyLAbMXhr-Pw": {
       "handle": "infotech4you_Marwasoliman",
       "name": "مروة سليمان",
-      "feedTitle": "Infotech4you - مروي سليمان",
-      "items": [
-        {
-          "title": "جوجل تفاجئ المستخدمين بـ 4 ميزات جديدة في NotebookLM",
-          "link": "https://www.youtube.com/watch?v=qBgZNvCoy6Q",
-          "videoId": "qBgZNvCoy6Q",
-          "pubDate": "2026-05-11T18:16:49+00:00"
-        },
-        {
-          "title": "جوجل تجهز مفاجأة ضخمة: وكيل AI جديد يشتغل مكانك وظهور Gemini 3.2 flash للإختبار!",
-          "link": "https://www.youtube.com/watch?v=1ED6TACbfOU",
-          "videoId": "1ED6TACbfOU",
-          "pubDate": "2026-05-10T17:49:46+00:00"
-        },
-        {
-          "title": "جوجل تعود بقوة إلى السباق وأقوى وكيل بحث عميق Deep Research Max",
-          "link": "https://www.youtube.com/watch?v=KBoHFZCyjT8",
-          "videoId": "KBoHFZCyjT8",
-          "pubDate": "2026-05-09T15:00:35+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "مروة سليمان",
+      "items": [],
+      "ok": false
     },
     "UCSRy-3lglM2QKJ_xF2zuPlQ": {
       "handle": "AbdellatifSaidA",
       "name": "عبداللطيف سعيد",
-      "feedTitle": "عبداللطيف سعيد Abdellatif Said",
-      "items": [
-        {
-          "title": "وداعاً Claude Code 👋 الوحش الجديد للمبرمجين DeepSeek TUI (أرخص 20 مرة!)",
-          "link": "https://www.youtube.com/watch?v=9w-ukO5OG-Q",
-          "videoId": "9w-ukO5OG-Q",
-          "pubDate": "2026-05-09T14:52:11+00:00"
-        },
-        {
-          "title": "الكمبيوتر هيشتغل لوحده! تسريبات مشروع Project Jarvis و Gemini الجديد من جوجل 🤖🔥",
-          "link": "https://www.youtube.com/watch?v=eji8ZrgEqwY",
-          "videoId": "eji8ZrgEqwY",
-          "pubDate": "2026-05-07T14:01:06+00:00"
-        },
-        {
-          "title": "تحديث جبار من جوجل جيميناي 🚀 وداعاً لكتابة الجداول.. حول أي صورة لملف Excel و PDF مجاناً!",
-          "link": "https://www.youtube.com/watch?v=RLoDorKXbow",
-          "videoId": "RLoDorKXbow",
-          "pubDate": "2026-05-04T14:00:45+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "عبداللطيف سعيد",
+      "items": [],
+      "ok": false
     },
     "UC81Ks7DR9JFgZc14nmZ07EA": {
       "handle": "AMRSALEM800",
       "name": "عمرو سالم",
-      "feedTitle": "AMR SALEM _ عمرو سالم",
-      "items": [
-        {
-          "title": "Codex طلع رهيب .  تقدر تعمل عليه اي حاجة حرفيا",
-          "link": "https://www.youtube.com/watch?v=fXDQbHsUDC4",
-          "videoId": "fXDQbHsUDC4",
-          "pubDate": "2026-05-11T14:17:51+00:00"
-        },
-        {
-          "title": "MaxClaw = موظف AI بيشتغل 24 ساعة! . وانت مرتاح",
-          "link": "https://www.youtube.com/watch?v=VtiYOmCcv2U",
-          "videoId": "VtiYOmCcv2U",
-          "pubDate": "2026-05-09T10:44:57+00:00"
-        },
-        {
-          "title": "كلود + كاب كات = احلي مونتاج",
-          "link": "https://www.youtube.com/watch?v=agMab2QvPqs",
-          "videoId": "agMab2QvPqs",
-          "pubDate": "2026-05-08T16:25:06+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "عمرو سالم",
+      "items": [],
+      "ok": false
     },
     "UC9ocsRoOwj9tkAQNfUt8ZJg": {
       "handle": "PythonArab",
       "name": "بايثون عربي",
-      "feedTitle": "Python Arabic Community",
-      "items": [
-        {
-          "title": "بديل CLAUDE CODE مجاني وقوي وبدون حدود 🤯",
-          "link": "https://www.youtube.com/watch?v=v_GOK6WL9kg",
-          "videoId": "v_GOK6WL9kg",
-          "pubDate": "2026-05-06T21:31:11+00:00"
-        },
-        {
-          "title": "وداعاً للتشتت: كيف تنهي بحثك العلمي في 30 دقيقة باستخدام Super Agent واحد 🚀",
-          "link": "https://www.youtube.com/watch?v=23pD10tz3rs",
-          "videoId": "23pD10tz3rs",
-          "pubDate": "2026-05-02T18:10:21+00:00"
-        },
-        {
-          "title": "فكرة مشروع مجنونة: كيف تحول الذكاء الاصطناعي إلى مدير تقني (CTO) لمشروعك 🤖",
-          "link": "https://www.youtube.com/watch?v=cmQB0xrSQ0o",
-          "videoId": "cmQB0xrSQ0o",
-          "pubDate": "2026-04-28T14:58:56+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "بايثون عربي",
+      "items": [],
+      "ok": false
     },
     "UCSNkfKl4cU-55Nm-ovsvOHQ": {
       "handle": "elzerowebschool",
       "name": "Elzero Web School",
       "feedTitle": "Elzero Web School",
-      "items": [
-        {
-          "title": "عشر حاجات لو سمعتهم وانت بتتفق مع المبرمج على شغل اهرب فورا",
-          "link": "https://www.youtube.com/watch?v=2a48Uu0kH8E",
-          "videoId": "2a48Uu0kH8E",
-          "pubDate": "2026-05-09T18:49:46+00:00"
-        },
-        {
-          "title": "كورسات البرمجة في عصر الذكاء الاصطناعي",
-          "link": "https://www.youtube.com/watch?v=rULLqZhsn5w",
-          "videoId": "rULLqZhsn5w",
-          "pubDate": "2026-05-02T17:49:37+00:00"
-        },
-        {
-          "title": "حاجات لو رجع بيا الزمن هغيرها",
-          "link": "https://www.youtube.com/watch?v=jD9VdUmdVVc",
-          "videoId": "jD9VdUmdVVc",
-          "pubDate": "2026-04-18T13:46:09+00:00"
-        }
-      ],
-      "ok": true
+      "items": [],
+      "ok": false
     },
     "UCGrVvqu8PlVv0wPqA5kgY8A": {
       "handle": "ArabicArtificialIntelligence",
       "name": "الذكاء الاصطناعي العربي",
-      "feedTitle": "ذكاء اصطناعي عربي",
-      "items": [
-        {
-          "title": "كتبنا أول نسخة من ChatGPT 🤖 | Episode 4",
-          "link": "https://www.youtube.com/watch?v=BlVdvHnWY0Q",
-          "videoId": "BlVdvHnWY0Q",
-          "pubDate": "2026-05-11T17:00:21+00:00"
-        },
-        {
-          "title": "كيف يعمل ChatGPT فعليًا؟ 🧠 شرح Transformers و Attention",
-          "link": "https://www.youtube.com/watch?v=5CpWxNxkH5k",
-          "videoId": "5CpWxNxkH5k",
-          "pubDate": "2026-05-08T18:00:06+00:00"
-        },
-        {
-          "title": "بناء ChatGPT من الصفر 🔥 | الحلقة 2: اختيار البيانات وParameters",
-          "link": "https://www.youtube.com/watch?v=3mZm7UW3N48",
-          "videoId": "3mZm7UW3N48",
-          "pubDate": "2026-05-04T17:00:04+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "الذكاء الاصطناعي العربي",
+      "items": [],
+      "ok": false
     },
     "UCSXcmF4Gxl6Hc-m6cHYD_Vg": {
       "handle": "MohamedAnsary",
       "name": "محمد أنصاري",
-      "feedTitle": "Mohamed Ansary",
-      "items": [
-        {
-          "title": "كنز مجاني لإتقان المصطلحات الإنجليزية في سياقها الصحيح Youglish",
-          "link": "https://www.youtube.com/watch?v=8mDTGjLA1C8",
-          "videoId": "8mDTGjLA1C8",
-          "pubDate": "2026-05-11T08:51:34+00:00"
-        },
-        {
-          "title": "ثورة البحث العلمي: ChatGPT يلتقي بـ Consensus",
-          "link": "https://www.youtube.com/watch?v=RN8wayFP8hs",
-          "videoId": "RN8wayFP8hs",
-          "pubDate": "2026-05-10T11:54:11+00:00"
-        },
-        {
-          "title": "أداة Originality: الخيار الأقوى لكشف نصوص الذكاء الاصطناعي",
-          "link": "https://www.youtube.com/watch?v=M5ckwDtaPyc",
-          "videoId": "M5ckwDtaPyc",
-          "pubDate": "2026-05-07T08:12:15+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "محمد أنصاري",
+      "items": [],
+      "ok": false
     },
     "UCDqp23rTdCo_tXsuHLYF47Q": {
       "handle": "ArabianAiSchool",
       "name": "Arabian AI School",
-      "feedTitle": "مدرسة الذكاء الاصطناعي",
-      "items": [
-        {
-          "title": "عملت أداة مجانية تحول الفيديوهات الطويلة الى شورتس بالذكاء الاصطناعي",
-          "link": "https://www.youtube.com/watch?v=5KB6NmYfBIU",
-          "videoId": "5KB6NmYfBIU",
-          "pubDate": "2026-05-10T16:21:12+00:00"
-        },
-        {
-          "title": "قضيت شهرين مع Claude Cowork… ودي أفضل طريقة تستخدمه بيها",
-          "link": "https://www.youtube.com/watch?v=NQf6FqCG7tc",
-          "videoId": "NQf6FqCG7tc",
-          "pubDate": "2026-05-03T19:31:44+00:00"
-        },
-        {
-          "title": "وفر 20 دولار واستخدم Claude Cowork مجانا بطريقة رسمية",
-          "link": "https://www.youtube.com/watch?v=pxRzCDNMnf4",
-          "videoId": "pxRzCDNMnf4",
-          "pubDate": "2026-04-28T17:28:19+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "Arabian AI School",
+      "items": [],
+      "ok": false
     },
     "UCz0N3nKrJiDhNdKQvM6r93w": {
       "handle": "ryan.academy",
       "name": "Ryan Academy",
-      "feedTitle": "أكاديمية ريان | Ryan Academy",
-      "items": [
-        {
-          "title": "وفّر فلوس Claude Code و OpenAI API… خد Baseten API وجرب موديلات AI مجانًا 🔥",
-          "link": "https://www.youtube.com/watch?v=3EOvFItkWDM",
-          "videoId": "3EOvFItkWDM",
-          "pubDate": "2026-05-12T17:00:04+00:00"
-        },
-        {
-          "title": "عملت برنامج ويندوز بيعمل فيديوهات دينية بالذكاء الاصطناعي… حمله مجانًا 🔥",
-          "link": "https://www.youtube.com/watch?v=cQbbAGlMIGQ",
-          "videoId": "cQbbAGlMIGQ",
-          "pubDate": "2026-05-10T16:01:02+00:00"
-        },
-        {
-          "title": "أرخص اشتراكات قانونية لـ ChatGPT - Grok - Adobe - Canva - Gemini 🔥",
-          "link": "https://www.youtube.com/watch?v=RXop0SgX_9o",
-          "videoId": "RXop0SgX_9o",
-          "pubDate": "2026-05-07T16:00:50+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "Ryan Academy",
+      "items": [],
+      "ok": false
     },
     "UCXVSIaWCZBxqZ5eCxwIqRGw": {
       "handle": "TechnoFlashAITech",
       "name": "TechnoFlash AI",
-      "feedTitle": "تكنوفلاش – AI & Tech",
-      "items": [
-        {
-          "title": "اصنع تطبيقات ويب و مواقع Full-Stack كاملة مجانًا (تسجيل دخول + قواعد بيانات + نشر) | شرح Atoms.dev",
-          "link": "https://www.youtube.com/watch?v=KcdDXdZo_vU",
-          "videoId": "KcdDXdZo_vU",
-          "pubDate": "2026-05-11T11:59:55+00:00"
-        },
-        {
-          "title": "عاجل: موديل جوجل السري Gemini 3.2 يتفوق في البرمجة (تسريب خطير)",
-          "link": "https://www.youtube.com/watch?v=nWGC-oDRvaE",
-          "videoId": "nWGC-oDRvaE",
-          "pubDate": "2026-05-03T18:01:53+00:00"
-        },
-        {
-          "title": "امزج أغنيتين بالذكاء الاصطناعي واصنع لحن جديد!",
-          "link": "https://www.youtube.com/watch?v=_wW3LTM3wYs",
-          "videoId": "_wW3LTM3wYs",
-          "pubDate": "2026-05-01T17:17:46+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "TechnoFlash AI",
+      "items": [],
+      "ok": false
     },
     "UC16aC4Jti6tYAi0LuXmu-9w": {
       "handle": "KhairJaleesBook",
       "name": "خير جليس",
       "feedTitle": "خير جليس",
-      "items": [
-        {
-          "title": "ملخص كتاب أربعة آلاف أسبوع بقلم أوليفر بوركمان",
-          "link": "https://www.youtube.com/watch?v=WYSKTWSzVs0",
-          "videoId": "WYSKTWSzVs0",
-          "pubDate": "2026-05-11T10:25:40+00:00"
-        },
-        {
-          "title": "استخدم المال عندما يخلق أعلى قيمة - من  كتاب الموت مع الصفر",
-          "link": "https://www.youtube.com/watch?v=3N7rKbfqdW4",
-          "videoId": "3N7rKbfqdW4",
-          "pubDate": "2026-05-10T06:00:07+00:00"
-        },
-        {
-          "title": "الصحة تتراجع، والوقت يصبح لا يُقدّر بثمن  - من  كتاب الموت مع الصفر",
-          "link": "https://www.youtube.com/watch?v=bI0eb5rNEsI",
-          "videoId": "bI0eb5rNEsI",
-          "pubDate": "2026-05-09T06:00:23+00:00"
-        }
-      ],
-      "ok": true
+      "items": [],
+      "ok": false
     },
     "UCu1NJiJlhrhmF5ZgT-0yWdA": {
       "handle": "Jeelyaqraa",
       "name": "جيل يقرأ",
-      "feedTitle": "ReadTube - جيل يقرأ",
-      "items": [
-        {
-          "title": "احذر قبل فوات الأوان- كامل الصورة - أحمد السيد ",
-          "link": "https://www.youtube.com/watch?v=n9YW0Liz3rs",
-          "videoId": "n9YW0Liz3rs",
-          "pubDate": "2026-04-04T16:04:47+00:00"
-        },
-        {
-          "title": "الذين ضحكوا حتى البكاء -ملخص لكتاب د. مصطفى محمود",
-          "link": "https://www.youtube.com/watch?v=bSbrMABmf4E",
-          "videoId": "bSbrMABmf4E",
-          "pubDate": "2026-03-03T20:46:03+00:00"
-        },
-        {
-          "title": "المسيري يتنبأ بالمستقبل",
-          "link": "https://www.youtube.com/watch?v=N2hD24PnJQ4",
-          "videoId": "N2hD24PnJQ4",
-          "pubDate": "2026-03-01T20:56:54+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "جيل يقرأ",
+      "items": [],
+      "ok": false
     },
     "UCtUor2SqesPS3b_SMFtLT_w": {
       "handle": "a5drcom",
       "name": "أخضر",
       "feedTitle": "أخضر",
-      "items": [
-        {
-          "title": "الذكاء الاصطناعي: صديقك الجديد أم منافسك القادم؟",
-          "link": "https://www.youtube.com/watch?v=4hKWT0Bt-9s",
-          "videoId": "4hKWT0Bt-9s",
-          "pubDate": "2026-05-11T14:01:01+00:00"
-        },
-        {
-          "title": "استراتيجيات عملية لاتخاذ قرارات أذكى في زمن السرعة والذكاء الاصطناعي 🧠",
-          "link": "https://www.youtube.com/watch?v=NKAOBg0F-yg",
-          "videoId": "NKAOBg0F-yg",
-          "pubDate": "2026-05-10T14:05:13+00:00"
-        },
-        {
-          "title": "أنت عندك تعفن دماغ 💀 - كتاب: صيام الدوبامين لـ ثيبوت موريس #أخضر",
-          "link": "https://www.youtube.com/watch?v=O8eUh0BdlEE",
-          "videoId": "O8eUh0BdlEE",
-          "pubDate": "2026-05-08T15:00:49+00:00"
-        }
-      ],
-      "ok": true
+      "items": [],
+      "ok": false
     },
     "UCUjRjJ1-h3oUx40gf2tuh3w": {
       "handle": "Sha5bata",
       "name": "شخبطة",
-      "feedTitle": "شخبطة Sha5bata",
-      "items": [
-        {
-          "title": "القوة السحرية للعادات الصغيرة جدا",
-          "link": "https://www.youtube.com/watch?v=wqASaGl21uU",
-          "videoId": "wqASaGl21uU",
-          "pubDate": "2026-05-12T08:55:16+00:00"
-        },
-        {
-          "title": "عيشها صح .. اعتبر الفيديو دا إشارة ليك",
-          "link": "https://www.youtube.com/watch?v=LQpC4Q8BHSk",
-          "videoId": "LQpC4Q8BHSk",
-          "pubDate": "2026-04-30T09:30:10+00:00"
-        },
-        {
-          "title": "الصلابة النفسية VS الابتلاءات !!",
-          "link": "https://www.youtube.com/watch?v=rIIZajWCHFQ",
-          "videoId": "rIIZajWCHFQ",
-          "pubDate": "2026-04-15T11:25:31+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "شخبطة",
+      "items": [],
+      "ok": false
     },
     "UChbuH4HULlesX_rzlozkT6Q": {
       "handle": "AliMuhammadAli",
       "name": "علي محمد علي",
-      "feedTitle": "Ali Muhammad Ali",
-      "items": [
-        {
-          "title": "تجارب صغيرة  لتحسين حياتك - علي وكتاب",
-          "link": "https://www.youtube.com/watch?v=kJUIO2sLWlw",
-          "videoId": "kJUIO2sLWlw",
-          "pubDate": "2026-05-09T17:09:34+00:00"
-        },
-        {
-          "title": "هل أنت صباحي أم مسائي؟",
-          "link": "https://www.youtube.com/watch?v=ukWJmItc_BQ",
-          "videoId": "ukWJmItc_BQ",
-          "pubDate": "2026-04-25T14:10:40+00:00"
-        },
-        {
-          "title": "تقليل تشتت اليوتيوب",
-          "link": "https://www.youtube.com/watch?v=Xe5jIqOJ9Uo",
-          "videoId": "Xe5jIqOJ9Uo",
-          "pubDate": "2026-04-23T15:05:28+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "علي محمد علي",
+      "items": [],
+      "ok": false
     },
     "UCJlu6BjPWHZhzuCc0zVME0Q": {
       "handle": "Dupamicaffeine",
       "name": "دوباميكافيين",
-      "feedTitle": "دوباميكافين Dupamicaffeine",
-      "items": [
-        {
-          "title": "اكتشف نمط شخصيتك - دوباميكافين",
-          "link": "https://www.youtube.com/watch?v=2t-FjHZT33Y",
-          "videoId": "2t-FjHZT33Y",
-          "pubDate": "2026-04-29T13:00:06+00:00"
-        },
-        {
-          "title": "اهم استثمار تسويه في حياتك هو استثمارك في عقلك",
-          "link": "https://www.youtube.com/watch?v=GQU06NyQrKk",
-          "videoId": "GQU06NyQrKk",
-          "pubDate": "2026-04-23T13:00:28+00:00"
-        },
-        {
-          "title": "من التفكير إلى الشراء",
-          "link": "https://www.youtube.com/watch?v=FPUocf_VfSo",
-          "videoId": "FPUocf_VfSo",
-          "pubDate": "2026-04-23T12:39:10+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "دوباميكافيين",
+      "items": [],
+      "ok": false
     },
     "UC0LSnqrwqtMwl2YwfUpO66g": {
       "handle": "aljazeeradocumentary",
       "name": "الجزيرة الوثائقية",
-      "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
-      "items": [
-        {
-          "title": "صاحب مقولة \"وإنه لجهاد.. نصر أو استشهاد\"",
-          "link": "https://www.youtube.com/watch?v=Ofc8H18PVEk",
-          "videoId": "Ofc8H18PVEk",
-          "pubDate": "2026-05-12T21:00:01+00:00"
-        },
-        {
-          "title": "فتاة تتحدث 3 لغات: نحن اللبنانيون لدينا شيء مميز",
-          "link": "https://www.youtube.com/watch?v=nDbpVFqs9Ao",
-          "videoId": "nDbpVFqs9Ao",
-          "pubDate": "2026-05-12T20:00:01+00:00"
-        },
-        {
-          "title": "الأعوام الثقافية.. إندونيسيا | رحلة بالدراجة من جاكرتا إلى براكين جاوة",
-          "link": "https://www.youtube.com/watch?v=QfRES3grBoA",
-          "videoId": "QfRES3grBoA",
-          "pubDate": "2026-05-12T17:45:00+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "الجزيرة الوثائقية",
+      "items": [],
+      "ok": false
     },
     "UCArK7aSQ68vRCiJY2m7spkA": {
       "handle": "AsharqDoc",
       "name": "الشرق الوثائقية",
-      "feedTitle": "Asharq Documentary الشرق الوثائقية",
-      "items": [
-        {
-          "title": "مزارعو الفضاء: الثورة القادمة في إنتاج الغذاء على كوكب الأرض - الجزء الثاني  | الشرق الوثائقية",
-          "link": "https://www.youtube.com/watch?v=XqSyMX7OrYA",
-          "videoId": "XqSyMX7OrYA",
-          "pubDate": "2026-05-12T21:01:47+00:00"
-        },
-        {
-          "title": "كيف تستعد فتاة لم تتجاوز 19 عامًا لتصبح ملكة واحدة من أقدم الممالك في أوروبا؟",
-          "link": "https://www.youtube.com/watch?v=2_2CxfvBk1M",
-          "videoId": "2_2CxfvBk1M",
-          "pubDate": "2026-05-12T19:00:39+00:00"
-        },
-        {
-          "title": "يلبسن خصلات من شعر أمهاتهن وجداتهن",
-          "link": "https://www.youtube.com/watch?v=jkyKlpPQ4fI",
-          "videoId": "jkyKlpPQ4fI",
-          "pubDate": "2026-05-12T17:00:30+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "الشرق الوثائقية",
+      "items": [],
+      "ok": false
     },
     "UCLiTe0aOHShx7hXGyqZ9UIw": {
       "handle": "natgeoabudhabime",
       "name": "ناشيونال جيوغرافيك",
-      "feedTitle": "Nat Geo Abu Dhabi",
-      "items": [
-        {
-          "title": "الحلقة الثالثة | مطار دبي الدولي | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=UDk8ccrr5Ok",
-          "videoId": "UDk8ccrr5Ok",
-          "pubDate": "2026-05-12T19:27:39+00:00"
-        },
-        {
-          "title": "الحلقة الثانية | أمن المطارات: البرازيل | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=pgluFb9Iysk",
-          "videoId": "pgluFb9Iysk",
-          "pubDate": "2026-05-10T19:48:22+00:00"
-        },
-        {
-          "title": "كبرياء وتحامل | صيادو أفريقيا | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=DvdEEfrzbPE",
-          "videoId": "DvdEEfrzbPE",
-          "pubDate": "2026-05-09T19:59:31+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "ناشيونال جيوغرافيك",
+      "items": [],
+      "ok": false
     },
     "UCET6sWl4Xcu-U8Ka9PJPrwA": {
       "handle": "dwdocarabia",
       "name": "DW عربية وثائقي",
-      "feedTitle": "DW Documentary وثائقية دي دبليو",
-      "items": [
-        {
-          "title": "ريبورتاج | بعد القصف الإسرائيلي - البحث بين أنقاض بيروت | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=NTwPAZCls0s",
-          "videoId": "NTwPAZCls0s",
-          "pubDate": "2026-05-12T17:00:33+00:00"
-        },
-        {
-          "title": "وثائقي | العودة إلى الاستبداد - الربيع القصير للديمقراطية في تونس | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=QqFitVZWbyo",
-          "videoId": "QqFitVZWbyo",
-          "pubDate": "2026-05-10T15:00:40+00:00"
-        },
-        {
-          "title": "وثائقي | أسرار سانت موريتز: المقر الشتوي للأثرياء وأصحاب النفوذ | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=dmBJSjEtvEE",
-          "videoId": "dmBJSjEtvEE",
-          "pubDate": "2026-05-09T18:00:38+00:00"
-        }
-      ],
-      "ok": true
+      "feedTitle": "DW عربية وثائقي",
+      "items": [],
+      "ok": false
     }
   }
 }
