@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-13T13:57:59.145627+00:00",
+  "updated": "2026-05-13T16:14:28.819467+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -33,6 +33,12 @@
       "feedTitle": "كل يوم موقع جديد",
       "items": [
         {
+          "title": "أفضل أداة للمعلمين لإنشاء PowerPoint تعليمي بالذكاء الاصطناعي",
+          "link": "https://www.youtube.com/watch?v=PbPkkMejLnM",
+          "videoId": "PbPkkMejLnM",
+          "pubDate": "2026-05-13T16:00:39+00:00"
+        },
+        {
           "title": "جوجل تتفوق على نفسها وتحديث أكثر من رائع ... مش بس شات ده بيصنع الملفات!",
           "link": "https://www.youtube.com/watch?v=9Vd_Lg7q3E0",
           "videoId": "9Vd_Lg7q3E0",
@@ -43,12 +49,6 @@
           "link": "https://www.youtube.com/watch?v=htXp8zF-MRs",
           "videoId": "htXp8zF-MRs",
           "pubDate": "2026-05-09T16:01:09+00:00"
-        },
-        {
-          "title": "جوجل تفعلها مجدداً : نموذج صوت ذكاء اصطناعي لا يمكن تفريقه عن البشر! 🤯",
-          "link": "https://www.youtube.com/watch?v=SsSUaF1m1sw",
-          "videoId": "SsSUaF1m1sw",
-          "pubDate": "2026-05-08T13:00:55+00:00"
         }
       ],
       "ok": true
@@ -58,6 +58,12 @@
       "name": "مروة سليمان",
       "feedTitle": "Infotech4you - مروي سليمان",
       "items": [
+        {
+          "title": "استخدم هذا الأمر في Claude قبل ما المحادثة تستهلك كل التوكنز!",
+          "link": "https://www.youtube.com/watch?v=S8xSB2HdjVc",
+          "videoId": "S8xSB2HdjVc",
+          "pubDate": "2026-05-13T14:38:58+00:00"
+        },
         {
           "title": "جوجل تفاجئ المستخدمين بـ 4 ميزات جديدة في NotebookLM",
           "link": "https://www.youtube.com/watch?v=qBgZNvCoy6Q",
@@ -69,12 +75,6 @@
           "link": "https://www.youtube.com/watch?v=1ED6TACbfOU",
           "videoId": "1ED6TACbfOU",
           "pubDate": "2026-05-10T17:49:46+00:00"
-        },
-        {
-          "title": "جوجل تعود بقوة إلى السباق وأقوى وكيل بحث عميق Deep Research Max",
-          "link": "https://www.youtube.com/watch?v=KBoHFZCyjT8",
-          "videoId": "KBoHFZCyjT8",
-          "pubDate": "2026-05-09T15:00:35+00:00"
         }
       ],
       "ok": true
@@ -293,7 +293,7 @@
       "feedTitle": "تكنوفلاش – AI & Tech",
       "items": [
         {
-          "title": "وداعاً Adobe Acrobat ! مراجعة UPDF 2.5 البديل الأذكى بذكاء GPT-5 و DeepSeek R1",
+          "title": "برنامج UPDF 2.5 الأقوى من Adobe Acrobat؟ الذكاء الاصطناعي غيّر كل شيء",
           "link": "https://www.youtube.com/watch?v=wcOS2gBtN4c",
           "videoId": "wcOS2gBtN4c",
           "pubDate": "2026-05-13T12:15:37+00:00"
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "أعجوبة في قلب الصحراء الجزائرية",
+          "link": "https://www.youtube.com/watch?v=UIQK_y2b0Mc",
+          "videoId": "UIQK_y2b0Mc",
+          "pubDate": "2026-05-13T16:00:01+00:00"
+        },
+        {
+          "title": "\"لم أستوعب ما رأيته\" ابن ممرضة فرنسية يستعيد ذكريات مخيم الرشيدية 1980",
+          "link": "https://www.youtube.com/watch?v=XSJXQsXT2MI",
+          "videoId": "XSJXQsXT2MI",
+          "pubDate": "2026-05-13T14:28:45+00:00"
+        },
+        {
           "title": "موسم الفريكة.. فلسطين",
           "link": "https://www.youtube.com/watch?v=1_hAu1sGuNE",
           "videoId": "1_hAu1sGuNE",
           "pubDate": "2026-05-13T11:38:50+00:00"
-        },
-        {
-          "title": "نادي المنستير التونسي.. عملاق كرة السلة الأفريقية والمرشح دائما للفوز",
-          "link": "https://www.youtube.com/watch?v=e3y9hK2Yq9I",
-          "videoId": "e3y9hK2Yq9I",
-          "pubDate": "2026-05-13T11:24:14+00:00"
-        },
-        {
-          "title": "التضامن مع فلسطين.. انتهى باعتقال طالب تونسي ونفيه إلى رجيم معتوق عام 1987",
-          "link": "https://www.youtube.com/watch?v=SIB4BbRncvc",
-          "videoId": "SIB4BbRncvc",
-          "pubDate": "2026-05-13T11:00:01+00:00"
         }
       ],
       "ok": true
@@ -501,16 +501,16 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "لماذا احتشد نحو 3 ملايين جندي؟",
+          "link": "https://www.youtube.com/watch?v=U0-dvMlD6-U",
+          "videoId": "U0-dvMlD6-U",
+          "pubDate": "2026-05-13T15:30:15+00:00"
+        },
+        {
           "title": "رجل اشتهر بالعنف الشديد",
           "link": "https://www.youtube.com/watch?v=ke3b9EVsp60",
           "videoId": "ke3b9EVsp60",
           "pubDate": "2026-05-13T13:27:37+00:00"
-        },
-        {
-          "title": "معركة الإسكندر الأكبر والفرس",
-          "link": "https://www.youtube.com/watch?v=ljsfKQUMKQo",
-          "videoId": "ljsfKQUMKQo",
-          "pubDate": "2026-05-13T12:12:59+00:00"
         },
         {
           "title": "مزارعو الفضاء: الثورة القادمة في إنتاج الغذاء على كوكب الأرض - الجزء الثاني  | الشرق الوثائقية",
