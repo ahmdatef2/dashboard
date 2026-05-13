@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-13T09:32:46.093094+00:00",
+  "updated": "2026-05-13T11:52:28.529106+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -371,22 +371,22 @@
       "feedTitle": "أخضر",
       "items": [
         {
+          "title": "هل أنت مستعد لتغيير معادلة نجاحك.؟",
+          "link": "https://www.youtube.com/watch?v=TSc1u5R-bcQ",
+          "videoId": "TSc1u5R-bcQ",
+          "pubDate": "2026-05-13T11:39:24+00:00"
+        },
+        {
           "title": "الذكاء الاصطناعي: صديقك الجديد أم منافسك القادم؟",
           "link": "https://www.youtube.com/watch?v=4hKWT0Bt-9s",
           "videoId": "4hKWT0Bt-9s",
           "pubDate": "2026-05-11T14:01:01+00:00"
         },
         {
-          "title": "استراتيجيات عملية لاتخاذ قرارات أذكى في زمن السرعة والذكاء الاصطناعي 🧠",
+          "title": "طرق لاتخاذ قرارات أذكى في زمن الذكاء الاصطناعي 🧠",
           "link": "https://www.youtube.com/watch?v=NKAOBg0F-yg",
           "videoId": "NKAOBg0F-yg",
           "pubDate": "2026-05-10T14:05:13+00:00"
-        },
-        {
-          "title": "أنت عندك تعفن دماغ 💀 - كتاب: صيام الدوبامين لـ ثيبوت موريس #أخضر",
-          "link": "https://www.youtube.com/watch?v=O8eUh0BdlEE",
-          "videoId": "O8eUh0BdlEE",
-          "pubDate": "2026-05-08T15:00:49+00:00"
         }
       ],
       "ok": true
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
-          "title": "صنعاء",
-          "link": "https://www.youtube.com/watch?v=MAmF2HB4C8U",
-          "videoId": "MAmF2HB4C8U",
-          "pubDate": "2026-05-13T08:35:56+00:00"
+          "title": "موسم الفريكة.. فلسطين",
+          "link": "https://www.youtube.com/watch?v=1_hAu1sGuNE",
+          "videoId": "1_hAu1sGuNE",
+          "pubDate": "2026-05-13T11:38:50+00:00"
         },
         {
-          "title": "لم يستطع أن يكمل شهادته عن النكبة",
-          "link": "https://www.youtube.com/watch?v=LJVJcEvhNj0",
-          "videoId": "LJVJcEvhNj0",
-          "pubDate": "2026-05-13T08:00:00+00:00"
+          "title": "نادي المنستير التونسي.. عملاق كرة السلة الأفريقية والمرشح دائما للفوز",
+          "link": "https://www.youtube.com/watch?v=e3y9hK2Yq9I",
+          "videoId": "e3y9hK2Yq9I",
+          "pubDate": "2026-05-13T11:24:14+00:00"
         },
         {
-          "title": "تطوان.. المغرب",
-          "link": "https://www.youtube.com/watch?v=ud1yOFlryhE",
-          "videoId": "ud1yOFlryhE",
-          "pubDate": "2026-05-13T07:03:47+00:00"
+          "title": "التضامن مع فلسطين.. انتهى باعتقال طالب تونسي ونفيه إلى رجيم معتوق عام 1987",
+          "link": "https://www.youtube.com/watch?v=SIB4BbRncvc",
+          "videoId": "SIB4BbRncvc",
+          "pubDate": "2026-05-13T11:00:01+00:00"
         }
       ],
       "ok": true
