@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-14T16:01:40.756438+00:00",
+  "updated": "2026-05-14T18:25:51.683469+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -215,6 +215,12 @@
       "feedTitle": "Mohamed Ansary",
       "items": [
         {
+          "title": "NotebookLM  ميزة جديدة في",
+          "link": "https://www.youtube.com/watch?v=H6-JL9F2yTU",
+          "videoId": "H6-JL9F2yTU",
+          "pubDate": "2026-05-14T16:20:59+00:00"
+        },
+        {
           "title": "كيفية ربط ChatGPT بعملاق البحث العلمي Consensus",
           "link": "https://www.youtube.com/watch?v=keU9lnh9ftM",
           "videoId": "keU9lnh9ftM",
@@ -225,12 +231,6 @@
           "link": "https://www.youtube.com/watch?v=xBxtLsw3N1E",
           "videoId": "xBxtLsw3N1E",
           "pubDate": "2026-05-13T12:17:21+00:00"
-        },
-        {
-          "title": "كنز مجاني لإتقان المصطلحات الإنجليزية في سياقها الصحيح Youglish",
-          "link": "https://www.youtube.com/watch?v=8mDTGjLA1C8",
-          "videoId": "8mDTGjLA1C8",
-          "pubDate": "2026-05-11T08:51:34+00:00"
         }
       ],
       "ok": true
@@ -267,6 +267,12 @@
       "feedTitle": "أكاديمية ريان | Ryan Academy",
       "items": [
         {
+          "title": "من غير مبرمجين؟ Atoms AI هيبني مشروعك بفريق كامل من الذكاء الاصطناعي 🤯",
+          "link": "https://www.youtube.com/watch?v=bs-Has24NIo",
+          "videoId": "bs-Has24NIo",
+          "pubDate": "2026-05-14T17:00:52+00:00"
+        },
+        {
           "title": "وفّر فلوس Claude Code و OpenAI API… خد Baseten API وجرب موديلات AI مجانًا 🔥",
           "link": "https://www.youtube.com/watch?v=3EOvFItkWDM",
           "videoId": "3EOvFItkWDM",
@@ -277,12 +283,6 @@
           "link": "https://www.youtube.com/watch?v=cQbbAGlMIGQ",
           "videoId": "cQbbAGlMIGQ",
           "pubDate": "2026-05-10T16:01:02+00:00"
-        },
-        {
-          "title": "أرخص اشتراكات قانونية لـ ChatGPT - Grok - Adobe - Canva - Gemini 🔥",
-          "link": "https://www.youtube.com/watch?v=RXop0SgX_9o",
-          "videoId": "RXop0SgX_9o",
-          "pubDate": "2026-05-07T16:00:50+00:00"
         }
       ],
       "ok": true
@@ -293,7 +293,7 @@
       "feedTitle": "تكنوفلاش – AI & Tech",
       "items": [
         {
-          "title": "حول أي صورة عادية لإعلان سينمائي احترافي بالذكاء الاصطناعي",
+          "title": "كيف تصمم إعلانات احترافية بالذكاء الاصطناعي بالهاتف أو الكمبيوتر مجاناً بدون خبرة في الفوتوشوب ",
           "link": "https://www.youtube.com/watch?v=Xl0r01kAgas",
           "videoId": "Xl0r01kAgas",
           "pubDate": "2026-05-14T09:23:37+00:00"
@@ -371,6 +371,12 @@
       "feedTitle": "أخضر",
       "items": [
         {
+          "title": "تعلم أسرار الـ AI لتصنع الفارق في مسارك المهني.",
+          "link": "https://www.youtube.com/watch?v=y1E0KDWEEXQ",
+          "videoId": "y1E0KDWEEXQ",
+          "pubDate": "2026-05-14T17:17:17+00:00"
+        },
+        {
           "title": "هل أنت مستعد لتغيير معادلة نجاحك.؟",
           "link": "https://www.youtube.com/watch?v=TSc1u5R-bcQ",
           "videoId": "TSc1u5R-bcQ",
@@ -381,12 +387,6 @@
           "link": "https://www.youtube.com/watch?v=4hKWT0Bt-9s",
           "videoId": "4hKWT0Bt-9s",
           "pubDate": "2026-05-11T14:01:01+00:00"
-        },
-        {
-          "title": "طرق لاتخاذ قرارات أذكى في زمن الذكاء الاصطناعي 🧠",
-          "link": "https://www.youtube.com/watch?v=NKAOBg0F-yg",
-          "videoId": "NKAOBg0F-yg",
-          "pubDate": "2026-05-10T14:05:13+00:00"
         }
       ],
       "ok": true
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "خالد.. أب من غزة أنهكه النزوح والفقد والمرض",
+          "link": "https://www.youtube.com/watch?v=j1BPxgQzrXM",
+          "videoId": "j1BPxgQzrXM",
+          "pubDate": "2026-05-14T17:45:06+00:00"
+        },
+        {
+          "title": "كيف خططت اتفاقية سايكس بيكو لإنشاء دولة إسرائيل؟",
+          "link": "https://www.youtube.com/watch?v=wPn4XOswL_Q",
+          "videoId": "wPn4XOswL_Q",
+          "pubDate": "2026-05-14T17:00:01+00:00"
+        },
+        {
           "title": "الذكرى 78 للنكبة.. ما مصير 1500 فلسطيني أصروا على البقاء في حيفا عام 1948؟",
           "link": "https://www.youtube.com/watch?v=xY113Le4fyk",
           "videoId": "xY113Le4fyk",
           "pubDate": "2026-05-14T15:00:01+00:00"
-        },
-        {
-          "title": "الكاميرا تخيف الاحتلال",
-          "link": "https://www.youtube.com/watch?v=eeDwaZG_2Cs",
-          "videoId": "eeDwaZG_2Cs",
-          "pubDate": "2026-05-14T12:00:02+00:00"
-        },
-        {
-          "title": "اختبار قرآني في عائلة لبنانية.. كل يوم لا بد أن يقرؤوا 5 أجزاء",
-          "link": "https://www.youtube.com/watch?v=RNv1cEmOMVI",
-          "videoId": "RNv1cEmOMVI",
-          "pubDate": "2026-05-14T10:00:01+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "صوت خارق يخترق الغرفة",
+          "link": "https://www.youtube.com/watch?v=TkN3wZjZYZ8",
+          "videoId": "TkN3wZjZYZ8",
+          "pubDate": "2026-05-14T17:00:32+00:00"
+        },
         {
           "title": "لماذا تمت معاقبة شركة \"شي إن\"؟",
           "link": "https://www.youtube.com/watch?v=zALNHyUSc8k",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=qr-j8MMet9o",
           "videoId": "qr-j8MMet9o",
           "pubDate": "2026-05-14T14:36:31+00:00"
-        },
-        {
-          "title": "آخر صورة له في الملعب…",
-          "link": "https://www.youtube.com/watch?v=Sv-s7w98BqY",
-          "videoId": "Sv-s7w98BqY",
-          "pubDate": "2026-05-14T11:12:45+00:00"
         }
       ],
       "ok": true
