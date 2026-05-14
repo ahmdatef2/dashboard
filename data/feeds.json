@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-14T11:06:25.712018+00:00",
+  "updated": "2026-05-14T13:22:10.135151+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -59,6 +59,12 @@
       "feedTitle": "Infotech4you - مروي سليمان",
       "items": [
         {
+          "title": "SenseNova U1: نموذج جديد يفهم الصور ويصمم محتوى بصري! U1",
+          "link": "https://www.youtube.com/watch?v=urgpXeTSnYs",
+          "videoId": "urgpXeTSnYs",
+          "pubDate": "2026-05-14T13:01:37+00:00"
+        },
+        {
           "title": "استخدم هذا الأمر في Claude قبل ما المحادثة تستهلك كل التوكنز!",
           "link": "https://www.youtube.com/watch?v=S8xSB2HdjVc",
           "videoId": "S8xSB2HdjVc",
@@ -69,12 +75,6 @@
           "link": "https://www.youtube.com/watch?v=qBgZNvCoy6Q",
           "videoId": "qBgZNvCoy6Q",
           "pubDate": "2026-05-11T18:16:49+00:00"
-        },
-        {
-          "title": "جوجل تجهز مفاجأة ضخمة: وكيل AI جديد يشتغل مكانك وظهور Gemini 3.2 flash للإختبار!",
-          "link": "https://www.youtube.com/watch?v=1ED6TACbfOU",
-          "videoId": "1ED6TACbfOU",
-          "pubDate": "2026-05-10T17:49:46+00:00"
         }
       ],
       "ok": true
@@ -319,6 +319,12 @@
       "feedTitle": "خير جليس",
       "items": [
         {
+          "title": "السيطرة وهم - من  كتاب أربعة آلاف أسبوع",
+          "link": "https://www.youtube.com/watch?v=56_WDzL1kos",
+          "videoId": "56_WDzL1kos",
+          "pubDate": "2026-05-14T13:00:09+00:00"
+        },
+        {
           "title": "الانشغال ليس إنتاجية - من  كتاب أربعة آلاف أسبوع",
           "link": "https://www.youtube.com/watch?v=fxVgjNi0m_4",
           "videoId": "fxVgjNi0m_4",
@@ -329,12 +335,6 @@
           "link": "https://www.youtube.com/watch?v=yb043ddBOk0",
           "videoId": "yb043ddBOk0",
           "pubDate": "2026-05-13T06:00:45+00:00"
-        },
-        {
-          "title": "ملخص كتاب أربعة آلاف أسبوع بقلم أوليفر بوركمان",
-          "link": "https://www.youtube.com/watch?v=WYSKTWSzVs0",
-          "videoId": "WYSKTWSzVs0",
-          "pubDate": "2026-05-11T10:25:40+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "الكاميرا تخيف الاحتلال",
+          "link": "https://www.youtube.com/watch?v=eeDwaZG_2Cs",
+          "videoId": "eeDwaZG_2Cs",
+          "pubDate": "2026-05-14T12:00:02+00:00"
+        },
+        {
           "title": "اختبار قرآني في عائلة لبنانية.. كل يوم لا بد أن يقرؤوا 5 أجزاء",
           "link": "https://www.youtube.com/watch?v=RNv1cEmOMVI",
           "videoId": "RNv1cEmOMVI",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=4_NZd-pineg",
           "videoId": "4_NZd-pineg",
           "pubDate": "2026-05-14T08:00:01+00:00"
-        },
-        {
-          "title": "الموصل",
-          "link": "https://www.youtube.com/watch?v=WvrNiuy6fBA",
-          "videoId": "WvrNiuy6fBA",
-          "pubDate": "2026-05-14T06:37:37+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "آخر صورة له في الملعب…",
+          "link": "https://www.youtube.com/watch?v=Sv-s7w98BqY",
+          "videoId": "Sv-s7w98BqY",
+          "pubDate": "2026-05-14T11:12:45+00:00"
+        },
         {
           "title": "عمالقة الدفاع .. الدبابات والمدرعات | الشرق الوثائقية",
           "link": "https://www.youtube.com/watch?v=VehnPlxIYZI",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=HCeIzOGHEYk",
           "videoId": "HCeIzOGHEYk",
           "pubDate": "2026-05-13T21:00:25+00:00"
-        },
-        {
-          "title": "إل تشابو",
-          "link": "https://www.youtube.com/watch?v=Z-abSc_vF1U",
-          "videoId": "Z-abSc_vF1U",
-          "pubDate": "2026-05-13T19:00:26+00:00"
         }
       ],
       "ok": true
