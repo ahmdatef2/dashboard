@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-14T20:21:18.259556+00:00",
+  "updated": "2026-05-14T21:57:36.117073+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "ذاكرة فلسطين المرئية التي حاول الاحتلال البريطاني محوها",
+          "link": "https://www.youtube.com/watch?v=yvaHSm9RGxI",
+          "videoId": "yvaHSm9RGxI",
+          "pubDate": "2026-05-14T20:59:01+00:00"
+        },
+        {
           "title": "وعد بلفور الذي مهد لاحتلال فلسطين",
           "link": "https://www.youtube.com/watch?v=dh24M8YZjRs",
           "videoId": "dh24M8YZjRs",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=P-9ioO-gsD0",
           "videoId": "P-9ioO-gsD0",
           "pubDate": "2026-05-14T19:00:01+00:00"
-        },
-        {
-          "title": "خالد.. أب من غزة أنهكه النزوح والفقد والمرض",
-          "link": "https://www.youtube.com/watch?v=j1BPxgQzrXM",
-          "videoId": "j1BPxgQzrXM",
-          "pubDate": "2026-05-14T17:45:06+00:00"
         }
       ],
       "ok": true
