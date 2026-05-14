@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-14T01:51:36.415372+00:00",
+  "updated": "2026-05-14T05:37:02.338773+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -81,9 +81,28 @@
     "UCXVSIaWCZBxqZ5eCxwIqRGw": {
       "handle": "TechnoFlashAITech",
       "name": "TechnoFlash AI",
-      "feedTitle": "TechnoFlash AI",
-      "items": [],
-      "ok": false
+      "feedTitle": "تكنوفلاش – AI & Tech",
+      "items": [
+        {
+          "title": "حول ملفاتك إلى خرائط ذهنية مبتكرة بالذكاء الاصطناعي!",
+          "link": "https://www.youtube.com/watch?v=0Gqhbu_N7FQ",
+          "videoId": "0Gqhbu_N7FQ",
+          "pubDate": "2026-05-13T18:25:00+00:00"
+        },
+        {
+          "title": "ذكاء اصطناعي يجيب عن أسئلتك من أي ملف PDF!",
+          "link": "https://www.youtube.com/watch?v=diWtOcLgp3w",
+          "videoId": "diWtOcLgp3w",
+          "pubDate": "2026-05-13T18:20:00+00:00"
+        },
+        {
+          "title": "أنجز مهامك بسرعة خارقة مع هذا البرنامج!",
+          "link": "https://www.youtube.com/watch?v=iTc-3x_jXDQ",
+          "videoId": "iTc-3x_jXDQ",
+          "pubDate": "2026-05-13T18:15:34+00:00"
+        }
+      ],
+      "ok": true
     },
     "UC16aC4Jti6tYAi0LuXmu-9w": {
       "handle": "KhairJaleesBook",
