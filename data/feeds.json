@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-14T13:22:10.135151+00:00",
+  "updated": "2026-05-14T16:01:40.756438+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -33,7 +33,7 @@
       "feedTitle": "كل يوم موقع جديد",
       "items": [
         {
-          "title": "أفضل أداة للمعلمين لإنشاء PowerPoint تعليمي بالذكاء الاصطناعي",
+          "title": "انت من تقرر! أفضل أداة للمعلمين لإنشاء عرض تعليمي بالذكاء الاصطناعي",
           "link": "https://www.youtube.com/watch?v=PbPkkMejLnM",
           "videoId": "PbPkkMejLnM",
           "pubDate": "2026-05-13T16:00:39+00:00"
@@ -59,7 +59,7 @@
       "feedTitle": "Infotech4you - مروي سليمان",
       "items": [
         {
-          "title": "SenseNova U1: نموذج جديد يفهم الصور ويصمم محتوى بصري! U1",
+          "title": "الصين من جديد تعود مع SenseNova … والنتيجة كانت مفاجأة!",
           "link": "https://www.youtube.com/watch?v=urgpXeTSnYs",
           "videoId": "urgpXeTSnYs",
           "pubDate": "2026-05-14T13:01:37+00:00"
@@ -293,7 +293,7 @@
       "feedTitle": "تكنوفلاش – AI & Tech",
       "items": [
         {
-          "title": "البروموت السري اللي بيحوّل أي صورة لإعلان سينمائي احترافي  ",
+          "title": "حول أي صورة عادية لإعلان سينمائي احترافي بالذكاء الاصطناعي",
           "link": "https://www.youtube.com/watch?v=Xl0r01kAgas",
           "videoId": "Xl0r01kAgas",
           "pubDate": "2026-05-14T09:23:37+00:00"
@@ -449,6 +449,12 @@
       "feedTitle": "دوباميكافين Dupamicaffeine",
       "items": [
         {
+          "title": "قهوة الخميس وكل يوم",
+          "link": "https://www.youtube.com/watch?v=TwPTmhqIBDg",
+          "videoId": "TwPTmhqIBDg",
+          "pubDate": "2026-05-14T13:53:33+00:00"
+        },
+        {
           "title": "اكتشف نمط شخصيتك - دوباميكافين",
           "link": "https://www.youtube.com/watch?v=2t-FjHZT33Y",
           "videoId": "2t-FjHZT33Y",
@@ -459,12 +465,6 @@
           "link": "https://www.youtube.com/watch?v=GQU06NyQrKk",
           "videoId": "GQU06NyQrKk",
           "pubDate": "2026-04-23T13:00:28+00:00"
-        },
-        {
-          "title": "من التفكير إلى الشراء",
-          "link": "https://www.youtube.com/watch?v=FPUocf_VfSo",
-          "videoId": "FPUocf_VfSo",
-          "pubDate": "2026-04-23T12:39:10+00:00"
         }
       ],
       "ok": true
@@ -474,6 +474,12 @@
       "name": "الجزيرة الوثائقية",
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
+        {
+          "title": "الذكرى 78 للنكبة.. ما مصير 1500 فلسطيني أصروا على البقاء في حيفا عام 1948؟",
+          "link": "https://www.youtube.com/watch?v=xY113Le4fyk",
+          "videoId": "xY113Le4fyk",
+          "pubDate": "2026-05-14T15:00:01+00:00"
+        },
         {
           "title": "الكاميرا تخيف الاحتلال",
           "link": "https://www.youtube.com/watch?v=eeDwaZG_2Cs",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=RNv1cEmOMVI",
           "videoId": "RNv1cEmOMVI",
           "pubDate": "2026-05-14T10:00:01+00:00"
-        },
-        {
-          "title": "رأت يافا بالألوان.. فاختنق صوتها",
-          "link": "https://www.youtube.com/watch?v=4_NZd-pineg",
-          "videoId": "4_NZd-pineg",
-          "pubDate": "2026-05-14T08:00:01+00:00"
         }
       ],
       "ok": true
@@ -501,22 +501,22 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "لماذا تمت معاقبة شركة \"شي إن\"؟",
+          "link": "https://www.youtube.com/watch?v=zALNHyUSc8k",
+          "videoId": "zALNHyUSc8k",
+          "pubDate": "2026-05-14T15:30:39+00:00"
+        },
+        {
+          "title": "الجاسوس أوليغ غورديفسكي",
+          "link": "https://www.youtube.com/watch?v=qr-j8MMet9o",
+          "videoId": "qr-j8MMet9o",
+          "pubDate": "2026-05-14T14:36:31+00:00"
+        },
+        {
           "title": "آخر صورة له في الملعب…",
           "link": "https://www.youtube.com/watch?v=Sv-s7w98BqY",
           "videoId": "Sv-s7w98BqY",
           "pubDate": "2026-05-14T11:12:45+00:00"
-        },
-        {
-          "title": "عمالقة الدفاع .. الدبابات والمدرعات | الشرق الوثائقية",
-          "link": "https://www.youtube.com/watch?v=VehnPlxIYZI",
-          "videoId": "VehnPlxIYZI",
-          "pubDate": "2026-05-13T21:14:32+00:00"
-        },
-        {
-          "title": "عدد من النساء في سجون أوكلاهوما",
-          "link": "https://www.youtube.com/watch?v=HCeIzOGHEYk",
-          "videoId": "HCeIzOGHEYk",
-          "pubDate": "2026-05-13T21:00:25+00:00"
         }
       ],
       "ok": true
