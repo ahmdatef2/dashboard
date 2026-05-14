@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-14T08:21:59.366042+00:00",
+  "updated": "2026-05-14T11:06:25.712018+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -215,6 +215,12 @@
       "feedTitle": "Mohamed Ansary",
       "items": [
         {
+          "title": "كيفية ربط ChatGPT بعملاق البحث العلمي Consensus",
+          "link": "https://www.youtube.com/watch?v=keU9lnh9ftM",
+          "videoId": "keU9lnh9ftM",
+          "pubDate": "2026-05-14T10:56:03+00:00"
+        },
+        {
           "title": "تصحيح الكتابة بالذكاء الاصطناعي من خلال موقع Trinka.ai",
           "link": "https://www.youtube.com/watch?v=xBxtLsw3N1E",
           "videoId": "xBxtLsw3N1E",
@@ -225,12 +231,6 @@
           "link": "https://www.youtube.com/watch?v=8mDTGjLA1C8",
           "videoId": "8mDTGjLA1C8",
           "pubDate": "2026-05-11T08:51:34+00:00"
-        },
-        {
-          "title": "ثورة البحث العلمي: ChatGPT يلتقي بـ Consensus",
-          "link": "https://www.youtube.com/watch?v=RN8wayFP8hs",
-          "videoId": "RN8wayFP8hs",
-          "pubDate": "2026-05-10T11:54:11+00:00"
         }
       ],
       "ok": true
@@ -293,6 +293,12 @@
       "feedTitle": "تكنوفلاش – AI & Tech",
       "items": [
         {
+          "title": "البروموت السري اللي بيحوّل أي صورة لإعلان سينمائي احترافي  ",
+          "link": "https://www.youtube.com/watch?v=Xl0r01kAgas",
+          "videoId": "Xl0r01kAgas",
+          "pubDate": "2026-05-14T09:23:37+00:00"
+        },
+        {
           "title": "حول ملفاتك إلى خرائط ذهنية مبتكرة بالذكاء الاصطناعي!",
           "link": "https://www.youtube.com/watch?v=0Gqhbu_N7FQ",
           "videoId": "0Gqhbu_N7FQ",
@@ -303,12 +309,6 @@
           "link": "https://www.youtube.com/watch?v=diWtOcLgp3w",
           "videoId": "diWtOcLgp3w",
           "pubDate": "2026-05-13T18:20:00+00:00"
-        },
-        {
-          "title": "أنجز مهامك بسرعة خارقة مع هذا البرنامج!",
-          "link": "https://www.youtube.com/watch?v=iTc-3x_jXDQ",
-          "videoId": "iTc-3x_jXDQ",
-          "pubDate": "2026-05-13T18:15:34+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "اختبار قرآني في عائلة لبنانية.. كل يوم لا بد أن يقرؤوا 5 أجزاء",
+          "link": "https://www.youtube.com/watch?v=RNv1cEmOMVI",
+          "videoId": "RNv1cEmOMVI",
+          "pubDate": "2026-05-14T10:00:01+00:00"
+        },
+        {
           "title": "رأت يافا بالألوان.. فاختنق صوتها",
           "link": "https://www.youtube.com/watch?v=4_NZd-pineg",
           "videoId": "4_NZd-pineg",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=WvrNiuy6fBA",
           "videoId": "WvrNiuy6fBA",
           "pubDate": "2026-05-14T06:37:37+00:00"
-        },
-        {
-          "title": "أطفال يحفظون القرآن على ارتفاع 3000 متر في سلطنة عمان",
-          "link": "https://www.youtube.com/watch?v=SRKwtS0sTiY",
-          "videoId": "SRKwtS0sTiY",
-          "pubDate": "2026-05-13T21:00:01+00:00"
         }
       ],
       "ok": true
