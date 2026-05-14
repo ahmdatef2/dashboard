@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-14T18:25:51.683469+00:00",
+  "updated": "2026-05-14T20:21:18.259556+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -33,7 +33,7 @@
       "feedTitle": "كل يوم موقع جديد",
       "items": [
         {
-          "title": "انت من تقرر! أفضل أداة للمعلمين لإنشاء عرض تعليمي بالذكاء الاصطناعي",
+          "title": "5 منصات لإنشاء عرض تعليمي بالذكاء الاصطناعي.. شاهد وقرر من الأفضل!",
           "link": "https://www.youtube.com/watch?v=PbPkkMejLnM",
           "videoId": "PbPkkMejLnM",
           "pubDate": "2026-05-13T16:00:39+00:00"
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "وعد بلفور الذي مهد لاحتلال فلسطين",
+          "link": "https://www.youtube.com/watch?v=dh24M8YZjRs",
+          "videoId": "dh24M8YZjRs",
+          "pubDate": "2026-05-14T20:00:00+00:00"
+        },
+        {
+          "title": "\"شهر وسنة\".. موال يختصر ألم النكبة ومرارة اللجوء",
+          "link": "https://www.youtube.com/watch?v=P-9ioO-gsD0",
+          "videoId": "P-9ioO-gsD0",
+          "pubDate": "2026-05-14T19:00:01+00:00"
+        },
+        {
           "title": "خالد.. أب من غزة أنهكه النزوح والفقد والمرض",
           "link": "https://www.youtube.com/watch?v=j1BPxgQzrXM",
           "videoId": "j1BPxgQzrXM",
           "pubDate": "2026-05-14T17:45:06+00:00"
-        },
-        {
-          "title": "كيف خططت اتفاقية سايكس بيكو لإنشاء دولة إسرائيل؟",
-          "link": "https://www.youtube.com/watch?v=wPn4XOswL_Q",
-          "videoId": "wPn4XOswL_Q",
-          "pubDate": "2026-05-14T17:00:01+00:00"
-        },
-        {
-          "title": "الذكرى 78 للنكبة.. ما مصير 1500 فلسطيني أصروا على البقاء في حيفا عام 1948؟",
-          "link": "https://www.youtube.com/watch?v=xY113Le4fyk",
-          "videoId": "xY113Le4fyk",
-          "pubDate": "2026-05-14T15:00:01+00:00"
         }
       ],
       "ok": true
@@ -501,22 +501,22 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "عمالقة الدفاع .. الطائرات المقاتلة والمسيّرات | الشرق الوثائقية",
+          "link": "https://www.youtube.com/watch?v=Tgn5eufpEow",
+          "videoId": "Tgn5eufpEow",
+          "pubDate": "2026-05-14T20:00:31+00:00"
+        },
+        {
+          "title": "مقابلة خطيرة مع موزع مخدرات سابق",
+          "link": "https://www.youtube.com/watch?v=h9oK7hurcCQ",
+          "videoId": "h9oK7hurcCQ",
+          "pubDate": "2026-05-14T19:00:31+00:00"
+        },
+        {
           "title": "صوت خارق يخترق الغرفة",
           "link": "https://www.youtube.com/watch?v=TkN3wZjZYZ8",
           "videoId": "TkN3wZjZYZ8",
           "pubDate": "2026-05-14T17:00:32+00:00"
-        },
-        {
-          "title": "لماذا تمت معاقبة شركة \"شي إن\"؟",
-          "link": "https://www.youtube.com/watch?v=zALNHyUSc8k",
-          "videoId": "zALNHyUSc8k",
-          "pubDate": "2026-05-14T15:30:39+00:00"
-        },
-        {
-          "title": "الجاسوس أوليغ غورديفسكي",
-          "link": "https://www.youtube.com/watch?v=qr-j8MMet9o",
-          "videoId": "qr-j8MMet9o",
-          "pubDate": "2026-05-14T14:36:31+00:00"
         }
       ],
       "ok": true
