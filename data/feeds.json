@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-15T08:33:28.883812+00:00",
+  "updated": "2026-05-15T11:09:05.415468+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -33,6 +33,12 @@
       "feedTitle": "كل يوم موقع جديد",
       "items": [
         {
+          "title": "تحديث جديد في NotebookLM وطريقة غير تقليدية لعمل خريطة ذهنية",
+          "link": "https://www.youtube.com/watch?v=yyOTqQwRkX4",
+          "videoId": "yyOTqQwRkX4",
+          "pubDate": "2026-05-15T11:01:39+00:00"
+        },
+        {
           "title": "5 منصات لإنشاء عرض تعليمي بالذكاء الاصطناعي.. شاهد وقرر من الأفضل!",
           "link": "https://www.youtube.com/watch?v=PbPkkMejLnM",
           "videoId": "PbPkkMejLnM",
@@ -43,12 +49,6 @@
           "link": "https://www.youtube.com/watch?v=9Vd_Lg7q3E0",
           "videoId": "9Vd_Lg7q3E0",
           "pubDate": "2026-05-11T15:00:14+00:00"
-        },
-        {
-          "title": "جوجل تفعلها من جديد في NotebookLM… وداعًا لفوضى المصادر!",
-          "link": "https://www.youtube.com/watch?v=htXp8zF-MRs",
-          "videoId": "htXp8zF-MRs",
-          "pubDate": "2026-05-09T16:01:09+00:00"
         }
       ],
       "ok": true
@@ -59,7 +59,7 @@
       "feedTitle": "Infotech4you - مروي سليمان",
       "items": [
         {
-          "title": "الصين من جديد تعود مع SenseNova … والنتيجة كانت مفاجأة!",
+          "title": "الصين من جديد تعود مع SenseNova U1 … والنتيجة مفاجأة ينافس العمالقة!",
           "link": "https://www.youtube.com/watch?v=urgpXeTSnYs",
           "videoId": "urgpXeTSnYs",
           "pubDate": "2026-05-14T13:01:37+00:00"
@@ -397,6 +397,12 @@
       "feedTitle": "شخبطة Sha5bata",
       "items": [
         {
+          "title": "عقلية الـ 1% .. 3 خطوات لبناء ثورة من الصفر #شخبطة",
+          "link": "https://www.youtube.com/watch?v=DCFrNBA3Tw8",
+          "videoId": "DCFrNBA3Tw8",
+          "pubDate": "2026-05-15T11:00:19+00:00"
+        },
+        {
           "title": "القوة السحرية للعادات الصغيرة جدا",
           "link": "https://www.youtube.com/watch?v=wqASaGl21uU",
           "videoId": "wqASaGl21uU",
@@ -407,12 +413,6 @@
           "link": "https://www.youtube.com/watch?v=LQpC4Q8BHSk",
           "videoId": "LQpC4Q8BHSk",
           "pubDate": "2026-04-30T09:30:10+00:00"
-        },
-        {
-          "title": "الصلابة النفسية VS الابتلاءات !!",
-          "link": "https://www.youtube.com/watch?v=rIIZajWCHFQ",
-          "videoId": "rIIZajWCHFQ",
-          "pubDate": "2026-04-15T11:25:31+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "مسلسل \"التغريبة الفلسطينية\" مشهد أبكى الملايين وبقي في الذاكرة العربية",
+          "link": "https://www.youtube.com/watch?v=Gh0-zR5g-3w",
+          "videoId": "Gh0-zR5g-3w",
+          "pubDate": "2026-05-15T08:45:01+00:00"
+        },
+        {
           "title": "يافا قبل النكبة.. هكذا كانت الحياة في عروس البحر المتوسط",
           "link": "https://www.youtube.com/watch?v=IYuwhsNCBW0",
           "videoId": "IYuwhsNCBW0",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=ZWEg7q1BfIA",
           "videoId": "ZWEg7q1BfIA",
           "pubDate": "2026-05-15T07:00:01+00:00"
-        },
-        {
-          "title": "ذاكرة فلسطين المرئية التي حاول الاحتلال البريطاني محوها",
-          "link": "https://www.youtube.com/watch?v=yvaHSm9RGxI",
-          "videoId": "yvaHSm9RGxI",
-          "pubDate": "2026-05-14T20:59:01+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "إفريقيا منطقة التضحية العالمية؟",
+          "link": "https://www.youtube.com/watch?v=guBe2yuznjw",
+          "videoId": "guBe2yuznjw",
+          "pubDate": "2026-05-15T09:30:22+00:00"
+        },
         {
           "title": "عمالقة الدفاع .. الطائرات المقاتلة والمسيّرات | الشرق الوثائقية",
           "link": "https://www.youtube.com/watch?v=Tgn5eufpEow",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=h9oK7hurcCQ",
           "videoId": "h9oK7hurcCQ",
           "pubDate": "2026-05-14T19:00:31+00:00"
-        },
-        {
-          "title": "صوت خارق يخترق الغرفة",
-          "link": "https://www.youtube.com/watch?v=TkN3wZjZYZ8",
-          "videoId": "TkN3wZjZYZ8",
-          "pubDate": "2026-05-14T17:00:32+00:00"
         }
       ],
       "ok": true
@@ -553,6 +553,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "هل تُنقذ الطحالب كوكبنا؟",
+          "link": "https://www.youtube.com/watch?v=LskZjq72CY0",
+          "videoId": "LskZjq72CY0",
+          "pubDate": "2026-05-15T10:25:00+00:00"
+        },
+        {
           "title": "وثائقي | أومواموا - الجسم الغامض القادم من نجم آخر | وثائقية دي دبليو",
           "link": "https://www.youtube.com/watch?v=5jh9BNZoVLk",
           "videoId": "5jh9BNZoVLk",
@@ -563,12 +569,6 @@
           "link": "https://www.youtube.com/watch?v=NTwPAZCls0s",
           "videoId": "NTwPAZCls0s",
           "pubDate": "2026-05-12T17:00:33+00:00"
-        },
-        {
-          "title": "وثائقي | العودة إلى الاستبداد - الربيع القصير للديمقراطية في تونس | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=QqFitVZWbyo",
-          "videoId": "QqFitVZWbyo",
-          "pubDate": "2026-05-10T15:00:40+00:00"
         }
       ],
       "ok": true
