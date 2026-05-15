@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-15T11:09:05.415468+00:00",
+  "updated": "2026-05-15T13:21:16.577420+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "اجتمعا على حب الأقصى.. اللقاء الأول بين الشيخين رائد صلاح وكمال الخطيب",
+          "link": "https://www.youtube.com/watch?v=rsyw8mslUCI",
+          "videoId": "rsyw8mslUCI",
+          "pubDate": "2026-05-15T12:00:01+00:00"
+        },
+        {
           "title": "مسلسل \"التغريبة الفلسطينية\" مشهد أبكى الملايين وبقي في الذاكرة العربية",
           "link": "https://www.youtube.com/watch?v=Gh0-zR5g-3w",
           "videoId": "Gh0-zR5g-3w",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=IYuwhsNCBW0",
           "videoId": "IYuwhsNCBW0",
           "pubDate": "2026-05-15T08:03:00+00:00"
-        },
-        {
-          "title": "القدس",
-          "link": "https://www.youtube.com/watch?v=ZWEg7q1BfIA",
-          "videoId": "ZWEg7q1BfIA",
-          "pubDate": "2026-05-15T07:00:01+00:00"
         }
       ],
       "ok": true
@@ -501,22 +501,22 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "زر خطير مخبّأ في ألواح جدار القصر",
+          "link": "https://www.youtube.com/watch?v=G1sboWEgGXI",
+          "videoId": "G1sboWEgGXI",
+          "pubDate": "2026-05-15T13:00:19+00:00"
+        },
+        {
+          "title": "ما هي أرباح التجارة في المخدرات؟",
+          "link": "https://www.youtube.com/watch?v=BIA7q_xxPog",
+          "videoId": "BIA7q_xxPog",
+          "pubDate": "2026-05-15T11:30:20+00:00"
+        },
+        {
           "title": "إفريقيا منطقة التضحية العالمية؟",
           "link": "https://www.youtube.com/watch?v=guBe2yuznjw",
           "videoId": "guBe2yuznjw",
           "pubDate": "2026-05-15T09:30:22+00:00"
-        },
-        {
-          "title": "عمالقة الدفاع .. الطائرات المقاتلة والمسيّرات | الشرق الوثائقية",
-          "link": "https://www.youtube.com/watch?v=Tgn5eufpEow",
-          "videoId": "Tgn5eufpEow",
-          "pubDate": "2026-05-14T20:00:31+00:00"
-        },
-        {
-          "title": "مقابلة خطيرة مع موزع مخدرات سابق",
-          "link": "https://www.youtube.com/watch?v=h9oK7hurcCQ",
-          "videoId": "h9oK7hurcCQ",
-          "pubDate": "2026-05-14T19:00:31+00:00"
         }
       ],
       "ok": true
