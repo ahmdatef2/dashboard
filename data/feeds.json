@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-15T13:21:16.577420+00:00",
+  "updated": "2026-05-15T15:52:56.146361+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -371,6 +371,12 @@
       "feedTitle": "أخضر",
       "items": [
         {
+          "title": "أنقذ جسمك من صدمات الطفولة ❤️‍🩹 - كتاب: عندما يقول الجسد لا  لـ جابور ماتيه  #أخضر",
+          "link": "https://www.youtube.com/watch?v=2c1eO5lmQsc",
+          "videoId": "2c1eO5lmQsc",
+          "pubDate": "2026-05-15T15:00:10+00:00"
+        },
+        {
           "title": "تعلم أسرار الـ AI لتصنع الفارق في مسارك المهني.",
           "link": "https://www.youtube.com/watch?v=y1E0KDWEEXQ",
           "videoId": "y1E0KDWEEXQ",
@@ -381,12 +387,6 @@
           "link": "https://www.youtube.com/watch?v=TSc1u5R-bcQ",
           "videoId": "TSc1u5R-bcQ",
           "pubDate": "2026-05-13T11:39:24+00:00"
-        },
-        {
-          "title": "الذكاء الاصطناعي: صديقك الجديد أم منافسك القادم؟",
-          "link": "https://www.youtube.com/watch?v=4hKWT0Bt-9s",
-          "videoId": "4hKWT0Bt-9s",
-          "pubDate": "2026-05-11T14:01:01+00:00"
         }
       ],
       "ok": true
@@ -397,7 +397,7 @@
       "feedTitle": "شخبطة Sha5bata",
       "items": [
         {
-          "title": "عقلية الـ 1% .. 3 خطوات لبناء ثورة من الصفر #شخبطة",
+          "title": "عقلية الـ 1% .. 3 خطوات لبناء ثروة من الصفر #شخبطة",
           "link": "https://www.youtube.com/watch?v=DCFrNBA3Tw8",
           "videoId": "DCFrNBA3Tw8",
           "pubDate": "2026-05-15T11:00:19+00:00"
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "تاريخ البيت الفلسطيني قبل النكبة الذي لم يوثقه سوى كريمة عبود",
+          "link": "https://www.youtube.com/watch?v=zN_3o4VdJC0",
+          "videoId": "zN_3o4VdJC0",
+          "pubDate": "2026-05-15T15:00:01+00:00"
+        },
+        {
+          "title": "من حيفا إلى القدس بالقطار",
+          "link": "https://www.youtube.com/watch?v=8UAvqbN6Nz0",
+          "videoId": "8UAvqbN6Nz0",
+          "pubDate": "2026-05-15T14:30:01+00:00"
+        },
+        {
           "title": "اجتمعا على حب الأقصى.. اللقاء الأول بين الشيخين رائد صلاح وكمال الخطيب",
           "link": "https://www.youtube.com/watch?v=rsyw8mslUCI",
           "videoId": "rsyw8mslUCI",
           "pubDate": "2026-05-15T12:00:01+00:00"
-        },
-        {
-          "title": "مسلسل \"التغريبة الفلسطينية\" مشهد أبكى الملايين وبقي في الذاكرة العربية",
-          "link": "https://www.youtube.com/watch?v=Gh0-zR5g-3w",
-          "videoId": "Gh0-zR5g-3w",
-          "pubDate": "2026-05-15T08:45:01+00:00"
-        },
-        {
-          "title": "يافا قبل النكبة.. هكذا كانت الحياة في عروس البحر المتوسط",
-          "link": "https://www.youtube.com/watch?v=IYuwhsNCBW0",
-          "videoId": "IYuwhsNCBW0",
-          "pubDate": "2026-05-15T08:03:00+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "بطولة أستراليا المفتوحة للتنس",
+          "link": "https://www.youtube.com/watch?v=yTA0yQ07iYs",
+          "videoId": "yTA0yQ07iYs",
+          "pubDate": "2026-05-15T15:00:41+00:00"
+        },
         {
           "title": "زر خطير مخبّأ في ألواح جدار القصر",
           "link": "https://www.youtube.com/watch?v=G1sboWEgGXI",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=BIA7q_xxPog",
           "videoId": "BIA7q_xxPog",
           "pubDate": "2026-05-15T11:30:20+00:00"
-        },
-        {
-          "title": "إفريقيا منطقة التضحية العالمية؟",
-          "link": "https://www.youtube.com/watch?v=guBe2yuznjw",
-          "videoId": "guBe2yuznjw",
-          "pubDate": "2026-05-15T09:30:22+00:00"
         }
       ],
       "ok": true
