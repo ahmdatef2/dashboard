@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-15T17:17:37.863740+00:00",
+  "updated": "2026-05-15T19:10:40.188367+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "كيف تُمحى حياة إنسان.. بجملة واحدة؟",
+          "link": "https://www.youtube.com/watch?v=KgsIcsKciS4",
+          "videoId": "KgsIcsKciS4",
+          "pubDate": "2026-05-15T19:00:01+00:00"
+        },
+        {
+          "title": "كنت أخبئ السلاح فوق السطح",
+          "link": "https://www.youtube.com/watch?v=eu0EV64N5OY",
+          "videoId": "eu0EV64N5OY",
+          "pubDate": "2026-05-15T17:30:00+00:00"
+        },
+        {
           "title": "من سجن عكا طلعت جنازة",
           "link": "https://www.youtube.com/watch?v=4YMJ8y0A2wk",
           "videoId": "4YMJ8y0A2wk",
           "pubDate": "2026-05-15T16:33:30+00:00"
-        },
-        {
-          "title": "النضال الفلسطيني قبل النكبة",
-          "link": "https://www.youtube.com/watch?v=kADiTEfCEkc",
-          "videoId": "kADiTEfCEkc",
-          "pubDate": "2026-05-15T16:14:45+00:00"
-        },
-        {
-          "title": "تاريخ البيت الفلسطيني قبل النكبة الذي لم يوثقه سوى كريمة عبود",
-          "link": "https://www.youtube.com/watch?v=zN_3o4VdJC0",
-          "videoId": "zN_3o4VdJC0",
-          "pubDate": "2026-05-15T15:00:01+00:00"
         }
       ],
       "ok": true
