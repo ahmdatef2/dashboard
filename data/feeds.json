@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-15T15:52:56.146361+00:00",
+  "updated": "2026-05-15T17:17:37.863740+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -189,6 +189,12 @@
       "feedTitle": "ذكاء اصطناعي عربي",
       "items": [
         {
+          "title": "خطوات تدريب نموذج اللغة من الصفر | AdamW و Weight Decay شرح عملي",
+          "link": "https://www.youtube.com/watch?v=OCw8DRHJFtM",
+          "videoId": "OCw8DRHJFtM",
+          "pubDate": "2026-05-15T17:00:27+00:00"
+        },
+        {
           "title": "كتبنا أول نسخة من ChatGPT 🤖 | Episode 4",
           "link": "https://www.youtube.com/watch?v=BlVdvHnWY0Q",
           "videoId": "BlVdvHnWY0Q",
@@ -199,12 +205,6 @@
           "link": "https://www.youtube.com/watch?v=5CpWxNxkH5k",
           "videoId": "5CpWxNxkH5k",
           "pubDate": "2026-05-08T18:00:06+00:00"
-        },
-        {
-          "title": "بناء ChatGPT من الصفر 🔥 | الحلقة 2: اختيار البيانات وParameters",
-          "link": "https://www.youtube.com/watch?v=3mZm7UW3N48",
-          "videoId": "3mZm7UW3N48",
-          "pubDate": "2026-05-04T17:00:04+00:00"
         }
       ],
       "ok": true
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "من سجن عكا طلعت جنازة",
+          "link": "https://www.youtube.com/watch?v=4YMJ8y0A2wk",
+          "videoId": "4YMJ8y0A2wk",
+          "pubDate": "2026-05-15T16:33:30+00:00"
+        },
+        {
+          "title": "النضال الفلسطيني قبل النكبة",
+          "link": "https://www.youtube.com/watch?v=kADiTEfCEkc",
+          "videoId": "kADiTEfCEkc",
+          "pubDate": "2026-05-15T16:14:45+00:00"
+        },
+        {
           "title": "تاريخ البيت الفلسطيني قبل النكبة الذي لم يوثقه سوى كريمة عبود",
           "link": "https://www.youtube.com/watch?v=zN_3o4VdJC0",
           "videoId": "zN_3o4VdJC0",
           "pubDate": "2026-05-15T15:00:01+00:00"
-        },
-        {
-          "title": "من حيفا إلى القدس بالقطار",
-          "link": "https://www.youtube.com/watch?v=8UAvqbN6Nz0",
-          "videoId": "8UAvqbN6Nz0",
-          "pubDate": "2026-05-15T14:30:01+00:00"
-        },
-        {
-          "title": "اجتمعا على حب الأقصى.. اللقاء الأول بين الشيخين رائد صلاح وكمال الخطيب",
-          "link": "https://www.youtube.com/watch?v=rsyw8mslUCI",
-          "videoId": "rsyw8mslUCI",
-          "pubDate": "2026-05-15T12:00:01+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "الزر النووي كان مخفيًا في الطابق الأرضي لقصر الإليزيه؟",
+          "link": "https://www.youtube.com/watch?v=XDdLlr91L8s",
+          "videoId": "XDdLlr91L8s",
+          "pubDate": "2026-05-15T17:00:26+00:00"
+        },
         {
           "title": "بطولة أستراليا المفتوحة للتنس",
           "link": "https://www.youtube.com/watch?v=yTA0yQ07iYs",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=G1sboWEgGXI",
           "videoId": "G1sboWEgGXI",
           "pubDate": "2026-05-15T13:00:19+00:00"
-        },
-        {
-          "title": "ما هي أرباح التجارة في المخدرات؟",
-          "link": "https://www.youtube.com/watch?v=BIA7q_xxPog",
-          "videoId": "BIA7q_xxPog",
-          "pubDate": "2026-05-15T11:30:20+00:00"
         }
       ],
       "ok": true
@@ -553,6 +553,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "وثائقي | مخدر \"الكوش\" أو \"الزومبي\" : وباء قاتل يجتاح غرب إفريقيا | وثائقية دي دبليو",
+          "link": "https://www.youtube.com/watch?v=eIsfNS3TIlg",
+          "videoId": "eIsfNS3TIlg",
+          "pubDate": "2026-05-15T17:00:50+00:00"
+        },
+        {
           "title": "هل تُنقذ الطحالب كوكبنا؟",
           "link": "https://www.youtube.com/watch?v=LskZjq72CY0",
           "videoId": "LskZjq72CY0",
@@ -563,12 +569,6 @@
           "link": "https://www.youtube.com/watch?v=5jh9BNZoVLk",
           "videoId": "5jh9BNZoVLk",
           "pubDate": "2026-05-13T17:00:11+00:00"
-        },
-        {
-          "title": "ريبورتاج | بعد القصف الإسرائيلي - البحث بين أنقاض بيروت | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=NTwPAZCls0s",
-          "videoId": "NTwPAZCls0s",
-          "pubDate": "2026-05-12T17:00:33+00:00"
         }
       ],
       "ok": true
