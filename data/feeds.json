@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16T17:43:12.602114+00:00",
+  "updated": "2026-05-16T18:43:32.953094+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "عملية تجميل.. الهوس بالكمال الذي صنع إمبراطورية بمليارات الدولارات",
+          "link": "https://www.youtube.com/watch?v=Jf9kkv5Gbuw",
+          "videoId": "Jf9kkv5Gbuw",
+          "pubDate": "2026-05-16T18:00:23+00:00"
+        },
+        {
+          "title": "نابليون الداعم الأول لسرقة فلسطين",
+          "link": "https://www.youtube.com/watch?v=vkaUMs5jcPc",
+          "videoId": "vkaUMs5jcPc",
+          "pubDate": "2026-05-16T18:00:01+00:00"
+        },
+        {
           "title": "قوارب يافا بدل البرتقال حملت أهلها هذه المرة",
           "link": "https://www.youtube.com/watch?v=X9oL4d7YNFE",
           "videoId": "X9oL4d7YNFE",
           "pubDate": "2026-05-16T16:00:01+00:00"
-        },
-        {
-          "title": "ناجٍ من مجزرة صبرا وشاتيلا يروي كيف شهد قتل عائلته",
-          "link": "https://www.youtube.com/watch?v=IWpyAhUDNX8",
-          "videoId": "IWpyAhUDNX8",
-          "pubDate": "2026-05-16T15:00:00+00:00"
-        },
-        {
-          "title": "المناضلة الفلسطينية ليلى خالد: اختطفنا طائرة لنخبر العالم بما نعيشه",
-          "link": "https://www.youtube.com/watch?v=FL_bFCd2UVk",
-          "videoId": "FL_bFCd2UVk",
-          "pubDate": "2026-05-16T13:10:01+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "اللحوم التي نأكلها.. ما حقيقتها؟",
+          "link": "https://www.youtube.com/watch?v=NijMMdiR9bk",
+          "videoId": "NijMMdiR9bk",
+          "pubDate": "2026-05-16T18:30:04+00:00"
+        },
         {
           "title": "جبال البيرينيه",
           "link": "https://www.youtube.com/watch?v=JoAgkjwkExA",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=rsxUMCVyJWA",
           "videoId": "rsxUMCVyJWA",
           "pubDate": "2026-05-16T15:08:44+00:00"
-        },
-        {
-          "title": "هتلر يزدري العائلة الملكية مرارًا وتكرارًا",
-          "link": "https://www.youtube.com/watch?v=-iEXUPBjolw",
-          "videoId": "-iEXUPBjolw",
-          "pubDate": "2026-05-16T12:03:50+00:00"
         }
       ],
       "ok": true
