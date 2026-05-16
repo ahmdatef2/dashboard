@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16T07:44:01.682501+00:00",
+  "updated": "2026-05-16T09:17:16.157046+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "حصار من ثلاث جهات ومخرج واحد.. تهجير أهالي \"البصة\" عام 1948",
+          "link": "https://www.youtube.com/watch?v=dU1oNIPI6DY",
+          "videoId": "dU1oNIPI6DY",
+          "pubDate": "2026-05-16T08:00:01+00:00"
+        },
+        {
           "title": "الشاعر الفلسطيني \"أبو عرب\".. كيف أشعل برنامجه الإذاعي روح المقاومة في صفوف الفدائيين؟",
           "link": "https://www.youtube.com/watch?v=P3pSBhLPzo8",
           "videoId": "P3pSBhLPzo8",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=JdVnS07UMKU",
           "videoId": "JdVnS07UMKU",
           "pubDate": "2026-05-15T20:00:20+00:00"
-        },
-        {
-          "title": "كيف تُمحى حياة إنسان.. بجملة واحدة؟",
-          "link": "https://www.youtube.com/watch?v=KgsIcsKciS4",
-          "videoId": "KgsIcsKciS4",
-          "pubDate": "2026-05-15T19:00:01+00:00"
         }
       ],
       "ok": true
