@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16T16:40:49.136456+00:00",
+  "updated": "2026-05-16T17:43:12.602114+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -553,6 +553,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "وثائقي | سحب كيب تاون الساحرة - شريان الحياة فوق جبل الطاولة | وثائقية دي دبليو",
+          "link": "https://www.youtube.com/watch?v=J-j-r1gYb8s",
+          "videoId": "J-j-r1gYb8s",
+          "pubDate": "2026-05-16T17:00:18+00:00"
+        },
+        {
           "title": "كيف نصل إلى أقصى تركيز؟",
           "link": "https://www.youtube.com/watch?v=9qadNUdVO9I",
           "videoId": "9qadNUdVO9I",
@@ -563,12 +569,6 @@
           "link": "https://www.youtube.com/watch?v=eIsfNS3TIlg",
           "videoId": "eIsfNS3TIlg",
           "pubDate": "2026-05-15T17:00:50+00:00"
-        },
-        {
-          "title": "هل تُنقذ الطحالب كوكبنا؟",
-          "link": "https://www.youtube.com/watch?v=LskZjq72CY0",
-          "videoId": "LskZjq72CY0",
-          "pubDate": "2026-05-15T10:25:00+00:00"
         }
       ],
       "ok": true
