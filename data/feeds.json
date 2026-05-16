@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16T20:35:06.265950+00:00",
+  "updated": "2026-05-16T21:36:47.299616+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "الحنين إلى الوطن عنوان حياة اليهود المغاربة في إسرائيل",
+          "link": "https://www.youtube.com/watch?v=3ADpyZl60T8",
+          "videoId": "3ADpyZl60T8",
+          "pubDate": "2026-05-16T21:00:00+00:00"
+        },
+        {
           "title": "في زمن النكبة العليق الشوكي طعام الفلسطينيين بدل الخبز",
           "link": "https://www.youtube.com/watch?v=5PEltPRtlpM",
           "videoId": "5PEltPRtlpM",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=Jf9kkv5Gbuw",
           "videoId": "Jf9kkv5Gbuw",
           "pubDate": "2026-05-16T18:00:23+00:00"
-        },
-        {
-          "title": "نابليون الداعم الأول لسرقة فلسطين",
-          "link": "https://www.youtube.com/watch?v=vkaUMs5jcPc",
-          "videoId": "vkaUMs5jcPc",
-          "pubDate": "2026-05-16T18:00:01+00:00"
         }
       ],
       "ok": true
