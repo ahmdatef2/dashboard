@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16T18:43:32.953094+00:00",
+  "updated": "2026-05-16T19:53:47.937258+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -215,6 +215,12 @@
       "feedTitle": "Mohamed Ansary",
       "items": [
         {
+          "title": "تحديث جديد ومهم للباحثين في أداة NotebookLM",
+          "link": "https://www.youtube.com/watch?v=pR6ppXZKaH4",
+          "videoId": "pR6ppXZKaH4",
+          "pubDate": "2026-05-16T19:39:18+00:00"
+        },
+        {
           "title": "ترجمة فورية ونطق صحيح في نفس الصفحة مع إضافة TransOver",
           "link": "https://www.youtube.com/watch?v=w1lX8sKy2BE",
           "videoId": "w1lX8sKy2BE",
@@ -225,12 +231,6 @@
           "link": "https://www.youtube.com/watch?v=H6-JL9F2yTU",
           "videoId": "H6-JL9F2yTU",
           "pubDate": "2026-05-14T16:20:59+00:00"
-        },
-        {
-          "title": "كيفية ربط ChatGPT بعملاق البحث العلمي Consensus",
-          "link": "https://www.youtube.com/watch?v=keU9lnh9ftM",
-          "videoId": "keU9lnh9ftM",
-          "pubDate": "2026-05-14T10:56:03+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "في زمن النكبة العليق الشوكي طعام الفلسطينيين بدل الخبز",
+          "link": "https://www.youtube.com/watch?v=5PEltPRtlpM",
+          "videoId": "5PEltPRtlpM",
+          "pubDate": "2026-05-16T19:00:01+00:00"
+        },
+        {
           "title": "عملية تجميل.. الهوس بالكمال الذي صنع إمبراطورية بمليارات الدولارات",
           "link": "https://www.youtube.com/watch?v=Jf9kkv5Gbuw",
           "videoId": "Jf9kkv5Gbuw",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=vkaUMs5jcPc",
           "videoId": "vkaUMs5jcPc",
           "pubDate": "2026-05-16T18:00:01+00:00"
-        },
-        {
-          "title": "قوارب يافا بدل البرتقال حملت أهلها هذه المرة",
-          "link": "https://www.youtube.com/watch?v=X9oL4d7YNFE",
-          "videoId": "X9oL4d7YNFE",
-          "pubDate": "2026-05-16T16:00:01+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "وادي كاتماندو",
+          "link": "https://www.youtube.com/watch?v=cNGdwHSOovc",
+          "videoId": "cNGdwHSOovc",
+          "pubDate": "2026-05-16T19:30:29+00:00"
+        },
         {
           "title": "اللحوم التي نأكلها.. ما حقيقتها؟",
           "link": "https://www.youtube.com/watch?v=NijMMdiR9bk",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=JoAgkjwkExA",
           "videoId": "JoAgkjwkExA",
           "pubDate": "2026-05-16T16:00:51+00:00"
-        },
-        {
-          "title": "محاكمات نورمبرغ",
-          "link": "https://www.youtube.com/watch?v=rsxUMCVyJWA",
-          "videoId": "rsxUMCVyJWA",
-          "pubDate": "2026-05-16T15:08:44+00:00"
         }
       ],
       "ok": true
