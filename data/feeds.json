@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16T11:40:22.159701+00:00",
+  "updated": "2026-05-16T12:50:57.049857+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "الدوافع الأولى لاتفاقية سايكس بيكو واحتلال فلسطين",
+          "link": "https://www.youtube.com/watch?v=wuQnmamU6IM",
+          "videoId": "wuQnmamU6IM",
+          "pubDate": "2026-05-16T12:35:01+00:00"
+        },
+        {
+          "title": "ناجٍ من مجزرة تل الزعتر 1976: شقوا رجلا أمام عيني إلى نصفين",
+          "link": "https://www.youtube.com/watch?v=fsSqezTPYr8",
+          "videoId": "fsSqezTPYr8",
+          "pubDate": "2026-05-16T12:00:01+00:00"
+        },
+        {
           "title": "\"كلما بدأت في الغناء.. أجهشت في البكاء\".",
           "link": "https://www.youtube.com/watch?v=QnAdvOH_F18",
           "videoId": "QnAdvOH_F18",
           "pubDate": "2026-05-16T11:00:01+00:00"
-        },
-        {
-          "title": "حصار من ثلاث جهات ومخرج واحد.. تهجير أهالي \"البصة\" عام 1948",
-          "link": "https://www.youtube.com/watch?v=dU1oNIPI6DY",
-          "videoId": "dU1oNIPI6DY",
-          "pubDate": "2026-05-16T08:00:01+00:00"
-        },
-        {
-          "title": "الشاعر الفلسطيني \"أبو عرب\".. كيف أشعل برنامجه الإذاعي روح المقاومة في صفوف الفدائيين؟",
-          "link": "https://www.youtube.com/watch?v=P3pSBhLPzo8",
-          "videoId": "P3pSBhLPzo8",
-          "pubDate": "2026-05-15T20:59:00+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "هتلر يزدري العائلة الملكية مرارًا وتكرارًا",
+          "link": "https://www.youtube.com/watch?v=-iEXUPBjolw",
+          "videoId": "-iEXUPBjolw",
+          "pubDate": "2026-05-16T12:03:50+00:00"
+        },
         {
           "title": "قبيلة بوتون... عيون زرقاء بلون الكهرباء",
           "link": "https://www.youtube.com/watch?v=C77ftrCQTZM",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=-fC5djxQj8Q",
           "videoId": "-fC5djxQj8Q",
           "pubDate": "2026-05-15T20:00:01+00:00"
-        },
-        {
-          "title": "الزر النووي كان مخفيًا في الطابق الأرضي لقصر الإليزيه؟",
-          "link": "https://www.youtube.com/watch?v=XDdLlr91L8s",
-          "videoId": "XDdLlr91L8s",
-          "pubDate": "2026-05-15T17:00:26+00:00"
         }
       ],
       "ok": true
