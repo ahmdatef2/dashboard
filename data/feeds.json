@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16T14:15:57.689341+00:00",
+  "updated": "2026-05-16T15:44:10.237930+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -59,6 +59,12 @@
       "feedTitle": "Infotech4you - مروي سليمان",
       "items": [
         {
+          "title": "جوجل وتحديثات لاتنتهي ... اداة Mixboard المجانية أصبحت إبداعية!",
+          "link": "https://www.youtube.com/watch?v=ACuV9RSUxsY",
+          "videoId": "ACuV9RSUxsY",
+          "pubDate": "2026-05-16T15:04:01+00:00"
+        },
+        {
           "title": "الصين من جديد تعود مع SenseNova U1 … والنتيجة مفاجأة ينافس العمالقة!",
           "link": "https://www.youtube.com/watch?v=urgpXeTSnYs",
           "videoId": "urgpXeTSnYs",
@@ -69,12 +75,6 @@
           "link": "https://www.youtube.com/watch?v=S8xSB2HdjVc",
           "videoId": "S8xSB2HdjVc",
           "pubDate": "2026-05-13T14:38:58+00:00"
-        },
-        {
-          "title": "جوجل تفاجئ المستخدمين بـ 4 ميزات جديدة في NotebookLM",
-          "link": "https://www.youtube.com/watch?v=qBgZNvCoy6Q",
-          "videoId": "qBgZNvCoy6Q",
-          "pubDate": "2026-05-11T18:16:49+00:00"
         }
       ],
       "ok": true
@@ -267,6 +267,12 @@
       "feedTitle": "أكاديمية ريان | Ryan Academy",
       "items": [
         {
+          "title": "خد API Key مجاني من Baseten ووفر مصاريف Claude وOpenAI في مشاريعك",
+          "link": "https://www.youtube.com/watch?v=UMkfasqONZk",
+          "videoId": "UMkfasqONZk",
+          "pubDate": "2026-05-16T15:02:04+00:00"
+        },
+        {
           "title": "من غير مبرمجين؟ Atoms AI هيبني مشروعك بفريق كامل من الذكاء الاصطناعي 🤯",
           "link": "https://www.youtube.com/watch?v=bs-Has24NIo",
           "videoId": "bs-Has24NIo",
@@ -277,12 +283,6 @@
           "link": "https://www.youtube.com/watch?v=3EOvFItkWDM",
           "videoId": "3EOvFItkWDM",
           "pubDate": "2026-05-12T17:00:04+00:00"
-        },
-        {
-          "title": "عملت برنامج ويندوز بيعمل فيديوهات دينية بالذكاء الاصطناعي… حمله مجانًا 🔥",
-          "link": "https://www.youtube.com/watch?v=cQbbAGlMIGQ",
-          "videoId": "cQbbAGlMIGQ",
-          "pubDate": "2026-05-10T16:01:02+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "ناجٍ من مجزرة صبرا وشاتيلا يروي كيف شهد قتل عائلته",
+          "link": "https://www.youtube.com/watch?v=IWpyAhUDNX8",
+          "videoId": "IWpyAhUDNX8",
+          "pubDate": "2026-05-16T15:00:00+00:00"
+        },
+        {
           "title": "المناضلة الفلسطينية ليلى خالد: اختطفنا طائرة لنخبر العالم بما نعيشه",
           "link": "https://www.youtube.com/watch?v=FL_bFCd2UVk",
           "videoId": "FL_bFCd2UVk",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=wuQnmamU6IM",
           "videoId": "wuQnmamU6IM",
           "pubDate": "2026-05-16T12:35:01+00:00"
-        },
-        {
-          "title": "ناجٍ من مجزرة تل الزعتر 1976: شقوا رجلا أمام عيني إلى نصفين",
-          "link": "https://www.youtube.com/watch?v=fsSqezTPYr8",
-          "videoId": "fsSqezTPYr8",
-          "pubDate": "2026-05-16T12:00:01+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "محاكمات نورمبرغ",
+          "link": "https://www.youtube.com/watch?v=rsxUMCVyJWA",
+          "videoId": "rsxUMCVyJWA",
+          "pubDate": "2026-05-16T15:08:44+00:00"
+        },
         {
           "title": "هتلر يزدري العائلة الملكية مرارًا وتكرارًا",
           "link": "https://www.youtube.com/watch?v=-iEXUPBjolw",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=C77ftrCQTZM",
           "videoId": "C77ftrCQTZM",
           "pubDate": "2026-05-16T10:57:00+00:00"
-        },
-        {
-          "title": "عمالقة الدفاع .. السفن والغواصات | الشرق الوثائقية",
-          "link": "https://www.youtube.com/watch?v=-fC5djxQj8Q",
-          "videoId": "-fC5djxQj8Q",
-          "pubDate": "2026-05-15T20:00:01+00:00"
         }
       ],
       "ok": true
