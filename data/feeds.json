@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16T10:51:53.927789+00:00",
+  "updated": "2026-05-16T11:40:22.159701+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "\"كلما بدأت في الغناء.. أجهشت في البكاء\".",
+          "link": "https://www.youtube.com/watch?v=QnAdvOH_F18",
+          "videoId": "QnAdvOH_F18",
+          "pubDate": "2026-05-16T11:00:01+00:00"
+        },
+        {
           "title": "حصار من ثلاث جهات ومخرج واحد.. تهجير أهالي \"البصة\" عام 1948",
           "link": "https://www.youtube.com/watch?v=dU1oNIPI6DY",
           "videoId": "dU1oNIPI6DY",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=P3pSBhLPzo8",
           "videoId": "P3pSBhLPzo8",
           "pubDate": "2026-05-15T20:59:00+00:00"
-        },
-        {
-          "title": "دوري السلة الإفريقي.. بطولة غيّرت شكل اللعبة | الحلقة الرابعة",
-          "link": "https://www.youtube.com/watch?v=JdVnS07UMKU",
-          "videoId": "JdVnS07UMKU",
-          "pubDate": "2026-05-15T20:00:20+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "قبيلة بوتون... عيون زرقاء بلون الكهرباء",
+          "link": "https://www.youtube.com/watch?v=C77ftrCQTZM",
+          "videoId": "C77ftrCQTZM",
+          "pubDate": "2026-05-16T10:57:00+00:00"
+        },
         {
           "title": "عمالقة الدفاع .. السفن والغواصات | الشرق الوثائقية",
           "link": "https://www.youtube.com/watch?v=-fC5djxQj8Q",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=XDdLlr91L8s",
           "videoId": "XDdLlr91L8s",
           "pubDate": "2026-05-15T17:00:26+00:00"
-        },
-        {
-          "title": "بطولة أستراليا المفتوحة للتنس",
-          "link": "https://www.youtube.com/watch?v=yTA0yQ07iYs",
-          "videoId": "yTA0yQ07iYs",
-          "pubDate": "2026-05-15T15:00:41+00:00"
         }
       ],
       "ok": true
