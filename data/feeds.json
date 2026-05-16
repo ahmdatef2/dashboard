@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16T09:17:16.157046+00:00",
+  "updated": "2026-05-16T10:51:53.927789+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -553,6 +553,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "كيف نصل إلى أقصى تركيز؟",
+          "link": "https://www.youtube.com/watch?v=9qadNUdVO9I",
+          "videoId": "9qadNUdVO9I",
+          "pubDate": "2026-05-16T10:33:12+00:00"
+        },
+        {
           "title": "وثائقي | مخدر \"الكوش\" أو \"الزومبي\" : وباء قاتل يجتاح غرب إفريقيا | وثائقية دي دبليو",
           "link": "https://www.youtube.com/watch?v=eIsfNS3TIlg",
           "videoId": "eIsfNS3TIlg",
@@ -563,12 +569,6 @@
           "link": "https://www.youtube.com/watch?v=LskZjq72CY0",
           "videoId": "LskZjq72CY0",
           "pubDate": "2026-05-15T10:25:00+00:00"
-        },
-        {
-          "title": "وثائقي | أومواموا - الجسم الغامض القادم من نجم آخر | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=5jh9BNZoVLk",
-          "videoId": "5jh9BNZoVLk",
-          "pubDate": "2026-05-13T17:00:11+00:00"
         }
       ],
       "ok": true
