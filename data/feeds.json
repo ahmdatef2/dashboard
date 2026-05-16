@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16T12:50:57.049857+00:00",
+  "updated": "2026-05-16T14:15:57.689341+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -85,6 +85,12 @@
       "feedTitle": "عبداللطيف سعيد Abdellatif Said",
       "items": [
         {
+          "title": "تخيل ذكاء اصطناعي تربيه على إيدك! 🤖 الدليل الشامل لتثبيت Hermes Agent محلياً ومجاناً",
+          "link": "https://www.youtube.com/watch?v=ztWAYmMhCN8",
+          "videoId": "ztWAYmMhCN8",
+          "pubDate": "2026-05-16T14:01:25+00:00"
+        },
+        {
           "title": "وفر فلوسك.. أقوى وأرخص بديل لتصميم الفيديوهات بالذكاء الاصطناعي ( Pollo AI - Unlimited Seedance 2.0)",
           "link": "https://www.youtube.com/watch?v=e8HVwrj_pNg",
           "videoId": "e8HVwrj_pNg",
@@ -95,12 +101,6 @@
           "link": "https://www.youtube.com/watch?v=9w-ukO5OG-Q",
           "videoId": "9w-ukO5OG-Q",
           "pubDate": "2026-05-09T14:52:11+00:00"
-        },
-        {
-          "title": "الكمبيوتر هيشتغل لوحده! تسريبات مشروع Project Jarvis و Gemini الجديد من جوجل 🤖🔥",
-          "link": "https://www.youtube.com/watch?v=eji8ZrgEqwY",
-          "videoId": "eji8ZrgEqwY",
-          "pubDate": "2026-05-07T14:01:06+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "المناضلة الفلسطينية ليلى خالد: اختطفنا طائرة لنخبر العالم بما نعيشه",
+          "link": "https://www.youtube.com/watch?v=FL_bFCd2UVk",
+          "videoId": "FL_bFCd2UVk",
+          "pubDate": "2026-05-16T13:10:01+00:00"
+        },
+        {
           "title": "الدوافع الأولى لاتفاقية سايكس بيكو واحتلال فلسطين",
           "link": "https://www.youtube.com/watch?v=wuQnmamU6IM",
           "videoId": "wuQnmamU6IM",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=fsSqezTPYr8",
           "videoId": "fsSqezTPYr8",
           "pubDate": "2026-05-16T12:00:01+00:00"
-        },
-        {
-          "title": "\"كلما بدأت في الغناء.. أجهشت في البكاء\".",
-          "link": "https://www.youtube.com/watch?v=QnAdvOH_F18",
-          "videoId": "QnAdvOH_F18",
-          "pubDate": "2026-05-16T11:00:01+00:00"
         }
       ],
       "ok": true
