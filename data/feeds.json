@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16T19:53:47.937258+00:00",
+  "updated": "2026-05-16T20:35:06.265950+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -501,6 +501,12 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "عمالقة الدفاع .. المروحيات | الشرق الوثائقية",
+          "link": "https://www.youtube.com/watch?v=Ogeh5WdlcS0",
+          "videoId": "Ogeh5WdlcS0",
+          "pubDate": "2026-05-16T20:00:10+00:00"
+        },
+        {
           "title": "وادي كاتماندو",
           "link": "https://www.youtube.com/watch?v=cNGdwHSOovc",
           "videoId": "cNGdwHSOovc",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=NijMMdiR9bk",
           "videoId": "NijMMdiR9bk",
           "pubDate": "2026-05-16T18:30:04+00:00"
-        },
-        {
-          "title": "جبال البيرينيه",
-          "link": "https://www.youtube.com/watch?v=JoAgkjwkExA",
-          "videoId": "JoAgkjwkExA",
-          "pubDate": "2026-05-16T16:00:51+00:00"
         }
       ],
       "ok": true
