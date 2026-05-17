@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-17T14:17:59.777842+00:00",
+  "updated": "2026-05-17T15:46:18.616418+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -501,6 +501,12 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "هل أوروبا تحتاج #روسيا؟",
+          "link": "https://www.youtube.com/watch?v=JSHZCD9adl8",
+          "videoId": "JSHZCD9adl8",
+          "pubDate": "2026-05-17T15:00:34+00:00"
+        },
+        {
           "title": "شكوى مستخدمي \"روبلوكس\"",
           "link": "https://www.youtube.com/watch?v=D2BYyZlzQhc",
           "videoId": "D2BYyZlzQhc",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=Ogeh5WdlcS0",
           "videoId": "Ogeh5WdlcS0",
           "pubDate": "2026-05-16T20:00:10+00:00"
-        },
-        {
-          "title": "وادي كاتماندو",
-          "link": "https://www.youtube.com/watch?v=cNGdwHSOovc",
-          "videoId": "cNGdwHSOovc",
-          "pubDate": "2026-05-16T19:30:29+00:00"
         }
       ],
       "ok": true
@@ -527,22 +527,22 @@
       "feedTitle": "Nat Geo Abu Dhabi",
       "items": [
         {
-          "title": "الحلقة الكاملة | تلسكوب فضائي فائق الدقة | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=cuKHfoJt7fA",
-          "videoId": "cuKHfoJt7fA",
-          "pubDate": "2026-05-15T19:56:35+00:00"
+          "title": "ابتداءً 4 مايو | داخل قسم المفقودات في المطار | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=5MVlcUtZmnk",
+          "videoId": "5MVlcUtZmnk",
+          "pubDate": "2026-05-17T14:49:46+00:00"
         },
         {
-          "title": "الحلقة الكاملة | أسماك القرش في مثلث برمودا | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=uNFyeN3b3EQ",
-          "videoId": "uNFyeN3b3EQ",
-          "pubDate": "2026-05-13T19:50:51+00:00"
+          "title": "ابتداءً 4 مايو | داخل قسم المفقودات في المطار | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=MJF5hoQwqQ0",
+          "videoId": "MJF5hoQwqQ0",
+          "pubDate": "2026-05-17T14:49:28+00:00"
         },
         {
-          "title": "الحلقة الثالثة | مطار دبي الدولي | ناشونال جيوغرافيك أبوظبي",
-          "link": "https://www.youtube.com/watch?v=UDk8ccrr5Ok",
-          "videoId": "UDk8ccrr5Ok",
-          "pubDate": "2026-05-12T19:27:39+00:00"
+          "title": "ابتداءً 4 مايو | ليالي أفريقية | ناشونال جيوغرافيك أبوظبي",
+          "link": "https://www.youtube.com/watch?v=Wv0aUw21gms",
+          "videoId": "Wv0aUw21gms",
+          "pubDate": "2026-05-17T14:38:53+00:00"
         }
       ],
       "ok": true
