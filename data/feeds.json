@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-17T16:41:35.383041+00:00",
+  "updated": "2026-05-17T17:44:50.271637+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -267,6 +267,12 @@
       "feedTitle": "أكاديمية ريان | Ryan Academy",
       "items": [
         {
+          "title": "تشغيل Claude Code مجاناً على VPS بـ API مجاني خطوة بخطوة 🔥",
+          "link": "https://www.youtube.com/watch?v=45ZdhX8LExQ",
+          "videoId": "45ZdhX8LExQ",
+          "pubDate": "2026-05-17T17:00:07+00:00"
+        },
+        {
           "title": "خد API Key مجاني من Baseten ووفر مصاريف Claude وOpenAI في مشاريعك",
           "link": "https://www.youtube.com/watch?v=UMkfasqONZk",
           "videoId": "UMkfasqONZk",
@@ -277,12 +283,6 @@
           "link": "https://www.youtube.com/watch?v=bs-Has24NIo",
           "videoId": "bs-Has24NIo",
           "pubDate": "2026-05-14T17:00:52+00:00"
-        },
-        {
-          "title": "وفّر فلوس Claude Code و OpenAI API… خد Baseten API وجرب موديلات AI مجانًا 🔥",
-          "link": "https://www.youtube.com/watch?v=3EOvFItkWDM",
-          "videoId": "3EOvFItkWDM",
-          "pubDate": "2026-05-12T17:00:04+00:00"
         }
       ],
       "ok": true
@@ -501,6 +501,12 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "اشتبك الألمان مع وحدات التحالف المدرعة قرب حدود تونس",
+          "link": "https://www.youtube.com/watch?v=gW5Nz5rNOt8",
+          "videoId": "gW5Nz5rNOt8",
+          "pubDate": "2026-05-17T17:00:50+00:00"
+        },
+        {
           "title": "هل أوروبا تحتاج #روسيا؟",
           "link": "https://www.youtube.com/watch?v=JSHZCD9adl8",
           "videoId": "JSHZCD9adl8",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=D2BYyZlzQhc",
           "videoId": "D2BYyZlzQhc",
           "pubDate": "2026-05-17T13:56:44+00:00"
-        },
-        {
-          "title": "عمالقة الدفاع .. المروحيات | الشرق الوثائقية",
-          "link": "https://www.youtube.com/watch?v=Ogeh5WdlcS0",
-          "videoId": "Ogeh5WdlcS0",
-          "pubDate": "2026-05-16T20:00:10+00:00"
         }
       ],
       "ok": true
@@ -553,6 +553,12 @@
       "feedTitle": "DW Documentary وثائقية دي دبليو",
       "items": [
         {
+          "title": "وثائقي | كيرونا في شمال السويد: كيف اضطرت مدينة كاملة للرحيل؟ | وثائقية دي دبليو",
+          "link": "https://www.youtube.com/watch?v=U90l3qredGI",
+          "videoId": "U90l3qredGI",
+          "pubDate": "2026-05-17T17:00:28+00:00"
+        },
+        {
           "title": "وثائقي | سحب كيب تاون الساحرة - شريان الحياة فوق جبل الطاولة | وثائقية دي دبليو",
           "link": "https://www.youtube.com/watch?v=J-j-r1gYb8s",
           "videoId": "J-j-r1gYb8s",
@@ -563,12 +569,6 @@
           "link": "https://www.youtube.com/watch?v=9qadNUdVO9I",
           "videoId": "9qadNUdVO9I",
           "pubDate": "2026-05-16T10:33:12+00:00"
-        },
-        {
-          "title": "وثائقي | مخدر \"الكوش\" أو \"الزومبي\" : وباء قاتل يجتاح غرب إفريقيا | وثائقية دي دبليو",
-          "link": "https://www.youtube.com/watch?v=eIsfNS3TIlg",
-          "videoId": "eIsfNS3TIlg",
-          "pubDate": "2026-05-15T17:00:50+00:00"
         }
       ],
       "ok": true
