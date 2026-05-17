@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-17T20:40:44.439714+00:00",
+  "updated": "2026-05-17T21:41:37.542388+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "مشهد نادر: أنثى دب مع صغارها في إسبانيا",
+          "link": "https://www.youtube.com/watch?v=3tf-CbWPzEc",
+          "videoId": "3tf-CbWPzEc",
+          "pubDate": "2026-05-17T21:00:00+00:00"
+        },
+        {
           "title": "عزلة غيّرت مفهوم السعادة",
           "link": "https://www.youtube.com/watch?v=5IYxvqsv1Qo",
           "videoId": "5IYxvqsv1Qo",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=3lPYMjT2gqg",
           "videoId": "3lPYMjT2gqg",
           "pubDate": "2026-05-17T18:45:00+00:00"
-        },
-        {
-          "title": "قصة أغنية \"فوق النخل\"",
-          "link": "https://www.youtube.com/watch?v=5NskV4lmaIc",
-          "videoId": "5NskV4lmaIc",
-          "pubDate": "2026-05-17T18:00:01+00:00"
         }
       ],
       "ok": true
