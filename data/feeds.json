@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-17T12:47:06.297082+00:00",
+  "updated": "2026-05-17T14:17:59.777842+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -85,6 +85,12 @@
       "feedTitle": "عبداللطيف سعيد Abdellatif Said",
       "items": [
         {
+          "title": "أداة جوجل السرية للويندوز: كنز مخفي هيوفر عليك ساعات من وقتك!",
+          "link": "https://www.youtube.com/watch?v=1IGIQrDvf0Q",
+          "videoId": "1IGIQrDvf0Q",
+          "pubDate": "2026-05-17T14:00:02+00:00"
+        },
+        {
           "title": "تخيل ذكاء اصطناعي تربيه على إيدك! 🤖 الدليل الشامل لتثبيت Hermes Agent محلياً ومجاناً",
           "link": "https://www.youtube.com/watch?v=ztWAYmMhCN8",
           "videoId": "ztWAYmMhCN8",
@@ -95,12 +101,6 @@
           "link": "https://www.youtube.com/watch?v=e8HVwrj_pNg",
           "videoId": "e8HVwrj_pNg",
           "pubDate": "2026-05-13T13:45:09+00:00"
-        },
-        {
-          "title": "وداعاً Claude Code 👋 الوحش الجديد للمبرمجين DeepSeek TUI (أرخص 20 مرة!)",
-          "link": "https://www.youtube.com/watch?v=9w-ukO5OG-Q",
-          "videoId": "9w-ukO5OG-Q",
-          "pubDate": "2026-05-09T14:52:11+00:00"
         }
       ],
       "ok": true
@@ -110,6 +110,12 @@
       "name": "عمرو سالم",
       "feedTitle": "AMR SALEM _ عمرو سالم",
       "items": [
+        {
+          "title": "Mavis اداة سحرية علي جهازك . افضل من Claude و Codex",
+          "link": "https://www.youtube.com/watch?v=Pk1bAge5qvU",
+          "videoId": "Pk1bAge5qvU",
+          "pubDate": "2026-05-17T12:51:12+00:00"
+        },
         {
           "title": "استخدم claude علي antigravity مجانا بلا حدود",
           "link": "https://www.youtube.com/watch?v=8bYsmoXGlEE",
@@ -121,12 +127,6 @@
           "link": "https://www.youtube.com/watch?v=fXDQbHsUDC4",
           "videoId": "fXDQbHsUDC4",
           "pubDate": "2026-05-11T14:17:51+00:00"
-        },
-        {
-          "title": "MaxClaw = موظف AI بيشتغل 24 ساعة! . وانت مرتاح",
-          "link": "https://www.youtube.com/watch?v=VtiYOmCcv2U",
-          "videoId": "VtiYOmCcv2U",
-          "pubDate": "2026-05-09T10:44:57+00:00"
         }
       ],
       "ok": true
@@ -319,6 +319,12 @@
       "feedTitle": "خير جليس",
       "items": [
         {
+          "title": "توقّف عن مطاردة الكفاءة المثالية - من  كتاب أربعة آلاف أسبوع",
+          "link": "https://www.youtube.com/watch?v=vbQNZeJh20I",
+          "videoId": "vbQNZeJh20I",
+          "pubDate": "2026-05-17T13:01:24+00:00"
+        },
+        {
           "title": "قول لا يخلق مساحة لما يهم - من  كتاب أربعة آلاف أسبوع",
           "link": "https://www.youtube.com/watch?v=IS6aDAJBBH0",
           "videoId": "IS6aDAJBBH0",
@@ -329,12 +335,6 @@
           "link": "https://www.youtube.com/watch?v=QmWsKPVKIMw",
           "videoId": "QmWsKPVKIMw",
           "pubDate": "2026-05-16T06:00:18+00:00"
-        },
-        {
-          "title": "عدم اليقين جزء من الحياة - من  كتاب أربعة آلاف أسبوع",
-          "link": "https://www.youtube.com/watch?v=t7Cvo2WQ100",
-          "videoId": "t7Cvo2WQ100",
-          "pubDate": "2026-05-15T06:00:42+00:00"
         }
       ],
       "ok": true
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "تعرفوا على \"نساء كناوة\" في المغرب",
+          "link": "https://www.youtube.com/watch?v=7mmPMtk8hoA",
+          "videoId": "7mmPMtk8hoA",
+          "pubDate": "2026-05-17T14:00:01+00:00"
+        },
+        {
+          "title": "الهدية العمانية \"المرفوضة\"",
+          "link": "https://www.youtube.com/watch?v=LM06wjgKofM",
+          "videoId": "LM06wjgKofM",
+          "pubDate": "2026-05-17T13:00:01+00:00"
+        },
+        {
           "title": "طين من الأردن استخدمته كليوباترا ويصدر إلى أنحاء العالم",
           "link": "https://www.youtube.com/watch?v=CeGXIfx9Il0",
           "videoId": "CeGXIfx9Il0",
           "pubDate": "2026-05-17T11:15:01+00:00"
-        },
-        {
-          "title": "كيف أصبحت زاوية الشيخ ماء العينين مركزا للصحراء؟",
-          "link": "https://www.youtube.com/watch?v=l9sQryorrME",
-          "videoId": "l9sQryorrME",
-          "pubDate": "2026-05-17T10:00:01+00:00"
-        },
-        {
-          "title": "العرب الذين أدهشوا نيويورك",
-          "link": "https://www.youtube.com/watch?v=FMxnlvTZiow",
-          "videoId": "FMxnlvTZiow",
-          "pubDate": "2026-05-17T08:00:01+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "شكوى مستخدمي \"روبلوكس\"",
+          "link": "https://www.youtube.com/watch?v=D2BYyZlzQhc",
+          "videoId": "D2BYyZlzQhc",
+          "pubDate": "2026-05-17T13:56:44+00:00"
+        },
         {
           "title": "عمالقة الدفاع .. المروحيات | الشرق الوثائقية",
           "link": "https://www.youtube.com/watch?v=Ogeh5WdlcS0",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=cNGdwHSOovc",
           "videoId": "cNGdwHSOovc",
           "pubDate": "2026-05-16T19:30:29+00:00"
-        },
-        {
-          "title": "اللحوم التي نأكلها.. ما حقيقتها؟",
-          "link": "https://www.youtube.com/watch?v=NijMMdiR9bk",
-          "videoId": "NijMMdiR9bk",
-          "pubDate": "2026-05-16T18:30:04+00:00"
         }
       ],
       "ok": true
