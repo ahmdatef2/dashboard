@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-17T17:44:50.271637+00:00",
+  "updated": "2026-05-17T18:47:38.630065+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "صوفيا وسوزين | شقيقتان تواجهان جراح الطائفية",
+          "link": "https://www.youtube.com/watch?v=3lPYMjT2gqg",
+          "videoId": "3lPYMjT2gqg",
+          "pubDate": "2026-05-17T18:45:00+00:00"
+        },
+        {
+          "title": "قصة أغنية \"فوق النخل\"",
+          "link": "https://www.youtube.com/watch?v=5NskV4lmaIc",
+          "videoId": "5NskV4lmaIc",
+          "pubDate": "2026-05-17T18:00:01+00:00"
+        },
+        {
           "title": "لا أحد ينجو من موسم الذباب حتى اليغور وتمساح الكيمن",
           "link": "https://www.youtube.com/watch?v=mvbsW89X5hc",
           "videoId": "mvbsW89X5hc",
           "pubDate": "2026-05-17T16:00:01+00:00"
-        },
-        {
-          "title": "تعرفوا على \"نساء كناوة\" في المغرب",
-          "link": "https://www.youtube.com/watch?v=7mmPMtk8hoA",
-          "videoId": "7mmPMtk8hoA",
-          "pubDate": "2026-05-17T14:00:01+00:00"
-        },
-        {
-          "title": "الهدية العمانية \"المرفوضة\"",
-          "link": "https://www.youtube.com/watch?v=LM06wjgKofM",
-          "videoId": "LM06wjgKofM",
-          "pubDate": "2026-05-17T13:00:01+00:00"
         }
       ],
       "ok": true
