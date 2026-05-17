@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-17T08:04:23.645073+00:00",
+  "updated": "2026-05-17T10:14:52.679852+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,22 +475,22 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "كيف أصبحت زاوية الشيخ ماء العينين مركزا للصحراء؟",
+          "link": "https://www.youtube.com/watch?v=l9sQryorrME",
+          "videoId": "l9sQryorrME",
+          "pubDate": "2026-05-17T10:00:01+00:00"
+        },
+        {
+          "title": "العرب الذين أدهشوا نيويورك",
+          "link": "https://www.youtube.com/watch?v=FMxnlvTZiow",
+          "videoId": "FMxnlvTZiow",
+          "pubDate": "2026-05-17T08:00:01+00:00"
+        },
+        {
           "title": "مسجد أحمد بن طولون- القاهرة",
           "link": "https://www.youtube.com/watch?v=E5CYRGYz2Hg",
           "videoId": "E5CYRGYz2Hg",
           "pubDate": "2026-05-17T07:01:49+00:00"
-        },
-        {
-          "title": "الحنين إلى الوطن عنوان حياة اليهود المغاربة في إسرائيل",
-          "link": "https://www.youtube.com/watch?v=3ADpyZl60T8",
-          "videoId": "3ADpyZl60T8",
-          "pubDate": "2026-05-16T21:00:00+00:00"
-        },
-        {
-          "title": "في زمن النكبة العليق الشوكي طعام الفلسطينيين بدل الخبز",
-          "link": "https://www.youtube.com/watch?v=5PEltPRtlpM",
-          "videoId": "5PEltPRtlpM",
-          "pubDate": "2026-05-16T19:00:01+00:00"
         }
       ],
       "ok": true
