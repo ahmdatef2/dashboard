@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-17T18:47:38.630065+00:00",
+  "updated": "2026-05-17T19:57:13.407768+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -501,6 +501,12 @@
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
         {
+          "title": "يملكون فقط نصف كمية الهواء ليتنفسوها…",
+          "link": "https://www.youtube.com/watch?v=dDaNchV_lqg",
+          "videoId": "dDaNchV_lqg",
+          "pubDate": "2026-05-17T19:00:38+00:00"
+        },
+        {
           "title": "اشتبك الألمان مع وحدات التحالف المدرعة قرب حدود تونس",
           "link": "https://www.youtube.com/watch?v=gW5Nz5rNOt8",
           "videoId": "gW5Nz5rNOt8",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=JSHZCD9adl8",
           "videoId": "JSHZCD9adl8",
           "pubDate": "2026-05-17T15:00:34+00:00"
-        },
-        {
-          "title": "شكوى مستخدمي \"روبلوكس\"",
-          "link": "https://www.youtube.com/watch?v=D2BYyZlzQhc",
-          "videoId": "D2BYyZlzQhc",
-          "pubDate": "2026-05-17T13:56:44+00:00"
         }
       ],
       "ok": true
