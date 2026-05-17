@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-17T15:46:18.616418+00:00",
+  "updated": "2026-05-17T16:41:35.383041+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -163,6 +163,12 @@
       "feedTitle": "Elzero Web School",
       "items": [
         {
+          "title": "اكسب فلوس من خبرتك وفيد الناس",
+          "link": "https://www.youtube.com/watch?v=03ZmSxPKgzc",
+          "videoId": "03ZmSxPKgzc",
+          "pubDate": "2026-05-17T16:40:43+00:00"
+        },
+        {
           "title": "عشر حاجات لو سمعتهم وانت بتتفق مع المبرمج على شغل اهرب فورا",
           "link": "https://www.youtube.com/watch?v=2a48Uu0kH8E",
           "videoId": "2a48Uu0kH8E",
@@ -173,12 +179,6 @@
           "link": "https://www.youtube.com/watch?v=rULLqZhsn5w",
           "videoId": "rULLqZhsn5w",
           "pubDate": "2026-05-02T17:49:37+00:00"
-        },
-        {
-          "title": "حاجات لو رجع بيا الزمن هغيرها",
-          "link": "https://www.youtube.com/watch?v=jD9VdUmdVVc",
-          "videoId": "jD9VdUmdVVc",
-          "pubDate": "2026-04-18T13:46:09+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "لا أحد ينجو من موسم الذباب حتى اليغور وتمساح الكيمن",
+          "link": "https://www.youtube.com/watch?v=mvbsW89X5hc",
+          "videoId": "mvbsW89X5hc",
+          "pubDate": "2026-05-17T16:00:01+00:00"
+        },
+        {
           "title": "تعرفوا على \"نساء كناوة\" في المغرب",
           "link": "https://www.youtube.com/watch?v=7mmPMtk8hoA",
           "videoId": "7mmPMtk8hoA",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=LM06wjgKofM",
           "videoId": "LM06wjgKofM",
           "pubDate": "2026-05-17T13:00:01+00:00"
-        },
-        {
-          "title": "طين من الأردن استخدمته كليوباترا ويصدر إلى أنحاء العالم",
-          "link": "https://www.youtube.com/watch?v=CeGXIfx9Il0",
-          "videoId": "CeGXIfx9Il0",
-          "pubDate": "2026-05-17T11:15:01+00:00"
         }
       ],
       "ok": true
