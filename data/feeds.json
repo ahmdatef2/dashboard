@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-17T19:57:13.407768+00:00",
+  "updated": "2026-05-17T20:40:44.439714+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "عزلة غيّرت مفهوم السعادة",
+          "link": "https://www.youtube.com/watch?v=5IYxvqsv1Qo",
+          "videoId": "5IYxvqsv1Qo",
+          "pubDate": "2026-05-17T20:15:01+00:00"
+        },
+        {
           "title": "صوفيا وسوزين | شقيقتان تواجهان جراح الطائفية",
           "link": "https://www.youtube.com/watch?v=3lPYMjT2gqg",
           "videoId": "3lPYMjT2gqg",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=5NskV4lmaIc",
           "videoId": "5NskV4lmaIc",
           "pubDate": "2026-05-17T18:00:01+00:00"
-        },
-        {
-          "title": "لا أحد ينجو من موسم الذباب حتى اليغور وتمساح الكيمن",
-          "link": "https://www.youtube.com/watch?v=mvbsW89X5hc",
-          "videoId": "mvbsW89X5hc",
-          "pubDate": "2026-05-17T16:00:01+00:00"
         }
       ],
       "ok": true
@@ -500,6 +500,12 @@
       "name": "الشرق الوثائقية",
       "feedTitle": "Asharq Documentary الشرق الوثائقية",
       "items": [
+        {
+          "title": "عمالقة الدفاع .. الدعم اللوجيستي | الشرق الوثائقية",
+          "link": "https://www.youtube.com/watch?v=NSQ69P9FqYQ",
+          "videoId": "NSQ69P9FqYQ",
+          "pubDate": "2026-05-17T20:00:21+00:00"
+        },
         {
           "title": "يملكون فقط نصف كمية الهواء ليتنفسوها…",
           "link": "https://www.youtube.com/watch?v=dDaNchV_lqg",
@@ -511,12 +517,6 @@
           "link": "https://www.youtube.com/watch?v=gW5Nz5rNOt8",
           "videoId": "gW5Nz5rNOt8",
           "pubDate": "2026-05-17T17:00:50+00:00"
-        },
-        {
-          "title": "هل أوروبا تحتاج #روسيا؟",
-          "link": "https://www.youtube.com/watch?v=JSHZCD9adl8",
-          "videoId": "JSHZCD9adl8",
-          "pubDate": "2026-05-17T15:00:34+00:00"
         }
       ],
       "ok": true
