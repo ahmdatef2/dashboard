@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-17T10:14:52.679852+00:00",
+  "updated": "2026-05-17T11:50:36.471226+00:00",
   "channels": {
     "UCMvdDpKRU_-ZmSz9F1lKOVA": {
       "handle": "dr_hebaahmed",
@@ -33,6 +33,12 @@
       "feedTitle": "كل يوم موقع جديد",
       "items": [
         {
+          "title": "Canva AI 2.0 اخيرا وصل: أقوى تحديث لصناع المحتوى؟",
+          "link": "https://www.youtube.com/watch?v=D14UvR9L3jQ",
+          "videoId": "D14UvR9L3jQ",
+          "pubDate": "2026-05-17T11:30:14+00:00"
+        },
+        {
           "title": "تحديث جديد في NotebookLM وطريقة غير تقليدية لعمل خريطة ذهنية",
           "link": "https://www.youtube.com/watch?v=yyOTqQwRkX4",
           "videoId": "yyOTqQwRkX4",
@@ -43,12 +49,6 @@
           "link": "https://www.youtube.com/watch?v=PbPkkMejLnM",
           "videoId": "PbPkkMejLnM",
           "pubDate": "2026-05-13T16:00:39+00:00"
-        },
-        {
-          "title": "جوجل تتفوق على نفسها وتحديث أكثر من رائع ... مش بس شات ده بيصنع الملفات!",
-          "link": "https://www.youtube.com/watch?v=9Vd_Lg7q3E0",
-          "videoId": "9Vd_Lg7q3E0",
-          "pubDate": "2026-05-11T15:00:14+00:00"
         }
       ],
       "ok": true
@@ -475,6 +475,12 @@
       "feedTitle": "Al Jazeera Documentary الجزيرة الوثائقية",
       "items": [
         {
+          "title": "طين من الأردن استخدمته كليوباترا ويصدر إلى أنحاء العالم",
+          "link": "https://www.youtube.com/watch?v=CeGXIfx9Il0",
+          "videoId": "CeGXIfx9Il0",
+          "pubDate": "2026-05-17T11:15:01+00:00"
+        },
+        {
           "title": "كيف أصبحت زاوية الشيخ ماء العينين مركزا للصحراء؟",
           "link": "https://www.youtube.com/watch?v=l9sQryorrME",
           "videoId": "l9sQryorrME",
@@ -485,12 +491,6 @@
           "link": "https://www.youtube.com/watch?v=FMxnlvTZiow",
           "videoId": "FMxnlvTZiow",
           "pubDate": "2026-05-17T08:00:01+00:00"
-        },
-        {
-          "title": "مسجد أحمد بن طولون- القاهرة",
-          "link": "https://www.youtube.com/watch?v=E5CYRGYz2Hg",
-          "videoId": "E5CYRGYz2Hg",
-          "pubDate": "2026-05-17T07:01:49+00:00"
         }
       ],
       "ok": true
